@@ -1,6 +1,7 @@
 	[	
 		{	
 			"LIST_VIDEO_NAME": "Learn to Count the Little Ducks",
+			fsfsfsfsfff
 			"LIST_VIDEO_SIZE": "20",
 			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDIsK43v8lq7XK5FzTM1dGKB1D9TQ7rtXkrWhnjcCCFtCWzep4Pw",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh"			
@@ -18,7 +19,7 @@
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLJzoU2QZVsG-N0_StUrY3H6"
 		},
 		{	
-			"LIST_VIDEO_NAME": "Little Mermaid’s Jewel Box and more",
+			"LIST_VIDEO_NAME": "Little Mermaidâ€™s Jewel Box and more",
 			"LIST_VIDEO_SIZE": "18",
 			"LIST_VIDEO_ICON": "https://is4-ssl.mzstatic.com/image/thumb/Purple49/v4/74/3c/60/743c608d-1dcc-a9a8-a00e-4ed52de28914/source/256x256bb.jpg",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLIlIXirfcgWpQWvLkQKmx5o"
