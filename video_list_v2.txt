@@ -1,7 +1,6 @@
 	[	
 		{	
 			"LIST_VIDEO_NAME": "Learn to Count the Little Ducks",
-			fsfsfsfsfff
 			"LIST_VIDEO_SIZE": "20",
 			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDIsK43v8lq7XK5FzTM1dGKB1D9TQ7rtXkrWhnjcCCFtCWzep4Pw",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh"			
