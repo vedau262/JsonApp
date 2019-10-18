@@ -1,0 +1,765 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/RyrDxPUoqXGzR38kvBNXbi1IjmI\"",
+ "pageInfo": {
+  "totalResults": 17,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/tlG09suB4cHGh1GDNx_05xsGajA\"",
+   "id": "UExiXzFSUnhJWlRMSTB0Q2xOXzBrVXQyTEdlaEEwVVJ3eS41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2019-10-05T12:42:57.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Shapes Song 2",
+    "description": "A shapes song for children.\nIf this video corrupts, please try the link below.\nhttp://www.youtube.com/watch?v=Q1xvpti6h0A\n\nThis song was written and performed by A.J. Jenkins. Video by KidsTV123.\nCopyright 2011 A.J. Jenkins/KidsTV123: All rights reserved\nThis is an ORIGINAL song written in 2011 - any copying is illegal.\nFor MP3s, worksheets and much more:\nhttp://www.KidsTV123.com\n\nkids songs song for children\n\nChords for this song:\n\nG Am C D",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WTeqUejf3D0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WTeqUejf3D0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WTeqUejf3D0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/WTeqUejf3D0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/WTeqUejf3D0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLI0tClN_0kUt2LGehA0URwy",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "WTeqUejf3D0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/h9ZLrtrREXXBYFcauW0swac334I\"",
+   "id": "UExiXzFSUnhJWlRMSTB0Q2xOXzBrVXQyTEdlaEEwVVJ3eS4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2019-10-05T12:43:08.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "The Shapes Song",
+    "description": "It's a shapes song.\nThis song was written and performed by A.J. Jenkins. Video by KidsTV123.\nCopyright 2011 A.J.Jenkins/KidsTV123: All rights reserved\nThis is an ORIGINAL song written in 2011 - any copying is illegal.\nFor MP3s, worksheets and much more:\nhttp://www.KidsTV123.com\n\nkids songs song for children\n\nChords for this song\nDGDDAD\n\nGDGDAD\n\nI'm a square. I have 4 sides. I'm a square. I have 4 sides.\nWe are squares. We have 4 sides. 1 2 3 4. We are squares.\n\nI'm a circle. I go round and round. I'm a circle. I go round and round. \nWe are circles. We go round and round. Round and round, we are circles.\n\nI'm a triangle. I have 3 sides. I'm a triangle. I have 3 sides. \nWe are triangles. We have 3 sides. 1 2 3 - we are triangles.\n\nWe are shapes. You see us everywhere. We are shapes. You see us everywhere. \nWe are shapes. You see us everywhere. \n\nJust look around, we are everywhere.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pfRuLS-Vnjs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pfRuLS-Vnjs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pfRuLS-Vnjs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLI0tClN_0kUt2LGehA0URwy",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pfRuLS-Vnjs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Y0Pzh5WBD2SB87Kud13BPrHU_LY\"",
+   "id": "UExiXzFSUnhJWlRMSTB0Q2xOXzBrVXQyTEdlaEEwVVJ3eS4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2019-10-05T12:43:16.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Shapes Song - 31 Kids Songs and Videos - CoCoMelon Nursery Rhymes & Kids Songs",
+    "description": "With classical and original tunes, this video is a real treat! Babies,  toddlers, preschoolers, and kindergartners can learn their shapes in a fun and interactive way. Come sing and dance with us as we explore  each shape!\n\nSubscribe for new videos every week: https://www.youtube.com/c/cocomelon?sub_confirmation=1\n\nAbout Cocomelon:\n\nWhere kids can be happy and smart!\n\nAt Cocomelon, our goal is to help make learning a fun and enjoyable experience for kids by creating beautiful 3D animation, educational lyrics, and toe-tapping music. \n\nKids will laugh, dance, sing, and play along with our videos, learning letters, numbers, animal sounds, colors, and much, much more while simply enjoying our friendly characters and fun stories.\n\nWe also make life easier for parents who want to keep their kids happily entertained, giving you the peace of mind that your children are receiving quality educational content.  Our videos also give you an opportunity to teach and play with your children as you both watch!\n\nWEBSITE: http://www.Cocomelon.com\nFACEBOOK: https://www.facebook.com/Cocomelonkids\nINSTAGRAM: https://www.instagram.com/cocomelon_official/\nTWITTER: https://www.twitter.com/Cocomelonkids\n\n\nCopyright © Treasure Studio, Inc. All rights reserved.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mAE79M9lCbg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mAE79M9lCbg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mAE79M9lCbg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mAE79M9lCbg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/mAE79M9lCbg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLI0tClN_0kUt2LGehA0URwy",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mAE79M9lCbg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/R1kFIKvTr-8AOMu6F98N1K9JMhs\"",
+   "id": "UExiXzFSUnhJWlRMSTB0Q2xOXzBrVXQyTEdlaEEwVVJ3eS41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2019-10-05T12:43:24.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "What Shape Is It? Collection - Shapes Song - The Kids' Picture Show (Fun & Educational)",
+    "description": "To celebrate our 100th video, we've put together this long-format collection of all our popular shapes videos. Includes all three \"What Shape Is It?\" videos plus the Shapes Song!\n\nSing Along!\n\nThe Shapes Song\n\nShapes, so many shapes, so many shapes.\nI see so many shapes, so many shapes.\n\nI see a circle, it’s perfectly round.\nI see a circle, it’s perfectly round.\n\nI see a semicircle, it’s a half a circle.\nI see a semicircle, it’s a half a circle.\n\nI see an oval and it looks like an egg.\nI see an oval and it looks like an egg.\n\nI see an ellipse, it looks like a squashed circle.\nI see an ellipse, it looks like a squashed circle.\n\nI see a triangle, it has three sides.\nI see a triangle, it has three sides.\n\nHere come the quadrilaterals! They all have four sides – but they’re all different shapes!\n\nI see a rectangle, it has four sides.\nI see a rectangle, it has four sides.\n\nA rectangle has two sets of parallel sides and four right angles.\n\nI see a square, it has four sides, too.\nI see a square, it has four sides, too.\n\nA square has four equal straight sides and four right angles.\n\nI see a trapezoid, it also has four sides.\nI see a trapezoid, it also has four sides.\n\nA trapezoid has two parallel sides and two non-parallel sides.\n\nI see a parallelogram, yes, it has four sides.\nI see a parallelogram, yes, it has four sides.\n\nA parallelogram has two pairs of parallel sides.\n\nI see a rhombus and it has four sides as well.\nI see a rhombus and it has four sides as well.\n\nA rhombus has four equal sides but NO right angles. It looks like a diamond!\n\nI see a kite, and it’s the last one with four sides.\nI see a kite, and it’s the last one with four sides.\n\nA kite has two pairs of equal-length sides next to each other..\n\nShapes, so many shapes, so many shapes.\nI see so many shapes, so many shapes.\n\nWe’re almost done! Let’s go!\n\nI see a pentagon, it has five sides.\nI see a pentagon, it has five sides.\n\nI see a hexagon, it has six sides.\nI see a hexagon, it has six sides.\n\nI see a heptagon, it has seven sides.\nI see a heptagon, it has seven sides.\n\nI see an octagon, it has eight sides.\nI see an octagon, it has eight sides.\n\nI see a nonagon, it has nine sides.\nI see a nonagon, it has nine sides.\n\nI see a decagon, it has ten sides.\nI see a decagon, it has ten sides.\n\nShapes, so many shapes, so many shapes.\nI see so many shapes, so many shapes.\n\n\n\n\n\n\n\nFollow us on Facebook: https://www.facebook.com/thekidspictureshow\n\nFollow us on Twitter: https://twitter.com/KidsPictureShow\n\nThe Kids' Picture Show playlists:\n\nShapes: http://bit.ly/NdG7mi\nFun Learning Videos: http://bit.ly/1qCXcWN\nCommunication Skills: http://bit.ly/1gqnmYi\nLearn to Read: Phonics & Rhyming: http://bit.ly/1fwF6g7\nAddition with The Number Guys: http://bit.ly/1dZIkwn\nVocabulary Flash Cards: http://bit.ly/NdGVrp\nPicture Card Phrases: http://bit.ly/1m3Pzbm\nLife Instructions: http://bit.ly/Oc2Hgd\nMy Fridge: http://bit.ly/1o11S6I\nPoem of the Day: http://bit.ly/PABFjE\n\nLooking for a kids' channel that's not too \"kiddie?\" Check out the Kids' Picture Show! Learn shapes, colors, numbers, the alphabet, communications skills and more with The Shapesters, Robot DJ, The Number Guys, My Fridge and the popular \"What Shape Is It?\" series.\n\nThe Kids' Picture Show is an educational channel for toddlers, pre-schoolers, kindergarteners and elementary school-age students to learn language and life skills. Children can explore speaking, listening and reading through poems, songs, flash cards, and lots of humorous videos.\n\nGreat for all kids including reluctant learners, visual learners, ESL students and even children with developmental disabilities such as autism.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NaNrzQUyuPQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NaNrzQUyuPQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NaNrzQUyuPQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/NaNrzQUyuPQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/NaNrzQUyuPQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLI0tClN_0kUt2LGehA0URwy",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "NaNrzQUyuPQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Zsld7pyUoaxqjBfaEYuPNTn52uU\"",
+   "id": "UExiXzFSUnhJWlRMSTB0Q2xOXzBrVXQyTEdlaEEwVVJ3eS4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2019-10-05T12:43:32.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Shapes & Colors - The Kids' Picture Show (Fun & Educational Learning Video)",
+    "description": "Featuring the shapes from What Shape Is It? Now learn shapes and colors together! Features primary and secondary colors.\n\nFollow us on Facebook: https://www.facebook.com/thekidspictureshow\n\nFollow us on Twitter: https://twitter.com/KidsPictureShow\n\nThe Kids' Picture Show playlists:\n\nFun Learning Videos: http://bit.ly/1pcAMvo\nVehicles: http://bit.ly/1BhRPSc\nShapes: http://bit.ly/1vOSNFg\nColors: http://bit.ly/1vOHUDs\nABC's and Alphabet: http://bit.ly/YaySlq\nNumbers and Counting: http://bit.ly/1rcumQg\nAddition with The Number Guys: http://bit.ly/1t0kvLU\nScience and Nature: http://bit.ly/1pQcPJV\nVocabulary Flash Cards: http://bit.ly/1sHDk7Y\nCommunication Skills: http://bit.ly/1qaV0Tc\nLearn to Read: Phonics & Rhyming: http://bit.ly/1t0E9pb\nPicture Card Phrases - PECS: http://bit.ly/1t0kibr\nLife Instructions: http://bit.ly/1pvpkf1\nMy Fridge: http://bit.ly/1mOymif\nPoem of the Day: http://bit.ly/1pvpKSs\n\nLooking for a kids' channel that's not too \"kiddie?\" Check out the Kids' Picture Show! Learn shapes, colors, numbers, the alphabet, communications skills and more with The Shapesters, Robot DJ, The Number Guys, My Fridge, the popular \"What Shape Is It?\" and the hit Vehicles series.\n\nThe Kids' Picture Show is an educational channel for toddlers, pre-schoolers, kindergarteners and elementary school-age students to learn language and life skills. Children can explore speaking, listening and reading through poems, songs, flash cards, and lots of funny videos.\n\nGreat for all kids including reluctant learners, visual learners, ESL students and even children with developmental disabilities such as autism.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-fshHBYqQ8Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-fshHBYqQ8Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-fshHBYqQ8Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-fshHBYqQ8Q/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-fshHBYqQ8Q/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLI0tClN_0kUt2LGehA0URwy",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-fshHBYqQ8Q"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/WaCjhI2nkQL3oOjddA3QCNgo4Hk\"",
+   "id": "UExiXzFSUnhJWlRMSTB0Q2xOXzBrVXQyTEdlaEEwVVJ3eS4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2019-10-05T12:43:41.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Shapes Song For Kids-Circle, Triangle, Square, Heart | Toddlers, Preschool",
+    "description": "Get this song on iTunes: http://goo.gl/ae9tU Learn the shapes in this fun song for kids! \n\nSong by Matt. R. Copyright 2012\nDownload a free Mp3 http://www.dreamenglish.com/newshapesong\nhttp://www.facebook.com/dreamenglish\n\nBest of Kids Songs Volume 2 on iTunes:\nhttp://goo.gl/ae9tU Includes the Shapes Song",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/g2jdZ46nK-M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/g2jdZ46nK-M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/g2jdZ46nK-M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/g2jdZ46nK-M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/g2jdZ46nK-M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLI0tClN_0kUt2LGehA0URwy",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "g2jdZ46nK-M"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/2geO_E_yMBg8uc64i0-W3pOYMI0\"",
+   "id": "UExiXzFSUnhJWlRMSTB0Q2xOXzBrVXQyTEdlaEEwVVJ3eS41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2019-10-05T12:43:49.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Shapes Song | We Are Shapes | Learn Shapes",
+    "description": "Teach your children the shapes with the help of our fun and colorful shape song!\n\nLyrics of the song:\n\nWe are shapes!!\n\nYes, We are shapes!!\n\n\nTriangle Rectangle Circle Oval Square \n\n\nI’m a circle round and round\nRound and round \nI’m a circle round and round\nRound and round \nRound and round \nI’m a circle round and round\nAnd round and round I am\n\n\nTriangle Rectangle Circle Oval Square \n\n\nI’m a four sided square \nShaped like a box\nI’m a four sided square \nShaped like a box\nShaped like a box\nI’m a four sided square \nAnd all four sides are the same\n\n\nTriangle Rectangle Circle Oval Square \n\n\nI’m a triangle with 3 sides\n3 straight sides\nI’m a triangle with 3 sides\n3 straight sides\n3 straight sides\nI’m a triangle with 3 sides\nAnd a pointy head\n\n\nTriangle Rectangle Circle Oval Square \n\n\nI’m a star with 5 points\n5 little points\nI’m a star with 5 points\n5 little points\n5 little points\nI’m a star with 5 points\nTwinkling in the sky\n\n\nTriangle Rectangle Circle Oval Square \n\n\nI'm a rectangle you see\nLike a very long square\nI'm a rectangle you see\nLike a very long square\nA very long square\nI'm a rectangle you see\nI’m straight and I’m long like a brick\n\n\nTriangle Rectangle Circle Oval Square \n\n\nI'm  an oval round and long\nRound and long\nI'm  an oval round and long\nRound and long\nRound and long\nI'm  an oval round and long\nLike a circle that’s very long indeed\n\n\nTriangle Rectangle Circle Oval Square \n\nDon't forget to like, share and comment on our videos!\n\nFor more visit:\nhttps://www.youtube.com/user/PreSchoolUsp",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pZ8gZ3PxgLc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pZ8gZ3PxgLc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pZ8gZ3PxgLc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/pZ8gZ3PxgLc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/pZ8gZ3PxgLc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLI0tClN_0kUt2LGehA0URwy",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pZ8gZ3PxgLc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/b4ON23fDlptEdtQEAQR6ILXiyhw\"",
+   "id": "UExiXzFSUnhJWlRMSTB0Q2xOXzBrVXQyTEdlaEEwVVJ3eS5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2019-10-05T12:43:56.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Bob The Train | Adventure with Shapes | Shapes for Children | Shape Song | Kids tv Songs",
+    "description": "🌈 Hello toddlers, Bob The Train is here to make your learning time easy and fun with these playful toys. Click on the link to explore the toys now! - https://amzn.to/2PCeSDS\n\nAdventure with Shapes by Kids TV is a nursery rhyme which teaches young kids the various shapes which we see around us everyday. Bob the train is every kid's best friend! Bob the train is a train who is super fun to watch so come on kids let's play the video above learn from bob and dance to these groovy nursery rhymes.\nThese kids songs are great for learning the alphabet, numbers, shapes, colors and lots more. We are a one stop shop for your children to learn the many joys of nursery rhymes. Subscribe to our channel and be the first to watch our latest fun kids learning animations!\n\n🌸 Share this video – Adventure with Shapes here’s the link: https://youtu.be/fs08CRz2c-E\n🌸 Subscribe for free now to get notified about new videos - https://www.youtube.com/kidstv?sub_confirmation=1\n🌸 Nursery Rhymes and Nursery Rhymes Karaoke Playlist - https://www.youtube.com/watch?v=QNE3PsGVzN8&list=PLDt4VQajKv8xVf8zxjuz3tA-dJbCgT2wr\n🌸 If you enjoyed this collection, you may also like these compilations: \n🌸Old Macdonald had a farm - https://www.youtube.com/watch?v=Rf8e4JF8nXs\n🌸The Wheels on the bus - https://www.youtube.com/watch?v=MWyordkvD0k\n🌸Five little monkeys - https://www.youtube.com/watch?v=VAL4w6JvDHc\n⭐Finger Family - https://www.youtube.com/watch?v=IiA17oFD1bs\n⭐Ten in the bed - https://www.youtube.com/watch?v=Rxxsvc2XXxY\n⭐Phonics Song - https://www.youtube.com/watch?v=pFR_8zHCLio\n🎶 Incy Wincy Spider - https://www.youtube.com/watch?v=_6fwkxtp4bw\n🌼English Wheels on the bus - https://www.youtube.com/watch?v=IEje6DRukxg\n🌼Five little ducks - https://www.youtube.com/watch?v=vp5rwesz8eU\n🌼Johny johny yes papa - https://www.youtube.com/watch?v=PyZq_Jm0aqQ\n🌼 Humpty Dumpty - https://www.youtube.com/watch?v=ZSoougnleU8\n🌼 Twinkle Twinkle Little Star - https://www.youtube.com/watch?v=yvcrrmeBwlo\n🌼 Ten in the bed - https://www.youtube.com/watch?v=GRyxRadTM3c \n\nNursery rhymes and kid’s songs accelerate phonetic awareness improving children's word comprehension, reading and writing skills. These rhymes for children help teach basic skills and improves their ability to comprehend and follow directions. \nWe hope you’re having a fun time with all your friends here at Kids TV. If you enjoyed watching this video then check out our channel for many more interesting and fun learning videos for kids.\nIf you’re still reading this far, we know you enjoy our animations but are always happy to hear from you on how we can improve and what you'd like to see in the pipeline! \nIf you enjoy our content, don't forget to support us and subscribe :)\n\nDownload the Bob the Train APP here:\nBob The Train: https://itunes.apple.com/us/app/bob-the-train-kids-nursery-rhymes-baby-songs/id1236462400?ls=1&mt=8\n\nKids First: https://itunes.apple.com/us/app/kids-first-kids-videos-nursery-rhymes/id1245088728?ls=1&mt=8\n\nFB: https://www.facebook.com/KidsTVNurseyRhymes\nWeb: https://www.uspstudios.co/creation/channel/kids-tv/1/\nTwitter: https://twitter.com/kidstvofficial\nG+: https://plus.google.com/u/0/+kidstv\nInstagram: https://www.instagram.com/kidstvofficial/\nPinterest: https://in.pinterest.com/kidstv06/pins/\nPlay store: \nBob The Train: https://play.google.com/store/apps/details?id=com.uspstudios.bobthetrain&pageId=108868050184468649173\nKids First: https://play.google.com/store/apps/details?id=com.lookedigital.kidsfirst\nSubscribe: https://www.youtube.com/channel/UC7Pq3Ko42YpkCB_Q4E981jw?sub_confirmation=1\n© 2017 USP Studios Private Limited\n============================================\nMusic and Lyrics: Copyright USP Studios™\nVideo: Copyright USP Studios™\n============================================",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fs08CRz2c-E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fs08CRz2c-E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fs08CRz2c-E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fs08CRz2c-E/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/fs08CRz2c-E/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLI0tClN_0kUt2LGehA0URwy",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fs08CRz2c-E"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Vqcw848xazKP_au1OqgeLKaTWyo\"",
+   "id": "UExiXzFSUnhJWlRMSTB0Q2xOXzBrVXQyTEdlaEEwVVJ3eS45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2019-10-05T12:44:04.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "The Shapes Song | Nursery Rhymes | Nursery Rhymes With Lyrics",
+    "description": "VISIT OUR OFFICIAL WEBSITE : https://www.uspstudios.co/\nWATCH KIDS TV VIDEOS ON OUR WEBSITE TOO : https://www.uspstudios.co/creation/channel/oh-my-genius/5/\n\nFollow us on\nFACEBOOK: http://vid.io/xqRt\nGOOGLE+: http://vid.io/xqRr\nTWITTER: http://vid.io/xqRp\nCheck out our new Nursery Rhymes Songs Compilation video here: http://vid.io/xqVD\n\nLearn the common and most widely used shapes in this interactive shapes song.\n\"We are shapes you can see us every where\nI'm a square I'm square \nu can see me every where\ni have four sides\nI'm a square I'm square\n\nI'm circle I'm circle\ni go round & round & round\ni have only one side\nI'm circle round & round\n\nI'm triangle triangle\nI'm pointy little shape\ni have three sides\nI'm  triangle triangle\n\nwe are shapes you can see us every where\n\nI'm rectangle rectangle\nLike a really long square\ni have a four sides\ni'm a rectangle rectangle\n\n\nI'm a star I'm star\nin the sky so far\ni have five pointy arms\nI'm star I'm star\n\ni am a heart i am a heart\nI'm so curvy I'm so smart\nI'm a really lovely shape\nI'm a heart I'm a heart\n\nI'm a diamond I'm a diamond\nYou can see me on a ring\nI'm so shiny I'm so bright\nI'm a diamond I'm a diamond\nwe are shapes you can see us every where.\"\n\nCopyright © 2013 USP Studios. All Rights Reserved.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VdzzE20zQC8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VdzzE20zQC8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VdzzE20zQC8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/VdzzE20zQC8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/VdzzE20zQC8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLI0tClN_0kUt2LGehA0URwy",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "VdzzE20zQC8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qGY5ek2ja-aD1hk0f7r3n4uF_zE\"",
+   "id": "UExiXzFSUnhJWlRMSTB0Q2xOXzBrVXQyTEdlaEEwVVJ3eS5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2019-10-05T12:44:12.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Shapes Song | learn shapes | kids tv learning | preschool learning | learning for kids",
+    "description": "🌈 Hello toddlers, Bob The Train is here to make your learning time easy and fun with these playful toys. Click on the link to explore the toys now! - https://amzn.to/2PCeSDS\n\nTeach your children the shapes with the help of our fun and colorful shape song! Lyrics of the song:\n\n\"We are shapes you can see us every where\nI'm a square I'm square \nu can see me every where\ni have four sides\nI'm a square I'm square\nI'm circle I'm circle\ni go round & round & round\ni have only one side\nI'm circle round & round\nI'm triangle triangle\nI'm pointy little shape\ni have three sides\nI'm triangle triangle\nwe are shapes you can see us every where\nI'm rectangle rectangle\nLike a really long square\ni have a four sides\ni'm a rextangle reactangle\nI'm a star I'm star\nin the sky so far\ni have four pointy arms\nI'm star I'm star\ni am a heart i am a heart\nI'm so curvy I'm so smart\nI'm a really lovely shape\nI'm a heart I'm a heart\nI'm a diamond I'm a diamond\nYou can see me on a ring\nI'm so shiny I'm so bright\nI'm a diamond I'm a diamond\nwe are shapes you can see us every where.\"\n\nShapes Song by Kids TV - The nursery rhymes channel for kindergarten aged children. These kids songs are great for learning the alphabet, numbers, shapes, colors and lots more. We are a one stop shop for your children to learn the many joys of nursery rhymes. Subscribe to our channel and be the first to watch our latest fun kids learning animations!\n \n🌸 Share this video – Shapes Song here’s the link: https://youtu.be/j-I0beQHSM8\n🌸 Subscribe for free now to get notified about new videos - https://www.youtube.com/kidstv?sub_confirmation=1\n🌸 Nursery Rhymes and Nursery Rhymes Karaoke Playlist - https://www.youtube.com/watch?v=QNE3PsGVzN8&list=PLDt4VQajKv8xVf8zxjuz3tA-dJbCgT2wr\n🌸 If you enjoyed this collection, you may also like these compilations: \n🌸Old Macdonald had a farm - https://www.youtube.com/watch?v=Rf8e4JF8nXs\n🌸The Wheels on the bus - https://www.youtube.com/watch?v=MWyordkvD0k\n🌸Five little monkeys - https://www.youtube.com/watch?v=VAL4w6JvDHc\n⭐Finger Family - https://www.youtube.com/watch?v=IiA17oFD1bs\n⭐Ten in the bed - https://www.youtube.com/watch?v=Rxxsvc2XXxY\n⭐Phonics Song - https://www.youtube.com/watch?v=pFR_8zHCLio\n🎶 Incy Wincy Spider - https://www.youtube.com/watch?v=_6fwkxtp4bw\n🌼English Wheels on the bus - https://www.youtube.com/watch?v=IEje6DRukxg\n🌼Five little ducks - https://www.youtube.com/watch?v=vp5rwesz8eU\n🌼Johny johny yes papa - https://www.youtube.com/watch?v=PyZq_Jm0aqQ\n🌼 Humpty Dumpty - https://www.youtube.com/watch?v=ZSoougnleU8\n🌼 Twinkle Twinkle Little Star - https://www.youtube.com/watch?v=yvcrrmeBwlo\n🌼 Ten in the bed - https://www.youtube.com/watch?v=GRyxRadTM3c \n\nNursery rhymes and kid’s songs accelerate phonetic awareness improving children's word comprehension, reading and writing skills. These rhymes for children help teach basic skills and improves their ability to comprehend and follow directions. \nWe hope you’re having a fun time with all your friends here at Kids TV. If you enjoyed watching this video then check out our channel for many more interesting and fun learning videos for kids.\nIf you’re still reading this far, we know you enjoy our animations but are always happy to hear from you on how we can improve and what you'd like to see in the pipeline! \n\nIf you enjoy our content, don't forget to support us and subscribe :)\nDownload the Bob the Train APP here:\nBob The Train (Android & iOS): http://onelink.to/bobfree\nJellyFish Adventures (Android & iOS): http://onelink.to/jelly\n\nFind Kids Tv on:\nFB: https://www.facebook.com/KidsTVNurseyRhymes\nWeb: https://www.uspstudios.co/creation/channel/kids-tv/1/\nG+: https://plus.google.com/u/0/+kidstv\nKids First: https://play.google.com/store/apps/details?id=com.lookedigital.kidsfirst\nSubscribe: https://www.youtube.com/channel/UC7Pq3Ko42YpkCB_Q4E981jw?sub_confirmation=1\n\n© 2017 USP Studios Private Limited\n============================================\nMusic and Lyrics: Copyright USP Studios™\nVideo: Copyright USP Studios™\n============================================",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/j-I0beQHSM8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/j-I0beQHSM8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/j-I0beQHSM8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/j-I0beQHSM8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/j-I0beQHSM8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLI0tClN_0kUt2LGehA0URwy",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "j-I0beQHSM8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/BiDulIbG-xzHqj7HLJEXU7IS2f4\"",
+   "id": "UExiXzFSUnhJWlRMSTB0Q2xOXzBrVXQyTEdlaEEwVVJ3eS40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2019-10-05T12:44:27.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "The Shapes Song | Shape song | Shapes song | Shapes",
+    "description": "VISIT OUR OFFICIAL WEBSITE : https://www.uspstudios.co/\nWATCH KIDS TV VIDEOS ON OUR WEBSITE TOO : https://www.uspstudios.co/creation/channel/oh-my-genius/5/\n\nFollow us on\nFACEBOOK: http://vid.io/xqRt\nGOOGLE+: http://vid.io/xqRr\nTWITTER: http://vid.io/xqRp\nCheck out our new Nursery Rhymes Songs Compilation video here: http://vid.io/xqVD\n\nThe Shapes Song introduces some of the most common shapes! \n\"We are shapes you can see us every where\n\nI'm a square I'm square \nu can see me every where\ni have four sides\nI'm a square I'm square\n\nI'm circle I'm circle\ni go round & round & round\ni have only one side\nI'm circle round & round\n\nI'm triangle triangle\nI'm pointy little shape\ni have three sides\nI'm  triangle triangle\n\nwe are shapes you can see us every where\n\nI'm rectangle rectangle\nLike a really long square\ni have a four sides\ni'm a rectangle rectangle\n\n\nI'm a star I'm star\nin the sky so far\ni have five pointy arms\nI'm star I'm star\n\ni am a heart i am a heart\nI'm so curvy I'm so smart\nI'm a really lovely shape\nI'm a heart I'm a heart\n\nI'm a diamond I'm a diamond\nYou can see me on a ring\nI'm so shiny I'm so bright\nI'm a diamond I'm a diamond\nwe are shapes you can see us every where.\"\n\nCopyright © 2013 USP Studios. All Rights Reserved.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/v38vp3IwLho/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/v38vp3IwLho/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/v38vp3IwLho/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/v38vp3IwLho/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/v38vp3IwLho/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLI0tClN_0kUt2LGehA0URwy",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "v38vp3IwLho"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/LkVuDjaoDPUBNOu7UdnziKodR00\"",
+   "id": "UExiXzFSUnhJWlRMSTB0Q2xOXzBrVXQyTEdlaEEwVVJ3eS5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2019-10-05T12:44:33.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Shapes Finger Family | Nursery Rhymes For Kids | Shapes Song",
+    "description": "The Shapes are here for the finger play. The question is, are you kids ready? Yes? Then let us all sing the finger family nursery rhyme and welcome the Shapes Finger Family.\nA round of applause for the Circe. A standing ovation for the Oval. Clap clap clap for the Square. A show of fingers for the supporters of the Triangle. Here comes the biggest of them all, the Octagon. \n\n“Daddy finger, daddy finger, where are you? \n\nHere I am, here I am. How do you do?\n\n\nMommy finger, Mommy finger, where are you? \n\nHere I am, here I am. How do you do?\n\n\nBrother finger, Brother finger, where are you? \n\nHere I am, here I am. How do you do?\n\n\nSister finger, Sister finger, where are you? \n\nHere I am, here I am. How do you do?\n\n\nBaby finger, Baby finger, where are you? \n\nHere I am, here I am. How do you do?”\n\nHow did that fun play time shape up for you children?",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JL-oHDstGtk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JL-oHDstGtk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JL-oHDstGtk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/JL-oHDstGtk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/JL-oHDstGtk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLI0tClN_0kUt2LGehA0URwy",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "JL-oHDstGtk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/D0R3HSN9RL2S9STWYRzpyl1GMdc\"",
+   "id": "UExiXzFSUnhJWlRMSTB0Q2xOXzBrVXQyTEdlaEEwVVJ3eS45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2019-10-05T12:44:41.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Shapes Finger Family Songs for children and Nursery Rhymes For Kids",
+    "description": "We are the finger family!\n\nFather finger, father finger, where are you?\nHere I am, here I am. How do you do? \n\nMommy finger, Mommy finger, where are you?\nHere I am, here I am. How do you do?\n\nBrother finger, Brother finger, where are you?\nHere I am, here I am. How do you do?\n\nSister finger, Sister finger, where are you?\nHere I am, here I am. How do you do?\n\nBaby finger, Baby finger, where are you?\nHere I am, here I am. How do you do?",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sCxcSJi0NRM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sCxcSJi0NRM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sCxcSJi0NRM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sCxcSJi0NRM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/sCxcSJi0NRM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLI0tClN_0kUt2LGehA0URwy",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sCxcSJi0NRM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/TdRcSbhV_7z4s5E5IhTHbSYld3Y\"",
+   "id": "UExiXzFSUnhJWlRMSTB0Q2xOXzBrVXQyTEdlaEEwVVJ3eS4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2019-10-05T12:45:31.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Shapes Finger Family | Learn Shapes | Nursery Rhymes For Kids | Shapes Song kids tv",
+    "description": "Babies you'll know why all members of this Finger Family look different? Because they're the Shapes Finger Family! But they're no ordinary shapes. They're the lego shapes. Once you've created the lego shapes you'll can start singing the finger family song and make them dance to your tunes! Ready? Hit play and get to work babies!\n00:01 – Shapes Finger Family\n01:02 – I Am A Little Teapot\n02:25 – One Two\n03:41 – Three Little kittens\n05:41 – Johny Johny\n06:30 – Finger Family\n07:32 – Farmer In The Dell\n09:38 – Five Little Babies\n11:46 – Ten In The Bed\n13:56 – Finger Family\n15:44 – This Little Piggy\n17:29 – Skidamarink\n19:40 – Wheels On The Bus\n21:25 – Five Little Teddy Bears\n23:34 – Hickory Dickory Dock\n25:48 – Rig A Jig\n27:30 – Jack And Jill\n28:23 – Old Macdonald\n31:16 – Five Big Dinosaurs\n32:48 – Baa Baa Black Sheep\n33:40 – This Old Man\n35:26 – London Bridge\n38:48 – Old King Cole\n40:57 – Colors Song\n43:48 – Alphabets Song\n45:07 – Vegetables Song\n46:55 – Animals Learn To Count\n50:15 – Let's Build Song\n52:23 – Bath Song\nShapes Finger Family by Kids TV - The nursery rhymes channel for kindergarten aged children. These kids songs are great for learning the alphabet, numbers, shapes, colors and lots more. We are a one stop shop for your children to learn the many joys of nursery rhymes. Subscribe to our channel and be the first to watch our latest fun kids learning animations!\n🌸 Share this video – Shapes Finger Family here’s the link: https://youtu.be/re6lfnchico\n🌸 Subscribe for free now to get notified about new videos - https://www.youtube.com/kidstv?sub_co...\n🌸 Nursery Rhymes and Nursery Rhymes Karaoke Playlist - https://www.youtube.com/watch?v=QNE3PsGVzN8&list=PLDt4VQajKv8xVf8zxjuz3tA-dJbCgT2wr\n🌸 If you enjoyed this collection, you may also like these compilations: \n🌸Old Macdonald had a farm - https://www.youtube.com/watch?v=Rf8e4JF8nXs\n🌸The Wheels on the bus - https://www.youtube.com/watch?v=MWyordkvD0k\n🌸Five little monkeys - https://www.youtube.com/watch?v=VAL4w6JvDHc\n⭐Finger Family - https://www.youtube.com/watch?v=IiA17oFD1bs\n⭐Ten in the bed - https://www.youtube.com/watch?v=Rxxsvc2XXxY\n⭐Phonics Song - https://www.youtube.com/watch?v=pFR_8zHCLio\n🎶 Incy Wincy Spider - https://www.youtube.com/watch?v=_6fwkxtp4bw\n🌼English Wheels on the bus - https://www.youtube.com/watch?v=IEje6DRukxg\n🌼Five little ducks - https://www.youtube.com/watch?v=vp5rwesz8eU\n🌼Johny johny yes papa - https://www.youtube.com/watch?v=PyZq_Jm0aqQ\n🌼 Humpty Dumpty - https://www.youtube.com/watch?v=ZSoougnleU8\n🌼 Twinkle Twinkle Little Star - https://www.youtube.com/watch?v=yvcrrmeBwlo\n🌼 Ten in the bed - https://www.youtube.com/watch?v=GRyxRadTM3c \n\nNursery rhymes and kid’s songs accelerate phonetic awareness improving children's word comprehension, reading and writing skills. These rhymes for children help teach basic skills and improves their ability to comprehend and follow directions. \nWe hope you’re having a fun time with all your friends here at Kids TV. If you enjoyed watching this video then check out our channel for many more interesting and fun learning videos for kids.\nIf you’re still reading this far, we know you enjoy our animations but are always happy to hear from you on how we can improve and what you'd like to see in the pipeline! \nIf you enjoy our content, don't forget to support us and subscribe :)\nDownload the Bob the Train APP here:\nBob The Train: https://itunes.apple.com/us/app/bob-the-train-kids-nursery-rhymes-baby-songs/id1236462400?ls=1&mt=8\n\nKids First: https://itunes.apple.com/us/app/kids-first-kids-videos-nursery-rhymes/id1245088728?ls=1&mt=8\n\nFB: https://www.facebook.com/KidsTVNurseyRhymes\nWeb: https://www.uspstudios.co/creation/channel/kids-tv/1/\nTwitter: https://twitter.com/kidstvofficial\nG+: https://plus.google.com/u/0/+kidstv\nInstagram: https://www.instagram.com/kidstvofficial/\nPinterest: https://in.pinterest.com/kidstv06/pins/\nPlay store: \nBob The Train: https://play.google.com/store/apps/details?id=com.uspstudios.bobthetrain&pageId=108868050184468649173\nKids First: https://play.google.com/store/apps/details?id=com.lookedigital.kidsfirst\nSubscribe: https://www.youtube.com/channel/UC7Pq3Ko42YpkCB_Q4E981jw?sub_confirmation=1\n© 2017 USP Studios Private Limited\n============================================\nMusic and Lyrics: Copyright USP Studios™\nVideo: Copyright USP Studios™\n============================================",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/re6lfnchico/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/re6lfnchico/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/re6lfnchico/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/re6lfnchico/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/re6lfnchico/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLI0tClN_0kUt2LGehA0URwy",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "re6lfnchico"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/8bCxqtFGrO5Yt-lGSBQs5kim2C8\"",
+   "id": "UExiXzFSUnhJWlRMSTB0Q2xOXzBrVXQyTEdlaEEwVVJ3eS41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2019-10-05T12:45:52.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "shapes finger family | nursery rhymes | kids rhyme | learn shapes | 3d rhymes",
+    "description": "shapes finger family by Kids TV - The nursery rhymes channel for kindergarten aged children. These kids songs are great for learning the alphabet, numbers, shapes, colors and lots more. We are a one stop shop for your children to learn the many joys of nursery rhymes. Subscribe to our channel and be the first to watch our latest fun kids learning animations!\n🌸 Share this video – shapes finger family here’s the link: https://youtu.be/JM9mG5Vfpwo\n🌸 Subscribe for free now to get notified about new videos - https://www.youtube.com/kidstv?sub_co...\n🌸 Nursery Rhymes and Nursery Rhymes Karaoke Playlist - https://www.youtube.com/watch?v=QNE3PsGVzN8&list=PLDt4VQajKv8xVf8zxjuz3tA-dJbCgT2wr\n🌸 If you enjoyed this collection, you may also like these compilations: \n🌸Old Macdonald had a farm - https://www.youtube.com/watch?v=Rf8e4JF8nXs\n🌸The Wheels on the bus - https://www.youtube.com/watch?v=MWyordkvD0k\n🌸Five little monkeys - https://www.youtube.com/watch?v=VAL4w6JvDHc\n⭐Finger Family - https://www.youtube.com/watch?v=IiA17oFD1bs\n⭐Ten in the bed - https://www.youtube.com/watch?v=Rxxsvc2XXxY\n⭐Phonics Song - https://www.youtube.com/watch?v=pFR_8zHCLio\n🎶 Incy Wincy Spider - https://www.youtube.com/watch?v=_6fwkxtp4bw\n🌼English Wheels on the bus - https://www.youtube.com/watch?v=IEje6DRukxg\n🌼Five little ducks - https://www.youtube.com/watch?v=vp5rwesz8eU\n🌼Johny johny yes papa - https://www.youtube.com/watch?v=PyZq_Jm0aqQ\n🌼 Humpty Dumpty - https://www.youtube.com/watch?v=ZSoougnleU8\n🌼 Twinkle Twinkle Little Star - https://www.youtube.com/watch?v=yvcrrmeBwlo\n🌼 Ten in the bed - https://www.youtube.com/watch?v=GRyxRadTM3c \n\nNursery rhymes and kid’s songs accelerate phonetic awareness improving children's word comprehension, reading and writing skills. These rhymes for children help teach basic skills and improves their ability to comprehend and follow directions. \nWe hope you’re having a fun time with all your friends here at Kids TV. If you enjoyed watching this video then check out our channel for many more interesting and fun learning videos for kids.\nIf you’re still reading this far, we know you enjoy our animations but are always happy to hear from you on how we can improve and what you'd like to see in the pipeline! \nIf you enjoy our content, don't forget to support us and subscribe :)\n\nDownload the Bob the Train APP here:\nBob The Train: https://itunes.apple.com/us/app/bob-the-train-kids-nursery-rhymes-baby-songs/id1236462400?ls=1&mt=8\n\nKids First: https://itunes.apple.com/us/app/kids-first-kids-videos-nursery-rhymes/id1245088728?ls=1&mt=8\n\nFB: https://www.facebook.com/KidsTVNurseyRhymes\nWeb: https://www.uspstudios.co/creation/channel/kids-tv/1/\nTwitter: https://twitter.com/kidstvofficial\nG+: https://plus.google.com/u/0/+kidstv\nInstagram: https://www.instagram.com/kidstvofficial/\nPinterest: https://in.pinterest.com/kidstv06/pins/\nPlay store: Bob The Train: https://play.google.com/store/apps/details?id=com.uspstudios.bobthetrain&pageId=108868050184468649173\nKids First: https://play.google.com/store/apps/details?id=com.lookedigital.kidsfirst\nSubscribe: https://www.youtube.com/channel/UC7Pq3Ko42YpkCB_Q4E981jw?sub_confirmation=1\n© 2017 USP Studios Private Limited\n============================================\nMusic and Lyrics: Copyright USP Studios™\nVideo: Copyright USP Studios™\n============================================",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JM9mG5Vfpwo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JM9mG5Vfpwo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JM9mG5Vfpwo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/JM9mG5Vfpwo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/JM9mG5Vfpwo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLI0tClN_0kUt2LGehA0URwy",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "JM9mG5Vfpwo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/pdwyMHiEZOsN_5tOrXgPC5mX4bM\"",
+   "id": "UExiXzFSUnhJWlRMSTB0Q2xOXzBrVXQyTEdlaEEwVVJ3eS5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2019-10-05T12:45:59.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "the shapes song | learn shapes | surprise eggs | nursery rhymes | kids songs | kids tv nursery rhyme",
+    "description": "We know you babies love the colorful surprise eggs. But today you'll love more what's in these eggs. The wonderful lovely shapes. Watching eggs hatch has never been more fun, has it kids? The Shapes are something you children see on an everyday basis. All your toys have shapes. The gadgets your parents use have shapes. So it's best you learn them through our educational video, that's got tons of nursery rhymes and baby songs to keep you toddlers entertained as well. \nthe shapes song by Kids TV - The nursery rhymes channel for kindergarten aged children. These kids songs are great for learning the alphabet, numbers, shapes, colors and lots more. We are a one stop shop for your children to learn the many joys of nursery rhymes. Subscribe to our channel and be the first to watch our latest fun kids learning animations!\n🌸 Share this video – the shapes song here’s the link: https://youtu.be/4tgZT4lJGzI\n🌸 Subscribe for free now to get notified about new videos - https://www.youtube.com/kidstv?sub_co...\n🌸 Nursery Rhymes and Nursery Rhymes Karaoke Playlist - https://www.youtube.com/watch?v=QNE3PsGVzN8&list=PLDt4VQajKv8xVf8zxjuz3tA-dJbCgT2wr\n🌸 If you enjoyed this collection, you may also like these compilations: \n🌸Old Macdonald had a farm - https://www.youtube.com/watch?v=Rf8e4JF8nXs\n🌸The Wheels on the bus - https://www.youtube.com/watch?v=MWyordkvD0k\n🌸Five little monkeys - https://www.youtube.com/watch?v=VAL4w6JvDHc\n⭐Finger Family - https://www.youtube.com/watch?v=IiA17oFD1bs\n⭐Ten in the bed - https://www.youtube.com/watch?v=Rxxsvc2XXxY\n⭐Phonics Song - https://www.youtube.com/watch?v=pFR_8zHCLio\n🎶 Incy Wincy Spider - https://www.youtube.com/watch?v=_6fwkxtp4bw\n🌼English Wheels on the bus - https://www.youtube.com/watch?v=IEje6DRukxg\n🌼Five little ducks - https://www.youtube.com/watch?v=vp5rwesz8eU\n🌼Johny johny yes papa - https://www.youtube.com/watch?v=PyZq_Jm0aqQ\n🌼 Humpty Dumpty - https://www.youtube.com/watch?v=ZSoougnleU8\n🌼 Twinkle Twinkle Little Star - https://www.youtube.com/watch?v=yvcrrmeBwlo\n🌼 Ten in the bed - https://www.youtube.com/watch?v=GRyxRadTM3c \n\nNursery rhymes and kid’s songs accelerate phonetic awareness improving children's word comprehension, reading and writing skills. These rhymes for children help teach basic skills and improves their ability to comprehend and follow directions. \nWe hope you’re having a fun time with all your friends here at Kids TV. If you enjoyed watching this video then check out our channel for many more interesting and fun learning videos for kids.\nIf you’re still reading this far, we know you enjoy our animations but are always happy to hear from you on how we can improve and what you'd like to see in the pipeline! \nIf you enjoy our content, don't forget to support us and subscribe :)\n\nDownload the Bob the Train APP here:\nBob The Train: https://itunes.apple.com/us/app/bob-the-train-kids-nursery-rhymes-baby-songs/id1236462400?ls=1&mt=8\n\nKids First: https://itunes.apple.com/us/app/kids-first-kids-videos-nursery-rhymes/id1245088728?ls=1&mt=8\n\nFB: https://www.facebook.com/KidsTVNurseyRhymes\nWeb: https://www.uspstudios.co/creation/channel/kids-tv/1/\nTwitter: https://twitter.com/kidstvofficial\nG+: https://plus.google.com/u/0/+kidstv\nInstagram: https://www.instagram.com/kidstvofficial/\nPinterest: https://in.pinterest.com/kidstv06/pins/\nPlay store: Bob The Train: https://play.google.com/store/apps/details?id=com.uspstudios.bobthetrain&pageId=108868050184468649173\nKids First: https://play.google.com/store/apps/details?id=com.lookedigital.kidsfirst\nSubscribe: https://www.youtube.com/channel/UC7Pq3Ko42YpkCB_Q4E981jw?sub_confirmation=1\n© 2017 USP Studios Private Limited\n============================================\nMusic and Lyrics: Copyright USP Studios™\nVideo: Copyright USP Studios™\n============================================",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4tgZT4lJGzI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4tgZT4lJGzI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4tgZT4lJGzI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4tgZT4lJGzI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4tgZT4lJGzI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLI0tClN_0kUt2LGehA0URwy",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4tgZT4lJGzI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ZjqbY9X5-b4CEohei496R077hIQ\"",
+   "id": "UExiXzFSUnhJWlRMSTB0Q2xOXzBrVXQyTEdlaEEwVVJ3eS41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2019-10-05T12:46:06.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "five little shapes | Kids Tv Show | nursery rhyme | Shapes Song Kids Tv | Bob The Train",
+    "description": "Hello toddlers, Bob The Train is here to make your learning time easy and fun with these playful toys. Click on the link to explore the toys now! - https://amzn.to/2PCeSDS\n\nBob the Train is taking over babysitting duties for today, but he urgently needs your help! The five little shapes are refusing to go to sleep and have been jumping on the bed the entire night! They need to get some sleep or else they won’t wake up on time for kindergarten tomorrow. What can you babies do? Maybe you could sing the Five Little Shapes nursery rhyme? Who knows maybe the naughty shapes will listen to you toddlers singing them a shapes rhyme much better than their parents scolding them. You preschoolers must warn them to be careful though, because we don’t want them bumping their heads and losing their unique shapes! \n🌸 Share this video – five little shapes here’s the link: https://youtu.be/0VtrsNFt0xo\n🌸 Subscribe for free now to get notified about new videos - https://www.youtube.com/kidstv?sub_co...\n🌸 Nursery Rhymes and Nursery Rhymes Karaoke Playlist - https://www.youtube.com/watch?v=QNE3PsGVzN8&list=PLDt4VQajKv8xVf8zxjuz3tA-dJbCgT2wr\n🌸 If you enjoyed this collection, you may also like these compilations: \n🌸Old Macdonald had a farm - https://www.youtube.com/watch?v=Rf8e4JF8nXs\n🌸The Wheels on the bus - https://www.youtube.com/watch?v=MWyordkvD0k\n🌸Five little monkeys - https://www.youtube.com/watch?v=VAL4w6JvDHc\n⭐Finger Family - https://www.youtube.com/watch?v=IiA17oFD1bs\n⭐Ten in the bed - https://www.youtube.com/watch?v=Rxxsvc2XXxY\n⭐Phonics Song - https://www.youtube.com/watch?v=pFR_8zHCLio\n🎶 Incy Wincy Spider - https://www.youtube.com/watch?v=_6fwkxtp4bw\n🌼English Wheels on the bus - https://www.youtube.com/watch?v=IEje6DRukxg\n🌼Five little ducks - https://www.youtube.com/watch?v=vp5rwesz8eU\n🌼Johny johny yes papa - https://www.youtube.com/watch?v=PyZq_Jm0aqQ\n🌼 Humpty Dumpty - https://www.youtube.com/watch?v=ZSoougnleU8\n🌼 Twinkle Twinkle Little Star - https://www.youtube.com/watch?v=yvcrrmeBwlo\n🌼 Ten in the bed - https://www.youtube.com/watch?v=GRyxRadTM3c \n\nNursery rhymes and kid’s songs accelerate phonetic awareness improving children's word comprehension, reading and writing skills. These rhymes for children help teach basic skills and improves their ability to comprehend and follow directions. \nWe hope you’re having a fun time with all your friends here at Kids TV. If you enjoyed watching this video then check out our channel for many more interesting and fun learning videos for kids.\nIf you’re still reading this far, we know you enjoy our animations but are always happy to hear from you on how we can improve and what you'd like to see in the pipeline!\nIf you enjoy our content, don't forget to support us and subscribe :)\nDownload the Bob the Train APP here:\nBob The Train (Android & iOS): http://onelink.to/bobfree\nJellyFish Adventures (Android & iOS): http://onelink.to/jelly\n\nFind Kids Tv on:\nFB: https://www.facebook.com/KidsTVNurseyRhymes\nWeb: https://www.uspstudios.co/creation/channel/kids-tv/1/\nG+: https://plus.google.com/u/0/+kidstv\nKids First: https://play.google.com/store/apps/details?id=com.lookedigital.kidsfirst\nSubscribe: https://www.youtube.com/channel/UC7Pq3Ko42YpkCB_Q4E981jw?sub_confirmation=1\n\n© 2017 USP Studios Private Limited\n============================================\nMusic and Lyrics: Copyright USP Studios™\nVideo: Copyright USP Studios™\n============================================",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0VtrsNFt0xo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0VtrsNFt0xo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0VtrsNFt0xo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0VtrsNFt0xo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/0VtrsNFt0xo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLI0tClN_0kUt2LGehA0URwy",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "0VtrsNFt0xo"
+    }
+   }
+  }
+ ]
+}
