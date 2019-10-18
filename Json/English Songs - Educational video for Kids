@@ -1,0 +1,1265 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Cji7gHYp1JKIQTnprNTwXzwocjo\"",
+ "pageInfo": {
+  "totalResults": 28,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/dfc7pOTpmPByHHSh8rd0VPHil9M\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:50:29.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Story N - English Story - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\nPhonics Story N - English Story - Educational video for Kids\n\nHello! This is a new video of the Phonics series! Watch English stories, listen, Read aloud and have fun learning English!\nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Story N  ---\n\nThe bird looks for a new nest.\n\nA nest!\nNice and neat.\nThe bird can nap in the new nest.\n\nIt's a dog. His name is Max.\nMax sees the bird in the nest. \n\nMax gets his net.\nOh, nuts!\nCan the bird find a new nest?\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YQJJXj7wxoQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YQJJXj7wxoQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YQJJXj7wxoQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/YQJJXj7wxoQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/YQJJXj7wxoQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "YQJJXj7wxoQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/n2ab3gxDgh9dJMU72Wu_u6waNJk\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:51:02.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Word song M - English Songs - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\n\nPhonics Word song M - English Songs - Educational video for Kids\n\nWatch the video, listen to the music, sing along and have fun learning alphabet! \nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Word song M  ---\n\nHello!\nMy name is Uppercase M. \nCall me Big M Big M.\n\nI am m, too.\nMy name is Lowercase m.\nCall me Small m Small m.\n\nWe are M,\nBig M! Big M! \nWe are m, \nSmall m! Small m!\n\nMILK\nmilk\n\nMOM\nmom\n\nMONDAY\nMonday\n\nMOP\nmop\n\nMUFFIN\nmuffin\n\nMOUSE\nmouse\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NCkP4__wuhc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NCkP4__wuhc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NCkP4__wuhc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/NCkP4__wuhc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/NCkP4__wuhc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "NCkP4__wuhc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/shJ41a9Ut77GM_Se6koxBfoSpbM\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:51:07.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Story M - English Story - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\nPhonics Story M - English Story - Educational video for Kids\n\nHello! This is a new video of the Phonics series! Watch English stories, listen, Read aloud and have fun learning English!\nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Story M  ---\n\nEverybody is busy on Monday morning.\nThey eat Mom's muffins and milk. \n\nKevin :\"I want meat! I want meat!\"\nWendy :“Oh, my mouse!”\n\nDad : \"Oh, no! Milk!\"\nWendy : \"I will mop, Mom.\"\nAnnie : \"I will make muffins, Mom.\" \n\nAnnie :“What a Monday!”\nHow is your Monday morning?\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7FYxwlKH4a8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7FYxwlKH4a8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7FYxwlKH4a8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7FYxwlKH4a8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/7FYxwlKH4a8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7FYxwlKH4a8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/r38fi9pvSjrhaVJmTMSON-jRRYA\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:51:10.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Word song L - English Songs - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\n\nPhonics Word song L - English Songs - Educational video for Kids\n\nWatch the video, listen to the music, sing along and have fun learning alphabet! \nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Word song L  ---\n\nHello!\nMy name is Uppercase L. \nCall me Big L Big L.\n\nI am l, too.\nMy name is Lowercase l.\nCall me Small l Small l.\n\nWe are L,\nBig L! Big L! \nWe are l, \nSmall l! Small l!\n\nLADYBUG\nladybug\n\nLEAF\nleaf\n\nLEMONADE\nlemonade\n\nLETTUCE\nlettuce\n\nLION\nlion\n\nLIZARD\nlizard\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9sdUwY7STH0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9sdUwY7STH0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9sdUwY7STH0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/9sdUwY7STH0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/9sdUwY7STH0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9sdUwY7STH0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/jq1aHpUi1Mc5lbkPmHG8mhMi7XA\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:51:13.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Word song J - English Songs - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\n\nPhonics Word song J - English Songs - Educational video for Kids\n\nWatch the video, listen to the music, sing along and have fun learning alphabet! \nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Word song J  ---\n\nHello!\nMy name is Uppercase J. \nCall me Big J Big J.\n\nI am j, too.\nMy name is Lowercase j.\nCall me Small j Small j.\n\nWe are J,\nBig J! Big J! \nWe are j, \nSmall j! Small j!\n\nJAM\njam\n\nJAR\njar\n\nJEANS\njeans\n\nJUICE\nJuice\n\nJUMP\njump\n\nJUNE\nJune\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ycCnXZns8-c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ycCnXZns8-c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ycCnXZns8-c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ycCnXZns8-c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ycCnXZns8-c/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ycCnXZns8-c"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/_flGghfLwqKurjyStqWC1pVakY4\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:51:16.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Word song K - English Songs - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\n\nPhonics Word song K - English Songs - Educational video for Kids\n\nWatch the video, listen to the music, sing along and have fun learning alphabet! \nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Word song K  ---\n\nHello!\nMy name is Uppercase K. \nCall me Big K Big K.\n\nI am k, too.\nMy name is Lowercase k.\nCall me Small k Small k.\n\nWe are K,\nBig K! Big K! \nWe are k, \nSmall k! Small k!\n\nKANGAROO\nkangaroo\n\nKEY\nkey\n\nKING\nking\n\nKITTEN\nKitten\n\nKOALA\nkoala\n\nkite\nkite\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7TBYNFVGTqc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7TBYNFVGTqc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7TBYNFVGTqc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7TBYNFVGTqc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/7TBYNFVGTqc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7TBYNFVGTqc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/cLNaOnzbV9iFbexoSVRr5D6V4P4\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:51:20.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Story L - English Story - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishs...\nPhonics Story L - English Story -  Educational video for Kids\n\nHello! This is a new video of the Phonics series! Watch English stories, listen, Read aloud and have fun learning English!\nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Story L  ---\n\nDad : Let's go to the zoo!\n\nKevin : Look! A lazy lion on a log!\nWendy : Look! A little lizard on a leaf!\nAnnie : Look! A ladybug is on me!\n\nWendy : It’s time for lunch.\nKevin : I don't like lettuce.\nWendy : I'm thirsty.\n\nMom : Look! A lemonade stand is there.\nKevin : I love lemonade.\nWendy : This lemonade is great!\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nlZ9pNl_cnA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nlZ9pNl_cnA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nlZ9pNl_cnA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/nlZ9pNl_cnA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/nlZ9pNl_cnA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "nlZ9pNl_cnA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/F7rwSn2xDSXGHM4mKXKMeEQzosI\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:51:24.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Story K - English Story - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\nPhonics Story K - English Story -  Educational video for Kids\n\nHello! This is a new video of the Phonics series! Watch English stories, listen, Read aloud and have fun learning English!\nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Story K  ---\n\nKevin is the king in his room.\n \"I want my kite.\"\n\nKevin :  \"Can Kitten help the king?\"\nKevin :  \"Can Kangaroo help the king?\"\nKevin :  \"Can Koala help the king?\"\nKevin :  \"Who can help the king?\"\n\nMom : \"Kevin!\"\nKevin :  \"I want my kite.\"\nKevin :  \"Who can help the king?\"\nMom : \"Mom can help the king!\" \n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tHueqvy8RMI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tHueqvy8RMI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tHueqvy8RMI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tHueqvy8RMI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/tHueqvy8RMI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tHueqvy8RMI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/TVXbjB4ZEq-B2_8M1eHbhXyQPrw\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:51:27.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Word song I - English Songs - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\n\nPhonics Word song I - English Songs - Educational video for Kids\n\nWatch the video, listen to the music, sing along and have fun learning alphabet! \nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Word song I  ---\n\nHello!\nMy name is Uppercase I. \nCall me Big I Big I.\n\nI am i, too.\nMy name is Lowercase i.\nCall me Small i Small i.\n\nWe are I,\nBig I! Big I! \nWe are i, \nSmall i! Small i!\n\nBIG\nbig\n\nIGLOO\nigloo\n\nLITTLE\nlittle\n\nMILK\nmilk\n\nSIT\nsit\n\nSIX\nsix\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/O0IwY0qlgSs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/O0IwY0qlgSs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/O0IwY0qlgSs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/O0IwY0qlgSs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/O0IwY0qlgSs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "O0IwY0qlgSs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/hN3MUhNaPdejuodtW6B4eratKho\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:51:30.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Word song H - English Songs - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishs...\n\nPhonics Word song H - English Songs - Educational video for Kids\n\nWatch the video, listen to the music, sing along and have fun learning alphabet! \nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Word song H  ---\n\nHello!\nMy name is Uppercase H. \nCall me Big H Big H.\n\nI am h, too.\nMy name is Lowercase h.\nCall me Small h Small h.\n\nWe are H,\nBig H! Big H! \nWe are h, \nSmall h! Small h!\n\nHAMMER\nhammer\n\nHAMSTER\nhamster\n\nHAT\nhat\n\nHEART\nheart\n\nHOLE\nhole\n\nHOUSE\nhouse\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dKMNwK4uPBI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dKMNwK4uPBI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dKMNwK4uPBI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dKMNwK4uPBI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/dKMNwK4uPBI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dKMNwK4uPBI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/0Zz7Q1sGKJsOHPqLOIuAvD1bVB4\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:51:33.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Story J - English Story - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\nPhonics Story J - English Story -  Educational video for Kids\n\nHello! This is a new video of the Phonics series! Watch English stories, listen, Read aloud and have fun learning English!\nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Story J  ---\n\nMarket Day is in June.\nAnnie makes the best jam for sale.\n\nShe puts the jam in the jars.\nThen, Wendy joins. \nWendy : \"I can help.\"\n\nAnnie : \"Oh, my jeans!\"\nThe dog gets some jam.\nAnnie : \"No jumping here, Max!\"\n\nWendy puts some jars in her bag.\nAnnie : \"It's my jam!\"\nWendy : \"I know, and I helped.\"\n\nToday is Market Day.\nAnnie and Wendy enjoy selling the jam together.\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/C4M-Iz9aNII/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/C4M-Iz9aNII/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/C4M-Iz9aNII/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/C4M-Iz9aNII/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/C4M-Iz9aNII/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "C4M-Iz9aNII"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/5ruhSNdD6ra3gQa8u7CqaibPSkI\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:51:37.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Story I - English Story - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\nPhonics Story I - English Story -  Educational video for Kids\n\nHello! This is a new video of the Phonics series! Watch English stories, listen, Read aloud and have fun learning English!\nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Story I  ---\n\nThis is Tim and this is Pim. \nThey live in an igloo. \n\nThey are going to fish today. \nTim and Pim sit and fish.\nTim and Pim sip hot milk.\n\nOh, at last! A little fish! A big fish! A bigger fish!\nThey get six fish! \n\nThey come back to the igloo happily.\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1Ff-7c5ft9o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1Ff-7c5ft9o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1Ff-7c5ft9o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1Ff-7c5ft9o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/1Ff-7c5ft9o/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1Ff-7c5ft9o"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-U2aMU6-LKHT5OgkQlhcNf-zij4\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:52:07.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Story H - English Story - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\n\nPhonics Story H - English Story -  Educational video for Kids\n\nHello! This is a new video of the Phonics series! Watch English stories, listen, Read aloud and have fun learning English!\nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Story H  ---\n\nWhat are Dad and the kids doing?\n\nDad  is cutting the board. \nHe is hitting a nail with the hammer.\n“Dad, be careful of your hand!”\n\nDad is making a hole.\nWendy is hanging the lamp.\n\nTa-da!\nWhat a nice house!\nOh! It’s for the hamsters! \nThe hamster family is happy with the new house.\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yLmm5To38zY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yLmm5To38zY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yLmm5To38zY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/yLmm5To38zY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/yLmm5To38zY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "yLmm5To38zY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/lzSD1IqGiTmt4Op1JvdvlU8bSis\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:52:11.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Word song G - English Songs - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\n\nPhonics Word song G - English Songs - Educational video for Kids\n\nWatch the video, listen to the music, sing along and have fun learning alphabet! \nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Word song G  ---\n\nHello!\nMy name is Uppercase G. \nCall me Big G Big G.\n\nI am g, too.\nMy name is Lowercase g.\nCall me Small g Small g.\n\nWe are G,\nBig G! Big G! \nWe are g, \nSmall g! Small g!\n\nGAME\ngame\n\nGATE\ngate\n\nGIFT\ngift\n\nGIRL\ngirl\n\nGORILLA\ngorilla\n\nGOAT\ngoat\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wPr6VPhxBLQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wPr6VPhxBLQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wPr6VPhxBLQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wPr6VPhxBLQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/wPr6VPhxBLQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wPr6VPhxBLQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-aukZcEVkztkHso64__g5ewsc44\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:52:16.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Story G - English Story - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\n\nPhonics Story G - English Story -  Educational video for Kids\n\nHello! This is a new video of the Phonics series! Watch English stories, listen, Read aloud and have fun learning English!\nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Story G  ---\n\nThere is a big box for the girl. \nGirl: My birthday gift! \nGirl: Gorilla Board Game?\n\nGorilla : Welcome to Gorilla World!\nGorilla : Find a golden goat in the garden.\nGorilla : Open the gate! \n\nGirl : A golden goat in the garden. \nGirl : I found it! …No, it’s a golden deer.\nGirl : I found it! …A golden sheep.\n\nGirl : Wow! I found a golden goat!\nGirl : Phew, I’m back. This game is amazing!\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gYNRxDa793o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gYNRxDa793o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gYNRxDa793o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gYNRxDa793o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/gYNRxDa793o/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gYNRxDa793o"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/tvzjV0Ghydl7-J9MQszZXHgXCgU\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:52:19.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Word song F - English Songs - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\n\nPhonics Word song F - English Songs - Educational video for Kids\n\nWatch the video, listen to the music, sing along and have fun learning alphabet! \nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Word song F  ---\n\nHello!\nMy name is Uppercase F. \nCall me Big F Big F.\n\nI am f, too.\nMy name is Lowercase f.\nCall me Small f Small f.\n\nWe are F,\nBig F! Big F! \nWe are f, \nSmall f! Small f!\n\nFAN\nfan\n\nFIRE\nfire\n\nFIRE ENGINE\nfire engine\n\nFISH\nfish\n\nFOOT\nfoot\n\nFOX\nfox\n\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gGm4tz4HPTY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gGm4tz4HPTY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gGm4tz4HPTY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gGm4tz4HPTY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/gGm4tz4HPTY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gGm4tz4HPTY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/HoQbIJcoMo-wT6RQqa13gCl1GvU\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:52:23.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Story F - English Story - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\n\nPhonics Story F - English Story -  Educational video for Kids\n\nHello! This is a new video of the Phonics series! Watch English stories, listen, Read aloud and have fun learning English!\nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Story F  ---\n\n“Fire! Fire!”\n\nA fire engine is coming. \nNee-nar, nee-nar, nee-nar.\nOne, two, three, four, and five.\nThere are five fox firefighters.\n\n“My fish! My fish!”\n“My fingers!”\n“Oh, my foot!”\n“Look at my fan!”\n\n“Thank you firefighters!”\n“Always be careful with fire, little foxes!”\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GVfp0KFLvxI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GVfp0KFLvxI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GVfp0KFLvxI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/GVfp0KFLvxI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/GVfp0KFLvxI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "GVfp0KFLvxI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/xabdTAc3wG-za3ldHOObCdSjS1U\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS4yMUQyQTQzMjRDNzMyQTMy",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:52:27.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Word song E - English Songs - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsing9\n\nPhonics Word song E - English Songs - Educational video for Kids\n\nWatch the video, listen to the music, sing along and have fun learning alphabet! \nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Word song E  ---\n\nHello!\nMy name is Uppercase E. \nCall me Big E Big E.\n\nI am e, too.\nMy name is Lowercase e.\nCall me Small e Small e.\n\nWe are E,\nBig E! Big E! \nWe are e, \nSmall e! Small e!\n\nEGG\negg\n\nELEPHANT\nelephant\n\nELF\nelf\n\nELK\nelk\n\nHEN\nhen\n\nJET\njet\n\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LWqgzsspYg8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LWqgzsspYg8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LWqgzsspYg8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/LWqgzsspYg8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/LWqgzsspYg8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "LWqgzsspYg8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/rcq8kNmLrnyylttNs6rIEuzw2-A\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS45RTgxNDRBMzUwRjQ0MDhC",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:52:31.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Story E - English Story - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\n\nPhonics Story E - English Story -  Educational video for Kids\n\nHello! This is a new video of the Phonics series! Watch English stories, listen, Read aloud and have fun learning English!\nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Story E  ---\n\nKevin wants a jet.\n“Kevin!”\n\n\"I can get the money for a jet.\" \n\"Red hen, I want eggs, please.\" \n\n\"Egg, egg, egg, egg...!\"\nElf is getting some eggs.\nElephant gets some eggs. \nElk gets some eggs. \n\n“It's empty. And now, I can get a jet!” \n“No eggs? Oh, no! My jet!”\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/d8TmnH_hBko/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/d8TmnH_hBko/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/d8TmnH_hBko/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/d8TmnH_hBko/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/d8TmnH_hBko/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "d8TmnH_hBko"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/cjq5847pLQShNDnvDXLXSsboO-c\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS5ENDU4Q0M4RDExNzM1Mjcy",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:52:36.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Word song D - English Songs - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\n\nPhonics Word song D - English Songs - Educational video for Kids\n\nWatch the video, listen to the music, sing along and have fun learning alphabet! \nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Word song D  ---\n\nHello!\nMy name is Uppercase D. \nCall me Big D Big D.\n\nI am d, too.\nMy name is Lowercase d.\nCall me Small d Small d.\n\nWe are D,\nBig D! Big D! \nWe are d, \nSmall d! Small d!\n\nDAD\ndad\n\nDANCE\ndance\n\nDEER\ndeer\n\nDOG\ndog\n\nDOOR\ndoor\n\nDUCK\nduck\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HmqfkMAfzkk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HmqfkMAfzkk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HmqfkMAfzkk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/HmqfkMAfzkk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/HmqfkMAfzkk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HmqfkMAfzkk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/aD3SUFFXKWCjEZ1qyAfruA5mXpw\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS4yMDhBMkNBNjRDMjQxQTg1",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:52:40.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Story D - English Story - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing\n\nPhonics Story D - English Story -  Educational video for Kids\n\nHello! This is a new video of the Phonics series! Watch English stories, listen, Read aloud and have fun learning English!\nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Story D  ---\n\nA dog is sleeping deeply.\nA deer!\n\nA duck! ...and baby ducks.\nThe dog wants to dance with the ducks.\n\nBut the ducks want to dive.\n\nThe door opens.\nThe dog dances with Dad. \n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gv2On6AjPfA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gv2On6AjPfA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gv2On6AjPfA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gv2On6AjPfA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/gv2On6AjPfA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gv2On6AjPfA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/EyT1HUCrMfKDEJT3I9UriIPGnRQ\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS5GM0Q3M0MzMzY5NTJFNTdE",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:53:18.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Word song C - English Songs - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishs...\n\nPhonics Word song C - English Songs - Educational video for Kids\n\nWatch the video, listen to the music, sing along and have fun learning alphabet! \nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Word song C  ---\n\nHello!\nMy name is Uppercase C. \nCall me Big C Big C.\n\nI am c, too.\nMy name is Lowercase c.\nCall me Small c Small c.\n\nWe are C,\nBig C! Big C! \nWe are c, \nSmall c! Small c!\n\nCAKE\ncake\n\nCAP\ncap\n\nCAR\ncar\n\nCAT\ncat\n\nCOW\ncow\n\nCUP\ncup\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kMLJaDJIkYw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kMLJaDJIkYw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kMLJaDJIkYw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kMLJaDJIkYw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kMLJaDJIkYw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kMLJaDJIkYw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/h2jxFoLLmcVVVhDh0eLT4jsxf3g\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS4zRjM0MkVCRTg0MkYyQTM0",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:53:22.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Story C - English Story - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\n\nPhonics Story C - English Story -  Educational video for Kids\n\nHello! This is a new video of the Phonics series! Watch English stories, listen, Read aloud and have fun learning English!\nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Story C  ---\n\nThe cow gives milk.\n\"Good cow.\"\nThis cup is for the cat.\n\n A car is coming. \nThe car is too fast.\n\"Oh! My cap!\"\n\n\"Wendy! Come and eat some cake.\"\n\"Coming!\"\n\n\"I like cake.\"\nWendy goes back home with her cat.\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FgT6gvzZ_hU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FgT6gvzZ_hU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FgT6gvzZ_hU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FgT6gvzZ_hU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/FgT6gvzZ_hU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FgT6gvzZ_hU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/2Bwp9GYy32QqG_Z292CbkSzY5ck\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS45NzUwQkI1M0UxNThBMkU0",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:53:25.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Word song B - English Songs - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\n\nPhonics Word song B - English Songs - Educational video for Kids\n\nWatch the video, listen to the music, sing along and have fun learning alphabet! \nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Word song B  ---\n\nHello!\nMy name is Uppercase B. \nCall me Big B Big B.\n\nI am b, too.\nMy name is Lowercase b.\nCall me Small b Small b.\n\nWe are B,\nBig B! Big B! \nWe are b, \nSmall b! Small b!\n\nBALL\nball\n\nBASEBALL\nbaseball\n\nBASKETBALL\nbasketball\n\nBEAR\nbear\n\nBIRD\nbird\n\nBOX\nbox\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6tr6h8gd0Dk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6tr6h8gd0Dk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6tr6h8gd0Dk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6tr6h8gd0Dk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/6tr6h8gd0Dk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6tr6h8gd0Dk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9wo5UDvCNufeGxEifJvWYDPKcWQ\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS5DNzE1RjZEMUZCMjA0RDBB",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:53:28.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Story B - English Story - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\n\nPhonics Story B - English Story -  Educational video for Kids\n\nHello! This is a new video of the Phonics series! Watch English stories, listen, Read aloud and have fun learning English!\nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Story B  ---\n\nThere is a box.\n\nRabbits : Balls!\nRabbit 1: Let's play baseball. \nRabbit 2: Let's play basketball. \nRabbit 3: Let's play football.\n\nA bird cries, \"Bear! A big bear!\"\n\n\nThe bear can bounce a ball. \nThe bear can juggle the balls!\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/e6j7vyLtNNM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/e6j7vyLtNNM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/e6j7vyLtNNM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/e6j7vyLtNNM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/e6j7vyLtNNM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "e6j7vyLtNNM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/blk9mN2TqHGsfj8t9UWtyP9LDSU\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS43MTI1NDIwOTMwQjIxMzNG",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:53:31.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "English Singsing Phonics Story Preview - English Story Trailer｜2019. 07. 02. Upload",
+    "description": "https://www.youtube.com/user/englishsingsing9\nEnglish Singsing Phonics Story Preview - English Story Trailer｜2019. 07. 02. Upload\n\nHere is Great Educational Video for Every English learner!\nPlease enjoy watching fun & exciting English animation!\nEnjoy the video and expect an animation to be uploaded.\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n\n\n--- Title: English Singsing Phonics Story  ---\n\nCOMING SOON!\n(2019. 07. 02. Upload)\n\n\nThanks for checking out the \"English Singsing\".\nⓒ Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hDfPQsYMASQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hDfPQsYMASQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hDfPQsYMASQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hDfPQsYMASQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "hDfPQsYMASQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/MVcsZrKzItFueYOfmWcbc2ZnL9g\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:53:34.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Story A - English Story - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsing9\n\nPhonics Story A - English Story -  Educational video for Kids\n\nHello! This is a new video of the Phonics series! Watch English stories, listen, Read aloud and have fun learning English!\nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Story A  ---\n\nThis is Annie's apple tree.\nAnnie is on the mat.\nMax loves apples.\nAnts love apples, too.\nAnnie's cat is angry.\nDad is coming with a big bag.\nWow, snacks!\nMax loves snacks, too.\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9C1qj06xduo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9C1qj06xduo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9C1qj06xduo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/9C1qj06xduo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/9C1qj06xduo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9C1qj06xduo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/G0riHMdiDrQJotajP2vW_DPNHTI\"",
+   "id": "UExiXzFSUnhJWlRMSW9WZGowcVJ6Z0ZQRGhIUjFlSkZmVS4yQUE2Q0JEMTk4NTM3RTZC",
+   "snippet": {
+    "publishedAt": "2019-10-05T13:53:37.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Phonics Word song N - English Songs - Educational video for Kids",
+    "description": "https://www.youtube.com/user/englishsingsing9\n\nPhonics Word song N - English Songs - Educational video for Kids\n\nWatch the video, listen to the music, sing along and have fun learning alphabet! \nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n--- Phonics Word song N ---\n\nHello!\nMy name is Uppercase N. \nCall me Big N Big N.\n\nI am m, too.\nMy name is Lowercase n.\nCall me Small n Small n.\n\nWe are N,\nBig N! Big N! \nWe are n, \nSmall n! Small n!\n\nNAME\nname\n\nNAP\nnap\n\nNEST\nnest\n\nNET\nnet\n\nNINE\nnine\n\nNUT\nnut\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ivCOgN6poe4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ivCOgN6poe4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ivCOgN6poe4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ivCOgN6poe4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ivCOgN6poe4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ivCOgN6poe4"
+    }
+   }
+  }
+ ]
+}
