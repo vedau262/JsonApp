@@ -1,0 +1,775 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/g_o_NCjJ-nCtLhqZsbhe3skVB14\"",
+ "pageInfo": {
+  "totalResults": 17,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/LNDFuV4tGvBfOcmcJBqNEl78LXM\"",
+   "id": "UExQQTQ5UHozQkF4TlFhVzh0VHdjS1JLV0NCOHFBZjRLdi40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2018-12-05T11:27:37.000Z",
+    "channelId": "UCpYye8D5fFMUPf9nSfgd4bA",
+    "title": "Scary Witch's Magical Pot | Spooky Halloween Party | Halloween Songs | Halloween Cartoon | BabyBus",
+    "description": "BabyBus - Kids Songs & Nursery Rhymes ► https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA?sub_confirmation=1\nBabyBus | Halloween Songs | Trick or Treat? | Halloween Cartoon | Halloween Makeup | Halloween 2018:  https://www.youtube.com/playlist?list=PLPA49Pz3BAxOmxvn0dPtII1a0KGH05xv-\n\nScary Witch's Magical Pot | Spooky Halloween Party | Halloween Songs | Halloween Cartoon | BabyBus\n00:05 Scary Witch's Magical Pot\n02:10 Baby Panda's Halloween Makeup | Trick or Treat Song\n04:52 Scary Witch's Catching Pumpkins\n07:23 Daddy! Big Monsters Have Come \n10:50 Doctor Panda Cures Halloween Monsters | Halloween Monster Hospital\n12:33 I Love Halloween\n15:09 Halloween Party | Halloween Fire Truck, Halloween Ambulance, Halloween Police Car\n17:21 Baby Panda's Halloween Night \n19:45 Baby Kitten, It's Not A Monster\n 21:48 Halloween Monster Truck\n\nNursery rhymes in English, canciones en inglés para niños, Comptines en anglais, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak, barnvisorna på engelska, Músicas em inglês para crianças, Gyerekzene, Kinderlieder in Englisch, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese, Engelse kinderliedjes, Piosenki dla dzieci po angielsku, เพลงภาษาอังกฤษสำหรับเด็ก\n\nKids Cartoon, Мультик для детей, Cartoon d'enfants, Dibujos Animados Infantiles,Desenhos animados crianças, Phim hoạt hình trẻ em, Kartun Anak-Anak, 卡通, 动画, 動畫, การ์ตูนสำหรับเด็ก,Kinder Cartoon, बच्चों कार्टून, Kartun Kanak-kanak, Kinderen cartoon, Barntecknad, الرسوم المتحركة للأطفال\n\n#nurseryrhymes #kidssongs #babysongs #youtubecartoon #kidsvideos #cartoonforkids \n—————BabyBus—————\nAt BabyBus, our goal is to make learning a fun experience for kids aged 2 - 5 by creating classic nursery rhymes, kids songs and stories with 2D & 3D animations. Children get to learn good habits, safety knowledge, letters, colors, numbers and more by singing and dancing with our characters! Enjoy watching our videos!\n \nBabyBus helps children to:\n★ Think Independently \n★ Build Self-Confidence \n★ Respect Others\n★ Explore the World\n—————\nContact us:\nE-mail: en@babybus.com\nWebsite: http://www.babybus.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TSZzkYTdR_M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TSZzkYTdR_M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TSZzkYTdR_M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/TSZzkYTdR_M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/TSZzkYTdR_M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BabyBus - Kids Songs & Nursery Rhymes",
+    "playlistId": "PLPA49Pz3BAxNQaW8tTwcKRKWCB8qAf4Kv",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "TSZzkYTdR_M"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/138fREQrGHqO9lARugJAXEjpO6A\"",
+   "id": "UExQQTQ5UHozQkF4TlFhVzh0VHdjS1JLV0NCOHFBZjRLdi5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2018-12-05T11:27:37.000Z",
+    "channelId": "UCpYye8D5fFMUPf9nSfgd4bA",
+    "title": "Let’s Go Trick or Treating | Baby Panda's Naughty Halloween Night | Halloween Songs | BabyBus",
+    "description": "BabyBus - Kids Songs & Nursery Rhymes ► https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA?sub_confirmation=1\nBabyBus | Halloween Songs | Trick or Treat? | Halloween Cartoon | Halloween Makeup | Halloween 2018:  https://www.youtube.com/playlist?list=PLPA49Pz3BAxOmxvn0dPtII1a0KGH05xv-\n\n👻 Let’s Go Trick or Treating | Baby Panda's Naughty Halloween Night | Halloween Songs | BabyBus\n00:05 Let’s Go Trick or Treating | Halloween Night\n02:18 Halloween Monster Hospital \n04:01 Baby Panda's Halloween Night\n06:29 Action! Halloween Fire Truck | Halloween Party \n08:41 Baby Kitten's Bitten by Bad Mosquito \n11:15 🎃 Scary Halloween Party\n13:36 Scary Witch's Catching Pumpkins\n16:03 Cool Hamburger Vending Machine\n18:54 Donuts Love Dancing\n\nNursery rhymes in English, canciones en inglés para niños, Comptines en anglais, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak, barnvisorna på engelska, Músicas em inglês para crianças, Gyerekzene, Kinderlieder in Englisch, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese, Engelse kinderliedjes, Piosenki dla dzieci po angielsku, เพลงภาษาอังกฤษสำหรับเด็ก\n\nKids Cartoon, Мультик для детей, Cartoon d'enfants, Dibujos Animados Infantiles,Desenhos animados crianças, Phim hoạt hình trẻ em, Kartun Anak-Anak, 卡通, 动画, 動畫, การ์ตูนสำหรับเด็ก,Kinder Cartoon, बच्चों कार्टून, Kartun Kanak-kanak, Kinderen cartoon, Barntecknad, الرسوم المتحركة للأطفال\n\n#nurseryrhymes #kidssongs #babysongs #youtubecartoon #kidsvideos #cartoonforkids \n—————BabyBus—————\nAt BabyBus, our goal is to make learning a fun experience for kids aged 2 - 5 by creating classic nursery rhymes, kids songs and stories with 2D & 3D animations. Children get to learn good habits, safety knowledge, letters, colors, numbers and more by singing and dancing with our characters! Enjoy watching our videos!\n \nBabyBus helps children to:\n★ Think Independently \n★ Build Self-Confidence \n★ Respect Others\n★ Explore the World\n—————\nContact us:\nE-mail: en@babybus.com\nWebsite: http://www.babybus.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/t42dxvxTLZo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/t42dxvxTLZo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/t42dxvxTLZo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/t42dxvxTLZo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/t42dxvxTLZo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BabyBus - Kids Songs & Nursery Rhymes",
+    "playlistId": "PLPA49Pz3BAxNQaW8tTwcKRKWCB8qAf4Kv",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "t42dxvxTLZo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/QNA57qJXrjl9k91Wl5NQez8nCnY\"",
+   "id": "UExQQTQ5UHozQkF4TlFhVzh0VHdjS1JLV0NCOHFBZjRLdi5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2018-12-05T11:27:37.000Z",
+    "channelId": "UCpYye8D5fFMUPf9nSfgd4bA",
+    "title": "Halloween Monster Hospital | Doctor Pretend Play | Halloween Song | Halloween Cartoon | BabyBus",
+    "description": "BabyBus - Kids Songs & Nursery Rhymes ► https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA?sub_confirmation=1\nBabyBus | Halloween Songs | Trick or Treat? | Halloween Cartoon | Halloween Makeup | Halloween 2018:  https://www.youtube.com/playlist?list=PLPA49Pz3BAxOmxvn0dPtII1a0KGH05xv-\n\n There's a dark and spooky hospital with a monster doctor and a witch nurse. Don't worry, they are good at magic. BOO! All the germs are running away! \n\nDoctor Panda Cures Halloween Monsters | Doctor Pretend Play | Halloween Songs | Baby Panda Witch, Halloween Monster Hospital | Halloween | BabyBus\n00:05 Doctor Panda Cures Halloween Monsters,  Halloween Monster Hospital\n01:48 Doctor Panda Cures Baby Dinosaur's Toothache | Doctor Pretend Play\n05:04 Daddy! Big Monsters Have Come | Baby Kitten's Camping Trip \n08:35 Baby Kitten Pretend Play with Doctor Toys\n11:02 Baby Panda's Halloween Makeup | Trick or Treat Song\n13:44 Super Medical Rescue Team\n15:51 I Love Halloween\n18:28 Super Monster Truck Rescue Team\n21:08 Scary Witch's Catching Pumpkins\n23:35 Bad Wolf Grabs Baby Kitten's Lollipop\n\nNursery rhymes in English, canciones en inglés para niños, Comptines en anglais, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak, barnvisorna på engelska, Músicas em inglês para crianças, Gyerekzene, Kinderlieder in Englisch, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese, Engelse kinderliedjes, Piosenki dla dzieci po angielsku, เพลงภาษาอังกฤษสำหรับเด็ก\n\nKids Cartoon, Мультик для детей, Cartoon d'enfants, Dibujos Animados Infantiles,Desenhos animados crianças, Phim hoạt hình trẻ em, Kartun Anak-Anak, 卡通, 动画, 動畫, การ์ตูนสำหรับเด็ก,Kinder Cartoon, बच्चों कार्टून, Kartun Kanak-kanak, Kinderen cartoon, Barntecknad, الرسوم المتحركة للأطفال\n\n#babybus #babybussong #babybuscartoon #kidssong #babycartoon\n—————BabyBus—————\nAt BabyBus, our goal is to make learning a fun experience for kids aged 2 - 5 by creating classic nursery rhymes, kids songs and stories with 2D & 3D animations. Children get to learn good habits, safety knowledge, letters, colors, numbers and more by singing and dancing with our characters! Enjoy watching our videos!\n \nBabyBus helps children to:\n★ Think Independently \n★ Build Self-Confidence \n★ Respect Others\n★ Explore the World\n—————\nContact us:\nE-mail: en@babybus.com\nWebsite: http://www.babybus.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FRxTFQcERl8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FRxTFQcERl8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FRxTFQcERl8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FRxTFQcERl8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/FRxTFQcERl8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BabyBus - Kids Songs & Nursery Rhymes",
+    "playlistId": "PLPA49Pz3BAxNQaW8tTwcKRKWCB8qAf4Kv",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FRxTFQcERl8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/tDdoLp4rejsJFszyveTDvlJZ53c\"",
+   "id": "UExQQTQ5UHozQkF4TlFhVzh0VHdjS1JLV0NCOHFBZjRLdi4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2018-12-05T11:27:37.000Z",
+    "channelId": "UCpYye8D5fFMUPf9nSfgd4bA",
+    "title": "Little Heroes Chased Big Monster Away | Baby Kitten Family | Baby Cartoon | Halloween Song | BabyBus",
+    "description": "BabyBus - Kids Songs & Nursery Rhymes ► https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA?sub_confirmation=1\nBabyBus | Halloween Songs | Trick or Treat? | Halloween Cartoon | Halloween Makeup | Halloween 2018:  https://www.youtube.com/playlist?list=PLPA49Pz3BAxOmxvn0dPtII1a0KGH05xv-\n\nBOOM! There's a big monster! Baby Kitten Mimi and Timi are scared. Let's turn into superheros and chase the monster away!\n\nLittle Heroes Chased Big Monster Away | Baby Kitten Family | Baby Cartoon | Halloween Song | BabyBus\n00:05 Little Heroes Chased Big Monster Away\n02:11 Baby Kitten, It's Not A Monster\n05:22 Baby Kitten Got Scalded \n07:58 Baby Kitten's Hero Daddy\n10:32 Daddy Cat's Special Food\n14:08 A Big Earthquake Strikes in Baby Kitten's Home | Earthquake Safety Tips\n16:36 Run! The Biggest Monster is Coming\n18:40 Baby Kitten Pretend Play with Doctor Toys\n21:06 Big and Small\n24:17 Pirate Rudolph & Panda Police Officer\n27:01 Baby Panda's Halloween Night\n29:25 Baby Kitten Learns to Ride a Bike\n31:52 Johny Johny Yes Papa (Baby Kitten Version)\n\nNursery rhymes in English, canciones en inglés para niños, Comptines en anglais, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak, barnvisorna på engelska, Músicas em inglês para crianças, Gyerekzene, Kinderlieder in Englisch, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese, Engelse kinderliedjes, Piosenki dla dzieci po angielsku, เพลงภาษาอังกฤษสำหรับเด็ก\n\nKids Cartoon, Мультик для детей, Cartoon d'enfants, Dibujos Animados Infantiles,Desenhos animados crianças, Phim hoạt hình trẻ em, Kartun Anak-Anak, 卡通, 动画, 動畫, การ์ตูนสำหรับเด็ก,Kinder Cartoon, बच्चों कार्टून, Kartun Kanak-kanak, Kinderen cartoon, Barntecknad, الرسوم المتحركة للأطفال\n\n#babybus #babybussong #babybuscartoon #kidssong #babycartoon\n—————BabyBus—————\nAt BabyBus, our goal is to make learning a fun experience for kids aged 2 - 5 by creating classic nursery rhymes, kids songs and stories with 2D & 3D animations. Children get to learn good habits, safety knowledge, letters, colors, numbers and more by singing and dancing with our characters! Enjoy watching our videos!\n \nBabyBus helps children to:\n★ Think Independently \n★ Build Self-Confidence \n★ Respect Others\n★ Explore the World\n—————\nContact us:\nE-mail: en@babybus.com\nWebsite: http://www.babybus.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hQ4UkkL6d5c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hQ4UkkL6d5c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hQ4UkkL6d5c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hQ4UkkL6d5c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/hQ4UkkL6d5c/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BabyBus - Kids Songs & Nursery Rhymes",
+    "playlistId": "PLPA49Pz3BAxNQaW8tTwcKRKWCB8qAf4Kv",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "hQ4UkkL6d5c"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/dUw2EEAnuz9egKAM8LohauMFi1E\"",
+   "id": "UExQQTQ5UHozQkF4TlFhVzh0VHdjS1JLV0NCOHFBZjRLdi45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2018-12-05T11:27:37.000Z",
+    "channelId": "UCpYye8D5fFMUPf9nSfgd4bA",
+    "title": "Daddy! Big Monsters Have Come | Nursery Rhymes | Kids Songs | Kids Cartoon | BabyBus",
+    "description": "BabyBus - Kids Songs & Nursery Rhymes ► https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA?sub_confirmation=1\nBabyBus | Halloween Songs | Trick or Treat? | Halloween Cartoon | Halloween Makeup | Halloween 2018:  https://www.youtube.com/playlist?list=PLPA49Pz3BAxOmxvn0dPtII1a0KGH05xv-\n\nBaby Kitten Mimi and Timi are out camping with their parents. Timi is scared of the dark....What's that! Did you hear that? Is it a big scary monster? Let's find out.\n\nDaddy! Big Monsters Have Come | Nursery Rhymes | Kids Songs | Kids Cartoon | BabyBus\n00:05 Daddy! Big Monsters Have Come\n03:31 Run! The Biggest Monster is Coming!\n05:35 Scary Witch's Catching Pumpkins | Super Police Patrol Team \n08:06 Baby Kitten, It's Not A Monster\n11:17 🎃 Scary Halloween Party | Halloween Cartoon \n13:38 Pirate Rudolph Grabs Baby Crocodile's Surprise Egg\n16:22 Baby Kitten's Hero Daddy\n18:56 Super Panda Rescue Team in the Ocean\n22:21 Baby Panda's Skeleton  Dance\n25:44 Help! Baby Panda's Leg Hurt \n28:17 Baby Kitten's Ocean Adventure\n31:15 Halloween Monster Truck | Baby Panda Witch | Halloween Costumes\n\nNursery rhymes in English, canciones en inglés para niños, Comptines en anglais, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak, barnvisorna på engelska, Músicas em inglês para crianças, Gyerekzene, Kinderlieder in Englisch, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese, Engelse kinderliedjes, Piosenki dla dzieci po angielsku, เพลงภาษาอังกฤษสำหรับเด็ก\n\nKids Cartoon, Мультик для детей, Cartoon d'enfants, Dibujos Animados Infantiles,Desenhos animados crianças, Phim hoạt hình trẻ em, Kartun Anak-Anak, 卡通, 动画, 動畫, การ์ตูนสำหรับเด็ก,Kinder Cartoon, बच्चों कर्टून, Kartun Kanak-kanak, Kinderen cartoon, Barntecknad, الرسوم المتحركة للأطفال\n\n#babybus #babybussong #babybuscartoon #kidssong #babycartoon\n—————BabyBus—————\nAt BabyBus, our goal is to make learning a fun experience for kids aged 2 - 5 by creating classic nursery rhymes, kids songs and stories with 2D & 3D animations. Children get to learn good habits, safety knowledge, letters, colors, numbers and more by singing and dancing with our characters! Enjoy watching our videos!\n \nBabyBus helps children to:\n★ Think Independently \n★ Build Self-Confidence \n★ Respect Others\n★ Explore the World\n—————\nContact us:\nE-mail: en@babybus.com\nWebsite: http://www.babybus.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vivk2P6K-XY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vivk2P6K-XY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vivk2P6K-XY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/vivk2P6K-XY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/vivk2P6K-XY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BabyBus - Kids Songs & Nursery Rhymes",
+    "playlistId": "PLPA49Pz3BAxNQaW8tTwcKRKWCB8qAf4Kv",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vivk2P6K-XY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/D1YG83KUvyfsxGlicqyhSpZXmLo\"",
+   "id": "UExQQTQ5UHozQkF4TlFhVzh0VHdjS1JLV0NCOHFBZjRLdi5GM0Q3M0MzMzY5NTJFNTdE",
+   "snippet": {
+    "publishedAt": "2018-12-05T11:27:37.000Z",
+    "channelId": "UCpYye8D5fFMUPf9nSfgd4bA",
+    "title": "Who Took the Candy | Halloween Songs | Halloween Cartoon | Kids Songs | Nursery Rhymes | BabyBus",
+    "description": "BabyBus - Kids Songs & Nursery Rhymes ► https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA?sub_confirmation=1\nBabyBus | Halloween Songs | Trick or Treat? | Halloween Cartoon | Halloween Makeup | Halloween 2018:  https://www.youtube.com/playlist?list=PLPA49Pz3BAxOmxvn0dPtII1a0KGH05xv-\n\nWho Took the Candy | Halloween Songs | Halloween Cartoon | Kids Songs | Nursery Rhymes | BabyBus\n\nNursery rhymes in English, canciones en inglés para niños, Comptines en anglais, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak, barnvisorna på engelska, Músicas em inglês para crianças, Gyerekzene, Kinderlieder in Englisch, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese, Engelse kinderliedjes, Piosenki dla dzieci po angielsku, เพลงภาษาอังกฤษสำหรับเด็ก\n\nKids Cartoon, Мультик для детей, Cartoon d'enfants, Dibujos Animados Infantiles,Desenhos animados crianças, Phim hoạt hình trẻ em, Kartun Anak-Anak, 卡通, 动画, 動畫, การ์ตูนสำหรับเด็ก,Kinder Cartoon, बच्चों कार्टून, Kartun Kanak-kanak, Kinderen cartoon, Barntecknad, الرسوم المتحركة للأطفال\n\n#babybus #babybussong #babybuscartoon #kidssong #babycartoon\n—————BabyBus—————\nAt BabyBus, our goal is to make learning a fun experience for kids aged 2 - 5 by creating classic nursery rhymes, kids songs and stories with 2D & 3D animations. Children get to learn good habits, safety knowledge, letters, colors, numbers and more by singing and dancing with our characters! Enjoy watching our videos!\n \nBabyBus helps children to:\n★ Think Independently \n★ Build Self-Confidence \n★ Respect Others\n★ Explore the World\n—————\nContact us:\nE-mail: en@babybus.com\nWebsite: http://www.babybus.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bKio_s1KfM4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bKio_s1KfM4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bKio_s1KfM4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/bKio_s1KfM4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/bKio_s1KfM4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BabyBus - Kids Songs & Nursery Rhymes",
+    "playlistId": "PLPA49Pz3BAxNQaW8tTwcKRKWCB8qAf4Kv",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "bKio_s1KfM4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/QFkAqA7NLbYzXvl8O33gehwNpis\"",
+   "id": "UExQQTQ5UHozQkF4TlFhVzh0VHdjS1JLV0NCOHFBZjRLdi45NzUwQkI1M0UxNThBMkU0",
+   "snippet": {
+    "publishedAt": "2018-12-05T11:27:37.000Z",
+    "channelId": "UCpYye8D5fFMUPf9nSfgd4bA",
+    "title": "Pirate Dinosaurs Vs Halloween Monsters | Trick or Treat | Halloween Songs | Halloween | BabyBus",
+    "description": "BabyBus - Kids Songs & Nursery Rhymes ► https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA?sub_confirmation=1\nBabyBus | Halloween Songs | Trick or Treat? | Halloween Cartoon | Halloween Makeup | Halloween 2018:  https://www.youtube.com/playlist?list=PLPA49Pz3BAxOmxvn0dPtII1a0KGH05xv-\n\nPirate Dinosaurs Vs Halloween Monsters | Trick or Treat | Halloween Songs | Scary Witch | Halloween | BabyBus\n00:05 Pirate Dinosaurs Vs Halloween Monsters\n02:26 Baby Panda's Halloween Night\n05:00 Halloween Monster Hospital\n06:47 Little Heroes Chased Big Monster Away \n08:53 Pirate Rudolph Grabs Baby Crocodile's Surprise Eggs\n11:37 Daddy! Big Monsters Have Come | Baby Kitten's Camping Trip\n15:04 Scary Witch's Catching Pumpkins\n17:31 Whose Horn is The Best | Learn Animals, Dinosaur Song\n20:00 Pumpkin Monster, Go Away \n23:01 Let’s Go Trick or Treating\n25:15 T-Rex Loves Candy\n\nNursery rhymes in English, canciones en inglés para niños, Comptines en anglais, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak, barnvisorna på engelska, Músicas em inglês para crianças, Gyerekzene, Kinderlieder in Englisch, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese, Engelse kinderliedjes, Piosenki dla dzieci po angielsku, เพลงภาษาอังกฤษสำหรับเด็ก\n\nKids Cartoon, Мультик для детей, Cartoon d'enfants, Dibujos Animados Infantiles,Desenhos animados crianças, Phim hoạt hình trẻ em, Kartun Anak-Anak, 卡通, 动画, 動畫, การ์ตูนสำหรับเด็ก,Kinder Cartoon, बच्चों कार्टून, Kartun Kanak-kanak, Kinderen cartoon, Barntecknad, الرسوم المتحركة للأطفال\n\n#babybus #babybussong #babybuscartoon #kidssong #babycartoon\n—————BabyBus—————\nAt BabyBus, our goal is to make learning a fun experience for kids aged 2 - 5 by creating classic nursery rhymes, kids songs and stories with 2D & 3D animations. Children get to learn good habits, safety knowledge, letters, colors, numbers and more by singing and dancing with our characters! Enjoy watching our videos!\n \nBabyBus helps children to:\n★ Think Independently \n★ Build Self-Confidence \n★ Respect Others\n★ Explore the World\n—————\nContact us:\nE-mail: en@babybus.com\nWebsite: http://www.babybus.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KCKDfR_2MZs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KCKDfR_2MZs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KCKDfR_2MZs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/KCKDfR_2MZs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/KCKDfR_2MZs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BabyBus - Kids Songs & Nursery Rhymes",
+    "playlistId": "PLPA49Pz3BAxNQaW8tTwcKRKWCB8qAf4Kv",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "KCKDfR_2MZs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/5oYMB5w8pjBraE3fihgMXi8FPq8\"",
+   "id": "UExQQTQ5UHozQkF4TlFhVzh0VHdjS1JLV0NCOHFBZjRLdi5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2018-12-05T11:27:37.000Z",
+    "channelId": "UCpYye8D5fFMUPf9nSfgd4bA",
+    "title": "Baby Panda's Halloween Night | Halloween Cartoon | Halloween Makeup | Halloween Songs | BabyBus",
+    "description": "BabyBus - Kids Songs & Nursery Rhymes ► https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA?sub_confirmation=1\nBabyBus | Halloween Songs | Trick or Treat? | Halloween Cartoon | Halloween Makeup | Halloween 2018:  https://www.youtube.com/playlist?list=PLPA49Pz3BAxOmxvn0dPtII1a0KGH05xv-\n\nBaby Panda's Halloween Night | Halloween Cartoon | Halloween Makeup | Halloween Songs | BabyBus\n00:05 Baby Panda's Halloween Night  | Haunted House Adventure\n02:29 Daddy! Big Monsters Have Come | Baby Kitten's Camping Trip\n05:55 Scary Witch's Catching Pumpkins | Super Police Patrol Team\n08:27 🎃 Scary Halloween Party | Halloween Cartoon \n10:48 Run! The Biggest Monster is Coming\n12:51 Help! Baby Panda's Leg Hurt \n15:24 Pirate Rudolph Grabs Baby Crocodile's Surprise Egg\n18:08 Halloween Monster Truck\n20:37 Baby Kitten's Hero Daddy\n25:45 Baby Kitten, It's Not A Monster\n28:56 Baby Panda's Skeleton Dance\n\nNursery rhymes in English, canciones en inglés para niños, Comptines en anglais, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak, barnvisorna på engelska, Músicas em inglês para crianças, Gyerekzene, Kinderlieder in Englisch, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese, Engelse kinderliedjes, Piosenki dla dzieci po angielsku, เพลงภาษาอังกฤษสำหรับเด็ก\n\nKids Cartoon, Мультик для детей, Cartoon d'enfants, Dibujos Animados Infantiles,Desenhos animados crianças, Phim hoạt hình trẻ em, Kartun Anak-Anak, 卡通, 动画, 動畫, การ์ตูนสำหรับเด็ก,Kinder Cartoon, बच्चों कार्टून, Kartun Kanak-kanak, Kinderen cartoon, Barntecknad, الرسوم المتحركة للأطفال\n\n#babybus #babybussong #babybuscartoon #kidssong #babycartoon\n—————BabyBus—————\nAt BabyBus, our goal is to make learning a fun experience for kids aged 2 - 5 by creating classic nursery rhymes, kids songs and stories with 2D & 3D animations. Children get to learn good habits, safety knowledge, letters, colors, numbers and more by singing and dancing with our characters! Enjoy watching our videos!\n \nBabyBus helps children to:\n★ Think Independently \n★ Build Self-Confidence \n★ Respect Others\n★ Explore the World\n—————\nContact us:\nE-mail: en@babybus.com\nWebsite: http://www.babybus.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8jRZ_Hv6jKA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8jRZ_Hv6jKA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8jRZ_Hv6jKA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/8jRZ_Hv6jKA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/8jRZ_Hv6jKA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BabyBus - Kids Songs & Nursery Rhymes",
+    "playlistId": "PLPA49Pz3BAxNQaW8tTwcKRKWCB8qAf4Kv",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "8jRZ_Hv6jKA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/W8untfcBjDhEq_PaW-H3BlqtZao\"",
+   "id": "UExQQTQ5UHozQkF4TlFhVzh0VHdjS1JLV0NCOHFBZjRLdi41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2018-12-05T11:27:37.000Z",
+    "channelId": "UCpYye8D5fFMUPf9nSfgd4bA",
+    "title": "Scary Witch's Catching Pumpkins | Super Police Patrol Team | Halloween Songs | BabyBus Cartoon",
+    "description": "BabyBus - Kids Songs & Nursery Rhymes ► https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA?sub_confirmation=1\nBabyBus | Halloween Songs | Trick or Treat? | Halloween Cartoon | Halloween Makeup | Halloween 2018:\nhttps://www.youtube.com/playlist?list=PLPA49Pz3BAxOmxvn0dPtII1a0KGH05xv-\n\nOh my goodness! The scary witch is turning the pumpkins into jack-o'-lanterns! They should RUN AWAY right now! Please help them out, Police Patrol Team!\n\nScary Witch's Catching Pumpkins | Super Police Patrol Team | Halloween Songs | BabyBus Cartoon\n00:05 Scary Witch's Catching Pumpkins | Super Police Patrol Team\n02:32 Baby Kitten, It's Not A Monster\n05:43 Germs Go To The Halloween Party\n08:09 Rudolph Pirate Grabs Baby Crocodile's Surprise Egg\n10:53 Bad Wolf Stole Baby Kitten's Lollipop \n13:21 Help! Baby Panda's Leg Hurt | Kids Good Habits\n15:53 Baby Kitten's Hero Daddy\n18:28 Cool Hamburger Vending Machine | Ice Cream, Candy Song\n21:34 Monster Cars Got Injured\n24:30 Donuts Love Dancing\n26:55 Baby Panda's Amazing Car Toys\n29:19 Baby Kitten's Ocean Adventure\n\nNursery rhymes in English, canciones en inglés para niños, Comptines en anglais, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak, barnvisorna på engelska, Músicas em inglês para crianças, Gyerekzene, Kinderlieder in Englisch, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese, Engelse kinderliedjes, Piosenki dla dzieci po angielsku, เพลงภาษาอังกฤษสำหรับเด็ก\n\nKids Cartoon, Мультик для детей, Cartoon d'enfants, Dibujos Animados Infantiles,Desenhos animados crianças, Phim hoạt hình trẻ em, Kartun Anak-Anak, 卡通, 动画, 動畫, การ์ตูนสำหรับเด็ก,Kinder Cartoon, बच्चों कार्टून, Kartun Kanak-kanak, Kinderen cartoon, Barntecknad, الرسوم المتحركة للأطفال\n\n#babybus #halloweensongs #halloweencartoon #babybussong #babybuscartoon #kidssong #babycartoon\n\n—————BabyBus—————\nAt BabyBus, our goal is to make learning a fun experience for kids aged 2 - 5 by creating classic nursery rhymes, kids songs and stories with 2D & 3D animations. Children get to learn good habits, safety knowledge, letters, colors, numbers and more by singing and dancing with our characters! Enjoy watching our videos!\n \nBabyBus helps children to:\n★ Think Independently \n★ Build Self-Confidence \n★ Respect Others\n★ Explore the World\n—————\nContact us:\nE-mail: en@babybus.com\nWebsite: http://www.babybus.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/13NE_9xRAMw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/13NE_9xRAMw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/13NE_9xRAMw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/13NE_9xRAMw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/13NE_9xRAMw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BabyBus - Kids Songs & Nursery Rhymes",
+    "playlistId": "PLPA49Pz3BAxNQaW8tTwcKRKWCB8qAf4Kv",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "13NE_9xRAMw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/EWOz1cgllOI_6OJap2gd6mrhnO0\"",
+   "id": "UExQQTQ5UHozQkF4TlFhVzh0VHdjS1JLV0NCOHFBZjRLdi4yMUQyQTQzMjRDNzMyQTMy",
+   "snippet": {
+    "publishedAt": "2018-12-05T11:27:37.000Z",
+    "channelId": "UCpYye8D5fFMUPf9nSfgd4bA",
+    "title": "Baby Kitten Loves Halloween Candy | Cavity Germs' Halloween | Halloween Songs | Halloween | BabyBus",
+    "description": "BabyBus - Kids Songs & Nursery Rhymes ► https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA?sub_confirmation=1\nBabyBus | Halloween Songs | Trick or Treat? | Halloween Cartoon | Halloween Makeup | Halloween 2018:  https://www.youtube.com/playlist?list=PLPA49Pz3BAxOmxvn0dPtII1a0KGH05xv-\n\nBaby Kitten Loves Halloween Candy | Cavity Germs' Halloween | Halloween Songs | Halloween | BabyBus\n\nNursery rhymes in English, canciones en inglés para niños, Comptines en anglais, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak, barnvisorna på engelska, Músicas em inglês para crianças, Gyerekzene, Kinderlieder in Englisch, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese, Engelse kinderliedjes, Piosenki dla dzieci po angielsku, เพลงภาษาอังกฤษสำหรับเด็ก\n\nKids Cartoon, Мультик для детей, Cartoon d'enfants, Dibujos Animados Infantiles,Desenhos animados crianças, Phim hoạt hình trẻ em, Kartun Anak-Anak, 卡通, 动画, 動畫, การ์ตูนสำหรับเด็ก,Kinder Cartoon, बच्चों कार्टून, Kartun Kanak-kanak, Kinderen cartoon, Barntecknad, الرسوم المتحركة للأطفال\n\n#babybus #babybussong #babybuscartoon #kidssong #babycartoon\n—————BabyBus—————\nAt BabyBus, our goal is to make learning a fun experience for kids aged 2 - 5 by creating classic nursery rhymes, kids songs and stories with 2D & 3D animations. Children get to learn good habits, safety knowledge, letters, colors, numbers and more by singing and dancing with our characters! Enjoy watching our videos!\n \nBabyBus helps children to:\n★ Think Independently \n★ Build Self-Confidence \n★ Respect Others\n★ Explore the World\n—————\nContact us:\nE-mail: en@babybus.com\nWebsite: http://www.babybus.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Nglldei6MaE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Nglldei6MaE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Nglldei6MaE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Nglldei6MaE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Nglldei6MaE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BabyBus - Kids Songs & Nursery Rhymes",
+    "playlistId": "PLPA49Pz3BAxNQaW8tTwcKRKWCB8qAf4Kv",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Nglldei6MaE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/RQMCX9rxQ_wWkzcgrs_2w9hmos0\"",
+   "id": "UExQQTQ5UHozQkF4TlFhVzh0VHdjS1JLV0NCOHFBZjRLdi41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2018-12-05T11:27:37.000Z",
+    "channelId": "UCpYye8D5fFMUPf9nSfgd4bA",
+    "title": "🎃 Scary Halloween Party | Halloween Cartoon | Bad Germ Family | Halloween Songs | BabyBus",
+    "description": "BabyBus - Kids Songs & Nursery Rhymes ► https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA?sub_confirmation=1\nBabyBus | Halloween Songs | Trick or Treat? | Halloween Cartoon | Halloween Makeup | Halloween 2018:\nhttps://www.youtube.com/playlist?list=PLPA49Pz3BAxOmxvn0dPtII1a0KGH05xv-\n\nHelp! Baby Panda's Leg Hurt | Kids Good Habits | Doctor Pretend Play | Toddler Song | BabyBus:https://www.youtube.com/watch?v=jrXajKm5X1c\n\nWelcome to the hip hop Halloween party! Come on over and dance with the germ family in the hospital. Wow...look! There are pumpkins, witches, mummies, ghosts, zombies, a skeleton, and a vampire! And don't forget... the dragon! BOO!!\n\n🎃 Scary Halloween Party | Halloween Cartoon | Bad Germ Family | Halloween Songs | Trick or Treat Song | BabyBus\n00:05 🎃 Scary Halloween Party | Halloween Cartoon\n02:26 Run! The Biggest Monster is Coming\n04:29 Rudolph Pirate Grabs Baby Crocodile's Surprise Egg\n07:17 Bad Wolf Stole Baby Kitten's Lollipop \n09:45 Donuts Love Dancing\n12:11 Baby Kitten Likes to Jump\n14:56 Cool Hamburger Vending Machine | Ice Cream, Candy Song\n17:48 Baby Kitten Pretend Play with Doctor Toys | Doctor Song\n20:14 Baby Panda & Skeleton Dance\n23:37 Colored Candy Brothers\n25:49 Baby Kitten's Ocean Adventure\n\nNursery rhymes in English, canciones en inglés para niños, Comptines en anglais, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak, barnvisorna på engelska, Músicas em inglês para crianças, Gyerekzene, Kinderlieder in Englisch, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese, Engelse kinderliedjes, Piosenki dla dzieci po angielsku, เพลงภาษาอังกฤษสำหรับเด็ก\n\nKids Cartoon, Мультик для детей, Cartoon d'enfants, Dibujos Animados Infantiles,Desenhos animados crianças, Phim hoạt hình trẻ em, Kartun Anak-Anak, 卡通, 动画, 動畫, การ์ตูนสำหรับเด็ก,Kinder Cartoon, बच्चों कार्टून, Kartun Kanak-kanak, Kinderen cartoon, Barntecknad, الرسوم المتحركة للأطفال\n\n#babybus #babybussong #halloweensongs #halloweencartoon  #babybuscartoon #kidssong #babycartoon\n—————BabyBus—————\nAt BabyBus, our goal is to make learning a fun experience for kids aged 2 - 5 by creating classic nursery rhymes, kids songs and stories with 2D & 3D animations. Children get to learn good habits, safety knowledge, letters, colors, numbers and more by singing and dancing with our characters! Enjoy watching our videos!\n \nBabyBus helps children to:\n★ Think Independently \n★ Build Self-Confidence \n★ Respect Others\n★ Explore the World\n—————\nContact us:\nE-mail: en@babybus.com\nWebsite: http://www.babybus.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Vsjrux3K5UA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Vsjrux3K5UA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Vsjrux3K5UA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Vsjrux3K5UA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Vsjrux3K5UA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BabyBus - Kids Songs & Nursery Rhymes",
+    "playlistId": "PLPA49Pz3BAxNQaW8tTwcKRKWCB8qAf4Kv",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Vsjrux3K5UA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/V3Ul-b7qIKm0VCE-_zfbMv_eyXE\"",
+   "id": "UExQQTQ5UHozQkF4TlFhVzh0VHdjS1JLV0NCOHFBZjRLdi45RTgxNDRBMzUwRjQ0MDhC",
+   "snippet": {
+    "publishedAt": "2018-12-05T11:27:37.000Z",
+    "channelId": "UCpYye8D5fFMUPf9nSfgd4bA",
+    "title": "Action! Halloween Fire Truck | Halloween Party | Halloween Cartoon | Halloween Costumes | BabyBus",
+    "description": "BabyBus - Kids Songs & Nursery Rhymes ► https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA?sub_confirmation=1\nBabyBus | Halloween Songs | Trick or Treat? | Halloween Cartoon | Halloween Makeup | Halloween 2018:  https://www.youtube.com/playlist?list=PLPA49Pz3BAxOmxvn0dPtII1a0KGH05xv-\n\nAction! Halloween Fire Truck | Halloween Party | Halloween Cartoon | Halloween Costumes | BabyBus\n00:05 Action! Halloween Fire Truck | Halloween Party \n02:17 Run! The Biggest Monster is Coming\n04:20 Baby Panda's Halloween Makeup | Trick or Treat Song \n07:07 Super Monster Truck Rescue Team\n09:48 Halloween Monster Hospital | Doctor Pretend Play\n11:30 I Love Halloween\n14:07 Super Fire Truck | Firefighter Song\n16:18 Baby Panda's Halloween Night \n18:42 Monster Police Car\n21:11 Daddy! Big Monsters Have Come | Baby Kitten's Camping Trip\n24:37 A Big Earthquake Strikes in Baby Kitten's Home\n\nNursery rhymes in English, canciones en inglés para niños, Comptines en anglais, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak, barnvisorna på engelska, Músicas em inglês para crianças, Gyerekzene, Kinderlieder in Englisch, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese, Engelse kinderliedjes, Piosenki dla dzieci po angielsku, เพลงภาษาอังกฤษสำหรับเด็ก\n\nKids Cartoon, Мультик для детей, Cartoon d'enfants, Dibujos Animados Infantiles,Desenhos animados crianças, Phim hoạt hình trẻ em, Kartun Anak-Anak, 卡通, 动画, 動畫, การ์ตูนสำหรับเด็ก,Kinder Cartoon, बच्चों कार्टून, Kartun Kanak-kanak, Kinderen cartoon, Barntecknad, الرسوم المتحركة للأطفال\n\n#babybus #babybussong #babybuscartoon #kidssong #babycartoon\n—————BabyBus—————\nAt BabyBus, our goal is to make learning a fun experience for kids aged 2 - 5 by creating classic nursery rhymes, kids songs and stories with 2D & 3D animations. Children get to learn good habits, safety knowledge, letters, colors, numbers and more by singing and dancing with our characters! Enjoy watching our videos!\n \nBabyBus helps children to:\n★ Think Independently \n★ Build Self-Confidence \n★ Respect Others\n★ Explore the World\n—————\nContact us:\nE-mail: en@babybus.com\nWebsite: http://www.babybus.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tbGrjKZliZQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tbGrjKZliZQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tbGrjKZliZQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tbGrjKZliZQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/tbGrjKZliZQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BabyBus - Kids Songs & Nursery Rhymes",
+    "playlistId": "PLPA49Pz3BAxNQaW8tTwcKRKWCB8qAf4Kv",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tbGrjKZliZQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/K2PQApa1B6wrJy_xAs0S7aG1hEU\"",
+   "id": "UExQQTQ5UHozQkF4TlFhVzh0VHdjS1JLV0NCOHFBZjRLdi4zRjM0MkVCRTg0MkYyQTM0",
+   "snippet": {
+    "publishedAt": "2018-12-05T11:27:37.000Z",
+    "channelId": "UCpYye8D5fFMUPf9nSfgd4bA",
+    "title": "Halloween Finger Family Song | Scary Witch | Trick or Treat | Halloween Songs | Halloween | BabyBus",
+    "description": "BabyBus - Kids Songs & Nursery Rhymes ► https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA?sub_confirmation=1\nBabyBus | Halloween Songs | Trick or Treat? | Halloween Cartoon | Halloween Makeup | Halloween 2018:  https://www.youtube.com/playlist?list=PLPA49Pz3BAxOmxvn0dPtII1a0KGH05xv-\n\nHalloween Finger Family Song | Scary Witch | Trick or Treat | Halloween Songs | Halloween | BabyBus\n\nNursery rhymes in English, canciones en inglés para niños, Comptines en anglais, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak, barnvisorna på engelska, Músicas em inglês para crianças, Gyerekzene, Kinderlieder in Englisch, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese, Engelse kinderliedjes, Piosenki dla dzieci po angielsku, เพลงภาษาอังกฤษสำหรับเด็ก\n\nKids Cartoon, Мультик для детей, Cartoon d'enfants, Dibujos Animados Infantiles,Desenhos animados crianças, Phim hoạt hình trẻ em, Kartun Anak-Anak, 卡通, 动画, 動畫, การ์ตูนสำหรับเด็ก,Kinder Cartoon, बच्चों कार्टून, Kartun Kanak-kanak, Kinderen cartoon, Barntecknad, الرسوم المتحركة للأطفال\n\n#babybus #babybussong #babybuscartoon #kidssong #babycartoon\n—————BabyBus—————\nAt BabyBus, our goal is to make learning a fun experience for kids aged 2 - 5 by creating classic nursery rhymes, kids songs and stories with 2D & 3D animations. Children get to learn good habits, safety knowledge, letters, colors, numbers and more by singing and dancing with our characters! Enjoy watching our videos!\n \nBabyBus helps children to:\n★ Think Independently \n★ Build Self-Confidence \n★ Respect Others\n★ Explore the World\n—————\nContact us:\nE-mail: en@babybus.com\nWebsite: http://www.babybus.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5ihPfRcxI2w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5ihPfRcxI2w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5ihPfRcxI2w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/5ihPfRcxI2w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/5ihPfRcxI2w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BabyBus - Kids Songs & Nursery Rhymes",
+    "playlistId": "PLPA49Pz3BAxNQaW8tTwcKRKWCB8qAf4Kv",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "5ihPfRcxI2w"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/JSbkEt5sqgkqtWBILRZastMho1o\"",
+   "id": "UExQQTQ5UHozQkF4TlFhVzh0VHdjS1JLV0NCOHFBZjRLdi4yMDhBMkNBNjRDMjQxQTg1",
+   "snippet": {
+    "publishedAt": "2018-12-05T11:27:37.000Z",
+    "channelId": "UCpYye8D5fFMUPf9nSfgd4bA",
+    "title": "🎃 I Love Halloween | Baby Panda's Halloween Costume Show | Halloween Songs | Baby Cartoon | BabyBus",
+    "description": "BabyBus - Kids Songs & Nursery Rhymes ► https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA?sub_confirmation=1\nBabyBus | Halloween Songs | Trick or Treat? | Halloween Cartoon | Halloween Makeup | Halloween 2018:  https://www.youtube.com/playlist?list=PLPA49Pz3BAxOmxvn0dPtII1a0KGH05xv-\n\nI Love Halloween | Baby Panda's Halloween Costume Show | Halloween Songs | Baby Cartoon | BabyBus\n00:05 I Love Halloween | Baby Panda's Halloween Costume Show\n02:41 Baby Panda's Halloween Makeup | Trick or Treat Song\n05:24 Daddy! Big Monsters Have Come\n08:54 🎃 Scary Halloween Party | Halloween Cartoon \n11:15 Run away! Hamburgers!\n14:22 Scary Witch's Catching Pumpkins | Super Police Patrol Team\n16:49 Baby Panda's Candy Shop\n19:05 Baby Kitten, It's Not a Monster\n21:08 Baby Panda's Halloween Night\n23:32 Pirate Rudolph Grabs Baby Crocodile's Surprise Egg\n26:16 Halloween Monster Truck | Baby Panda Witch\n28:45 Monster Police  Car\n31:14 Baby Panda's Skeleton Dance\n\nNursery rhymes in English, canciones en inglés para niños, Comptines en anglais, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak, barnvisorna på engelska, Músicas em inglês para crianças, Gyerekzene, Kinderlieder in Englisch, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese, Engelse kinderliedjes, Piosenki dla dzieci po angielsku, เพลงภาษาอังกฤษสำหรับเด็ก\n\nKids Cartoon, Мультик для детей, Cartoon d'enfants, Dibujos Animados Infantiles,Desenhos animados crianças, Phim hoạt hình trẻ em, Kartun Anak-Anak, 卡通, 动画, 動畫, การ์ตูนสำหรับเด็ก,Kinder Cartoon, बच्चों कार्टून, Kartun Kanak-kanak, Kinderen cartoon, Barntecknad, الرسوم المتحركة للأطفال\n\n#babybus #babybussong #babybuscartoon #kidssong #babycartoon\n—————BabyBus—————\nAt BabyBus, our goal is to make learning a fun experience for kids aged 2 - 5 by creating classic nursery rhymes, kids songs and stories with 2D & 3D animations. Children get to learn good habits, safety knowledge, letters, colors, numbers and more by singing and dancing with our characters! Enjoy watching our videos!\n \nBabyBus helps children to:\n★ Think Independently \n★ Build Self-Confidence \n★ Respect Others\n★ Explore the World\n—————\nContact us:\nE-mail: en@babybus.com\nWebsite: http://www.babybus.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uP4YdW1Hb3o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uP4YdW1Hb3o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uP4YdW1Hb3o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/uP4YdW1Hb3o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/uP4YdW1Hb3o/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BabyBus - Kids Songs & Nursery Rhymes",
+    "playlistId": "PLPA49Pz3BAxNQaW8tTwcKRKWCB8qAf4Kv",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "uP4YdW1Hb3o"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/UsUhQJgysxZxWDHagAg4cBZBE6M\"",
+   "id": "UExQQTQ5UHozQkF4TlFhVzh0VHdjS1JLV0NCOHFBZjRLdi5ENDU4Q0M4RDExNzM1Mjcy",
+   "snippet": {
+    "publishedAt": "2018-12-05T11:27:37.000Z",
+    "channelId": "UCpYye8D5fFMUPf9nSfgd4bA",
+    "title": "Baby Panda's Halloween Makeup | Trick or Treat Song | Halloween Costume | Halloween Song | BabyBus",
+    "description": "BabyBus - Kids Songs & Nursery Rhymes ► https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA?sub_confirmation=1\nBabyBus | Halloween Songs | Trick or Treat? | Halloween Cartoon | Halloween Makeup | Halloween 2018:  https://www.youtube.com/playlist?list=PLPA49Pz3BAxOmxvn0dPtII1a0KGH05xv-\n\nBaby Panda's Halloween Makeup | Trick or Treat Song | Halloween Costume | Halloween Song | BabyBus\n00:05 Baby Panda's Halloween Makeup | Trick or Treat Song\n02:47 Baby Panda's Candy Shop\n05:03 Daddy! Big Monsters Have Come | Baby Kitten's Camping Trip\n08:34 Cool Hamburger Vending Machine\n11:25 🎃 Scary Halloween Party | Halloween Cartoon\n13:46 Magical Ice Cream Robot Vending Machine | Baby Kitten Loves Ice Creams\n16:31 Scary Witch's Catching Pumpkins\n18:58 Five  Colored Candies\n22:33 Baby Panda's Halloween Night \n24:57 Baby Kitten, It's Not A Monster\n28:08 Baby Kitten's Skeleton Dance\n31:31 Halloween Monster Truck | Baby Panda Witch \n\nNursery rhymes in English, canciones en inglés para niños, Comptines en anglais, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak, barnvisorna på engelska, Músicas em inglês para crianças, Gyerekzene, Kinderlieder in Englisch, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese, Engelse kinderliedjes, Piosenki dla dzieci po angielsku, เพลงภาษาอังกฤษสำหรับเด็ก\n\nKids Cartoon, Мультик для детей, Cartoon d'enfants, Dibujos Animados Infantiles,Desenhos animados crianças, Phim hoạt hình trẻ em, Kartun Anak-Anak, 卡通, 动画, 動畫, การ์ตูนสำหรับเด็ก,Kinder Cartoon, बच्चों कार्टून, Kartun Kanak-kanak, Kinderen cartoon, Barntecknad, الرسوم المتحركة للأطفال\n\n#babybus #babybussong #babybuscartoon #kidssong #babycartoon\n—————BabyBus—————\nAt BabyBus, our goal is to make learning a fun experience for kids aged 2 - 5 by creating classic nursery rhymes, kids songs and stories with 2D & 3D animations. Children get to learn good habits, safety knowledge, letters, colors, numbers and more by singing and dancing with our characters! Enjoy watching our videos!\n \nBabyBus helps children to:\n★ Think Independently \n★ Build Self-Confidence \n★ Respect Others\n★ Explore the World\n—————\nContact us:\nE-mail: en@babybus.com\nWebsite: http://www.babybus.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Pnh2ziE19g0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Pnh2ziE19g0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Pnh2ziE19g0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Pnh2ziE19g0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Pnh2ziE19g0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BabyBus - Kids Songs & Nursery Rhymes",
+    "playlistId": "PLPA49Pz3BAxNQaW8tTwcKRKWCB8qAf4Kv",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Pnh2ziE19g0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/pKxyFeefd3hm0HzBI7kyOjCodAA\"",
+   "id": "UExQQTQ5UHozQkF4TlFhVzh0VHdjS1JLV0NCOHFBZjRLdi5DNzE1RjZEMUZCMjA0RDBB",
+   "snippet": {
+    "publishedAt": "2018-12-05T11:27:37.000Z",
+    "channelId": "UCpYye8D5fFMUPf9nSfgd4bA",
+    "title": "Halloween Monster Truck | Baby Panda Witch | Halloween Costumes  | Halloween Songs | BabyBus",
+    "description": "BabyBus - Kids Songs & Nursery Rhymes ► https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA?sub_confirmation=1\nBabyBus | Halloween Songs | Trick or Treat? | Halloween Cartoon | Halloween Makeup | Halloween 2018:  https://www.youtube.com/playlist?list=PLPA49Pz3BAxOmxvn0dPtII1a0KGH05xv-\n\nVroom Vroom BOO! The spooky vampire, scary pirate, creepy mummy, and the floating ghost trucks are all ready for the TRUCK-o-treat tonight! Are you ready?\n\nHalloween Monster Truck | Baby Panda Witch | Halloween Costumes  | Halloween Songs | BabyBus\n00:05 Halloween Monster Truck | Baby Panda Witch \n02:34 Super Monster Truck Rescue Team\n05:15 Bad Wolf Stole Baby Kitten's Lollipop\n07:47 Super Train Rescue Team\n10:36 Run away! Hamburgers!\n13:42 A Big Earthquake Strikes in Baby Kitten's Home | Super Firefighter Rescue Team\n16:11 Scary Witch's Catching Pumpkins | Super Police Patrol Team\n18:38 Super Medical Rescue Team\n20:45 Monster Truck Got Injured\n23:41 Monster Police Car\n26:09 Super Fire Truck\n28:21 Baby Panda Drops into The Dino World\n\nNursery rhymes in English, canciones en inglés para niños, Comptines en anglais, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak, barnvisorna på engelska, Músicas em inglês para crianças, Gyerekzene, Kinderlieder in Englisch, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese, Engelse kinderliedjes, Piosenki dla dzieci po angielsku, เพลงภาษาอังกฤษสำหรับเด็ก\n\nKids Cartoon, Мультик для детей, Cartoon d'enfants, Dibujos Animados Infantiles,Desenhos animados crianças, Phim hoạt hình trẻ em, Kartun Anak-Anak, 卡通, 动画, 動畫, การ์ตูนสำหรับเด็ก,Kinder Cartoon, बच्चों कार्टून, Kartun Kanak-kanak, Kinderen cartoon, Barntecknad, الرسوم المتحركة للأطفال\n\n#halloween #halloweensongs #halloweencartoon #babybus #babybussong #babybuscartoon #kidssong #babycartoon\n—————BabyBus—————\nAt BabyBus, our goal is to make learning a fun experience for kids aged 2 - 5 by creating classic nursery rhymes, kids songs and stories with 2D & 3D animations. Children get to learn good habits, safety knowledge, letters, colors, numbers and more by singing and dancing with our characters! Enjoy watching our videos!\n \nBabyBus helps children to:\n★ Think Independently \n★ Build Self-Confidence \n★ Respect Others\n★ Explore the World\n—————\nContact us:\nE-mail: en@babybus.com\nWebsite: http://www.babybus.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/W3TgDeLzn7o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/W3TgDeLzn7o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/W3TgDeLzn7o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/W3TgDeLzn7o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/W3TgDeLzn7o/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BabyBus - Kids Songs & Nursery Rhymes",
+    "playlistId": "PLPA49Pz3BAxNQaW8tTwcKRKWCB8qAf4Kv",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "W3TgDeLzn7o"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/8sN8hyJaF1nggbLNQl4_62NSe4k\"",
+   "id": "UExQQTQ5UHozQkF4TlFhVzh0VHdjS1JLV0NCOHFBZjRLdi43MTI1NDIwOTMwQjIxMzNG",
+   "snippet": {
+    "publishedAt": "2019-10-16T02:10:58.000Z",
+    "channelId": "UCpYye8D5fFMUPf9nSfgd4bA",
+    "title": "Trick or Treat Song | Halloween Song | Monster Truck | Kids Songs | Kids Cartoon | BabyBus",
+    "description": "BabyBus - Kids Songs & Nursery Rhymes ► https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA?sub_confirmation=1\n1. BabyBus | Baby Kitten Songs & Stories | Kitten Mimi & Timi | The Kitten Family https://www.youtube.com/playlist?list=PLPA49Pz3BAxMij3WcTEofh-Xwh-rKy7O7\n2. BabyBus | Monster Truck | Fire Truck, Police Car, Ambulance | Cars for Kids | Kids Songs: https://www.youtube.com/playlist?list=PLPA49Pz3BAxPhoiHA-0vIszBb6s9c09cA\n3. Popular Kids Songs & Nursery Rhymes Compilations - by BabyBus: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNtMM51uLT9WSlkrkELgpyn\n\nTrick or Treat Song | Halloween Song | Monster Truck | Kids Songs | Kids Cartoon | BabyBus\n00:05 Trick or Treat Song | Halloween Song\n02:18 Scary Witch's Magical Pot | Halloween Party | Halloween Cartoon\n04:23 Baby Kitten, It's Not A Monster\n06:30 Baby Panda's Halloween Makeup | Halloween Costume \n09:12 Five Little Cars Got Hurt | Doctor Cartoon, Police Cartoon\n11:53 Halloween Party | Fire Truck, Ambulance, Police Car\n14:05 Baby Kitten's Special Recipe | Food Song\n16:39 Who Took the Donuts? | Baby Panda Detective | Ice Cream\n19:52 Ambulance Rescue Team | Doctor Cartoon, Fire Truck\n\nNursery rhymes in English, canciones en inglés para niños, Comptines en anglais, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak, barnvisorna på engelska, Músicas em inglês para crianças, Gyerekzene, Kinderlieder in Englisch, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese, Engelse kinderliedjes, Piosenki dla dzieci po angielsku, เพลงภาษาอังกฤษสำหรับเด็ก\n\nKids Cartoon, Мультик для детей, Cartoon d'enfants, Dibujos Animados Infantiles,Desenhos animados crianças, Phim hoạt hình trẻ em, Kartun Anak-Anak, 卡通, 动画, 動畫, การ์ตูนสำหรับเด็ก,Kinder Cartoon, बच्चों कार्टून, Kartun Kanak-kanak, Kinderen cartoon, Barntecknad, الرسوم المتحركة للأطفال\n\n#nurseryrhymes #kidssongs #babysongs #youtubecartoon #kidsvideos #cartoonforkids \n—————BabyBus—————\nAt BabyBus, our goal is to make learning a fun experience for kids aged 2 - 5 by creating classic nursery rhymes, kids songs and stories with 2D & 3D animations. Children get to learn good habits, safety knowledge, letters, colors, numbers and more by singing and dancing with our characters! Enjoy watching our videos!\n \nBabyBus helps children to:\n★ Think Independently \n★ Build Self-Confidence \n★ Respect Others\n★ Explore the World\n—————\nContact us:\nE-mail: en@babybus.com\nWebsite: http://www.babybus.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1r-fc07GZCY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1r-fc07GZCY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1r-fc07GZCY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1r-fc07GZCY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/1r-fc07GZCY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BabyBus - Kids Songs & Nursery Rhymes",
+    "playlistId": "PLPA49Pz3BAxNQaW8tTwcKRKWCB8qAf4Kv",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1r-fc07GZCY"
+    }
+   }
+  }
+ ]
+}
