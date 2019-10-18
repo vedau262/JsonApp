@@ -1,5 +1,13 @@
 	[	
 		{	
+			"LIST_VIDEO_NAME": "BabyBus | Halloween Songs",
+			"LIST_VIDEO_SIZE": "17",
+			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDIsK43v8lq7XK5FzTM1dGKB1D9TQ7rtXkrWhnjcCCFtCWzep4Pw",
+			"LIST_VIDEO_ID": "PLPA49Pz3BAxNQaW8tTwcKRKWCB8qAf4Kv",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/BabyBus%20%7C%20Halloween%20Songs",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/uyu0bgumfymqe8l/BabyBus%20_%20Halloween%20Songs.txt?dl=1"			
+		},
+		{	
 			"LIST_VIDEO_NAME": "Learn to Count the Little Ducks",
 			"LIST_VIDEO_SIZE": "20",
 			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDIsK43v8lq7XK5FzTM1dGKB1D9TQ7rtXkrWhnjcCCFtCWzep4Pw",
@@ -35,7 +43,7 @@
 			"LIST_VIDEO_NAME": "Christmas Songs for Kids",
 			"LIST_VIDEO_SIZE": "12",
 			"LIST_VIDEO_ICON": "https://m.media-amazon.com/images/I/61i0wNpbZGL._AA256_.jpg",
-			"LIST_VIDEO_ID": "PLb_1RRxIZTLJzoU2QZVsG-N0_StUrY3H6",			
+			"LIST_VIDEO_ID": "PLb_1RRxIZTLJeg9AC_xCrYYqDyEiMeIqp",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Christmas%20Songs%20for%20Kids",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/bt1ynk9e1j830ko/Christmas%20Songs%20for%20Kids.txt?dl=1"		
 		},
