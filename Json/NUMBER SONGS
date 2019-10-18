@@ -1,0 +1,775 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/J9MkvFfvSX_MHW1Sor9RFi__43c\"",
+ "pageInfo": {
+  "totalResults": 17,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/CbFQDCpeS9vT-cXc5akxhVVjgMM\"",
+   "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2019-10-05T14:19:46.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "The Numbers Song - Learn To Count from 1 to 10 - Number Rhymes For Children",
+    "description": "The Numbers Song - Learn To Count from 1 to 10 - Number Rhymes For Children\n\nMake your kids learn Numbers with the beats! Learn to count with ChuChuTV Numbers Song.\n\n============================================\nMusic and Lyrics: Copyright 2016 ChuChu TV™ Studios\nVideo: Copyright 2016 ChuChu TV™ Studios\n============================================",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ea5-SIe5l7M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ea5-SIe5l7M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ea5-SIe5l7M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ea5-SIe5l7M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ea5-SIe5l7M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ea5-SIe5l7M"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/GFD4mVXdjbk_kHCBJfFhKebRJxY\"",
+   "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2019-10-05T14:20:14.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Numbers Song 1-100 | CoCoMelon Nursery Rhymes & Kids Songs",
+    "description": "Subscribe for new videos every week: https://www.youtube.com/c/cocomelon?sub_confirmation=1\n\nEnjoy our other nursery rhymes and kids songs:\nPlease and Thank You https://youtu.be/ANChOA4SyL0\nABC Phonics Song https://youtu.be/wSSlwtED2Yg\nI'm Sorry/Excuse Me Song https://youtu.be/BG7oqAQsv-k\nClean Up Song https://youtu.be/v1rBxf4VgaA\nSharing Song https://youtu.be/96fq4YmYjzQ\nHappy Birthday Song https://youtu.be/ho08YLYDM88\nOur Original ABC Song https://youtu.be/_UR-l3QI2nE\n\n'Sound Effects by http://audiomicro.com/sound-effects'\n\nAbout Cocomelon:\n\nWhere kids can be happy and smart!\n\nAt Cocomelon, our goal is to help make learning a fun and enjoyable experience for kids by creating beautiful 3D animation, educational lyrics, and toe-tapping music. \n\nKids will laugh, dance, sing, and play along with our videos, learning letters, numbers, animal sounds, colors, and much, much more while simply enjoying our friendly characters and fun stories.\n\nWe also make life easier for parents who want to keep their kids happily entertained, giving you the peace of mind that your children are receiving quality educational content.  Our videos also give you an opportunity to teach and play with your children as you both watch!\n\nWEBSITE: http://www.Cocomelon.com\nFACEBOOK: https://www.facebook.com/Cocomelonkids\nINSTAGRAM: https://www.instagram.com/cocomelon_official/\nTWITTER: https://www.twitter.com/Cocomelonkids\n\n\nCopyright © Treasure Studio, Inc. All rights reserved.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MIE2OPEHYLE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MIE2OPEHYLE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MIE2OPEHYLE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/MIE2OPEHYLE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/MIE2OPEHYLE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MIE2OPEHYLE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/r5oADq2sbeydBXM3aU61WdVVd1k\"",
+   "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2019-10-05T14:20:18.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Numbers Song 1 to 30 | 3D Rhymes | Learning Number For Kids by Farmees",
+    "description": "Numbers Song 1 to 30 by Farmees is a nursery rhymes channel for kindergarten children.These kids songs are great for learning alphabets, numbers, shapes, colors and lot more. We are a one stop shop for your children to learn nursery rhymes. Subscribe to our channel and be the first to watch our latest fun kids learning animations!\n🌈 Share this video - Numbers Song 1 to 30 is a video for children in kindergarten! Here’s the link: https://youtu.be/tPNqkvPqyNU\n🌈 Subscribe for free now to get notified about new videos - https://www.youtube.com/farmees?sub_confirmation=1\nFarmees Nursery Rhymes Kids Songs - https://www.youtube.com/watch?v=hRz4vATtsho&list=PLt4czMqZnUQDw3yQsXFJEoISHRYc_clib\n\nIf you enjoyed this collection, you may also like these compilations:\n⭐️Ten In The Bed - https://www.youtube.com/watch?v=LTFqv4fqQd0\n⭐️Wheels On The Bus Go Round And Round - https://www.youtube.com/watch?v=VETaioDYfLY\n⭐️Rig A JIg JIg - https://www.youtube.com/watch?v=BVXlLhgyaHk\n⭐️If You Are Happy And You Know It - https://www.youtube.com/watch?v=F1fp_MoEewM\n⭐️The Wheels On The Bus - https://www.youtube.com/watch?v=toBBWoirzbg\n⭐️Old MacDonald Had A Farm - https://www.youtube.com/watch?v=MzBaHK-LdtA\n⭐️Humpty Dumpty - https://www.youtube.com/watch?v=qtZd2_m3i-M\n⭐️Hokey Pokey - https://www.youtube.com/watch?v=i5tG0iYpdWw\n⭐️Five Little Ducks - https://www.youtube.com/watch?v=OTUg_4TvCWY\n⭐️Wheels On The Bus Go Round And Round - https://www.youtube.com/watch?v=ADosXS9sunY\n⭐️Animal Sound Videos For Kids - https://www.youtube.com/watch?v=xgwvX9yakqE\n⭐️Jingle Bells Jingle Bells - https://www.youtube.com/watch?v=WX12p9a5bGs\n⭐️Wheels On The Bus Songs (Color Bus For Kids) - https://www.youtube.com/watch?v=9hORf4KA3-M\n⭐️Five Little Monkeys Jumping On The Bed - https://www.youtube.com/watch?v=xDbvz8k7oN8\n⭐️Purple Wheels On The Bus Go Round And Round - https://www.youtube.com/watch?v=i7lxeX3EsNw\nNursery rhymes and kid’s songs accelerate phonetic awareness improving children's word comprehension, reading and writing skills. These rhymes for children help teach basic skills and improves their ability to comprehend and follow directions.\n\nWe hope you’re having a fun time with all your friends here at Farmees. If you enjoyed watching this video then check out our channel for many more interesting and fun learning videos for kids.\nIf you’re still reading this far, we know you enjoy our animations but are always happy to hear from you on how we can improve and what you'd like to see in the pipeline!\nIf you enjoy our content, don't forget to support us and subscribe here: https://www.youtube.com/farmees?sub_confirmation=1\n\nFind Farmees on:\nFacebook:  https://www.facebook.com/farmeesofficial\nWeb:   http://www.uspstudios.co\nTwitter:   https://twitter.com/farmeesofficial\nG+ :    https://plus.google.com/b/117861579194686854166/+Farmees\nInstagram: https://www.instagram.com/farmeesofficial/\nPlay Store: https://play.google.com/store/apps/details?id=com.lookedigital.kidsfirst\nApp Store: https://itunes.apple.com/us/app/bob-the-train-kids-nursery-rhymes-baby-songs/id1236462400?ls=1&mt=8\n\nSUBSCRIBE:  https://www.youtube.com/farmees?sub_confirmation=1\n\n © 2017 USP Studios Private Limited\n\n============================================\nMusic and Lyrics: Copyright USP Studios™\nVideo: Copyright USP Studios™\n============================================",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tPNqkvPqyNU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tPNqkvPqyNU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tPNqkvPqyNU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tPNqkvPqyNU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/tPNqkvPqyNU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tPNqkvPqyNU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Mt1GJHelGuU-6TnxcQnsyv2cs7w\"",
+   "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2019-10-05T14:20:22.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Counting Collection | Plus More 123 Numbers Songs | Teach Kindergarten Lessons | Kids Baby Learning",
+    "description": "Busy Beavers Teach 123s & More with Colorful Surprise Eggs, Number Characters & Animated Objects. Kids Can Learn the Numbers from 1 to 30 with this Easy Collection of Counting Songs & Lessons. \n\nPrincess 123s Sings to 30 (0:08)\nCounting with Cheese (3:15)\nFinger Family Zoo (4:52)\nFinger Family Numbers (5:53)\n10 Little Easter Eggs (7:46)\nNumbers 123 Song (9:15)\nWheels on the Bus (Pink Bus) (11:34)\nEaster Egg Game (13:46)\nFinger Family Rabbits (16:50)\nIce Cream 123s Song (17:50)\nCount to 10 Song (20:37)\nSurprise Eggs Let's Chant to 10 (22:20)\nFinger Family Fruit (24:27)\nPrincess 123s Show #1 (26:15)\nApples Are Yummy (30:07)\nBusy Beavers TV Show Song (32:31)\nPrincess 123s Sing to 10 (35:00)\n10 Little Horses (36:52)\nSurprise Eggs Numbers Chant (38:42)\nSurprise Eggs Count to 10 (40:47)\nFinger Family Farm (43:33)\nFlower Finger Family (45:18)\nWheels on the Bus (Black Bus) (46:22)\nCounting Police Cars (48:37)\nThe Paint is Pink FRENCH (54:12)\nTwinkle Twinkle Little Star (56:17)\nCounting Tomatoes (59:29)\n\n----------------------------------------------------------------------------------------\nClick Here to Buy Busy Beavers Plush Toys from Amazon:\nhttp://amazon.com/busybeavers\n----------------------------------------------------------------------------------------\n\nThanks for Watching, Sharing & Commenting\nSubscribe for Fresh Uploads 3 Times a Week!\n\nhttp://bit.ly/YOUTUBE-SUBSCRIBE\n\nLove this Video? Check Out More Just Like It!\n\nhttp://bit.ly/Red-Bus-Collection\n\nhttp://bit.ly/Fruit-Songs-Collection\n\nBusy Beavers have been an Internet Leader in Kids Education & Language Learning Since 2006.\nWe Teach Children Around the World their ABCs, 123s, Colors, Shapes and Nursery Rhymes.\nOver 1.75 Billion Viewers proves that Kids LOVE Busy Beavers. \n\n\n******** More Smash Hits ********\n\n\"Colors Collection\" http://bit.ly/Colors-Collection\n\n\"Shapes Collection\" http://bit.ly/Shapes-Collection\n\n\"ABCs & 123s DVD\" http://bit.ly/ABCs-123s-DVD\n\n\"Nursery School DVD\" http://bit.ly/Nursery-School-DVD\n\n\n******** Follow Us ********\n\nJoin our Facebook Page:\nhttp://www.Facebook.com/BusyBeaversPage\n\n\n******** SHOP ********\n\nBuy DVDs: \nhttp://www.BusyBeavers.com/Shop\n\n\n******** Download ********\n\nDownload the iPad - iPhone APP:\nhttp://bit.ly/JUKEBOX\n\nDownload the Android APP:\nhttp://bit.ly/JUKEBOX-Android\n\nFree MP3s of Our HITS! Work Sheets & Flash Cards\nhttp://BusyBeavers.com/downloads\n\n\nDo Your Children Love to Sing Along with Nursery Rhymes?\nWheels On The Bus, Twinkle Twinkle Little Star, Baa Baa Black Sheep, Old MacDonald Had A Farm & Lots More? \nThen Your Child will Love Busy Beavers.\n\nDoes your Little Baby Love Princess Elsa from the Movie Frozen? \nHow about the other Famous Princess Characters like Snow White, Sleeping Beauty, Rapunzel, Little Mermaid, Ariel & Lots More? \nThen Your Child will Love Busy Beavers.\n\nDoes Your Baby Love Big Trucks, Buses and Flying Vehicles?\nToy Trucks, Toy Trains, Diggers, Fire Trucks, Fire Engines, Fire Men, Spaceships, Monster Trucks, Police Cars, Surprise Eggs, Race Cars, Garbage Trucks & Lego? \nThen Your Kid will Love Busy Beavers\n\nParents of Babies and Toddlers use Busy Beavers Videos to Teach Basic English Vocabulary and Concepts.\nKindergarten, English & ESL Teachers and Children with Autism, Asperger's or Learning Disabilities \nsuch as Delayed Speech have all found Busy Beavers Videos a Great Teaching Resource to Improve Young Learners' Development.\n\nBusy Beavers not only create Fantastic, Fun Children's Edutainment Videos that teach Counting, Colors, The Alphabet, Shapes and More,\nBut Busy Beavers also has developed an entire English Language Learning System for Children whom English is not their first Language.\nFull Videos are Available on a Series of DVDs that we will ship to you anywhere in the world.\nCheck Out our Online Shop to order yours. http://BusyBeavers.com/Shop\nYou can also access all of our great Learning Material by becoming a Paying Subscriber to our Website: http://BusyBeavers.com/Subscribe",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tMmiu8QH3nY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tMmiu8QH3nY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tMmiu8QH3nY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tMmiu8QH3nY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/tMmiu8QH3nY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tMmiu8QH3nY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/riPlKIP_bo6fq_ViE8LQEX_Ib7M\"",
+   "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2019-10-05T14:20:25.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Counting and Number Songs | Nursery Rhymes | Kids Songs | Educational",
+    "description": "Watch Our Most Popular Videos Here: https://goo.gl/W8PZ5T\nSUBSCRIBE HERE:  https://goo.gl/sNYAHg\n\nCounting and Number Songs | Nursery Rhymes | Kids Songs | Educational\n\nLearn how to count to ten with these fun counting songs!  You can count flowers, farm animals, ducks, and frogs.  You'll even learn some skip counting in Hickory Dickory Dock.  \n\nWatch Funtastic's Newest Videos Here! https://goo.gl/bRLQN3\nWatch Funtastic Nursery Rhyme & Kids Songs Here! https://goo.gl/qGbjNp\nWatch Funtastic Children's Music Here!  https://goo.gl/CSCqAb\nWatch Funtastic Baby Songs Here! https://goo.gl/wUzwhg\nWatch Funtastic Educational Kids Songs Here! https://goo.gl/PfAWhB\nWatch Funtastic's Most Popular Videos Here! https://goo.gl/W8PZ5T\nWatch Funtastic Things I Learned Today Here! https://goo.gl/rF6bFZ\n\n\nLyrics:\nFive Little Speckled Frogs \nSat on a speckled log\nEating the most delicious bugs. Yum! Yum!\nOne jumped into the pool\nWhere it was nice and cool\nNow there are Four green speckled frogs\n\nFour Little Speckled Frogs\nSat on a speckled log\nEating the most delicious bugs. Yum! Yum!\nOne jumped into the pool\nWhere it was nice and cool\nNow there are Three green speckled frogs\n\nThree little speckled frogs\nSat on a speckled log\nEating the most delicious bugs. Yum! Yum!\nOne jumped into the pool\nWhere it was nice and cool\nNow there are Two green speckled frogs\n\nTwo little speckled frogs\nSat on a speckled log\nEating the most delicious bugs. Yum! Yum!\nOne jumped into the pool\nWhere it was nice and cool\nNow there is one green speckled frog\n\nOne little speckled frog\nSat on a speckled log\nEating the most delicious bugs. Yum! Yum!\nIt jumped into the pool\nWhere it was nice and cool\nNow there are no more speckled frogs",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0C3IJM4AnMI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0C3IJM4AnMI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0C3IJM4AnMI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0C3IJM4AnMI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/0C3IJM4AnMI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "0C3IJM4AnMI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/yszJNOhOE0KS5uGbScUquH14Lug\"",
+   "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2019-10-05T14:20:38.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "The Big Numbers Song",
+    "description": "It's a numbers song for children and adults. Count from 0 to 100 and from a hundred to a trillion.\nThis song was written and performed by A.J. Jenkins. Video by KidsTV123.\nCopyright 2011 A.J.Jenkins/KidsTV123: All rights reserved.\nThis is an ORIGINAL song written in 2011 - any copying is illegal.\nFor free MP3s, worksheets and much more:\nhttp://www.kidstv123.com\n\nKids songs song for children\n\nChords:\n\nD A G D",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/e0dJWfQHF8Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/e0dJWfQHF8Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/e0dJWfQHF8Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/e0dJWfQHF8Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/e0dJWfQHF8Y/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "e0dJWfQHF8Y"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/CpaEQccIVofGkUv2U4R5J9WUQoY\"",
+   "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2019-10-05T14:21:52.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Numbers Finger Family | Lets Learn Numbers | 123 Songs For Kids And Childrens | Nursery Rhymes",
+    "description": "Today’s finger family is one of the most well learnt and educated families in the land of rhymes. The numbers finger family. If you befriend them, we promise you you’ll never have to learn the boring numbers again. They teach you counting in the most fun way possible. Ready to start learning? Hit play and sing the family song with us!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BwU976B3QDg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BwU976B3QDg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BwU976B3QDg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BwU976B3QDg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/BwU976B3QDg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "BwU976B3QDg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Jd4Gy5KHz-gavxja10amT7SoctA\"",
+   "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2019-10-05T14:21:56.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Finger Family Numbers Nursery Rhymes For Babies and Kids Songs",
+    "description": "Are you all ready to meet skeleton finger family?\nWe are the finger family!\n\nFather finger, father finger, where are you?\nHere I am, here I am. How do you do? \n\nMommy finger, Mommy finger, where are you?\nHere I am, here I am. How do you do?\n\nBrother finger, Brother finger, where are you?\nHere I am, here I am. How do you do?\n\nSister finger, Sister finger, where are you?\nHere I am, here I am. How do you do?\n\nBaby finger, Baby finger, where are you?\nHere I am, here I am. How do you do?",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BCvDBkueiy0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BCvDBkueiy0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BCvDBkueiy0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BCvDBkueiy0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/BCvDBkueiy0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "BCvDBkueiy0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/_AnNU-a-tZ78Of9vlFFpdrwJCjk\"",
+   "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2019-10-05T14:22:00.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Ten Little Indians and Many More Nursery Rhymes | Popular Number Songs Collection | ChuChu TV",
+    "description": "Number Rhymes For Children | Popular Numbers Songs & Nursery Rhymes by ChuChuTV\n\n00:08 Ten Little Indians\n01:58  Numbers Songs\n06:30  Five Little Monkeys Robot\n09:59  One Two Buckle My Shoe\n12:05  Five little Ducks\n14:06  Five little Monkeys\n16:32  Hickory Dickory Dock\n18:26  Ten In The Bed\n\n============================================\nMusic and Lyrics: Copyright 2016 ChuChu TV™ Studios\nVideo: Copyright 2016 ChuChu TV™ Studios\n============================================",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Fk12bruLxU0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Fk12bruLxU0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Fk12bruLxU0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Fk12bruLxU0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Fk12bruLxU0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Fk12bruLxU0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-WlkqjhVV9Yrc95ziWRZe2lCA0A\"",
+   "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2019-10-05T14:22:04.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "ChuChu TV Numbers Song - NEW Short Version - Number Rhymes For Children",
+    "description": "Number Rhymes For Children - Make your kids learn Numbers with the beats! Learn to count with ChuChuTV Numbers Song.\n\n===============================================\nVideo: Copyright 2017 ChuChu TV® Studios\nMusic and Lyrics: Copyright 2017 ChuChu TV® Studios\nChuChu TV ®, Cutians ®, all the characters and logos \nused are the registered trademarks of ChuChu TV Studios\n===============================================",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fHqjNHxmB7c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fHqjNHxmB7c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fHqjNHxmB7c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fHqjNHxmB7c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/fHqjNHxmB7c/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fHqjNHxmB7c"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/4kvCxt3t7tEEZ3rt7PpOZxakTKI\"",
+   "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2019-10-05T14:22:43.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "12345 Once I Caught a Fish Alive | Number Song | Nursery Rhymes Collection from Dave and Ava",
+    "description": "📲 Download Dave and Ava's App for iOS ► https://goo.gl/6G93HR  and Android ► https://goo.gl/oghnGe  \nNumber Song 12345 Once I Caught a Fish Alive – Nursery Rhymes from Dave and Ava. Get ready for an exciting fishing adventure!\n🎺  Watch 30-minute non-stop Christmas songs collection at - https://www.youtube.com/watch?v=vXwlQdSR9mc\n🎶  Subscribe now for new videos - https://www.youtube.com/DaveAndAva?sub_confirmation=1\n\nIf you like this video, share it https://www.youtube.com/watch?v=Q-ORH9MbVto\n\nOne, Two, Three, Four, Five, Once I Caught a Fish Alive – the famous nursery rhyme gets a new life with Dave and Ava. Let's count to ten together! Our nursery rhymes teach little ones ABCs, numbers, shapes, colors, and more!\n\nGo straight to your favorite song by selecting a title below!\n\n00:21  One, Two, Three, Four, Five, Once I Caught a Fish Alive\n02:26  If You`re Happy and You Know It\n04:20  Itsy Bitsy Spider\n06:43  Hickory Dickory\n09:35  Five Little Monkeys Jumping on the Bed\n11:47  Johny Johny Yes Papa\n14:00  ABC song\n15:55  The Phonics Song\n18:42  Jingle Bells\n20:29  Baa Baa Black Sheep\n23:26  Ten in the Bed\n\nWatch another Nursery Rhymes Collection and Number Songs from Dave and Ava:\n\nItsy Bitsy Spider - https://www.youtube.com/watch?v=q0cFhtcSaEM&list=PLURXwwh2i_mcgwdQrVMmh-txx-g1qRcZX&index=7 \n\nJohny Johny Yes Papa - https://www.youtube.com/watch?v=8y6RXCCZd1o&list=PLURXwwh2i_mcgwdQrVMmh-txx-g1qRcZX&index=6\n\nABC Song - https://www.youtube.com/watch?v=a3qY1d1X4cs&list=PLURXwwh2i_mcgwdQrVMmh-txx-g1qRcZX&index=5\n\nFive Little Monkeys Jumping on the Bed -  https://www.youtube.com/watch?v=auQh6DCh4qM&list=PLURXwwh2i_mcgwdQrVMmh-txx-g1qRcZX&index=4\n\nIf You're Happy and You Know It -  https://www.youtube.com/watch?v=J8Qs610vmeE&list=PLURXwwh2i_mcgwdQrVMmh-txx-g1qRcZX&index=3\n\nBaa Baa Black Sheep - https://www.youtube.com/watch?v=Lj1p6ZfhqXA&list=PLURXwwh2i_mcgwdQrVMmh-txx-g1qRcZX&index=2\n\nWe are always happy to hear from you! Please share your feedback on our nursery rhymes in the comments, or through our social media profiles:\n\nhttps://www.facebook.com/daveandavatv\nhttps://twitter.com/daveandava \nhttps://instagram.com/daveandava\nhttps://www.youtube.com/daveandava\n\nTraditional. Arranged and adapted by Dave and Ava LTD © 2015. All rights reserved.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Q-ORH9MbVto/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Q-ORH9MbVto/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Q-ORH9MbVto/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Q-ORH9MbVto/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Q-ORH9MbVto/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Q-ORH9MbVto"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/IoVdqtenlK8UIMpZo86YDC9ld6Q\"",
+   "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2019-10-05T14:22:47.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Play Doh Numbers 1 to 10 | Number Song | Learn Numbers 1 - 10 | Kids Rhyme",
+    "description": "Learn, Laugh and Play with Kids Play Doh\nThe best video for kids to learn Numbers with fun.\n\nNow Learn the Numbers with Play-Doh!\n\nPLAY-DOH around the world!\nCome learn with fun\nSubscribe for more upcoming videos.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/G-9PfqDo4Hk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/G-9PfqDo4Hk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/G-9PfqDo4Hk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/G-9PfqDo4Hk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/G-9PfqDo4Hk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "G-9PfqDo4Hk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Xd1i0-CHrGsHHqd0DvGlX7O8Jnc\"",
+   "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2019-10-05T14:22:51.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Play Doh Abc | ABC Phonics Song | Nursery Rhymes | Play Doh Alphabets",
+    "description": "Learn, Laugh and Play with Kids Play Doh\nThe best video for kids to learn ABC with fun\n\nNow Learn the Alphabet with Play-Doh!\n\nPLAY-DOH around the world!\nCome learn with fun\nSubscribe for more upcoming videos.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IBfLJYavlf8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IBfLJYavlf8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IBfLJYavlf8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/IBfLJYavlf8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/IBfLJYavlf8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "IBfLJYavlf8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/g_7GduwUpahXB9nRQvuLWp44LKU\"",
+   "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2019-10-05T14:23:08.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Learn Numbers with Play Doh| Play Doh Numbers Song | Kids Learning Numbers | Play Doh Stop Motion",
+    "description": "Learn, Laugh and Play with Kids Play Doh\nGreat Video on Learning Numbers\n\nNow Learn the Numbers with Play-Doh!\nPlay DOh Numbers Stop Motion is a fun way to make your children's learn Numbers with fun\nPLAY-DOH around the world!\n\nSubscribe to Kids TV Play Doh for more Kids Learning Video",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cfFqZSo-i1w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cfFqZSo-i1w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cfFqZSo-i1w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/cfFqZSo-i1w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/cfFqZSo-i1w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "cfFqZSo-i1w"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/7wLtJSAf417uK5tqTa47PeIff9Q\"",
+   "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2019-10-05T14:23:12.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "numbers song | surprise eggs | learn numbers | nursery rhymes | kids songs | kids tv videos",
+    "description": "Look at our nest of nursery rhymes. It's filled with surprise eggs that hatch out lovely kids songs and poems. We see 10 eggs today. That can mean only one thing. What's coming out today are the 10 little numbers from the numbers song. So come on and hit play soon, because after the numbers hatch, were going to celebrate by playing many more kids songs that you'll can sing and dance to. Hurrah! \n00:01 – Numbers Song\n01:30 – ABC Song\n02:42 – Colors Song\n06:43 – Dinosaurs Song\n09:01 – Down By The Bay\n10:57 – Shake It Song\n14:01 – Cat Song\n15:21 – Ambulance Song\n17:11 – Daddy's New Car\n20:01 – Finger Family\n21:02 – Humpty Dumpty\n21:58 – Wheels On Garbage Truck\n23:47 – Five Little Piggies\n25:56 – Finger Family\n26:59 – Ten In The Bed\n29:18 – One Two\n30:31 – Five Little Monkeys\n32:05 – Old Macdonald\n34:25 – Finger Family Song\n35:27 – Hokey Pokey\n36:41 – Three Little Kittens\n39:01 – Johny Johny\n39:51 – Wheels On The Plane\n41:20 – Skidamarink\n43:32 – Chubby Cheeks\n44:18 – Hickory Dickory Dock\n46:32 – Five Little Babies\nnumbers song by Kids TV - The nursery rhymes channel for kindergarten aged children. These kids songs are great for learning the alphabet, numbers, shapes, colors and lots more. We are a one stop shop for your children to learn the many joys of nursery rhymes. Subscribe to our channel and be the first to watch our latest fun kids learning animations!\n🌸 Share this video – numbers song here’s the link: https://youtu.be/DTpJEUlRAvg\n🌸 Subscribe for free now to get notified about new videos - https://www.youtube.com/kidstv?sub_co...\n🌸 Nursery Rhymes and Nursery Rhymes Karaoke Playlist - https://www.youtube.com/watch?v=QNE3PsGVzN8&list=PLDt4VQajKv8xVf8zxjuz3tA-dJbCgT2wr\n🌸 If you enjoyed this collection, you may also like these compilations: \n🌸Old Macdonald had a farm - https://www.youtube.com/watch?v=Rf8e4JF8nXs\n🌸The Wheels on the bus - https://www.youtube.com/watch?v=MWyordkvD0k\n🌸Five little monkeys - https://www.youtube.com/watch?v=VAL4w6JvDHc\n⭐Finger Family - https://www.youtube.com/watch?v=IiA17oFD1bs\n⭐Ten in the bed - https://www.youtube.com/watch?v=Rxxsvc2XXxY\n⭐Phonics Song - https://www.youtube.com/watch?v=pFR_8zHCLio\n🎶 Incy Wincy Spider - https://www.youtube.com/watch?v=_6fwkxtp4bw\n🌼English Wheels on the bus - https://www.youtube.com/watch?v=IEje6DRukxg\n🌼Five little ducks - https://www.youtube.com/watch?v=vp5rwesz8eU\n🌼Johny johny yes papa - https://www.youtube.com/watch?v=PyZq_Jm0aqQ\n🌼 Humpty Dumpty - https://www.youtube.com/watch?v=ZSoougnleU8\n🌼 Twinkle Twinkle Little Star - https://www.youtube.com/watch?v=yvcrrmeBwlo\n🌼 Ten in the bed - https://www.youtube.com/watch?v=GRyxRadTM3c \n\nNursery rhymes and kid’s songs accelerate phonetic awareness improving children's word comprehension, reading and writing skills. These rhymes for children help teach basic skills and improves their ability to comprehend and follow directions. \nWe hope you’re having a fun time with all your friends here at Kids TV. If you enjoyed watching this video then check out our channel for many more interesting and fun learning videos for kids.\nIf you’re still reading this far, we know you enjoy our animations but are always happy to hear from you on how we can improve and what you'd like to see in the pipeline! \nIf you enjoy our content, don't forget to support us and subscribe :)\n\nDownload the Bob the Train APP here:\nBob The Train: https://itunes.apple.com/us/app/bob-the-train-kids-nursery-rhymes-baby-songs/id1236462400?ls=1&mt=8\n\nKids First: https://itunes.apple.com/us/app/kids-first-kids-videos-nursery-rhymes/id1245088728?ls=1&mt=8\n\nFB: https://www.facebook.com/KidsTVNurseyRhymes\nWeb: https://www.uspstudios.co/creation/channel/kids-tv/1/\nTwitter: https://twitter.com/kidstvofficial\nG+: https://plus.google.com/u/0/+kidstv\nInstagram: https://www.instagram.com/kidstvofficial/\nPinterest: https://in.pinterest.com/kidstv06/pins/\nPlay store: Bob The Train: https://play.google.com/store/apps/details?id=com.uspstudios.bobthetrain&pageId=108868050184468649173\nKids First: https://play.google.com/store/apps/details?id=com.lookedigital.kidsfirst\nSubscribe: https://www.youtube.com/channel/UC7Pq3Ko42YpkCB_Q4E981jw?sub_confirmation=1\n© 2017 USP Studios Private Limited\n============================================\nMusic and Lyrics: Copyright USP Studios™\nVideo: Copyright USP Studios™\n============================================",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DTpJEUlRAvg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DTpJEUlRAvg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DTpJEUlRAvg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/DTpJEUlRAvg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/DTpJEUlRAvg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "DTpJEUlRAvg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Iu_87dBy5jrJfiXYJ0S9q1Ybtkw\"",
+   "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2019-10-05T14:23:15.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Numbers Song | Learn Numbers | 123 Baby Songs For Childrens | Counting Numbers For Kids | kids tv",
+    "description": "Oops, our little friend just let up some lovely colorful balloons. Can you children help them bring it down. There's s 10 of them. Count the numbers as you bring them down one by one. This is so much better than simply listening to the numbers song, isn't it? Well, we see you managed to get all 10 back for our friends. Do you want to stay back and play with them? We're sure they'll be more than happy! \n00:01 - Number Song\n01:29 - ABC Song\n02:44 - Color Song\n05:35 - Lets Build\n07:42 - Fruits Song\n09:49 - Seasons Song\n12:39 - Daddy's New Car\n14:48 - Five Little Pandas\n17:02 - Hickory Dickory Dock\n17:56 - Jack & Jill\n19:43 - Jelly Bears\n21:12 - Head Shoulders Knees\n23:22 - Five Little Piggies\n25:30 - Ten in the Bed\n26:59 - Row Row Row Your Boat\n28:35 - Incy Wincy Spider\n29:38 - Finger Family\n31:14 - Five Little Ducks\n33:26 - Skidamarink\n36:18 - Old Macdonald Had A Farm\n37:44 - I Am A Little Teapot\nNumbers Song by Kids TV - The nursery rhymes channel for kindergarten aged children. These kids songs are great for learning the alphabet, numbers, shapes, colors and lots more. We are a one stop shop for your children to learn the many joys of nursery rhymes. Subscribe to our channel and be the first to watch our latest fun kids learning animations!\n🌸 Share this video – Numbers Song here’s the link: https://youtu.be/u2r-lWh6-d4\n🌸 Subscribe for free now to get notified about new videos - https://www.youtube.com/kidstv?sub_co...\n🌸 Nursery Rhymes and Nursery Rhymes Karaoke Playlist - https://www.youtube.com/watch?v=QNE3PsGVzN8&list=PLDt4VQajKv8xVf8zxjuz3tA-dJbCgT2wr\n🌸 If you enjoyed this collection, you may also like these compilations: \n🌸Old Macdonald had a farm - https://www.youtube.com/watch?v=Rf8e4JF8nXs\n🌸The Wheels on the bus - https://www.youtube.com/watch?v=MWyordkvD0k\n🌸Five little monkeys - https://www.youtube.com/watch?v=VAL4w6JvDHc\n⭐Finger Family - https://www.youtube.com/watch?v=IiA17oFD1bs\n⭐Ten in the bed - https://www.youtube.com/watch?v=Rxxsvc2XXxY\n⭐Phonics Song - https://www.youtube.com/watch?v=pFR_8zHCLio\n🎶 Incy Wincy Spider - https://www.youtube.com/watch?v=_6fwkxtp4bw\n🌼English Wheels on the bus - https://www.youtube.com/watch?v=IEje6DRukxg\n🌼Five little ducks - https://www.youtube.com/watch?v=vp5rwesz8eU\n🌼Johny johny yes papa - https://www.youtube.com/watch?v=PyZq_Jm0aqQ\n🌼 Humpty Dumpty - https://www.youtube.com/watch?v=ZSoougnleU8\n🌼 Twinkle Twinkle Little Star - https://www.youtube.com/watch?v=yvcrrmeBwlo\n🌼 Ten in the bed - https://www.youtube.com/watch?v=GRyxRadTM3c \n\nNursery rhymes and kid’s songs accelerate phonetic awareness improving children's word comprehension, reading and writing skills. These rhymes for children help teach basic skills and improves their ability to comprehend and follow directions. \nWe hope you’re having a fun time with all your friends here at Kids TV. If you enjoyed watching this video then check out our channel for many more interesting and fun learning videos for kids.\nIf you’re still reading this far, we know you enjoy our animations but are always happy to hear from you on how we can improve and what you'd like to see in the pipeline! \nIf you enjoy our content, don't forget to support us and subscribe :)\nDownload the Bob the Train APP here:\nBob The Train: https://itunes.apple.com/us/app/bob-the-train-kids-nursery-rhymes-baby-songs/id1236462400?ls=1&mt=8\n\nKids First: https://itunes.apple.com/us/app/kids-first-kids-videos-nursery-rhymes/id1245088728?ls=1&mt=8\n\nFB: https://www.facebook.com/KidsTVNurseyRhymes\nWeb: https://www.uspstudios.co/creation/channel/kids-tv/1/\nTwitter: https://twitter.com/kidstvofficial\nG+: https://plus.google.com/u/0/+kidstv\nInstagram: https://www.instagram.com/kidstvofficial/\nPinterest: https://in.pinterest.com/kidstv06/pins/\nPlay store: \nBob The Train: https://play.google.com/store/apps/details?id=com.uspstudios.bobthetrain&pageId=108868050184468649173\nKids First: https://play.google.com/store/apps/details?id=com.lookedigital.kidsfirst\nSubscribe: https://www.youtube.com/channel/UC7Pq3Ko42YpkCB_Q4E981jw?sub_confirmation=1\n© 2017 USP Studios Private Limited\n============================================\nMusic and Lyrics: Copyright USP Studios™\nVideo: Copyright USP Studios™\n============================================",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/u2r-lWh6-d4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/u2r-lWh6-d4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/u2r-lWh6-d4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/u2r-lWh6-d4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/u2r-lWh6-d4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "u2r-lWh6-d4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Ms0HoGzG3WKnd5QRm-Pp0mBjZ6Q\"",
+   "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2019-10-05T14:23:18.000Z",
+    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+    "title": "Numbers Song | Educational Nursery Rhymes | Learn Number | Videos For Toddlers by Kids Tv",
+    "description": "We know some of you tiny tots have trouble learning your numbers, but not any more. Enter the 3D Numbers Songs. We thought, what's learning without some fun? So here's a fun, exciting new song that shows you children your numbers 1-10 better than before, because it has your friends from the land of rhymes. Also, as the music combined with the visuals, the rhyme looks livelier. So, we'll put a full stop to the talking here and play the rhyme for you little ones to get started with the more thrilling way of learning.\n00:01 - Numbers Song\n01:31 - ABC Song\n02:49 - Colors Song\n06:51 - Let's Build Song\n08:59 - Hello Song\n10:44 - Tow Truck Song\n12:29 - Seasons Song\n15:29 - Finger Family\n16:33 - This Little Piggy\n18:18 - Chubby Cheeks\n19:05 - Pop Goes The Weasel\n20:46 - Five Little Ducks\n22:21 - Old Macdonald Had A Farm\n24:33 - Five Little Pandas\n26:43 - Chocolate Finger Family\n28:31 - This Old Man\n30:17 - Twinkle Twinkle Little Star\n32:06 - Dinosaurs Finger Family\n33:15 - Wheels On The Bus\n34:56 - Old King Cole\n37:05 - Sisxpence Rhyme\n38:18 - Five Little Babies\n40:27 - Bingo Rhyme\nNumbers Song by Kids TV - The nursery rhymes channel for kindergarten aged children. These kids songs are great for learning the alphabet, numbers, shapes, colors and lots more. We are a one stop shop for your children to learn the many joys of nursery rhymes. Subscribe to our channel and be the first to watch our latest fun kids learning animations!\n🌸 Share this video – Numbers Song here’s the link: https://youtu.be/ahskxSiW9hU\n🌸 Subscribe for free now to get notified about new videos - https://www.youtube.com/kidstv?sub_co...\n🌸 Nursery Rhymes and Nursery Rhymes Karaoke Playlist - https://www.youtube.com/watch?v=QNE3PsGVzN8&list=PLDt4VQajKv8xVf8zxjuz3tA-dJbCgT2wr\n🌸 If you enjoyed this collection, you may also like these compilations: \n🌸Old Macdonald had a farm - https://www.youtube.com/watch?v=Rf8e4JF8nXs\n🌸The Wheels on the bus - https://www.youtube.com/watch?v=MWyordkvD0k\n🌸Five little monkeys - https://www.youtube.com/watch?v=VAL4w6JvDHc\n⭐Finger Family - https://www.youtube.com/watch?v=IiA17oFD1bs\n⭐Ten in the bed - https://www.youtube.com/watch?v=Rxxsvc2XXxY\n⭐Phonics Song - https://www.youtube.com/watch?v=pFR_8zHCLio\n🎶 Incy Wincy Spider - https://www.youtube.com/watch?v=_6fwkxtp4bw\n🌼English Wheels on the bus - https://www.youtube.com/watch?v=IEje6DRukxg\n🌼Five little ducks - https://www.youtube.com/watch?v=vp5rwesz8eU\n🌼Johny johny yes papa - https://www.youtube.com/watch?v=PyZq_Jm0aqQ\n🌼 Humpty Dumpty - https://www.youtube.com/watch?v=ZSoougnleU8\n🌼 Twinkle Twinkle Little Star - https://www.youtube.com/watch?v=yvcrrmeBwlo\n🌼 Ten in the bed - https://www.youtube.com/watch?v=GRyxRadTM3c \n\nNursery rhymes and kid’s songs accelerate phonetic awareness improving children's word comprehension, reading and writing skills. These rhymes for children help teach basic skills and improves their ability to comprehend and follow directions. \nWe hope you’re having a fun time with all your friends here at Kids TV. If you enjoyed watching this video then check out our channel for many more interesting and fun learning videos for kids.\nIf you’re still reading this far, we know you enjoy our animations but are always happy to hear from you on how we can improve and what you'd like to see in the pipeline! \nIf you enjoy our content, don't forget to support us and subscribe :)\n\nDownload the Bob the Train APP here:\nBob The Train: https://itunes.apple.com/us/app/bob-the-train-kids-nursery-rhymes-baby-songs/id1236462400?ls=1&mt=8\n\nKids First: https://itunes.apple.com/us/app/kids-first-kids-videos-nursery-rhymes/id1245088728?ls=1&mt=8\n\nFB: https://www.facebook.com/KidsTVNurseyRhymes\nWeb: https://www.uspstudios.co/creation/channel/kids-tv/1/\nTwitter: https://twitter.com/kidstvofficial\nG+: https://plus.google.com/u/0/+kidstv\nInstagram: https://www.instagram.com/kidstvofficial/\nPinterest: https://in.pinterest.com/kidstv06/pins/\nPlay store: Bob The Train: https://play.google.com/store/apps/details?id=com.uspstudios.bobthetrain&pageId=108868050184468649173\nKids First: https://play.google.com/store/apps/details?id=com.lookedigital.kidsfirst\nSubscribe: https://www.youtube.com/channel/UC7Pq3Ko42YpkCB_Q4E981jw?sub_confirmation=1\n© 2017 USP Studios Private Limited\n============================================\nMusic and Lyrics: Copyright USP Studios™\nVideo: Copyright USP Studios™\n============================================",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ahskxSiW9hU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ahskxSiW9hU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ahskxSiW9hU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ahskxSiW9hU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ahskxSiW9hU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kid Video",
+    "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ahskxSiW9hU"
+    }
+   }
+  }
+ ]
+}
