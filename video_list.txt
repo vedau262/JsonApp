@@ -1,5 +1,29 @@
 [	
 		{	
+		"LIST_VIDEO_NAME": "BabyBus | Halloween Songs",
+		"LIST_VIDEO_ICON": "https://is5-ssl.mzstatic.com/image/thumb/Purple6/v4/fb/13/2c/fb132cd1-d891-7bb3-94b7-2909ce1110ec/source/256x256bb.jpg",
+		"LIST_VIDEO_CONTENT": 
+			[   								
+				{"url":"https://www.youtube.com/watch?v=TSZzkYTdR_M"},			
+				{"url":"https://www.youtube.com/watch?v=t42dxvxTLZo"},			
+				{"url":"https://www.youtube.com/watch?v=FRxTFQcERl8"},			
+				{"url":"https://www.youtube.com/watch?v=hQ4UkkL6d5c"},			
+				{"url":"https://www.youtube.com/watch?v=vivk2P6K-XY"},			
+				{"url":"https://www.youtube.com/watch?v=bKio_s1KfM4"},			
+				{"url":"https://www.youtube.com/watch?v=KCKDfR_2MZs"},			
+				{"url":"https://www.youtube.com/watch?v=8jRZ_Hv6jKA"},			
+				{"url":"https://www.youtube.com/watch?v=13NE_9xRAMw"},			
+				{"url":"https://www.youtube.com/watch?v=Nglldei6MaE"},			
+				{"url":"https://www.youtube.com/watch?v=Vsjrux3K5UA"},			
+				{"url":"https://www.youtube.com/watch?v=tbGrjKZliZQ"},			
+				{"url":"https://www.youtube.com/watch?v=5ihPfRcxI2w"},			
+				{"url":"https://www.youtube.com/watch?v=uP4YdW1Hb3o"},			
+				{"url":"https://www.youtube.com/watch?v=Pnh2ziE19g0"},			
+				{"url":"https://www.youtube.com/watch?v=W3TgDeLzn7o"},			
+				{"url":"https://www.youtube.com/watch?v=1r-fc07GZCY"}
+			]
+		},
+		{	
 		"LIST_VIDEO_NAME": "Learn to Count the Little Ducks",
 		"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDIsK43v8lq7XK5FzTM1dGKB1D9TQ7rtXkrWhnjcCCFtCWzep4Pw",
 		"LIST_VIDEO_CONTENT": 
@@ -76,7 +100,7 @@
 			]
 		},
 		{	
-		"LIST_VIDEO_NAME": "Little Mermaid’s Jewel Box and more",
+		"LIST_VIDEO_NAME": "Little Mermaidâ€™s Jewel Box and more",
 		"LIST_VIDEO_ICON": "https://is4-ssl.mzstatic.com/image/thumb/Purple49/v4/74/3c/60/743c608d-1dcc-a9a8-a00e-4ed52de28914/source/256x256bb.jpg",
 		"LIST_VIDEO_CONTENT": 
 			[   
