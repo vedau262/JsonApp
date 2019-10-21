@@ -8,6 +8,14 @@
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/uyu0bgumfymqe8l/BabyBus%20_%20Halloween%20Songs.txt?dl=1"			
 		},
 		{	
+			"LIST_VIDEO_NAME": "ART and LEARN",
+			"LIST_VIDEO_SIZE": "50",
+			"LIST_VIDEO_ICON": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/34/dc/c6/34dcc63d-c56c-6012-50c0-76309fc8e1c9/source/256x256bb.jpg",
+			"LIST_VIDEO_ID": "UU6__E-Qg9kZIDa8yMn8UDig",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/ART%20and%20LEARN",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/7sf5o6yq4qny2xq/ART%20and%20LEARN.txt?dl=1"			
+		},
+		{	
 			"LIST_VIDEO_NAME": "Learn to Count the Little Ducks",
 			"LIST_VIDEO_SIZE": "20",
 			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDIsK43v8lq7XK5FzTM1dGKB1D9TQ7rtXkrWhnjcCCFtCWzep4Pw",
