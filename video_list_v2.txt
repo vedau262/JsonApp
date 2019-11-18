@@ -1,5 +1,21 @@
 	[	
 		{	
+			"LIST_VIDEO_NAME": "Mix - Our Favorite Christmas Songs for Kids | Super Simple Songs",
+			"LIST_VIDEO_SIZE": "50",
+			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpgz8ILMQ2dZamqSWoXve6CqaoFnoBu4ZGvPpGRAv_NWXap7m&s",
+			"LIST_VIDEO_ID": "RDgrhi8MLM1i8",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Mix%20-%20Our%20Favorite%20Christmas%20Songs%20for%20Kids",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/za4c0uv7xupkk6q/Mix%20-%20Our%20Favorite%20Christmas%20Songs%20for%20Kids.txt?dl=0"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "Christmas Songs for Kids",
+			"LIST_VIDEO_SIZE": "12",
+			"LIST_VIDEO_ICON": "https://m.media-amazon.com/images/I/61i0wNpbZGL._AA256_.jpg",
+			"LIST_VIDEO_ID": "PLb_1RRxIZTLJeg9AC_xCrYYqDyEiMeIqp",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Christmas%20Songs%20for%20Kids",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/bt1ynk9e1j830ko/Christmas%20Songs%20for%20Kids.txt?dl=1"		
+		},
+		{	
 			"LIST_VIDEO_NAME": "Kids Halloween Songs by Little Treehouse",
 			"LIST_VIDEO_SIZE": "50",
 			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
@@ -54,15 +70,7 @@
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLIlIXirfcgWpQWvLkQKmx5o",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Little%20Mermaid%E2%80%99s%20Jewel%20Box%20and%20more",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/6yvwjdk8jh0k5ee/Little%20Mermaid%E2%80%99s%20Jewel%20Box%20and%20more.txt?dl=1"		
-		},
-		{	
-			"LIST_VIDEO_NAME": "Christmas Songs for Kids",
-			"LIST_VIDEO_SIZE": "12",
-			"LIST_VIDEO_ICON": "https://m.media-amazon.com/images/I/61i0wNpbZGL._AA256_.jpg",
-			"LIST_VIDEO_ID": "PLb_1RRxIZTLJeg9AC_xCrYYqDyEiMeIqp",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Christmas%20Songs%20for%20Kids",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/bt1ynk9e1j830ko/Christmas%20Songs%20for%20Kids.txt?dl=1"		
-		},
+		},		
 		{	
 			"LIST_VIDEO_NAME": "CoCoMelon Nursery Rhymes & Kids Songs",
 			"LIST_VIDEO_SIZE": "22",
