@@ -1,6 +1,6 @@
 	[	
 		{	
-			"LIST_VIDEO_NAME": "Mix - Our Favorite Christmas Songs for Kids | Super Simple Songs",
+			"LIST_VIDEO_NAME": "Mix - Our Favorite Christmas Songs for Kids",
 			"LIST_VIDEO_SIZE": "50",
 			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpgz8ILMQ2dZamqSWoXve6CqaoFnoBu4ZGvPpGRAv_NWXap7m&s",
 			"LIST_VIDEO_ID": "RDgrhi8MLM1i8",			
