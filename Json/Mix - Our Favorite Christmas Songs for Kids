@@ -1,0 +1,1165 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/s_FmvJMbP6rUE7i3ZhJdw39EQ7k\"",
+ "pageInfo": {
+  "totalResults": 26,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/1siyNtLteqvIxb7qdbPazD3GQQ8\"",
+   "id": "UkRncmhpOE1MTTFpOC5tR0FZemxxai1hRQ==",
+   "snippet": {
+    "publishedAt": "2011-12-23T00:44:44.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "S-A-N-T-A | Super Simple Songs",
+    "description": "More great Super Simple videos in the Super Simple App for iOS ► http://apple.co/2nW5hPd\n\nMerry Christmas! \nWe hope you enjoy this BINGO-style tribute to our favorite jolly fellow, Santa Claus. \n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n******\nS-A-N-T-A Lyrics:\nRed hat, white beard, twinkle in his eye.\nSanta is his name-o.\nS-A-N-T-A\nS-A-N-T-A\nS-A-N-T-A\nAnd Santa is his name-o.\n\nRed hat, white beard, twinkle in his eye.\nSanta is his name-o.\n*-A-N-T-A\n*-A-N-T-A\n*-A-N-T-A\nAnd Santa is his name-o.\n\nRed hat, white beard, twinkle in his eye.\nSanta is his name-o.\n*-*-N-T-A\n*-*-N-T-A\n*-*-N-T-A\nAnd Santa is his name-o.\n\nRed hat, white beard, twinkle in his eye.\nSanta is his name-o.\n*-*-*-T-A\n*-*-*-T-A\n*-*-*-T-A\nAnd Santa is his name-o.\n\nRed hat, white beard, twinkle in his eye.\nSanta is his name-o.\n*-*-*-*-A\n*-*-*-*-A\n*-*-*-*-A\nAnd Santa is his name-o.\n\nRed hat, white beard, twinkle in his eye.\nSanta is his name-o.\n*-*-*-*-*\n*-*-*-*-*\n*-*-*-*-*\nAnd Santa is his name-o.\nS-A-N-T-A\nS-A-N-T-A\nS-A-N-T-A\nAnd Santa is his name-o.\n\n******\nSong: S-A-N-T-A\nCD: Super Simple Songs - Christmas\nMusic: Super Simple Learning\nAnimation: Franfou\nVocals: Leah Frederick\n\n******\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Super Simple Learning, Inc.\n\n******\n\"S-A-N-T-A\" by Super Simple Learning",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mGAYzlqj-aE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mGAYzlqj-aE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mGAYzlqj-aE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mGAYzlqj-aE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/mGAYzlqj-aE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mGAYzlqj-aE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qcpuV4Y-BqmXg_8cSJMNZtZvuB0\"",
+   "id": "UkRncmhpOE1MTTFpOC50YmJLakRqTURvaw==",
+   "snippet": {
+    "publishedAt": "2012-03-18T13:05:09.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Little Snowflake | Kids Songs | Super Simple Songs",
+    "description": "Watch videos from Super Simple in the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\nLittle Snowflake PLUSH TOYS!! ► http://amzn.to/2ud97Vh \nLittle Snowflake brings together the same team that created the Twinkle Twinkle Little Star video (http://youtu.be/yCjJyiqpAuU) to tell a short story of a snowman brought to life by the magic and beauty of snowfall. As he tries to ice skate, he learns the value of perseverance and teamwork. Along the way, we get to learn and review parts of the body (head, nose, hand). We hope you love it! Please let us know what you think.\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n******\nLittle Snowflake Lyrics:\nSnowflake, snowflake, little snowflake.\nLittle snowflake falling from the sky.\nSnowflake, snowflake, little snowflake.\nFalling, falling, falling, falling, falling,\nfalling, falling, falling, falling...falling on my head.\n\nSnowflake, snowflake, little snowflake.\nLittle snowflake falling from the sky.\nSnowflake, snowflake, little snowflake.\nFalling, falling, falling, falling, falling,\nfalling, falling, falling, falling...falling on my nose.\n\nSnowflake, snowflake, little snowflake.\nLittle snowflake falling from the sky.\nSnowflake, snowflake, little snowflake.\nFalling, falling, falling, falling, falling,\nfalling, falling, falling, falling...falling in my hand.\n\nFalling on my head.\nFalling on my nose.\nFalling in my hand.\n\nSnowflake, snowflake, little snowflake...\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Super Simple Learning, Inc.\n\n*****\n\"Little Snowflake\" by Super Simple Learning",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tbbKjDjMDok/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tbbKjDjMDok/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tbbKjDjMDok/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tbbKjDjMDok/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/tbbKjDjMDok/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tbbKjDjMDok"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ArXtctq52l-WHbye0P3mV0WAYvQ\"",
+   "id": "UkRncmhpOE1MTTFpOC5RWXloRHZ1cThfWQ==",
+   "snippet": {
+    "publishedAt": "2017-11-30T16:30:08.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "12 Days Of Christmas | Kids Songs | Super Simple Songs",
+    "description": "Check out the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\n🎄🎅 🦌  ♫ On the first day of Christmas, my true love gave to me a partridge in a pear tree! ♫ Join us and sing along with this beautiful Christmas song for kids from Super Simple Songs!\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\n\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\nLyrics:\nOn the first day of Christmas\nMy true love gave to me\nA partridge in a pear tree\n\nOn the second day of Christmas\nMy true love gave to me\nTwo turtle doves\nAnd a partridge in a pear tree\n\nOn the third day of Christmas\nMy true love gave to me\nThree French hens\nTwo turtle doves\nAnd a partridge in a pear tree\n\nOn the fourth day of Christmas\nMy true love gave to me\nFour calling birds\nThree French hens\nTwo turtle doves\nAnd a partridge in a pear tree\n\nOn the fifth day of Christmas\nMy true love gave to me\nFive golden rings\nFour calling birds\nThree French hens\nTwo turtle doves\nAnd a partridge in a pear tree\n\nOn the sixth day of Christmas\nMy true love gave to me\nSix geese-a-laying\nFive golden rings\nFour calling birds\nThree French hens\nTwo turtle doves\nAnd a partridge in a pear tree\n\nOn the seventh day of Christmas\nMy true love gave to me\nSeven swans-a-swimming\nSix geese-a-laying\nFive golden rings\nFour calling birds\nThree French hens\nTwo turtle doves\nAnd a partridge in a pear tree\n\nOn the eighth day of Christmas\nMy true love gave to me\nEight maids-a-milking\nSeven swans-a-swimming\nSix geese-a-laying\nFive golden rings\nFour calling birds\nThree French hens\nTwo turtle doves\nAnd a partridge in a pear tree\n\nOn the ninth day of Christmas\nMy true love gave to me\nNine ladies dancing\nEight maids-a-milking\nSeven swans-a-swimming\nSix geese-a-laying\nFive golden rings\nFour calling birds\nThree French hens\nTwo turtle doves\nAnd a partridge in a pear tree\n\nOn the tenth day of Christmas\nMy true love gave to me\nTen lords-a-leaping\nNine ladies dancing\nEight maids-a-milking\nSeven swans-a-swimming\nSix geese-a-laying\nFive golden rings\nFour calling birds\nThree French hens\nTwo turtle doves\nAnd a partridge in a pear tree\n\nOn the eleventh of Christmas\nMy true love gave to me\nEleven pipers piping\nTen lords-a-leaping\nNine ladies dancing\nEight maids-a-milking\nSeven swans-a-swimming\nSix geese-a-laying\nFive golden rings\nFour calling birds\nThree French hens\nTwo turtle doves\nAnd a partridge in a pear tree\n\nOn the twelfth day of Christmas\nMy true love gave to me\nTwelve drummers drumming\nEleven pipers piping\nTen lords-a-leaping\nNine ladies dancing\nEight maids-a-milking\nSeven swans-a-swimming\nSix geese-a-laying\nFive golden rings\nFour calling birds\nThree French hens\nTwo turtle doves\nAnd a partridge in a pear tree\nAnd a partridge in a pear tree\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company.\n\n#nurseryrhymes #kidssongs #childrensmusic #supersimplesongs",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QYyhDvuq8_Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QYyhDvuq8_Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QYyhDvuq8_Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QYyhDvuq8_Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/QYyhDvuq8_Y/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QYyhDvuq8_Y"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/RSLK3tjYAn-9My8W19ksURgYR9A\"",
+   "id": "UkRncmhpOE1MTTFpOC4wYnlIOWgxQ2xCWQ==",
+   "snippet": {
+    "publishedAt": "2010-12-09T23:23:33.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Rudolph The Red Nosed Reindeer(Lyrics)",
+    "description": "Hey guys, Thanks for the subscribes and likes!\nPatreon: patreon.com/scenario1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0byH9h1ClBY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0byH9h1ClBY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0byH9h1ClBY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0byH9h1ClBY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/0byH9h1ClBY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "0byH9h1ClBY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/VDtAnZIEtLRXZXAyWcaUsHXaiP0\"",
+   "id": "UkRncmhpOE1MTTFpOC5FNDhkSnNpdng3cw==",
+   "snippet": {
+    "publishedAt": "2014-11-20T14:43:03.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Reindeer Pokey | Christmas Songs for Kids | Reindeer Song | The Kiboomers",
+    "description": "The Kiboomers! Reindeer Pokey! Reindeer song. Fun kids Christmas songs!\n★Get this song on iTunes: https://itunes.apple.com/us/album/christmas-songs-for-preschool/id1034154667\nKid Song Lyrics, Music & Video. 3,000+ Children Songs to Discover on http://bussongs.com/\nBe sure to check out our Christmas Songs Playlist.\nIt's the \"Reindeer Pokey!\" Reindeer Pokey is a super fun Christmas version of the Hokey Pokey. Kids will love to sing and dance along with Rudolph.\n\n*******\nIf you enjoy this video, please subscribe to the Kiboomu channel : http://youtube.com/kiboomu\n\n******\n'REINDEER POKEY DANCE SONG FOR KIDS' | 'REINDEER POKEY CHRISTMAS SONG FOR CHILDREN'\n\nYou put your hooves in\nYou put your hooves out\nYou put your hooves in\nand you shake 'em all about\n'You do the reindeer pokey\nAnd you turn yourself around\nThat's what it's all about.'\n \nYou put your antlers in\nYou put your antlers out\nYou put your antlers in\nAnd you shake it all about\nYou do the reindeer pokey\nAnd you turn yourself around\nThat''s what it's all about.\n \nYou put your tail in\nYou put your tail out\nYou put your tail in\nAnd you shake it all about\nYou do the reindeer pokey\nAnd you turn yourself around\nThat's what it's all about.\n\nYou put your red nose in\nYou put your red nose out\nYou put your red nose in\nAnd you shake it all about\nYou do the reindeer pokey\nAnd you turn yourself around\nThat's what it's all about.\n\n*****\n\nWe're Social, too!\nfacebook: http://facebook.com/kiboomu\ntwitter: http://twitter.com/kiboomu\npinterest: http://pinterest.com/kiboomu\nwebsite: http://thekiboomers.com\n*******\nSong: \"Reindeer Pokey\" Christmas Song (Reindeer Hokey Pokey)\nMusic: The Kiboomers\nAnimation: Martu Mandy\nVocals & Arrangement: Ellie Moss and Christopher Pennington from The Kiboomers",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/E48dJsivx7s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/E48dJsivx7s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/E48dJsivx7s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/E48dJsivx7s/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/E48dJsivx7s/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "E48dJsivx7s"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/cnbjrbz8Fdjs8evP8u8KDJirMFg\"",
+   "id": "UkRncmhpOE1MTTFpOC5sTTZtRFJoS0FjQQ==",
+   "snippet": {
+    "publishedAt": "2012-11-12T23:28:48.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Rudolph The Red Nosed Reindeer | Christmas Songs for Kids | Reindeer Song | The Kiboomers",
+    "description": "Rudolph the Red Nose Reindeer! Christmas songs for kids. Merry Christmas!\n★Get this song on iTunes: https://itunes.apple.com/us/album/christmas-songs-for-preschool/id1034154667\nKid Song Lyrics, Music & Video. 3,000+ Children Songs to Discover on http://BusSongs.com\nWatch popular Christmas songs like Rudolph the Red Nosed Reindeer.  See Santa Claus too!  Fun Christmas song that kids and parents love to sing.\n\n***************\n\nIf you enjoy this video, please subscribe to the Kiboomu channel: http://youtube.com/kiboomu\n\n****************\n\"Rudolph the Red Nosed Reindeer Song Lyrics\":\n\nRudolph, the red-nosed reindeer \nhad a very shiny nose. \nAnd if you ever saw him, \nyou would even say it glows. \n\n\nAll of the other reindeer \nused to laugh and call him names. \nThey never let poor Rudolph \njoin in any reindeer games. \n\nThen one foggy Christmas Eve \nSanta came to say: \n\"Rudolph with your nose so bright, \nwon't you guide my sleigh tonight?\" \n\nThen all the reindeer loved him \nas they shouted out with glee, \nRudolph the red-nosed reindeer, \nyou'll go down in history!\n\n*****\n\nWe're Social, too!\nfacebook: http://facebook.com/kiboomu\ntwitter: http://twitter.com/kiboomu\npinterest: http://pinterest.com/kiboomu\nwebsite: http://thekiboomers.com\n\n*******\nSong: \"RUDOLPH THE RED NOSED REINDEER\" Christmas Song \nMusic: The Kiboomers\nAnimation: Subcutáneo Estudio Creativo\nVocals & Arrangement: Sara Diamond and Christopher Pennington from The Kiboomers",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lM6mDRhKAcA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lM6mDRhKAcA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lM6mDRhKAcA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "lM6mDRhKAcA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/oN7FHohlfscYBBZiT6--cu2Gb3s\"",
+   "id": "UkRncmhpOE1MTTFpOC5LelBOTkFvZ3Ezdw==",
+   "snippet": {
+    "publishedAt": "2015-12-02T16:30:01.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "10 Little Elves | Christmas Song For Kids | Super Simple Songs",
+    "description": "More great Super Simple videos in the Super Simple App for iOS ► http://apple.co/2nW5hPd\n\nPractice counting from 1 to 10 with Santa's elves as they get toys ready for Christmas. This simple Christmas kids song gives space for children to pretend they are making toys by sewing, painting, sawing, hammering, and wrapping. It's super simple, and super fun.\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n******\n\nLyrics:\n1 little, 2 little, 3 little elves,\n4 little, 5 little, 6 little elves,\n7 little, 8 little, 9 little elves,\n10 little elves are making toys.\n\n1 little, 2 little, 3 little elves,\n4 little, 5 little, 6 little elves,\n7 little, 8 little, 9 little elves,\n10 little elves are sewing.\n\n1 little, 2 little, 3 little elves,\n4 little, 5 little, 6 little elves,\n7 little, 8 little, 9 little elves,\n10 little elves are painting.\n\n1 little, 2 little, 3 little elves,\n4 little, 5 little, 6 little elves,\n7 little, 8 little, 9 little elves,\n10 little elves are sawing.\n\n1 little, 2 little, 3 little elves,\n4 little, 5 little, 6 little elves,\n7 little, 8 little, 9 little elves,\n10 little elves are hammering.\n\n1 little, 2 little, 3 little elves,\n4 little, 5 little, 6 little elves,\n7 little, 8 little, 9 little elves,\n10 little elves are wrapping. \n\n1 little, 2 little, 3 little elves,\n4 little, 5 little, 6 little elves,\n7 little, 8 little, 9 little elves,\n10 little elves are sleeping.\n\n*****\nSong: 10 Little Elves\nCD: Super Simple Songs - Christmas\nMusic: Super Simple Learning\nVocals: Shelly Lomonaco\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Super Simple Learning, Inc.\n\n*****\n10 Little Elves by Super Simple Learning",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KzPNNAogq3w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KzPNNAogq3w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KzPNNAogq3w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/KzPNNAogq3w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/KzPNNAogq3w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "KzPNNAogq3w"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-5mqlw1g_Zyj31uIj6COdKsN8nU\"",
+   "id": "UkRncmhpOE1MTTFpOC5wWnc5dmVRNzZmbw==",
+   "snippet": {
+    "publishedAt": "2016-09-15T14:00:01.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Five Little Ducks | Kids Songs | Super Simple Songs",
+    "description": "Watch this video and MUCH more in the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\nOne of our favorite kids songs! \"\"Five little ducks went out one day, over the hill and far away...\"\" 🎶\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n*****\nLyrics:\n\nFive little ducks went out one day \nOver the hill and far away\nMother duck said, \"Quack, quack, quack, quack\"\nBut only four little ducks came back\n1, 2, 3, 4\n\nFour little ducks went out one day\nOver the hill and far away\nMother duck said, \"Quack, quack, quack, quack\"\nBut only three little ducks came back\n1, 2, 3\n\nThree little ducks went out one day\nOver the hill and far away\nMother duck said, \"Quack, quack, quack, quack\"\nBut only two little ducks came back\n1, 2\n\nTwo little ducks went out one day\nOver the hill and far away\nMother duck said, \"Quack, quack, quack, quack\"\nBut only one little duck came back\n1\n\nOne little duck went out one day\nOver the hill and far away\nMother duck said, \"Quack, quack, quack, quack\"\nBut none of the five little ducks came back\n\nSad mother duck went out one day\nOver the hill and far away\nMother duck said, \"Quack, quack, quack, quack\"\nAnd all of five little ducks came back\n\nFive little ducks went out to play\nOver the hill and far away\nMother duck said, “Quack, quack, quack, quack\"\nAnd all of the five little ducks came back!\n\n******\nCopyright 2016 Skyship Entertainment Company\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pZw9veQ76fo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pZw9veQ76fo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pZw9veQ76fo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/pZw9veQ76fo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/pZw9veQ76fo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pZw9veQ76fo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/fzLu7ILffRNz4k7BQCMzD7WR1Z0\"",
+   "id": "UkRncmhpOE1MTTFpOC5sNFdOcnZWamlUdw==",
+   "snippet": {
+    "publishedAt": "2013-11-22T13:30:00.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "If You're Happy | Super Simple Songs",
+    "description": "Watch videos from Super Simple in the Super Simple App for iOS! ► http://apple.co/2nW5hPd \n\n🎶If you're happy happy happy clap your hands. If you're happy happy happy clap your hands. If you're happy happy happy clap your hands, clap your hands. If you're happy happy happy clap your hands.🎶\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest \n\n******\nLyrics:\nIf you're happy happy happy clap your hands. \nIf you're happy happy happy clap your hands.\nIf you're happy happy happy clap your hands, clap your hands.\nIf you're happy happy happy clap your hands.\n\nIf you're angry angry angry stomp your feet. \nIf you're angry angry angry stomp your feet.\nIf you're angry angry angry stomp your feet, stomp your feet.\nIf you're angry angry angry stomp your feet. \n\nIf you're scared scared scared say, \"Oh no!\" \nIf you're scared scared scared say, \"Oh no!\"\nIf you're scared scared scared say, \"Oh no!\" Say, \"Oh no!\"\nIf you're scared scared scared say, \"Oh no!\"\n\nIf you're sleepy sleepy sleepy take a nap. \nIf you're sleepy sleepy sleepy take a nap.\nIf you're sleepy sleepy sleepy take a nap, take a nap.\nIf you're sleepy sleepy sleepy take a nap.\n\nIf you're happy happy happy clap your hands. \nIf you're happy happy happy clap your hands.\nIf you're happy happy happy clap your hands, clap your hands.\nIf you're happy happy happy clap your hands. \n\n*****\nSong: If You're Happy\nCD: Super Simple Songs 1\nMusic: Super Simple Learning\nAnimation: Aaron Stewart\nVocals: Matt Stamm and Leah Hays\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Super Simple Learning, Inc.\n\n******\n\"If You're Happy\" by Super Simple Learning",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/l4WNrvVjiTw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/l4WNrvVjiTw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/l4WNrvVjiTw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/l4WNrvVjiTw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/l4WNrvVjiTw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "l4WNrvVjiTw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/IT5OVupwIt_vIqqOmuqGkIYsUVI\"",
+   "id": "UkRncmhpOE1MTTFpOC5TMHBVa3FDZFNINA==",
+   "snippet": {
+    "publishedAt": "2018-11-22T15:30:01.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Peekaboo Christmas | Kids Songs | Super Simple Songs",
+    "description": "Watch videos from Super Simple in the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\nHide your face! Get ready to pop back into view - it’s time to play Peekaboo! Enjoy this cute Christmas song for kids with our popular Peekaboo Cat! 🎶Peekaboo. Peekaboo. Peekaboo. I see you. 🎶\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\nLYRICS:\nPeekaboo. \nPeekaboo. \nPeekaboo. \nI see you.\n\nPeekaboo. \nPeekaboo. \nI see you.\n\nPeekaboo. \nPeekaboo. \nPeekaboo. \nPeekaboo.\n\nPeekaboo. \nPeekaboo. \nPeekaboo. \nI see you.\n\nPeekaboo. \nPeekaboo. \nI see you.\n\nPeekaboo. \nPeekaboo. \nPeekaboo. \nPeekaboo.\n\nPeekaboo. \nPeekaboo. \nPeekaboo. \nI see you.\n\nPeekaboo. \nPeekaboo. \nI see you.\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company.\n\n#nurseryrhymes #kidssongs #childrensmusic #supersimplesongs",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/S0pUkqCdSH4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/S0pUkqCdSH4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/S0pUkqCdSH4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/S0pUkqCdSH4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/S0pUkqCdSH4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "S0pUkqCdSH4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qWnWMI_kzIkDOjlzY4HlSHum77s\"",
+   "id": "UkRncmhpOE1MTTFpOC5lQlZxY1RFQzN6UQ==",
+   "snippet": {
+    "publishedAt": "2014-02-06T13:30:01.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "One Little Finger | featuring Noodle & Pals | Super Simple Songs",
+    "description": "More great Super Simple videos in the Super Simple App for iOS ► http://apple.co/2nW5hPd\n\nIt's the classic kids song \"One Little Finger\" made SIMPLE for young learners! This is a fantastic song for learning and reviewing the names of parts of the body. \n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest \n\n******\nLyrics: \nOne little finger, one little finger, one little finger. \nTap tap tap. \nPoint your finger up. \nPoint your finger down. \nPut it on your head. Head! \n\nOne little finger, one little finger, one little finger.\nTap tap tap. \nPoint your finger up.\nPoint your finger down.\nPut it on your nose. Nose! \n\nOne little finger, one little finger, one little finger.\nTap tap tap.\nPoint your finger up.\nPoint your finger down. \nPut it on your chin. Chin!\nOne little finger, one little finger, one little finger.\n\nTap tap tap. \nPoint your finger up. \nPoint your finger down. \nPut it on your arm. Arm!\n\nOne little finger, one little finger, one little finger.\nTap tap tap. \nPoint your finger up. \nPoint your finger down. \nPut it on your leg. Leg! \n\nOne little finger, one little finger, one little finger.\nTap tap tap. \nPoint your finger up.\nPoint your finger down. \nPut it on your foot. Foot! \nPut it on your leg. Leg! \nPut it on your arm. Arm! \nPut it on your chin. Chin! \nPut it on your nose. Nose!\nPut it on your head. Head! \nNow let's wave goodbye. Goodbye! \n\n*****\nSong: One Little Finger\nCD: Super Simple Songs 1\nMusic: Super Simple Learning\nAnimation: Aaron Stewart\nVocals: Matt Stamm and Leah Hays\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Super Simple Learning, Inc.\n\n*****\nOne Little Finger by Super Simple Learning",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eBVqcTEC3zQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eBVqcTEC3zQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eBVqcTEC3zQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/eBVqcTEC3zQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/eBVqcTEC3zQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "eBVqcTEC3zQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/4AZsjfdXc6zy8tF7O59jvMVdsEE\"",
+   "id": "UkRncmhpOE1MTTFpOC4zQ1dKTnF5dWIzbw==",
+   "snippet": {
+    "publishedAt": "2015-10-29T05:27:34.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Jingle Bells with Lyrics | Christmas Songs HD | Christmas Songs and Carols",
+    "description": "Popular Christmas songs! Jingle Bells is beautifully sung by our top talented choir. Great for Christmas performances, concerts, choirs and churches. Join us on this merry sing along journey! Merry Christmas 🎵 Subscribe: https://www.youtube.com/c/christmassongsandcarols?sub_confirmation=1\n\n🎄 Christmas Songs and Carols Album with a BEAUTIFUL Book Download: https://www.christmassongsandcarols.com/products/christmas-songs-and-carols-album-and-ebook\n\n👕 Merch https://www.christmassongsandcarols.com\n\n🎅 Free lyric sheet: https://www.christmassongsandcarols.com/products/jingle-bells\n\n❄ Christmas Window Decoration Stickers: https://www.christmassongsandcarols.com/collections/christmas-window-sticker-decorations\n__________________________________________________\n\nSpotify: https://open.spotify.com/album/52xHPK684sslr4MpOjMaMN\n\niTunes: https://music.apple.com/us/album/christmas-songs-and-carols/1481928573\n\nGooglePlay: https://play.google.com/store/music/album/Love_to_Sing_Christmas_Songs_and_Carols?id=B444khiq6fllklqn3dc3ncllmom&hl=en\n\n#christmassong\n#christmasmusic\n#christmassongsandcarols\n__________________________________________________\n\nGET IN TOUCH!\n\n❤  Facebook: https://www.facebook.com/christmassongsandcarols\n\n💮 Pinterest:https://www.pinterest.nz/christmassongsandcarols\n\n📷 Instagram:\nhttps://www.instagram.com/christmassongsandcarols/\n\nFeel the Christmas JOY with Christmas Songs and carols - Love to Sing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3CWJNqyub3o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3CWJNqyub3o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3CWJNqyub3o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3CWJNqyub3o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/3CWJNqyub3o/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3CWJNqyub3o"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/8cKGSdjsPZq_i_HWsMaLEAGYQrQ\"",
+   "id": "UkRncmhpOE1MTTFpOC5zMnJnYUxteWlGVQ==",
+   "snippet": {
+    "publishedAt": "2017-11-25T16:00:03.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Up On The Housetop | Kids Songs | Super Simple Songs",
+    "description": "Watch videos from Super Simple in the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\n🎄🎅 Sing and dance to this super fun Christmas song for kids from Super Simple Songs, Up On The Housetop! Ho, ho, ho!🎄🎅\nSubscribe ► http://bit.ly/2r8pNcF\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\n\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\nLyrics:\nUp on the housetop reindeer pause.\nOut jumps good old Santa Claus.\nDown through the chimney, with lots of toys.\nAll for the little ones' Christmas joys.\n\nHo, ho, ho! Who wouldn’t go?\nHo, ho, ho! Who wouldn’t go?\nUp on the housetop, click, click, click.\nDown through the chimney with old Saint Nick.\n\nFirst come the stockings in a row.\nFilled with goodies top to toe.\nThen to the tree old Santa springs,\nTo place the presents that he brings.\n\nHo, ho, ho! Who wouldn’t go?\nHo, ho, ho! Who wouldn’t go?\nUp on the housetop, click, click, click.\nDown through the chimney with old Saint Nick.\n\nEverything delivered from his sack.\nSanta has a cookie snack.\nBack to the reindeer and the sleigh.\nInto the night they fly away.\n\nHo, ho, ho! Who wouldn’t go?\nHo, ho, ho! Who wouldn’t go?\nUp on the housetop, click, click, click.\nDown through the chimney with old Saint Nick.\n\n******\nGet FREE resources like coloring sheets, games, flashcards, and worksheets in the Super Simple Learning Resource Center:\nhttp://supersimplelearning.com/resource-center/\n\n*****\nWe're Super Social, too!\nfacebook: http://facebook.com/supersimpleofficial\ntwitter: http://twitter.com/simplesongs\npinterest: http://pinterest.com/simplesongs\ninstagram: http://instagram.com/supersimpleofficial\nblog: http://supersimplelearning.com/blog\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company.\n\n#nurseryrhymes #kidssongs #childrensmusic #supersimplesongs",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/s2rgaLmyiFU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/s2rgaLmyiFU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/s2rgaLmyiFU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/s2rgaLmyiFU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/s2rgaLmyiFU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "s2rgaLmyiFU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/EHTcC22HNUVvKB0ZyErClWPWnac\"",
+   "id": "UkRncmhpOE1MTTFpOC5QSXBYd1k2RlYzaw==",
+   "snippet": {
+    "publishedAt": "2017-12-04T14:50:41.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Frosty The Snowman Song | Christmas Songs for Kids",
+    "description": "Get Festive With some Christmas Movies the Family will love here:\nhttps://bit.ly/2oAsQ0b\n\nFrosty the Snowman is a 1969 animated Christmas television special based on the song \"Frosty the Snowman\". ► Subscribe For More Retro Cartoons  http://bit.ly/2fwvfRH\n\nHappy holidays and enjoy Frosty the Snowman 1969 in HD 1080p\n\n► Christmas Favourites by Retro Cartoons: http://bit.ly/2AqxfGK\n\n► Halloween Videos for Kids: http://bit.ly/2AZUE2A\n\n► Opening Theme Songs for Kids: http://bit.ly/2zOIhCq\n\n► Ghostbusters Full Episodes for Kids : http://bit.ly/2zRa70V\n\n⛄️❄️ Frosty the Snowman Song Lyrics ❄️⛄️\n\nFrosty the Snowman\nWas a jolly happy soul\nWith a corncob pipe and a button nose\nAnd two eyes made out of coal\nFrosty the Snowman\nIs a fairytale they say\nHe was made of snow\nBut the children know\nHow he came to life one day\nThere must have been some magic\nIn that old silk hat they found\nFor when they placed it on his head\nHe began to dance around\nFrosty the Snowman\nWas alive as he could be\nAnd the children say\nHe could laugh and play\nJust the same as you and me\nFrosty the Snowman\nKnew the sun was hot that day\nSo he said let's run\nAnd we'll have some fun\nNow before I melt away\nDown to the village\nWith a broomstick in his hand\nRunning here and there all around the square\nSaying catch me if you can\nHe led them down the streets of town\nRight to the traffic cop\nAnd he only paused a moment when\nHe heard him holler stop\nFrosty the Snowman\nHad to hurry on his way\nBut he waved goodbye\nSaying don't you cry\nI'll be back again some day\nThumpety thump thump\nThumpety thump thump\nLook at Frosty go\nThumpety thump thump\nThumpety thump thump\nOver the hills of snow\n\nOn Christmas Eve, a terrible magician named Professor Hinkle is called to the schoolhouse to perform for the class Christmas party, but fails. After, the children go out to play in the snow where they build a snowman and name him Frosty. Suddenly, Hinkle's rabbit, Hocus Pocus, hops outside and a gust of wind blows the hat onto Frosty, bringing him to life, delighting the children, but Hinkle, after discovering this as well, takes it back after the wind blows it off Frosty's head. The other children object, but he tells them that when they grow up, they'll learn that snowmen can't come to life and leaves.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PIpXwY6FV3k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PIpXwY6FV3k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PIpXwY6FV3k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/PIpXwY6FV3k/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/PIpXwY6FV3k/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "PIpXwY6FV3k"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/FWAssxEGOBqketAkef0T9JDb74s\"",
+   "id": "UkRncmhpOE1MTTFpOC5fNkh6b1VjeDNlbw==",
+   "snippet": {
+    "publishedAt": "2018-04-05T14:30:02.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Old MacDonald Had A Farm (2018) | Nursery Rhymes | Super Simple Songs",
+    "description": "🐷 🐄🐮👩\u200d🌾 🎶Old MacDonald had a farm. E-I-E-I-O. And on that farm he had a pig. E-I-E-I-O. With an oink oink here. And an oink oink there.🎶Learn to make animals sounds with this fun and classic nursery rhyme from Super Simple Songs, Old MacDonald Had A Farm! \n\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.” \n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app. \n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\nLyrics:\n\nOld MacDonald had a farm. E-I-E-I-O.\nAnd on that farm he had a pig. E-I-E-I-O.\nWith an oink oink here. \nAnd an oink oink there. \nHere an oink. \nThere an oink. \nEverywhere an oink oink. \nOld MacDonald had a farm. E-I-E-I-O.\n\nOld MacDonald had a farm. E-I-E-I-O.\nAnd on that farm he had a duck. E-I-E-I-O. \nWith a quack quack here. \nAnd a quack quack there. \nAnd an oink oink here. \nAnd an oink oink there. \nOld MacDonald had a farm. E-I-E-I-O.\n\nOld MacDonald had a farm. E-I-E-I-O.\nAnd on that farm he had a horse. E-I-E-I-O. \nWith a neigh neigh here. \nAnd a neigh neigh there. \nAnd a quack quack here. \nAnd a quack quack there. \nAnd an oink oink here. \nAnd an oink oink there. \nOld MacDonald had a farm. E-I-E-I-O.\n\nOld MacDonald had a farm. E-I-E-I-O.\nAnd on that farm he had a sheep. E-I-E-I-O. \nWith a baaa baaa here. \nAnd a baaa baaa there. \nAnd a neigh neigh here. \nAnd a neigh neigh there. \nAnd a quack quack here. \nAnd a quack quack there. \nAnd an oink oink here. \nAnd an oink oink there. \nOld MacDonald had a farm. E-I-E-I-O.\n\nOld MacDonald had a farm. E-I-E-I-O. \nAnd on that farm he had a cow. E-I-E-I-O. \nWith a moo moo here. \nAnd a moo moo there. \nAnd a baaa baaa here. \nAnd a baaa baaa there. \nAnd a neigh neigh here. \nAnd a neigh neigh there. \nAnd a quack quack here. \nAnd a quack quack there. \nAnd an oink oink here. \nAnd an oink oink there. \nOld MacDonald had a farm. E-I-E-I-O. \n\nOld MacDonald had a farm. E-I-E-I-O.\nAnd on that farm he had a turkey. E-I-E-I-O. \nWith a gobble-gobble here,\nAnd a gobble-gobble there,\nAnd a moo moo here.\nAnd a moo moo there. \nAnd a baaa baaa here. \nAnd a baaa baaa there. \nAnd a neigh neigh here. \nAnd a neigh neigh there. \nAnd a quack quack here. \nAnd a quack quack there. \nAnd an oink oink here. \nAnd an oink oink there. \nOld MacDonald had a farm. E-I-E-I-O. \nE-I-E-I-O.\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company.\n\n#supersimplesongs #oldmacdonald #nurseryrhymes #kidssongs #childrensmusic",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_6HzoUcx3eo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_6HzoUcx3eo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_6HzoUcx3eo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_6HzoUcx3eo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_6HzoUcx3eo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_6HzoUcx3eo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/fmBrN7tewnndesR73e63EcgjdQg\"",
+   "id": "UkRncmhpOE1MTTFpOC5lbzlicGl3S3B4NA==",
+   "snippet": {
+    "publishedAt": "2016-11-03T16:30:02.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Christmas Freeze Dance | Freeze Dance | Christmas Dance for Kids | Christmas Dance Songs",
+    "description": "The Kiboomers! Christmas Freeze Dance Music That Stops!\n★Get this song on iTunes: https://itunes.apple.com/us/album/preschool-christmas-action/id1161606306\nWatch our ‘North Pole Freeze Dance’ video and dance along with the kids!\n\n\n'NORTH POLE FREEZE DANCE MUSIC THAT STOPS SONG LYRICS' | 'NORTH POLE CHRISTMAS FREEZE DANCE SONG FOR KIDS'\n\nLet's play the North Pole Freeze Game\n\nWe’re going to do all kinds of fun North Pole actions.\n\nBut, remember to STOP when I say FREEZE.\n\nGet ready to skate like penguins!\n\nPenguins Skating \nPenguins Skating \nSkating all around\nSkating any way you please\nBut STOP when I say FREEZE!\n\nGet ready to ski like santa!\n\nSanta skiing\nSanta skiing\nSkiing all around\nSkiing any way you please\nBut STOP when I say FREEZE!\n\nGet ready to the jingle bell hop!\n\nJingle Bell Hopping \nJingle Bell Hopping\nHopping all around\nHopping any way you please\nBut STOP when I say FREEZE!\n\n\nGet ready to do the gingerbread run!\n\nGingerbread run\nGingerbread run\nrunning all around\n\nRunning any way you please\nBut STOP when I say FREEZE!\n\nGet ready to do the candy cane twist!\n\nCandy cane twist\nCandy cane twist\nTwisting all around\nTwisting any way you please\nBut STOP when I say FREEZE!\n\n*********\nWe're Social, too!\nfacebook: http://facebook.com/kiboomu\ntwitter: http://twitter.com/kiboomu\npinterest: http://pinterest.com/kiboomu\nblog: http://www.thekiboomers.com\n*******\nSong: \"Christmas Freeze Dance Music That Stops\" (Christmas Freeze Dance Song for kids )\nMusic: Kiboomu Kids Songs\nAnimation: Petite Alby\nVocals & Arrangement: Christopher Pennington from The Kiboomers",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eo9bpiwKpx4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eo9bpiwKpx4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eo9bpiwKpx4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/eo9bpiwKpx4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/eo9bpiwKpx4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "eo9bpiwKpx4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/gITweIHlW9pqZwFpqmbQnJgGBfA\"",
+   "id": "UkRncmhpOE1MTTFpOC4yU19fZmJDR3dPTQ==",
+   "snippet": {
+    "publishedAt": "2017-05-27T15:30:00.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "The Ants Go Marching | Kids Songs | Super Simple Songs",
+    "description": "Check out the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\nThe Ants Go Marching is a super fun children's song that's great to practice rhyming and counting! \n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n\nLyrics:\nThe ants go marching one by one.\nHoorah! Hoorah!\nThe ants go marching one by one.\nHoorah! Hoorah!\nThe ants go marching one by one.\nThe little one stops to suck his thumb.\nAnd they all go marching down to the ground.\nTo get out of the rain.\nBoom, boom, boom, boom!\n\nThe ants go marching two by two.\nHoorah! Hoorah!\nThe ants go marching two by two.\nHoorah! Hoorah!\nThe ants go marching two by two.\nThe little one stops to tie his shoe.\nAnd they all go marching down to the ground.\nTo get out of the rain.\nBoom, boom, boom!\n\nThe ants go marching three by three.\nHoorah! Hoorah!\nThe ants go marching three by three.\nHoorah! Hoorah!\nThe ants go marching three by three.\nThe little one stops to climb a tree.\nAnd they all go marching down to the ground.\nTo get out of the rain.\nBoom, boom, boom!\n\nThe ants go marching four by four.\nHoorah! Hoorah!\nThe ants go marching four by four.\nHoorah! Hoorah!\nThe ants go marching four by four.\nThe little one stops to shut the door.\nAnd they all go marching down to the ground.\nTo get out of the rain.\nBoom, boom, boom!\n\nThe ants go marching five by five.\nHoorah! Hoorah!\nThe ants go marching five by five.\nHoorah! Hoorah!\nThe ants go marching five by five.\nThe little one stops to take a dive.\nAnd they all go marching down to the ground.\nTo get out of the rain.\nBoom, boom, boom!\n\nThe ants go marching six by six.\nHoorah! Hoorah!\nThe ants go marching six by six.\nHoorah! Hoorah!\nThe ants go marching six by six.\nThe little one stops to pick up sticks.\nAnd they all go marching down to the ground.\nTo get out of the rain.\nBoom, boom, boom!\n\nThe ants go marching seven by seven.\nHoorah! Hoorah!\nThe ants go marching seven by seven.\nHoorah! Hoorah!\nThe ants go marching seven by seven.\nThe little one stops to pray to heaven.\nAnd they all go marching down to the ground.\nTo get out of the rain.\nBoom, boom, boom!\n\nThe ants go marching eight by eight.\nHoorah! Hoorah!\nThe ants go marching eight by eight.\nHoorah! Hoorah!\nThe ants go marching eight by eight.\nThe little one stops to rollerskate.\nAnd they all go marching down to the ground.\nTo get out of the rain.\nBoom, boom, boom! \n\nThe ants go marching nine by nine.\nHoorah! Hoorah!\nThe ants go marching nine by nine.\nHoorah! Hoorah!\nThe ants go marching nine by nine.\nThe little one stops to check the time.\nAnd they all go marching down to the ground.\nTo get out of the rain.\nBoom, boom, boom! \n\nThe ants go marching ten by ten.\nHoorah! Hoorah!\nThe ants go marching ten by ten.\nHoorah! Hoorah!\nThe ants go marching ten by ten.\nThe little one stops to shout,\n\"THE END!!\"\n\n******\nGet FREE resources like coloring sheets, games, flashcards, and worksheets for this song and more at https://www.supersimple.com\n\n*****\n\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company.\n\n#nurseryrhymes #kidssongs #childrensmusic #supersimplesongs",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2S__fbCGwOM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2S__fbCGwOM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2S__fbCGwOM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2S__fbCGwOM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/2S__fbCGwOM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "2S__fbCGwOM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/RuvW24dtTMU6ai1gacF1r2mbczw\"",
+   "id": "UkRncmhpOE1MTTFpOC5aVWkxWUpWQ2hwZw==",
+   "snippet": {
+    "publishedAt": "2014-11-19T11:30:03.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Hello, Reindeer | Children's Christmas Song",
+    "description": "Get the Super Simple App for iOS! ► apple.co/2nW5hPd\n\nGreet your friends with this holiday Hello song! Hello, Reindeer! Hello, Snowman! Hello, Santa!\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n******\nLyrics: \nHello, reindeer. \nHello, snowman. \nHello, Santa. \nHappy holidays. \n\n1 2 3, 4 5 6, 7 8 9 10.\nMerry Christmas, everyone. \nLet's sing it once again. \n\nHello, reindeer. \nHello, snowman. \nHello, Santa. \nHappy holidays.\nHappy holidays. \n\n*****\nSong: Hello, Reindeer\nCD: Super Simple Learning - Christmas \nMusic: Super Simple Learning\nVocals: Josh Lomonaco, Shelly Lomonaco, Leah Frederick\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Super Simple Learning, Inc.\n\n*****\nHello, Reindeer by Super Simple Learning",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZUi1YJVChpg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZUi1YJVChpg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZUi1YJVChpg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZUi1YJVChpg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ZUi1YJVChpg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZUi1YJVChpg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/dWBh8l2qG0-eZ4-ysrrP95MCeR4\"",
+   "id": "UkRncmhpOE1MTTFpOC5yNVdMWFpzcEQxTQ==",
+   "snippet": {
+    "publishedAt": "2017-01-05T16:30:30.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Apples & Bananas | Super Simple Songs",
+    "description": "Check out the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\nApples 🍎 & Bananas 🍌 is a super fun family and classroom song that is great for introducing English vowel sounds. Ballet dancing bananas, twirling apples, and lots of silly fun! Join our friendly monster friends and sing along! \n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n\nLYRICS:\nI like to eat, eat, eat apples and bananas.\nI like to eat, eat, eat apples and bananas.\nI like to eat, eat, eat apples and bananas.\nI like to eat, eat, eat apples and bananas.\n\nNow let’s make a long “a” sound - ay-ples and ba-nay-nays\nI like to ate, ate, ate ay-ples and ba-nay-nays\nI like to ate, ate, ate ay-ples and ba-nay-nays\n\nLet’s try a long “e” sound… ee-ples and ba-nee-nees\nI like to eat, eat, eat ee-ples and ba-nee-nees\nI like to eat, eat, eat ee-ples and ba-nee-nees\n\nHow about a long “i” sound… i-ples and ba-nigh-nighs\nI like to ite, ite, ite i-ples and ba-nigh-nighs\nI like to ite, ite, ite i-ples and ba-nigh-nighs\n\nGreat, let’s sing it with a long “o” sound...oh-ples and ba-no-nos\nI like to ote, ote, ote oh-ples and ba-no-nos\nI like to ote, ote, ote oh-ples and ba-no-nos\n\nI know let’s make an “oo” sound...oo-ples and ba-noo-noos\nI like to oot, oot, oot, oopples and ba-noo-noos\nI like to oot, oot, oot, oopples and ba-noo-noos\n\nLast one...apples and bananas!\nI like to eat, eat, eat apples and bananas.\nI like to eat, eat, eat apples and bananas.\nI like to eat, eat, eat apples and bananas.\nI like to eat, eat, eat apples and bananas.\n\n*****\n\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/r5WLXZspD1M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/r5WLXZspD1M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/r5WLXZspD1M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/r5WLXZspD1M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/r5WLXZspD1M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "r5WLXZspD1M"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/cTy33WbrFNNAwJkVtkvyEyK32IM\"",
+   "id": "UkRncmhpOE1MTTFpOC43NU5RSy1TbTFZWQ==",
+   "snippet": {
+    "publishedAt": "2016-08-25T17:53:19.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "The Very Hungry Caterpillar - Animated Film",
+    "description": "In the internationally acclaimed The Very Hungry Caterpillar, a tiny caterpillar eats and eats…and eats his way through the week. \nTaken from The Very Hungry Caterpillar and Other Stories collection. Based on Eric Carle's picture book. \n\nThe full 5 stories including children's favourite The Very Hungry Caterpillar are available to own on iTunes: https://itunes.apple.com/gb/tv-season/very-hungry-caterpillar-other/id826374687\n\nWant more? Click here to Subscribe: http://www.youtube.com/channel/UC12bW2PEn1Ot-arl_ZaPrFQ?sub_confirmation=1\n\nMore on:\nTwitter: https://twitter.com/IFCLondon\nFacebook: https://www.facebook.com/IlluminatedFilms/\nWebsite: http://www.illuminatedfilms.com/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/75NQK-Sm1YY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/75NQK-Sm1YY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/75NQK-Sm1YY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/75NQK-Sm1YY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "75NQK-Sm1YY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/A0TGSbWL5JhnrJBhO7R5P7LswuM\"",
+   "id": "UkRncmhpOE1MTTFpOC53X2xDaThVNDltWQ==",
+   "snippet": {
+    "publishedAt": "2015-03-10T18:32:20.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "ITSY BITSY SPIDER - Song for Children",
+    "description": "Why is Itsy Bitsy Spider trying to climb up the waterspout? Is he going to reach the rooftop? Find out in this fun video!\n\nChildren all over the world absolutely adore Itsy Bitsy Spider, also known as Incy Wincy Spider.\nIn this popular nursery rhyme, a spider climbs up the waterspout, but rain keeps pushing him down. Who can help Itsy Bitsy? Is he going to succeed?\n\nEnjoy this unique and original version of a traditional song. It’s suitable for babies, toddllers, children, kids and parents alike!\n\n°°°°°\nThank you so much for watching this video and for sharing it!\n\nNew songs are coming soon. To make sure you get all the latest videos, SUBSCRIBE NOW! http://bit.ly/1jDE3Eo\n\n°°°°°\nTwinkle Little Songs are videos of popular nursery rhymes and children's songs, with a special touch.\n\nBabies, toddlers, children and kids (and, of course, parents!) can all enjoy these videos and learn something new while having fun.\n\n°°°°°\nItsy Bitsy Spider - Suggested Educational Activities:\n\nWith babies and toddlers:\n- Meet Itsy Bitsy (Incy Wincy), the ultra-cute and brave spider\n- Discuss how the weather can change\n- Discuss how Itsy Bitsy tries to overcome obstacles\n- Cheer when the spider finally succeeds!\n\nWith children and kids: \n- Learn to sing this beautiful, enchanting song\n- Ask questions like “why does the spider keep climbing up?\"\n- Learn more about spiders\n- Discuss the effects of rain and sun on the landscape\n- Discuss how perseverance is rewarded\n- Have fun!\n\n°°°°°\nItsy Bitsy Spider - Song Lyrics: \n(To turn captions on, enable them in the YouTube player)\n\nItsy bitsy spider went up the waterspout.\nDown came the rain\nand washed the spider out.\nOut came the sunshine\nand dried up all the rain\nand itsy bitsy spider climbed up the spout again.\n(x4)\n\n°°°°°\nCheck out more videos!\n\nHickory Dickory Dock: https://youtu.be/XSPV-ezPMhQ\nBINGO: http://youtu.be/jZ5gtlCzHCw\nRow, row, row your boat: http://youtu.be/lkZySVLw4dI\nABC Song: https://youtu.be/bA_bLDSeiwQ\nTen Little Indians: https://youtu.be/c2qfv76z8Dc\n\n°°°°°",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/w_lCi8U49mY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/w_lCi8U49mY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/w_lCi8U49mY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/w_lCi8U49mY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/w_lCi8U49mY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "w_lCi8U49mY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/JHY81J9lJmmit6CJSPBptakE-1Q\"",
+   "id": "UkRncmhpOE1MTTFpOC5HUjJvNms4YVBsSQ==",
+   "snippet": {
+    "publishedAt": "2016-11-26T16:30:00.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Baby Shark | Kids Songs | Super Simple Songs",
+    "description": "Watch this video and MUCH more in the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\nBaby Shark Plush Toy ► http://bit.ly/SuperSimplePlush\nBaby Shark, Mama Shark, Papa Shark, Grandma Shark, and Granpa Shark are out for a family swim! Sing along with this single of the Super Simple Baby Shark song! \n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n*****\n\nLyrics:\n\nBaby shark, doo doo doo, doo doo doo doo doo.\nBaby shark, doo doo doo, doo doo doo doo doo.\nBaby shark, doo doo doo, doo doo doo doo doo.\nBaby shark.\n\nMama shark, doo doo doo, doo doo doo doo doo.\nMama shark, doo doo doo, doo doo doo doo doo.\nMama shark, doo doo doo, doo doo doo doo doo.\nMama shark.\n\nPapa shark, doo doo doo, doo doo doo doo doo.\nPapa shark, doo doo doo, doo doo doo doo doo.\nPapa shark, doo doo doo, doo doo doo doo doo.\nPapa shark.\n\nGrandma shark, doo doo doo, doo doo doo doo doo.\nGrandma shark, doo doo doo, doo doo doo doo doo.\nGrandma shark, doo doo doo, doo doo doo doo doo.\nGrandma shark.\n\nGrandpa shark, doo doo doo, doo doo doo doo doo.\nGrandpa shark, doo doo doo, doo doo doo doo doo.\nGrandpa shark, doo doo doo, doo doo doo doo doo.\nGrandpa shark.\n\nHungry sharks, doo doo doo, doo doo doo doo doo.\nHungry sharks, doo doo doo, doo doo doo doo doo.\nHungry sharks, doo doo doo, doo doo doo doo doo.\nHungry sharks.\n\nLittle fish, doo doo doo, doo doo doo doo doo.\nLittle fish, doo doo doo, doo doo doo doo doo.\nLittle fish, doo doo doo, doo doo doo doo doo.\nLittle fish.\n\nSwim away, doo doo doo, doo doo doo doo doo.\nSwim away, doo doo doo, doo doo doo doo doo.\nSwim away, doo doo doo, doo doo doo doo doo.\nSwim away.\n\nSwim faster, doo doo doo, doo doo doo doo doo.\nSwim faster, doo doo doo, doo doo doo doo doo.\nSwim faster, doo doo doo, doo doo doo doo doo.\nSwim faster.\n\nSwim faster, doo doo doo, doo doo doo doo doo.\nSwim faster, doo doo doo, doo doo doo doo doo.\nSwim faster, doo doo doo, doo doo doo doo doo.\nSwim faster.\n\nSwim faster, doo doo doo, doo doo doo doo doo.\nSwim faster, doo doo doo, doo doo doo doo doo.\nSwim faster, doo doo doo, doo doo doo doo doo.\nSwim faster.\n\nSafe at last, doo doo doo, doo doo doo doo doo.\nSafe at last, doo doo doo, doo doo doo doo doo.\nSafe at last, doo doo doo, doo doo doo doo doo.\nSafe at last.\n\nBye bye sharks, doo doo doo, doo doo doo doo doo.\nBye bye sharks, doo doo doo, doo doo doo doo doo.\nBye bye sharks, doo doo doo, doo doo doo doo doo.\nBye bye sharks.\nBye bye sharks.\n\n********\n\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GR2o6k8aPlI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GR2o6k8aPlI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GR2o6k8aPlI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/GR2o6k8aPlI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/GR2o6k8aPlI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "GR2o6k8aPlI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/uQOwF7rm5lzUvEi7kLiKVKClt2g\"",
+   "id": "UkRncmhpOE1MTTFpOC4yVWNaV1h2Z01aRQ==",
+   "snippet": {
+    "publishedAt": "2015-03-25T16:00:01.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Freeze Dance | Freeze Song | Freeze Dance for Kids | Music for Kids | The Kiboomers",
+    "description": "The Kiboomers! Freeze Dance!  Freeze Dance for Kids!\n★Get this song on iTunes: https://itunes.apple.com/us/album/ultimate-childrens-dance-party/id1039605728\nKid Song Lyrics, Music & Video. 3,000+ Children Songs to Discover on http://bussongs.com/\nWatch our 'Freeze Dance' video and dance along with the kids!\n\n\n'FREEZE DANCE MUSIC THAT STOPS SONG LYRICS' | 'PARTY FREEZE DANCE SONG FOR KIDS'\n\nLet's play the Party Freeze game!\n\nDancing Dancing all around\nDancing dancing dancing\nDancing  any way you please\nBut STOP when I say FREEZE\n\nHopping Hopping all around\nHopping hopping hopping \nHopping any way you please\nBut STOP when I say FREEZE\n\nSkipping Skipping all around\nSkipping Skipping skipping\nSkipping any way you please\nBut STOP when I say FREEZE\n\nTwirling twirling all around\nTwirling twirling twirling \nTwirling any way you please\nBut STOP when I say FREEZE\n\nDancing Dancing all around\nDancing dancing dancing\nDancing  any way you please\nBut STOP when I say FREEZE\n\n***********\nIf you enjoy this video, please subscribe to the Kiboomu channel for favourite classic kids songs (ABC Song,Ten In The Bed, BINGO, Twinkle Twinkle Little Star, Wheels on the Bus etc.) and original kids songs (I'm a Little Snowman, Good Morning, Hello, etc.): http://youtube.com/kiboomu\n\nVisit the Kiboomu Website for songs, lyrics, activity ideas, worksheets, crafts, and more: http://kiboomukidssongs.com\n\n*********\nWe're Social, too!\nfacebook: http://facebook.com/kiboomu\ntwitter: http://twitter.com/kiboomu\npinterest: http://pinterest.com/kiboomu\nblog: http://kiboomukidssongs.com\n*******\nSong: \"Freeze Dance\" (Dance Music for kids )\nMusic: Kiboomu Kids Songs\nAnimation: Subcutáneo Estudio Creativo\nVocals & Arrangement: Christopher Pennington from The Kiboomers",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2UcZWXvgMZE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2UcZWXvgMZE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2UcZWXvgMZE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2UcZWXvgMZE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/2UcZWXvgMZE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "2UcZWXvgMZE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/fEpLxp4p_XTDhdNECWtl9VDcqKE\"",
+   "id": "UkRncmhpOE1MTTFpOC5veUV5TWpkRDJ1aw==",
+   "snippet": {
+    "publishedAt": "2013-12-02T02:33:26.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Twelve Days of Christmas with Lyrics Christmas Carol & Song",
+    "description": "Favorite Christmas song Twelve Days of Christmas beautifully sung by top talented choir - great for Christmas concerts, performances, choirs and churches. Merry Christmas 🎵 Subscribe: https://www.youtube.com/c/christmassongsandcarols?sub_confirmation=1\n\n🎄 Christmas Songs and Carols Album with a BEAUTIFUL Book Download: https://www.christmassongsandcarols.com/products/christmas-songs-and-carols-album-and-ebook\n\n👕 Merch https://www.christmassongsandcarols.com/collections/kids-christmas-clothing\n\n🎅 Free lyric sheet: https://www.christmassongsandcarols.com/products/twelve-days-of-christmas\n\n❄ Christmas Window Decoration Stickers: https://www.christmassongsandcarols.com/collections/christmas-window-sticker-decorations\n__________________________________________________\n\nSpotify: https://open.spotify.com/album/52xHPK684sslr4MpOjMaMN\n\niTunes: https://music.apple.com/us/album/christmas-songs-and-carols/1481928573\n\nGooglePlay: https://play.google.com/store/music/album/Love_to_Sing_Christmas_Songs_and_Carols?id=B444khiq6fllklqn3dc3ncllmom&hl=en\n\n#christmassong\n#christmasmusic\n#christmassongsandcarols\n__________________________________________________\n\nGET IN TOUCH!\n\n❤  Facebook: https://www.facebook.com/christmassongsandcarols\n\n💮 Pinterest:https://www.pinterest.nz/christmassongsandcarols\n\n📷 Instagram:\nhttps://www.instagram.com/christmassongsandcarols/\n\nFeel the Christmas JOY with Christmas Songs and carols - Love to Sing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oyEyMjdD2uk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oyEyMjdD2uk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oyEyMjdD2uk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oyEyMjdD2uk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/oyEyMjdD2uk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "oyEyMjdD2uk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/v1bqGssPOHPawNQ5mHYbi-GA5Ho\"",
+   "id": "UkRncmhpOE1MTTFpOC5acEpDZ1R4X2F1Yw==",
+   "snippet": {
+    "publishedAt": "2014-12-06T12:00:01.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Decorate The Christmas Tree (to the tune of \"Deck The Halls\") | Super Simple Songs",
+    "description": "Get the Super Simple App for iOS! ► apple.co/2nW5hPd\n\nWe're singing about holiday traditions with Decorate The Christmas Tree (sung to the tune of \"Deck The Halls\"). This song is full of useful holiday vocabulary and collocations for young learners.\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\n\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n******\nLyrics: \nDecorate the Christmas tree. \nFa la la la la, la la la la. \n\nCandy canes for you and me. \nFa la la la la, la la la la.\n\nHang the stockings, 1, 2, 3. \nFa la la, la la la, la la la.\n\nWrap the presents happily. \nFa la la la la, la la la la.\n\nOn a sleigh ride, go, go, go. \nFa la la la la, la la la la.\n\nMake a snowball, throw, throw, throw.\nFa la la la la, la la la la.\n\nKiss beneath the mistletoe.\nFa la la, la la la, la la la.\n\nSanta's laughing, \"Ho, ho, ho!\" \nFa la la la la, la la la la.\n\nChristmas Eve comes soon, hooray! \nFa la la la la, la la la la.\n\nSanta Claus is on the way.\nFa la la la la, la la la la.\n\nLots of presents in his sleigh. \nFa la la, la la la, la la la.\n\nI can't wait 'til Christmas Day.\nFa la la la la, la la la la.\n\nFa la la la la, la la la LAAAAAAAAA!\n\n*****\nSong: Decorate The Christmas Tree\nCD: Super Simple Songs - Christmas\nMusic: Super Simple Learning\nVocals: Josh Lomonaco, Shelly Lomonaco, Leah Frederick\n\n*****\nWe're Super Social, too!\nGoogle+: http://google.com/+supersimplesongs\nfacebook: http://facebook.com/supersimpleofficial\nTwitter: http://twitter.com/simplesongs\nPinterest: http://pinterest.com/simplesongs\nInstagram: http://instagram.com/supersimpleofficial\nBlog: http://supersimplelearning.com/blog\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Super Simple Learning, Inc.\n\n*****\nDecorate The Christmas Tree by Super Simple Learning",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZpJCgTx_auc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZpJCgTx_auc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZpJCgTx_auc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZpJCgTx_auc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ZpJCgTx_auc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZpJCgTx_auc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/raSCaJ8P0YiNH6M4W62v_0TZPLY\"",
+   "id": "UkRncmhpOE1MTTFpOC5fSXIwTWM2UWlsbw==",
+   "snippet": {
+    "publishedAt": "2015-02-11T13:00:00.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Yes, I Can! | Animal Song For Children | Super Simple Songs",
+    "description": "Watch videos from Super Simple in the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\n\"Yes, I Can!\" is a super simple animal song that introduces a bunch of fun animals, action verbs, and the phrases, \"Can you___?\" and \"Yes, I can. / No I can't.\"\n \nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n******\nLyrics: \nLittle bird, little bird, can you clap? \nNo, I can't. No, I can't. I can't clap. \nLittle bird, little bird, can you fly? \nYes, I can. Yes, I can. I can fly. \n\nElephant, elephant, can you fly? \nNo, I can't. No, I can't. I can't fly. \nElephant, elephant, can you stomp? \nYes, I can. Yes, I can. I can stomp. \n\nLittle fish, little fish, can you stomp? \nNo, I can't. No, I can't. I can't stomp. \nLittle fish, little fish, can you swim?\nYes, I can. Yes, I can. I can swim. \n\nGorilla, gorilla, can you swim?\nNo, I can't. No, I can't. I can't swim. \nGorilla, gorilla, can you climb? \nYes, I can. Yes, I can. I can climb. \n\nBuffalo, buffalo, can you climb? \nNo, I can't. No, I can't. I can't climb. \nBuffalo, buffalo, can you run? \nYes, I can. Yes, I can. I can run. \n\nBoy and girls, boys and girls, can you sing? \nYes, we can. Yes, we can. We can sing. \nBoys and girls, boys and girls, can you dance? \nYes, we can. Yes, we can. We can dance.  \nWe can sing. We can dance. Yes, we can. \nWe can sing. We can dance. Yes, we can.\nYes, we can. Yes, we can. Yes, we can.\nYes, we can. Yes, we can. Yes, we can.\nYes, we can. Yes, we can. Yes, we can.\n\n*****\nSong: Yes, I Can!\nCD: Super Simple Songs - Animals\nMusic: Super Simple Learning\nVocals: Matt Stamm, Leah Frederick, Shelly Lomonaco\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Super Simple Learning, Inc.\n\n*****\nYes, I Can! by Super Simple Learning",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_Ir0Mc6Qilo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_Ir0Mc6Qilo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_Ir0Mc6Qilo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_Ir0Mc6Qilo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_Ir0Mc6Qilo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube",
+    "playlistId": "RDgrhi8MLM1i8",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_Ir0Mc6Qilo"
+    }
+   }
+  }
+ ]
+}
