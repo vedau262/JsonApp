@@ -18,7 +18,7 @@
 		{	
 			"LIST_VIDEO_NAME": "Kids Halloween Songs by Little Treehouse",
 			"LIST_VIDEO_SIZE": "50",
-			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
+			"LIST_VIDEO_ICON": "https://i2.wp.com/tubikids.com/wp-content/uploads/2018/10/Happy-Halloween-Song-Schoolies-Cartoons-Halloween-Spooky-Cartoons-Kids-Channel.jpg?fit=1000%2C562&ssl=1",
 			"LIST_VIDEO_ID": "PLdzJjydjtVtYMXSPxz0N0GEhh1TKIF_Ex",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Kids%20Halloween%20Songs%20by%20Little%20Treehouse",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/g8w8jbx8yfygom1/Kids%20Halloween%20Songs%20by%20Little%20Treehouse.txt?dl=1"			
