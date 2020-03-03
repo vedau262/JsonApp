@@ -3,7 +3,7 @@
 			"LIST_VIDEO_NAME": "Best Videos from Larva",
 			"LIST_VIDEO_SIZE": "36",
 			"LIST_VIDEO_ICON": "https://s2.dmcdn.net/v/MZqYt1Qx8k-DKaMUH/x1080",
-			"LIST_VIDEO_ID": "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=PLxrv_vTPuZ6RyJe142HqnHZZIF7la_yYQ&key=AIzaSyBFLCeFsL661fUy4LwumJam4aK2jfBV1zk&maxResults=50",			
+			"LIST_VIDEO_ID": "PLxrv_vTPuZ6RyJe142HqnHZZIF7la_yY",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Best%20Videos%20from%20Larva.json",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/4ibowig2qufiu97/Best%20Videos%20from%20Larva.json?dl=1"			
 		},
