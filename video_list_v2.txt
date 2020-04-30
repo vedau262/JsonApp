@@ -1,101 +1,5 @@
 	[	
 		{	
-			"LIST_VIDEO_NAME": "Best Videos from Larva",
-			"LIST_VIDEO_SIZE": "36",
-			"LIST_VIDEO_ICON": "https://s2.dmcdn.net/v/MZqYt1Qx8k-DKaMUH/x1080",
-			"LIST_VIDEO_ID": "PLxrv_vTPuZ6RyJe142HqnHZZIF7la_yY",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Best%20Videos%20from%20Larva.json",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/4ibowig2qufiu97/Best%20Videos%20from%20Larva.json?dl=1"			
-		},
-		{	
-			"LIST_VIDEO_NAME": "Christmas kid songs",
-			"LIST_VIDEO_SIZE": "28",
-			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/xXyrdPkhwSE/mqdefault.jpg",
-			"LIST_VIDEO_ID": "PLGkpn9jEnwH_9uhz3j7XyGVO0AqUrI3ih",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Christmas%20kid%20songs.json",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/ujztghxw3rm2mws/Christmas%20kid%20songs.json?dl=1"			
-		},
-		{	
-			"LIST_VIDEO_NAME": "Mix - Our Favorite Christmas Songs for Kids",
-			"LIST_VIDEO_SIZE": "50",
-			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpgz8ILMQ2dZamqSWoXve6CqaoFnoBu4ZGvPpGRAv_NWXap7m&s",
-			"LIST_VIDEO_ID": "RDgrhi8MLM1i8",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Mix%20-%20Our%20Favorite%20Christmas%20Songs%20for%20Kids",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/za4c0uv7xupkk6q/Mix%20-%20Our%20Favorite%20Christmas%20Songs%20for%20Kids.txt?dl=1"			
-		},
-		{	
-			"LIST_VIDEO_NAME": "Christmas Songs for Kids",
-			"LIST_VIDEO_SIZE": "12",
-			"LIST_VIDEO_ICON": "https://m.media-amazon.com/images/I/61i0wNpbZGL._AA256_.jpg",
-			"LIST_VIDEO_ID": "PLb_1RRxIZTLJeg9AC_xCrYYqDyEiMeIqp",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Christmas%20Songs%20for%20Kids",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/bt1ynk9e1j830ko/Christmas%20Songs%20for%20Kids.txt?dl=1"		
-		},
-		{	
-			"LIST_VIDEO_NAME": "Kids Halloween Songs by Little Treehouse",
-			"LIST_VIDEO_SIZE": "50",
-			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb0aurZLSF2XMmbhvFiy8TakxmsvuqFv7o72YUEiQi_I6q8JoD&s",
-			"LIST_VIDEO_ID": "PLdzJjydjtVtYMXSPxz0N0GEhh1TKIF_Ex",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Kids%20Halloween%20Songs%20by%20Little%20Treehouse",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/g8w8jbx8yfygom1/Kids%20Halloween%20Songs%20by%20Little%20Treehouse.txt?dl=1"			
-		},
-		{	
-			"LIST_VIDEO_NAME": "BabyBus | Halloween Songs",
-			"LIST_VIDEO_SIZE": "17",
-			"LIST_VIDEO_ICON": "https://is5-ssl.mzstatic.com/image/thumb/Purple6/v4/fb/13/2c/fb132cd1-d891-7bb3-94b7-2909ce1110ec/source/256x256bb.jpg",
-			"LIST_VIDEO_ID": "PLb_1RRxIZTLKRVb7KQfDZShlQuEVD-FMC",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/BabyBus%20%7C%20Halloween%20Songs",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/uyu0bgumfymqe8l/BabyBus%20_%20Halloween%20Songs.txt?dl=1"			
-		},
-		{	
-			"LIST_VIDEO_NAME": "ART and LEARN",
-			"LIST_VIDEO_SIZE": "50",
-			"LIST_VIDEO_ICON": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/34/dc/c6/34dcc63d-c56c-6012-50c0-76309fc8e1c9/source/256x256bb.jpg",
-			"LIST_VIDEO_ID": "PLb_1RRxIZTLLulT06FshY6vQPzkpj2LVh",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/ART%20and%20LEARN",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/7sf5o6yq4qny2xq/ART%20and%20LEARN.txt?dl=1"			
-		},
-		{	
-			"LIST_VIDEO_NAME": "Learn to Count the Little Ducks",
-			"LIST_VIDEO_SIZE": "20",
-			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDIsK43v8lq7XK5FzTM1dGKB1D9TQ7rtXkrWhnjcCCFtCWzep4Pw",
-			"LIST_VIDEO_ID": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Learn%20to%20Count%20the%20Little%20Ducks",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/4sphwomnoi7ikbo/Learn%20to%20Count%20the%20Little%20Ducks.txt?dl=1"			
-		},
-		{	
-			"LIST_VIDEO_NAME": "English Songs - Educational video for Kids",
-			"LIST_VIDEO_SIZE": "28",
-			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqZhGiL1r4QMq_p25AwKF2kq7IWLwZfoO5CUlAMcFzft6LKB0p",
-			"LIST_VIDEO_ID": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/English%20Songs%20-%20Educational%20video%20for%20Kids",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/n79jis26ll8y974/English%20Songs%20-%20Educational%20video%20for%20Kids.txt?dl=1"		
-		},
-		{	
-			"LIST_VIDEO_NAME": "Ten Little Kids Songs",
-			"LIST_VIDEO_SIZE": "7",
-			"LIST_VIDEO_ICON": "https://m.media-amazon.com/images/I/619GMYSOFAL._AA256_.jpg",
-			"LIST_VIDEO_ID": "PLb_1RRxIZTLJzoU2QZVsG-N0_StUrY3H6",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Ten%20Little%20Kids%20Songs",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/ijjlyh8yq9b3lcy/Ten%20Little%20Kids%20Songs.txt?dl=1"		
-		},
-		{	
-			"LIST_VIDEO_NAME": "Little Mermaid’s Jewel Box and more",
-			"LIST_VIDEO_SIZE": "18",
-			"LIST_VIDEO_ICON": "https://is4-ssl.mzstatic.com/image/thumb/Purple49/v4/74/3c/60/743c608d-1dcc-a9a8-a00e-4ed52de28914/source/256x256bb.jpg",
-			"LIST_VIDEO_ID": "PLb_1RRxIZTLIlIXirfcgWpQWvLkQKmx5o",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Little%20Mermaid%E2%80%99s%20Jewel%20Box%20and%20more",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/6yvwjdk8jh0k5ee/Little%20Mermaid%E2%80%99s%20Jewel%20Box%20and%20more.txt?dl=1"		
-		},		
-		{	
-			"LIST_VIDEO_NAME": "CoCoMelon Nursery Rhymes & Kids Songs",
-			"LIST_VIDEO_SIZE": "22",
-			"LIST_VIDEO_ICON": "https://pbs.twimg.com/profile_images/713037706750603265/4narAYdz_400x400.jpg",
-			"LIST_VIDEO_ID": "PLb_1RRxIZTLJd-J6rcrnVA1uKKJ3YmgL2",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/CoCoMelon%20Nursery%20Rhymes%20%26%20Kids%20Songs",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/fffem1chouuopqn/CoCoMelon%20Nursery%20Rhymes%20%26%20Kids%20Songs.txt?dl=1"		
-		},
-		{	
 			"LIST_VIDEO_NAME": "ABC SONGS",
 			"LIST_VIDEO_SIZE": "16",
 			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcSiJScVmrg6S9ERw0DfB7V5xGYSa7RXSOkE2JwaMXa8CPesVI-Q",
@@ -198,5 +102,101 @@
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/FOOD%20WORDS",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/j2vd3qhu8uvvw3e/FOOD%20WORDS.txt?dl=1"		
-		}
+		},
+		{	
+			"LIST_VIDEO_NAME": "Best Videos from Larva",
+			"LIST_VIDEO_SIZE": "36",
+			"LIST_VIDEO_ICON": "https://s2.dmcdn.net/v/MZqYt1Qx8k-DKaMUH/x1080",
+			"LIST_VIDEO_ID": "PLxrv_vTPuZ6RyJe142HqnHZZIF7la_yY",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Best%20Videos%20from%20Larva.json",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/4ibowig2qufiu97/Best%20Videos%20from%20Larva.json?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "Christmas kid songs",
+			"LIST_VIDEO_SIZE": "28",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/xXyrdPkhwSE/mqdefault.jpg",
+			"LIST_VIDEO_ID": "PLGkpn9jEnwH_9uhz3j7XyGVO0AqUrI3ih",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Christmas%20kid%20songs.json",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/ujztghxw3rm2mws/Christmas%20kid%20songs.json?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "Mix - Our Favorite Christmas Songs for Kids",
+			"LIST_VIDEO_SIZE": "50",
+			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpgz8ILMQ2dZamqSWoXve6CqaoFnoBu4ZGvPpGRAv_NWXap7m&s",
+			"LIST_VIDEO_ID": "RDgrhi8MLM1i8",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Mix%20-%20Our%20Favorite%20Christmas%20Songs%20for%20Kids",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/za4c0uv7xupkk6q/Mix%20-%20Our%20Favorite%20Christmas%20Songs%20for%20Kids.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "Christmas Songs for Kids",
+			"LIST_VIDEO_SIZE": "12",
+			"LIST_VIDEO_ICON": "https://m.media-amazon.com/images/I/61i0wNpbZGL._AA256_.jpg",
+			"LIST_VIDEO_ID": "PLb_1RRxIZTLJeg9AC_xCrYYqDyEiMeIqp",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Christmas%20Songs%20for%20Kids",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/bt1ynk9e1j830ko/Christmas%20Songs%20for%20Kids.txt?dl=1"		
+		},
+		{	
+			"LIST_VIDEO_NAME": "Kids Halloween Songs by Little Treehouse",
+			"LIST_VIDEO_SIZE": "50",
+			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb0aurZLSF2XMmbhvFiy8TakxmsvuqFv7o72YUEiQi_I6q8JoD&s",
+			"LIST_VIDEO_ID": "PLdzJjydjtVtYMXSPxz0N0GEhh1TKIF_Ex",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Kids%20Halloween%20Songs%20by%20Little%20Treehouse",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/g8w8jbx8yfygom1/Kids%20Halloween%20Songs%20by%20Little%20Treehouse.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "BabyBus | Halloween Songs",
+			"LIST_VIDEO_SIZE": "17",
+			"LIST_VIDEO_ICON": "https://is5-ssl.mzstatic.com/image/thumb/Purple6/v4/fb/13/2c/fb132cd1-d891-7bb3-94b7-2909ce1110ec/source/256x256bb.jpg",
+			"LIST_VIDEO_ID": "PLb_1RRxIZTLKRVb7KQfDZShlQuEVD-FMC",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/BabyBus%20%7C%20Halloween%20Songs",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/uyu0bgumfymqe8l/BabyBus%20_%20Halloween%20Songs.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "ART and LEARN",
+			"LIST_VIDEO_SIZE": "50",
+			"LIST_VIDEO_ICON": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/34/dc/c6/34dcc63d-c56c-6012-50c0-76309fc8e1c9/source/256x256bb.jpg",
+			"LIST_VIDEO_ID": "PLb_1RRxIZTLLulT06FshY6vQPzkpj2LVh",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/ART%20and%20LEARN",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/7sf5o6yq4qny2xq/ART%20and%20LEARN.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "Learn to Count the Little Ducks",
+			"LIST_VIDEO_SIZE": "20",
+			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDIsK43v8lq7XK5FzTM1dGKB1D9TQ7rtXkrWhnjcCCFtCWzep4Pw",
+			"LIST_VIDEO_ID": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Learn%20to%20Count%20the%20Little%20Ducks",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/4sphwomnoi7ikbo/Learn%20to%20Count%20the%20Little%20Ducks.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "English Songs - Educational video for Kids",
+			"LIST_VIDEO_SIZE": "28",
+			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqZhGiL1r4QMq_p25AwKF2kq7IWLwZfoO5CUlAMcFzft6LKB0p",
+			"LIST_VIDEO_ID": "PLb_1RRxIZTLIoVdj0qRzgFPDhHR1eJFfU",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/English%20Songs%20-%20Educational%20video%20for%20Kids",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/n79jis26ll8y974/English%20Songs%20-%20Educational%20video%20for%20Kids.txt?dl=1"		
+		},
+		{	
+			"LIST_VIDEO_NAME": "Ten Little Kids Songs",
+			"LIST_VIDEO_SIZE": "7",
+			"LIST_VIDEO_ICON": "https://m.media-amazon.com/images/I/619GMYSOFAL._AA256_.jpg",
+			"LIST_VIDEO_ID": "PLb_1RRxIZTLJzoU2QZVsG-N0_StUrY3H6",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Ten%20Little%20Kids%20Songs",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/ijjlyh8yq9b3lcy/Ten%20Little%20Kids%20Songs.txt?dl=1"		
+		},
+		{	
+			"LIST_VIDEO_NAME": "Little Mermaid’s Jewel Box and more",
+			"LIST_VIDEO_SIZE": "18",
+			"LIST_VIDEO_ICON": "https://is4-ssl.mzstatic.com/image/thumb/Purple49/v4/74/3c/60/743c608d-1dcc-a9a8-a00e-4ed52de28914/source/256x256bb.jpg",
+			"LIST_VIDEO_ID": "PLb_1RRxIZTLIlIXirfcgWpQWvLkQKmx5o",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Little%20Mermaid%E2%80%99s%20Jewel%20Box%20and%20more",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/6yvwjdk8jh0k5ee/Little%20Mermaid%E2%80%99s%20Jewel%20Box%20and%20more.txt?dl=1"		
+		},		
+		{	
+			"LIST_VIDEO_NAME": "CoCoMelon Nursery Rhymes & Kids Songs",
+			"LIST_VIDEO_SIZE": "22",
+			"LIST_VIDEO_ICON": "https://pbs.twimg.com/profile_images/713037706750603265/4narAYdz_400x400.jpg",
+			"LIST_VIDEO_ID": "PLb_1RRxIZTLJd-J6rcrnVA1uKKJ3YmgL2",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/CoCoMelon%20Nursery%20Rhymes%20%26%20Kids%20Songs",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/fffem1chouuopqn/CoCoMelon%20Nursery%20Rhymes%20%26%20Kids%20Songs.txt?dl=1"		
+		}		
 	]
