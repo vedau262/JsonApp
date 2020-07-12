@@ -57,7 +57,7 @@
 		},
 		{	
 			"LIST_VIDEO_NAME": "VEGETABLE SONGS",
-			"LIST_VIDEO_SIZE": "19",
+			"LIST_VIDEO_SIZE": "5",
 			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ZBU6A1aikumcD4OEpe6YVG5HP9za0C1gyS_iOayPwdxK2CA6Xw",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLIDdXgvUD6OeAcZyvVI6Mnb",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/VEGETABLE%20SONGS",	
@@ -73,7 +73,7 @@
 		},
 		{	
 			"LIST_VIDEO_NAME": "DAY SONGS",
-			"LIST_VIDEO_SIZE": "14",
+			"LIST_VIDEO_SIZE": "10",
 			"LIST_VIDEO_ICON": "https://is3-ssl.mzstatic.com/image/thumb/Purple30/v4/c1/1f/57/c11f5793-5fd2-eda8-201e-294c510eb075/source/256x256bb.jpg",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLIs6vXbiidcJvd5K47fXTH3",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/DAY%20SONGS",	
@@ -89,7 +89,7 @@
 		},
 		{	
 			"LIST_VIDEO_NAME": "CLOTHES WORDS",
-			"LIST_VIDEO_SIZE": "11",
+			"LIST_VIDEO_SIZE": "3",
 			"LIST_VIDEO_ICON": "https://tshop.r10s.jp/elizabethwear/cabinet/01/16-06070-1_1.jpg?fitin=128:128",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLJVOaBk9bRuK3I6GlOj6nyx",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/CLOTHES%20WORDS",	
@@ -97,7 +97,7 @@
 		},
 		{	
 			"LIST_VIDEO_NAME": "FOOD WORDS",
-			"LIST_VIDEO_SIZE": "26",
+			"LIST_VIDEO_SIZE": "17",
 			"LIST_VIDEO_ICON": "https://static-s.aa-cdn.net/img/gp/20600008552637/KujgNzLS3DwTsyrGptBrnxwWj7AiJVJ0XyX5PfspodGf5Ne6nOqDG07bMaDYszO5QBs=w300?v=1",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/FOOD%20WORDS",	
@@ -113,9 +113,9 @@
 		},
 		{	
 			"LIST_VIDEO_NAME": "Christmas kid songs",
-			"LIST_VIDEO_SIZE": "28",
+			"LIST_VIDEO_SIZE": "12",
 			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/xXyrdPkhwSE/mqdefault.jpg",
-			"LIST_VIDEO_ID": "PLGkpn9jEnwH_9uhz3j7XyGVO0AqUrI3ih",			
+			"LIST_VIDEO_ID": "PLb_1RRxIZTLJeg9AC_xCrYYqDyEiMeIqp",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Christmas%20kid%20songs.json",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/ujztghxw3rm2mws/Christmas%20kid%20songs.json?dl=1"			
 		},
