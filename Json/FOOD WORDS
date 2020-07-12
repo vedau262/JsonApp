@@ -1,1110 +1,775 @@
 {
- "kind": "youtube#playlistItemListResponse",
- "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/lEHIRvXx9h8xnqlEsO46nGaB3SE\"",
- "pageInfo": {
-  "totalResults": 26,
-  "resultsPerPage": 50
- },
- "items": [
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/AxH_tcmqOqGHaIdnf4fIlJ2rDhY\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS41NkI0NEY2RDEwNTU3Q0M2",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:25:56.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Learn Food for Kids | What Is It? Game for Kids | Maple Leaf Learning",
-    "description": "Let's learn food vocabulary with a fun game for kids and then sing the \"Let's Make a Pizza\" food song for kids! Simple and fun video for babies, toddlers, preschool, kindergarten children and ESL / EFL. \n\nCheck out the Let's Make a Pizza Sing and Play Craft on the Maple Leaf Learning Playhouse Channel: \nhttps://www.youtube.com/watch?v=ZoEw_5NvMGM&index=51&list=PLPM485s9Sa1LRiQ1pdahQIP60_XA3w5yz\n\n----------------------------------------\u00ad----------------\nDownload the \"Let's Make a Pizza\" from Sing and Play Green on: \n\niTunes: http://apple.co/1ipOxXl\nAmazon: http://amzn.to/1NdlOlv\nCD Baby: http://bit.ly/1Sd8ltU\n\nFind a Shop in your Country: \nhttp://mapleleaflearning.com/shop\n\n----------------------------------------\u00ad----------------\nTeacher and Parent Resources: \n\nSong information and resources: \nhttp://www.mapleleaflearning.com/songs/sing-and-play-green/let's-make-a-pizza\n\nDownload food flashcards, worksheets, coloring activities and more in our Resource Library: \nhttp://www.mapleleaflearning.com/library/food\n\n----------------------------------------\u00ad----------------\nFollow us online: \n\nFacebook: http://www.facebook.com/maplemarty\nTwitter: http://www.twitter.com/maplemarty\nPinterest: http://www.pinterest.com/maplemarty\nGoogle: https://plus.google.com/+Mapleleaflea...\nLinkedin: https://www.linkedin.com/company/mapl...\n\n----------------------------------------\u00ad----------------\nLet's Make a Pizza Lyrics:\n\nI’m hungry.\nMe, too.\nLet’s make a pizza.\nOK. I love pizza. It’s delicious.\n\nLet’s make a pizza, you and me.\nI love pizza, it’s yummy.\nLet’s make a pizza, you and me.\nI love pizza, it’s yummy.\n\nTomatoes.\nSalami.\nMushrooms.\nCheese.\nOh, yeah!\n\nLet’s make a pizza, you and me.\nI love pizza, it’s yummy.\nLet’s make a pizza, you and me.\nI love pizza, it’s yummy.\n\nPut on the tomatoes.\nPut on the salami.\nPut on the mushrooms.\nAnd the cheese.\nI love cheese.\nLet’s eat!\n\nLet’s make a pizza, you and me.\nI love pizza, it’s yummy.\nLet’s make a pizza, you and me.\nI love pizza, it’s yummy.\n\nCopyright Maple Leaf Learning\n----------------------------------------\u00ad----------------\n\nMaple Leaf Learning Playhouse is an educational channel for kids to learn with simple crafts, coloring sheets, songs, toys and games for children! Great for toddlers, preschoolers and kindergarten children.\n\nAll of our songs, games and activities are developed and tested in-house by experienced teachers at our well-established language school in Japan. Kids learn best when they don’t realize that they’re learning. Our materials are often inspired by natural play and interaction in the classroom. \n\nOur unique style of blending physical elements (realia) into songs will get even the most shy, unwilling children hooked, participating and singing along. With a big scoop of fun and a sprinkle of silly, we make learning incredibly fun. So, you’re sure to have instant hits that children will ask for again and again.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/BilStuLzW6s/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/BilStuLzW6s/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/BilStuLzW6s/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/BilStuLzW6s/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/BilStuLzW6s/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "XtUHuUMlU8pu2saNVassCCNEf9E",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7GdV5qKX1Ckk47Vx8OWk8dN-YiY",
+      "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:25:56Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Learn Food for Kids | What Is It? Game for Kids | Maple Leaf Learning",
+        "description": "Let's learn food vocabulary with a fun game for kids and then sing the \"Let's Make a Pizza\" food song for kids! Simple and fun video for babies, toddlers, preschool, kindergarten children and ESL / EFL. \n\nCheck out the Let's Make a Pizza Sing and Play Craft on the Maple Leaf Learning Playhouse Channel: \nhttps://www.youtube.com/watch?v=ZoEw_5NvMGM&index=51&list=PLPM485s9Sa1LRiQ1pdahQIP60_XA3w5yz\n\n----------------------------------------\u00ad----------------\nDownload the \"Let's Make a Pizza\" from Sing and Play Green on: \n\niTunes: http://apple.co/1ipOxXl\nAmazon: http://amzn.to/1NdlOlv\nCD Baby: http://bit.ly/1Sd8ltU\n\nFind a Shop in your Country: \nhttp://mapleleaflearning.com/shop\n\n----------------------------------------\u00ad----------------\nTeacher and Parent Resources: \n\nSong information and resources: \nhttp://www.mapleleaflearning.com/songs/sing-and-play-green/let's-make-a-pizza\n\nDownload food flashcards, worksheets, coloring activities and more in our Resource Library: \nhttp://www.mapleleaflearning.com/library/food\n\n----------------------------------------\u00ad----------------\nFollow us online: \n\nFacebook: http://www.facebook.com/maplemarty\nTwitter: http://www.twitter.com/maplemarty\nPinterest: http://www.pinterest.com/maplemarty\nGoogle: https://plus.google.com/+Mapleleaflea...\nLinkedin: https://www.linkedin.com/company/mapl...\n\n----------------------------------------\u00ad----------------\nLet's Make a Pizza Lyrics:\n\nI’m hungry.\nMe, too.\nLet’s make a pizza.\nOK. I love pizza. It’s delicious.\n\nLet’s make a pizza, you and me.\nI love pizza, it’s yummy.\nLet’s make a pizza, you and me.\nI love pizza, it’s yummy.\n\nTomatoes.\nSalami.\nMushrooms.\nCheese.\nOh, yeah!\n\nLet’s make a pizza, you and me.\nI love pizza, it’s yummy.\nLet’s make a pizza, you and me.\nI love pizza, it’s yummy.\n\nPut on the tomatoes.\nPut on the salami.\nPut on the mushrooms.\nAnd the cheese.\nI love cheese.\nLet’s eat!\n\nLet’s make a pizza, you and me.\nI love pizza, it’s yummy.\nLet’s make a pizza, you and me.\nI love pizza, it’s yummy.\n\nCopyright Maple Leaf Learning\n----------------------------------------\u00ad----------------\n\nMaple Leaf Learning Playhouse is an educational channel for kids to learn with simple crafts, coloring sheets, songs, toys and games for children! Great for toddlers, preschoolers and kindergarten children.\n\nAll of our songs, games and activities are developed and tested in-house by experienced teachers at our well-established language school in Japan. Kids learn best when they don’t realize that they’re learning. Our materials are often inspired by natural play and interaction in the classroom. \n\nOur unique style of blending physical elements (realia) into songs will get even the most shy, unwilling children hooked, participating and singing along. With a big scoop of fun and a sprinkle of silly, we make learning incredibly fun. So, you’re sure to have instant hits that children will ask for again and again.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BilStuLzW6s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BilStuLzW6s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BilStuLzW6s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BilStuLzW6s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BilStuLzW6s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BilStuLzW6s"
+        }
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 0,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "BilStuLzW6s"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/z3z076Oxo4CIil2y7pxviHqHYkI\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS4yODlGNEE0NkRGMEEzMEQy",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:26:13.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Learn Food for Kids #2 | What Is It? Game for Kids | Maple Leaf Learning",
-    "description": "Let's learn food vocabulary with a fun game for kids and then sing the \"I Love Sweets\" food song for kids! Simple and fun video for babies, toddlers, preschool, kindergarten children and ESL / EFL. \n\nCheck out the Let's Make a Pizza Sing and Play Craft on the Maple Leaf Learning Playhouse Channel: \nhttps://www.youtube.com/watch?v=ZoEw_5NvMGM&index=51&list=PLPM485s9Sa1LRiQ1pdahQIP60_XA3w5yz\n\n----------------------------------------\u00ad----------------\nDownload the \"I Love Sweets\" from Sing and Play Green on: \n\niTunes: http://apple.co/1ipOxXl\nAmazon: http://amzn.to/1NdlOlv\nCD Baby: http://bit.ly/1Sd8ltU\n\nFind a Shop in your Country: \nhttp://mapleleaflearning.com/shop\n\n----------------------------------------\u00ad----------------\nTeacher and Parent Resources: \n\nSong information and resources: \nhttp://www.mapleleaflearning.com/songs/sing-and-play-green/i-love-sweets\n\nDownload food flashcards, worksheets, coloring activities and more in our Resource Library: \nhttp://www.mapleleaflearning.com/library/food\n\nTeacher Videos on the Maple Leaf Learning Club Channel: \nhttp://www.youtube.com/c/mapleleaflearningclub\n\n----------------------------------------\u00ad----------------\nFollow us online: \n\nFacebook: http://www.facebook.com/maplemarty\nTwitter: http://www.twitter.com/maplemarty\nPinterest: http://www.pinterest.com/maplemarty\nGoogle: https://plus.google.com/+Mapleleafleaflearning\nLinkedin: https://www.linkedin.com/company/maple-leaf-learning\n\n----------------------------------------\u00ad----------------\nI Love Sweets Song Lyrics:\n\nSweets, sweets,\nI love sweets.\nDonuts, ice cream.\nChocolate, candy, pudding, cake.\nWhat’s your favorite sweet.\n\nSweets, sweets,\nI love sweets.\nDonuts, ice cream.\nChocolate, candy, pudding, cake.\nWhat’s your favorite sweet.\n\nDonuts.\nIce cream.\nChocolate.\nCandy.\nPudding.\nCake.\nI love sweets.\nYummy!\n\nSweets, sweets,\nI love sweets.\nDonuts, ice cream.\nChocolate, candy, pudding, cake.\nWhat’s your favorite sweet.\n\nSweets, sweets,\nI love sweets.\nDonuts, ice cream.\nChocolate, candy, pudding, cake.\nWhat’s your favorite sweet.\n\nWhat’s your favorite sweet?\n\nCopyright Maple Leaf Learning\n----------------------------------------\u00ad----------------\n\nMaple Leaf Learning Playhouse is an educational channel for kids to learn with simple crafts, coloring sheets, songs, toys and games for children! Great for toddlers, preschoolers and kindergarten children.\n\nAll of our songs, games and activities are developed and tested in-house by experienced teachers at our well-established language school in Japan. Kids learn best when they don’t realize that they’re learning. Our materials are often inspired by natural play and interaction in the classroom. \n\nOur unique style of blending physical elements (realia) into songs will get even the most shy, unwilling children hooked, participating and singing along. With a big scoop of fun and a sprinkle of silly, we make learning incredibly fun. So, you’re sure to have instant hits that children will ask for again and again.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/SXzcE9oRGlc/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/SXzcE9oRGlc/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/SXzcE9oRGlc/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/SXzcE9oRGlc/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/SXzcE9oRGlc/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JqilO3Mq9hVDtXA0Bq_4XGSpE8w",
+      "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:26:13Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Learn Food for Kids #2 | What Is It? Game for Kids | Maple Leaf Learning",
+        "description": "Let's learn food vocabulary with a fun game for kids and then sing the \"I Love Sweets\" food song for kids! Simple and fun video for babies, toddlers, preschool, kindergarten children and ESL / EFL. \n\nCheck out the Let's Make a Pizza Sing and Play Craft on the Maple Leaf Learning Playhouse Channel: \nhttps://www.youtube.com/watch?v=ZoEw_5NvMGM&index=51&list=PLPM485s9Sa1LRiQ1pdahQIP60_XA3w5yz\n\n----------------------------------------\u00ad----------------\nDownload the \"I Love Sweets\" from Sing and Play Green on: \n\niTunes: http://apple.co/1ipOxXl\nAmazon: http://amzn.to/1NdlOlv\nCD Baby: http://bit.ly/1Sd8ltU\n\nFind a Shop in your Country: \nhttp://mapleleaflearning.com/shop\n\n----------------------------------------\u00ad----------------\nTeacher and Parent Resources: \n\nSong information and resources: \nhttp://www.mapleleaflearning.com/songs/sing-and-play-green/i-love-sweets\n\nDownload food flashcards, worksheets, coloring activities and more in our Resource Library: \nhttp://www.mapleleaflearning.com/library/food\n\nTeacher Videos on the Maple Leaf Learning Club Channel: \nhttp://www.youtube.com/c/mapleleaflearningclub\n\n----------------------------------------\u00ad----------------\nFollow us online: \n\nFacebook: http://www.facebook.com/maplemarty\nTwitter: http://www.twitter.com/maplemarty\nPinterest: http://www.pinterest.com/maplemarty\nGoogle: https://plus.google.com/+Mapleleafleaflearning\nLinkedin: https://www.linkedin.com/company/maple-leaf-learning\n\n----------------------------------------\u00ad----------------\nI Love Sweets Song Lyrics:\n\nSweets, sweets,\nI love sweets.\nDonuts, ice cream.\nChocolate, candy, pudding, cake.\nWhat’s your favorite sweet.\n\nSweets, sweets,\nI love sweets.\nDonuts, ice cream.\nChocolate, candy, pudding, cake.\nWhat’s your favorite sweet.\n\nDonuts.\nIce cream.\nChocolate.\nCandy.\nPudding.\nCake.\nI love sweets.\nYummy!\n\nSweets, sweets,\nI love sweets.\nDonuts, ice cream.\nChocolate, candy, pudding, cake.\nWhat’s your favorite sweet.\n\nSweets, sweets,\nI love sweets.\nDonuts, ice cream.\nChocolate, candy, pudding, cake.\nWhat’s your favorite sweet.\n\nWhat’s your favorite sweet?\n\nCopyright Maple Leaf Learning\n----------------------------------------\u00ad----------------\n\nMaple Leaf Learning Playhouse is an educational channel for kids to learn with simple crafts, coloring sheets, songs, toys and games for children! Great for toddlers, preschoolers and kindergarten children.\n\nAll of our songs, games and activities are developed and tested in-house by experienced teachers at our well-established language school in Japan. Kids learn best when they don’t realize that they’re learning. Our materials are often inspired by natural play and interaction in the classroom. \n\nOur unique style of blending physical elements (realia) into songs will get even the most shy, unwilling children hooked, participating and singing along. With a big scoop of fun and a sprinkle of silly, we make learning incredibly fun. So, you’re sure to have instant hits that children will ask for again and again.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SXzcE9oRGlc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SXzcE9oRGlc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SXzcE9oRGlc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SXzcE9oRGlc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SXzcE9oRGlc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SXzcE9oRGlc"
+        }
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 1,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "SXzcE9oRGlc"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-K0TlJEw5oFXpn6Qod5mHdwLkWk\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS4wMTcyMDhGQUE4NTIzM0Y5",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:26:18.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "I AM A PIZZA - NEW ORIGINAL PICTURES - WITHOUT FRENCH",
-    "description": "http://englishcornertime.blogspot.com\n\n \nSinger and recording artist: Charlotte Diamond. Writer: Peter Alsop.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/0O16-V_JtYs/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/0O16-V_JtYs/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/0O16-V_JtYs/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/0O16-V_JtYs/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MUVpBpDlyUaTaPFPkzPUMAAx3EI",
+      "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:26:24Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "On Top of Spaghetti Song | English Nursery Rhyme With Lyrics",
+        "description": "On top of spaghetti, \nAll covered with cheese,\nI lost my poor meatball, \nWhen somebody sneezed.\n\nIt rolled off the table,\nAnd on to the floor,\nAnd then my poor meatball,\nRolled out of the door.\n\nIt rolled in the garden,\nAnd under a bush,\nAnd then my poor meatball,\nWas nothing but mush.\n\nThe mush was as tasty\nAs tasty could be,\nAnd then the next summer, \nIt grew into a tree.\n\nThe tree was all covered,\nAll covered with moss,\nAnd on it grew meatballs,\nAnd tomato sauce.\n\nSo if you eat spaghetti,\nAll covered with cheese,\nHold on to your meatball,\nWhenever you sneeze.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JGBE3eLpvm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JGBE3eLpvm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JGBE3eLpvm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JGBE3eLpvm0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JGBE3eLpvm0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JGBE3eLpvm0"
+        }
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 2,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "0O16-V_JtYs"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/lMnDvCb8klhO5UoFlrnyHGw5X-Q\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS41MjE1MkI0OTQ2QzJGNzNG",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:26:24.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "On Top of Spaghetti Song | English Nursery Rhyme With Lyrics",
-    "description": "On top of spaghetti, \nAll covered with cheese,\nI lost my poor meatball, \nWhen somebody sneezed.\n\nIt rolled off the table,\nAnd on to the floor,\nAnd then my poor meatball,\nRolled out of the door.\n\nIt rolled in the garden,\nAnd under a bush,\nAnd then my poor meatball,\nWas nothing but mush.\n\nThe mush was as tasty\nAs tasty could be,\nAnd then the next summer, \nIt grew into a tree.\n\nThe tree was all covered,\nAll covered with moss,\nAnd on it grew meatballs,\nAnd tomato sauce.\n\nSo if you eat spaghetti,\nAll covered with cheese,\nHold on to your meatball,\nWhenever you sneeze.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/JGBE3eLpvm0/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/JGBE3eLpvm0/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/JGBE3eLpvm0/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/JGBE3eLpvm0/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/JGBE3eLpvm0/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HxzHoPCTKxSTOwKQP6CX0qEptFc",
+      "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:26:27Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Let's Make a Sandwich Song | Simple Food Song for Kids",
+        "description": "Let's Make a Sandwich is a simple and fun song for kids to learn food vocabulary and more! Download song flashcards and more: http://www.mapleleaflearning.com/library/lets-make-a-sandwich\n\n\nMore fun food songs for kids by Maple Leaf Learning: \nhttps://www.youtube.com/watch?v=94Hb6POrUEk&list=PL55E43B2294C47124\n\nCheck out our fun Sing and Play Crafts on the Maple Leaf Learning Playhouse Channel: \nhttps://www.youtube.com/watch?v=R32hbJdSoHM&list=PLPM485s9Sa1JKpgB6KpeoZhCoTlMDBRyf\n\n--------------------------------------------------------\n\nDownload \"Let's Make a Sandwich\" from Sing and Play Purple on: \n\niTunes: https://apple.co/2okdMR8\nAmazon: http://amzn.to/2Fm5oYx\nCD Baby: http://bit.ly/singpurple\n\n\nFind a Shop in your Country: \nhttp://mapleleaflearning.com/shop\n\n----------------------------------------\u00ad----------------\nTeacher and Parent Resources: \n\n\nDownload food flashcards, worksheets, coloring activities and more in our Resource Library: \nhttp://www.mapleleaflearning.com/library/lets-make-a-sandwich\n\nTeacher Videos on the Maple Leaf Learning Club\nhttp://www.youtube.com/c/mapleleaflearningclub\n\n----------------------------------------\u00ad----------------\nFollow us online: \n\nFacebook: http://www.facebook.com/maplemarty\nTwitter: http://www.twitter.com/maplemarty\nPinterest: http://www.pinterest.com/maplemarty\nGoogle: https://plus.google.com/+Mapleleaflearning\nLinkedin: https://www.linkedin.com/company/maple-leaf-learning\n\n----------------------------------------\u00ad----------------\n\"Let's Make a Sandwich\" Song Lyrics: \n\nLet’s make a sandwich. \nLet’s make a sandwich. \nLet’s make a sandwich, you and me. \n\nLet’s make a sandwich. \nLet’s make a sandwich. \nLet’s make a sandwich, I’m hungry. \n\nBread, bread. \nI want bread. \nButter, butter. \nI want butter. \nHam, ham. \nI want ham. \nLettuce, lettuce. \nI want lettuce. \n\nAnd don’t forget the tomato, please. \nBut the most important thing is cheese!\n\nLet’s make a sandwich. \nLet’s make a sandwich. \nLet’s make a sandwich, you and me. \n\nLet’s make a sandwich. \nLet’s make a sandwich. \nLet’s make a sandwich, I’m hungry. \n\n\nCopyright Maple Leaf Learning\n----------------------------------------\u00ad----------------\n\nMaple Leaf Learning Playhouse is an educational channel for kids to learn with simple crafts, coloring sheets, songs, toys and games for children! Great for toddlers, preschoolers and kindergarten children.\n\nAll of our songs, games and activities are developed and tested in-house by experienced teachers at our well-established language school in Japan. Kids learn best when they don’t realize that they’re learning. Our materials are often inspired by natural play and interaction in the classroom. \n\nOur unique style of blending physical elements (realia) into songs will get even the most shy, unwilling children hooked, participating and singing along. With a big scoop of fun and a sprinkle of silly, we make learning incredibly fun. So, you’re sure to have instant hits that children will ask for again and again.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mK4O8hi30UA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mK4O8hi30UA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mK4O8hi30UA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mK4O8hi30UA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mK4O8hi30UA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mK4O8hi30UA"
+        }
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 3,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "JGBE3eLpvm0"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/jQkpV4JrvqSQiWWx0aT6m-pvHKI\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS4wOTA3OTZBNzVEMTUzOTMy",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:26:27.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Let's Make a Sandwich Song | Simple Food Song for Kids",
-    "description": "Let's Make a Sandwich is a simple and fun song for kids to learn food vocabulary and more! Download song flashcards and more: http://www.mapleleaflearning.com/library/lets-make-a-sandwich\n\n\nMore fun food songs for kids by Maple Leaf Learning: \nhttps://www.youtube.com/watch?v=94Hb6POrUEk&list=PL55E43B2294C47124\n\nCheck out our fun Sing and Play Crafts on the Maple Leaf Learning Playhouse Channel: \nhttps://www.youtube.com/watch?v=R32hbJdSoHM&list=PLPM485s9Sa1JKpgB6KpeoZhCoTlMDBRyf\n\n--------------------------------------------------------\n\nDownload \"Let's Make a Sandwich\" from Sing and Play Purple on: \n\niTunes: https://apple.co/2okdMR8\nAmazon: http://amzn.to/2Fm5oYx\nCD Baby: http://bit.ly/singpurple\n\n\nFind a Shop in your Country: \nhttp://mapleleaflearning.com/shop\n\n----------------------------------------\u00ad----------------\nTeacher and Parent Resources: \n\n\nDownload food flashcards, worksheets, coloring activities and more in our Resource Library: \nhttp://www.mapleleaflearning.com/library/lets-make-a-sandwich\n\nTeacher Videos on the Maple Leaf Learning Club\nhttp://www.youtube.com/c/mapleleaflearningclub\n\n----------------------------------------\u00ad----------------\nFollow us online: \n\nFacebook: http://www.facebook.com/maplemarty\nTwitter: http://www.twitter.com/maplemarty\nPinterest: http://www.pinterest.com/maplemarty\nGoogle: https://plus.google.com/+Mapleleaflearning\nLinkedin: https://www.linkedin.com/company/maple-leaf-learning\n\n----------------------------------------\u00ad----------------\n\"Let's Make a Sandwich\" Song Lyrics: \n\nLet’s make a sandwich. \nLet’s make a sandwich. \nLet’s make a sandwich, you and me. \n\nLet’s make a sandwich. \nLet’s make a sandwich. \nLet’s make a sandwich, I’m hungry. \n\nBread, bread. \nI want bread. \nButter, butter. \nI want butter. \nHam, ham. \nI want ham. \nLettuce, lettuce. \nI want lettuce. \n\nAnd don’t forget the tomato, please. \nBut the most important thing is cheese!\n\nLet’s make a sandwich. \nLet’s make a sandwich. \nLet’s make a sandwich, you and me. \n\nLet’s make a sandwich. \nLet’s make a sandwich. \nLet’s make a sandwich, I’m hungry. \n\n\nCopyright Maple Leaf Learning\n----------------------------------------\u00ad----------------\n\nMaple Leaf Learning Playhouse is an educational channel for kids to learn with simple crafts, coloring sheets, songs, toys and games for children! Great for toddlers, preschoolers and kindergarten children.\n\nAll of our songs, games and activities are developed and tested in-house by experienced teachers at our well-established language school in Japan. Kids learn best when they don’t realize that they’re learning. Our materials are often inspired by natural play and interaction in the classroom. \n\nOur unique style of blending physical elements (realia) into songs will get even the most shy, unwilling children hooked, participating and singing along. With a big scoop of fun and a sprinkle of silly, we make learning incredibly fun. So, you’re sure to have instant hits that children will ask for again and again.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/mK4O8hi30UA/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/mK4O8hi30UA/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/mK4O8hi30UA/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/mK4O8hi30UA/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/mK4O8hi30UA/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ILZF9hMFFlmr5IhZtSTGX-gY5jY",
+      "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:26:30Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Do you like food? Song for kids. | Super English Kid! (Fruits, Vegetables, Meat, Dessert)",
+        "description": "Visit http://www.superenglishkid.com/ for free games, activities, worksheets, and more English teaching ideas!\n\nThis song will help review some of the main food vocabulary words. See the lyrics below. (Set to the music of \"The Farmer in the Dell.\")\n\nDo you like food?\nYes I like food.\nFruits, meats, and vegetables, desserts\nyes, I like food.\n(repeat)\n- - - -\nDo you like fruit?\nYes I like fruit.\nBanana, orange, apple, mango, papaya, peach and lime.\n(repeat)\n- - - -\nDo you like vegetables?\nYes I like vegetables.\nZucchini, broccoli, onion and peas, carrots and celery.\n(repeat)\n- - - -\nDo you like meat?\nYes I like meat.\nChicken, duck, beef and pork, fish and turkey.\n(repeat)\n- - - -\nDo you like dessert?\nYes I like dessert.\nIce cream, candy, cup cakes, brownies, cookies, cakes and pies.\n(repeat)\n\n- - - - - - - -\nSee more online:\nhttps://www.facebook.com/SuuperEnglishKid/\nhttps://plus.google.com/+SuperEnglishKid/posts\nhttp://www.superenglishkid.com/\n\n- - - - - - - -\ncomida, fruta, verduras, carne, postre, comida, fruta, legumes, carne, sobremesa, ???????? ???????, ??????, ?????, ????, ??????, ??,??,??,??,??,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rjwrzBArZjA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rjwrzBArZjA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rjwrzBArZjA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rjwrzBArZjA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rjwrzBArZjA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rjwrzBArZjA"
+        }
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 4,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "mK4O8hi30UA"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/sSvw3h4cYu4TK82-xFHpBp514P4\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS4xMkVGQjNCMUM1N0RFNEUx",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:26:30.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Do you like food? Song for kids. | Super English Kid! (Fruits, Vegetables, Meat, Dessert)",
-    "description": "Visit http://www.superenglishkid.com/ for free games, activities, worksheets, and more English teaching ideas!\n\nThis song will help review some of the main food vocabulary words. See the lyrics below. (Set to the music of \"The Farmer in the Dell.\")\n\nDo you like food?\nYes I like food.\nFruits, meats, and vegetables, desserts\nyes, I like food.\n(repeat)\n- - - -\nDo you like fruit?\nYes I like fruit.\nBanana, orange, apple, mango, papaya, peach and lime.\n(repeat)\n- - - -\nDo you like vegetables?\nYes I like vegetables.\nZucchini, broccoli, onion and peas, carrots and celery.\n(repeat)\n- - - -\nDo you like meat?\nYes I like meat.\nChicken, duck, beef and pork, fish and turkey.\n(repeat)\n- - - -\nDo you like dessert?\nYes I like dessert.\nIce cream, candy, cup cakes, brownies, cookies, cakes and pies.\n(repeat)\n\n- - - - - - - -\nSee more online:\nhttps://www.facebook.com/SuuperEnglishKid/\nhttps://plus.google.com/+SuperEnglishKid/posts\nhttp://www.superenglishkid.com/\n\n- - - - - - - -\ncomida, fruta, verduras, carne, postre, comida, fruta, legumes, carne, sobremesa, продукты питания, фрукты, овощи, мясо, десерт, 食品，水果，蔬菜，肉类，甜点，",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/rjwrzBArZjA/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/rjwrzBArZjA/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/rjwrzBArZjA/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/rjwrzBArZjA/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/rjwrzBArZjA/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SkPFGZKkUTo1pYwvgQ_NMuf75mA",
+      "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:26:54Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Food and Drinks",
+        "description": "Food vocabulary for young learners, I like/ I don't like. My favorite food is ... This is good for you... all structures you can use to teach food vocabulary.\nPrepared by Armagan Çitak using Imovie and Powtoon4Edu.\nVoiced by Davian Williamson.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NfgBEsqpljA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NfgBEsqpljA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NfgBEsqpljA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NfgBEsqpljA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NfgBEsqpljA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NfgBEsqpljA"
+        }
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 5,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "rjwrzBArZjA"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9kwpbvatsrE4vc1LaxHbW0IA0pk\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS41MzJCQjBCNDIyRkJDN0VD",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:26:54.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Food and Drinks",
-    "description": "Food vocabulary for young learners, I like/ I don't like. My favorite food is ... This is good for you... all structures you can use to teach food vocabulary.\nPrepared by Armağan Çıtak using Imovie and Powtoon4Edu.\nVoiced by Davian Williamson.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/NfgBEsqpljA/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/NfgBEsqpljA/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/NfgBEsqpljA/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/NfgBEsqpljA/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/NfgBEsqpljA/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SDoOOwvvbCgGT9PB5SoNKcDJ4U0",
+      "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:26:58Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Learn Sweets for Kids | What Is It? Game for Kids | Maple Leaf Learning",
+        "description": "Let's learn sweets vocabulary with a fun game for kids and then sing the \"I Love Sweets\" song for kids! Simple and fun video for babies, toddlers, preschool, kindergarten children and ESL / EFL. \n\nCheck out the Ice Cream Craft for Kids on the Maple Leaf Learning Playhouse Channel: \nhttps://www.youtube.com/watch?v=f9k5RwE8Gf0&t=11s\n\n----------------------------------------\u00ad----------------\nDownload the \"I Love Sweets\" song from Sing and Play Green on: \n\niTunes: http://apple.co/1ipOxXl\nAmazon: http://amzn.to/1NdlOlv\nCD Baby: http://bit.ly/1Sd8ltU\n\nFind a Shop in your Country: \nhttp://mapleleaflearning.com/shop\n\n----------------------------------------\u00ad----------------\nTeacher and Parent Resources: \n\nSong information and resources: \nhttp://www.mapleleaflearning.com/songs/sing-and-play-green/i-love-sweets\n\nDownload food flashcards, worksheets, coloring activities and more in our Resource Library: \nhttp://www.mapleleaflearning.com/library/food\n\n----------------------------------------\u00ad----------------\nFollow us online: \n\nFacebook: http://www.facebook.com/maplemarty\nTwitter: http://www.twitter.com/maplemarty\nPinterest: http://www.pinterest.com/maplemarty\nGoogle: https://plus.google.com/+Mapleleaflea...\nLinkedin: https://www.linkedin.com/company/mapl...\n\n----------------------------------------\u00ad----------------\n\"I Love Sweets\" Song Lyrics:\n\nSweets, sweets,\nI love sweets.\nDonuts, ice cream.\nChocolate, candy, pudding, cake.\nWhat’s your favorite sweet.\n\nSweets, sweets,\nI love sweets.\nDonuts, ice cream.\nChocolate, candy, pudding, cake.\nWhat’s your favorite sweet.\n\nDonuts.\nIce cream.\nChocolate.\nCandy.\nPudding.\nCake.\n\nI love sweets.\n\nYummy!\n\nSweets, sweets,\nI love sweets.\nDonuts, ice cream.\nChocolate, candy, pudding, cake.\nWhat’s your favorite sweet.\n\nSweets, sweets,\nI love sweets.\nDonuts, ice cream.\nChocolate, candy, pudding, cake.\n\nWhat’s your favorite sweet.\nWhat’s your favorite sweet?\n\nCopyright Maple Leaf Learning\n----------------------------------------\u00ad----------------\n\nMaple Leaf Learning Playhouse is an educational channel for kids to learn with simple crafts, coloring sheets, songs, toys and games for children! Great for toddlers, preschoolers and kindergarten children.\n\nAll of our songs, games and activities are developed and tested in-house by experienced teachers at our well-established language school in Japan. Kids learn best when they don’t realize that they’re learning. Our materials are often inspired by natural play and interaction in the classroom. \n\nOur unique style of blending physical elements (realia) into songs will get even the most shy, unwilling children hooked, participating and singing along. With a big scoop of fun and a sprinkle of silly, we make learning incredibly fun. So, you’re sure to have instant hits that children will ask for again and again.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S2EIktLSb8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S2EIktLSb8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S2EIktLSb8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S2EIktLSb8k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S2EIktLSb8k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S2EIktLSb8k"
+        }
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 6,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "NfgBEsqpljA"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Dk71o2iCHrttO5L3APQroas2AwY\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS5DQUNERDQ2NkIzRUQxNTY1",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:26:58.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Learn Sweets for Kids | What Is It? Game for Kids | Maple Leaf Learning",
-    "description": "Let's learn sweets vocabulary with a fun game for kids and then sing the \"I Love Sweets\" song for kids! Simple and fun video for babies, toddlers, preschool, kindergarten children and ESL / EFL. \n\nCheck out the Ice Cream Craft for Kids on the Maple Leaf Learning Playhouse Channel: \nhttps://www.youtube.com/watch?v=f9k5RwE8Gf0&t=11s\n\n----------------------------------------\u00ad----------------\nDownload the \"I Love Sweets\" song from Sing and Play Green on: \n\niTunes: http://apple.co/1ipOxXl\nAmazon: http://amzn.to/1NdlOlv\nCD Baby: http://bit.ly/1Sd8ltU\n\nFind a Shop in your Country: \nhttp://mapleleaflearning.com/shop\n\n----------------------------------------\u00ad----------------\nTeacher and Parent Resources: \n\nSong information and resources: \nhttp://www.mapleleaflearning.com/songs/sing-and-play-green/i-love-sweets\n\nDownload food flashcards, worksheets, coloring activities and more in our Resource Library: \nhttp://www.mapleleaflearning.com/library/food\n\n----------------------------------------\u00ad----------------\nFollow us online: \n\nFacebook: http://www.facebook.com/maplemarty\nTwitter: http://www.twitter.com/maplemarty\nPinterest: http://www.pinterest.com/maplemarty\nGoogle: https://plus.google.com/+Mapleleaflea...\nLinkedin: https://www.linkedin.com/company/mapl...\n\n----------------------------------------\u00ad----------------\n\"I Love Sweets\" Song Lyrics:\n\nSweets, sweets,\nI love sweets.\nDonuts, ice cream.\nChocolate, candy, pudding, cake.\nWhat’s your favorite sweet.\n\nSweets, sweets,\nI love sweets.\nDonuts, ice cream.\nChocolate, candy, pudding, cake.\nWhat’s your favorite sweet.\n\nDonuts.\nIce cream.\nChocolate.\nCandy.\nPudding.\nCake.\n\nI love sweets.\n\nYummy!\n\nSweets, sweets,\nI love sweets.\nDonuts, ice cream.\nChocolate, candy, pudding, cake.\nWhat’s your favorite sweet.\n\nSweets, sweets,\nI love sweets.\nDonuts, ice cream.\nChocolate, candy, pudding, cake.\n\nWhat’s your favorite sweet.\nWhat’s your favorite sweet?\n\nCopyright Maple Leaf Learning\n----------------------------------------\u00ad----------------\n\nMaple Leaf Learning Playhouse is an educational channel for kids to learn with simple crafts, coloring sheets, songs, toys and games for children! Great for toddlers, preschoolers and kindergarten children.\n\nAll of our songs, games and activities are developed and tested in-house by experienced teachers at our well-established language school in Japan. Kids learn best when they don’t realize that they’re learning. Our materials are often inspired by natural play and interaction in the classroom. \n\nOur unique style of blending physical elements (realia) into songs will get even the most shy, unwilling children hooked, participating and singing along. With a big scoop of fun and a sprinkle of silly, we make learning incredibly fun. So, you’re sure to have instant hits that children will ask for again and again.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/S2EIktLSb8k/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/S2EIktLSb8k/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/S2EIktLSb8k/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/S2EIktLSb8k/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/S2EIktLSb8k/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Slu_V-X6qa1Rhl5qFQSOoTKgYa8",
+      "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:27:01Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Learn Drinks Vocabulary | Talking Flashcards",
+        "description": "Let's learn drinks vocabulary and then sing the \"I Am Thirsty\" song for kids! Download these drinks flashcards here: http://mapleleaflearning.com/library/i-am-thirsty-song-flashcards/\n\nDrinks included in this video: apple juice, grape juice, coffee, green tea, lemonade, tomato juice, tea, orange juice, water, milk, cola, hot chocolate, root beer, spider juice, punch, frog tea.\n\nI Am Thirsty Game for Kids on The Maple Leaf Learning Playhouse:\nhttps://www.youtube.com/watch?v=DPDPcq8B4QU\n\nFood and Drink Songs for Kids Playlist: \nhttps://www.youtube.com/playlist?list=PL55E43B2294C47124\n\nTalking Flashcards Video Playlist: \nhttps://www.youtube.com/playlist?list=PLC045C43423D84311\n\n--------------------------------------------------------\nDownload our songs on: \n\niTunes: http://apple.co/1IAIjde\nAmazon: http://amzn.to/1DnmZMi\nCD Baby: http://bit.ly/CDBabyMapleLeaf\n\nFind a Shop in your Country: \nhttp://mapleleaflearning.com/shop\n\n-------------------------------------------------------\nCheck out all of our fun Peekaboo animal apps for kids on: \nApple App Store: http://apple.co/2cv3yHA\nGoogle Play Store: http://bit.ly/2crdMH4\n\nVisit our website for more information about our apps for kids: \nhttp://www.mapleleaflearning.com/apps\n\n--------------------------------------------------------\nTeachers and Parents\n\nVisit the Resource Library on our website for food and drink flashcards, worksheets, activities and more: \nhttp://mapleleaflearning.com/library/food\n\nWatch Teacher's Videos on The Maple Leaf Learning Club: \nhttp://www.youtube.com/c/themapleleaflearningclub\n\n--------------------------------------------------------\nFollow us online: \n\nFacebook: http://www.facebook.com/maplemarty\nTwitter: http://www.twitter.com/maplemarty\nPinterest: http://www.pinterest.com/maplemarty\nGoogle: https://plus.google.com/+Mapleleaflearning\nLinkedin: https://www.linkedin.com/company/maple-leaf-learning\n\n--------------------------------------------------------\nI Am Thirsty Song Lyrics: \n\nI am thirsty, very very thirsty. \nWhat do you want to drink? \nApple juice, apple juice, apple juice.\nGulp, gulp, gulp, gulp!\nAhh! \n\nI am thirsty, very very thirsty. \nWhat do you want to drink? \nGrape juice, grape juice, grape juice.\nGulp, gulp, gulp, gulp!\nAhh! \n\nI am thirsty, very very thirsty. \nWhat do you want to drink? \nCoffee, coffee, coffee, coffee.\nGulp, gulp, gulp, gulp!\nAhh! \n\nI am thirsty, very very thirsty. \nWhat do you want to drink? \nGreen tea, green tea, green tea, green tea.\nGulp, gulp, gulp, gulp!\nAhh! \n\n\n\nCopyright Maple Leaf Learning\n--------------------------------------------------------\n\nSimple, fun and educational songs for kids. Great for toddlers, preschool and kindergarten children as well as the ESL and EFL classroom. \n\nAll of our songs, games and activities are developed and tested in-house by experienced teachers at our well-established language school in Japan. Kids learn best when they don’t realize that they’re learning. Our materials are often inspired by natural play and interaction in the classroom.\n\nOur unique style of blending physical elements (realia) into songs will get even the most shy, unwilling children hooked, participating and singing along. With a big scoop of fun and a sprinkle of silly, we make learning incredibly fun. So, you’re sure to have instant hits that children will ask for again and again.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7abWAvbEE8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7abWAvbEE8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7abWAvbEE8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7abWAvbEE8A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7abWAvbEE8A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7abWAvbEE8A"
+        }
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 7,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "S2EIktLSb8k"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/0CpAlBxF2oqWXBRcE_qkaidZldQ\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS45NDk1REZENzhEMzU5MDQz",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:27:01.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Learn Drinks Vocabulary | Talking Flashcards",
-    "description": "Let's learn drinks vocabulary and then sing the \"I Am Thirsty\" song for kids! Download these drinks flashcards here: http://mapleleaflearning.com/library/i-am-thirsty-song-flashcards/\n\nDrinks included in this video: apple juice, grape juice, coffee, green tea, lemonade, tomato juice, tea, orange juice, water, milk, cola, hot chocolate, root beer, spider juice, punch, frog tea.\n\nI Am Thirsty Game for Kids on The Maple Leaf Learning Playhouse:\nhttps://www.youtube.com/watch?v=DPDPcq8B4QU\n\nFood and Drink Songs for Kids Playlist: \nhttps://www.youtube.com/playlist?list=PL55E43B2294C47124\n\nTalking Flashcards Video Playlist: \nhttps://www.youtube.com/playlist?list=PLC045C43423D84311\n\n--------------------------------------------------------\nDownload our songs on: \n\niTunes: http://apple.co/1IAIjde\nAmazon: http://amzn.to/1DnmZMi\nCD Baby: http://bit.ly/CDBabyMapleLeaf\n\nFind a Shop in your Country: \nhttp://mapleleaflearning.com/shop\n\n-------------------------------------------------------\nCheck out all of our fun Peekaboo animal apps for kids on: \nApple App Store: http://apple.co/2cv3yHA\nGoogle Play Store: http://bit.ly/2crdMH4\n\nVisit our website for more information about our apps for kids: \nhttp://www.mapleleaflearning.com/apps\n\n--------------------------------------------------------\nTeachers and Parents\n\nVisit the Resource Library on our website for food and drink flashcards, worksheets, activities and more: \nhttp://mapleleaflearning.com/library/food\n\nWatch Teacher's Videos on The Maple Leaf Learning Club: \nhttp://www.youtube.com/c/themapleleaflearningclub\n\n--------------------------------------------------------\nFollow us online: \n\nFacebook: http://www.facebook.com/maplemarty\nTwitter: http://www.twitter.com/maplemarty\nPinterest: http://www.pinterest.com/maplemarty\nGoogle: https://plus.google.com/+Mapleleaflearning\nLinkedin: https://www.linkedin.com/company/maple-leaf-learning\n\n--------------------------------------------------------\nI Am Thirsty Song Lyrics: \n\nI am thirsty, very very thirsty. \nWhat do you want to drink? \nApple juice, apple juice, apple juice.\nGulp, gulp, gulp, gulp!\nAhh! \n\nI am thirsty, very very thirsty. \nWhat do you want to drink? \nGrape juice, grape juice, grape juice.\nGulp, gulp, gulp, gulp!\nAhh! \n\nI am thirsty, very very thirsty. \nWhat do you want to drink? \nCoffee, coffee, coffee, coffee.\nGulp, gulp, gulp, gulp!\nAhh! \n\nI am thirsty, very very thirsty. \nWhat do you want to drink? \nGreen tea, green tea, green tea, green tea.\nGulp, gulp, gulp, gulp!\nAhh! \n\n\n\nCopyright Maple Leaf Learning\n--------------------------------------------------------\n\nSimple, fun and educational songs for kids. Great for toddlers, preschool and kindergarten children as well as the ESL and EFL classroom. \n\nAll of our songs, games and activities are developed and tested in-house by experienced teachers at our well-established language school in Japan. Kids learn best when they don’t realize that they’re learning. Our materials are often inspired by natural play and interaction in the classroom.\n\nOur unique style of blending physical elements (realia) into songs will get even the most shy, unwilling children hooked, participating and singing along. With a big scoop of fun and a sprinkle of silly, we make learning incredibly fun. So, you’re sure to have instant hits that children will ask for again and again.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/7abWAvbEE8A/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/7abWAvbEE8A/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/7abWAvbEE8A/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/7abWAvbEE8A/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/7abWAvbEE8A/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "c6dYKamxPQ6mt0sxpeUn7Q54Jjc",
+      "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:27:04Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Disney Cups Surprise Toys with Minions TMNT and Frozen Surprises",
+        "description": "Subscribe to Come And Play Kids TV: https://goo.gl/6c5cq1\nM&M Chocolate Candy Surprise Toys Learn Colors Play Doh\nhttps://youtu.be/53Z82ukBIU0\n\nMore Videos from Come and Play:\nSuper Surprise Eggs Kinder Surprise Kinder Joy Learn Colors\nhttps://youtu.be/59bve64WMiE\n\nLearn Colors Tayo Tayo Little Bus Garage Parking Playset Compilation\nhttps://youtu.be/m_7QG9dHdOE\n\nLearn Colors Microwave Fruit Cutting Ice Cream Cones Blender\nhttps://youtu.be/fGekPlUne3s\n\nBaby Bath Five Little Monkeys Nursery Rhymes Surprise Toys\nhttps://youtu.be/ZfLsyReIO_s\n\nLearn Colors Play Doh Balls Microwave Surprise Toys\nhttps://youtu.be/uU5qVS6dVP4\n\nMusic from Youtube Audio Library: \nhttps://www.youtube.com/audiolibrary/music\n\nCheck us out on:\nGoogle+: https://plus.google.com/+DownundertoysBlogspot888\nTwitter: https://twitter.com/comeandplayme\nFacebook: https://www.facebook.com/comeandplayfun\nInstagram: https://www.instagram.com/buneyh",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/53Z82ukBIU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/53Z82ukBIU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/53Z82ukBIU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/53Z82ukBIU0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/53Z82ukBIU0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "53Z82ukBIU0"
+        }
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 8,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "7abWAvbEE8A"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/4YhO1zpAZ5DkMCmkhvbAziOoets\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS5GNjNDRDREMDQxOThCMDQ2",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:27:04.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Disney Cups Surprise Toys with Minions TMNT and Frozen Surprises",
-    "description": "Subscribe to Come And Play Kids TV: https://goo.gl/6c5cq1\nM&M Chocolate Candy Surprise Toys Learn Colors Play Doh\nhttps://youtu.be/53Z82ukBIU0\n\nMore Videos from Come and Play:\nSuper Surprise Eggs Kinder Surprise Kinder Joy Learn Colors\nhttps://youtu.be/59bve64WMiE\n\nLearn Colors Tayo Tayo Little Bus Garage Parking Playset Compilation\nhttps://youtu.be/m_7QG9dHdOE\n\nLearn Colors Microwave Fruit Cutting Ice Cream Cones Blender\nhttps://youtu.be/fGekPlUne3s\n\nBaby Bath Five Little Monkeys Nursery Rhymes Surprise Toys\nhttps://youtu.be/ZfLsyReIO_s\n\nLearn Colors Play Doh Balls Microwave Surprise Toys\nhttps://youtu.be/uU5qVS6dVP4\n\nMusic from Youtube Audio Library: \nhttps://www.youtube.com/audiolibrary/music\n\nCheck us out on:\nGoogle+: https://plus.google.com/+DownundertoysBlogspot888\nTwitter: https://twitter.com/comeandplayme\nFacebook: https://www.facebook.com/comeandplayfun\nInstagram: https://www.instagram.com/buneyh",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/53Z82ukBIU0/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/53Z82ukBIU0/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/53Z82ukBIU0/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/53Z82ukBIU0/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/53Z82ukBIU0/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mc-jJ8WPDvtDsUhQjJ-cYJengNI",
+      "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:27:08Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Ice Cream Song for Children | Learn with Little Baby Bum | Nursery Rhymes for Babies | ABCs and 123s",
+        "description": "We're available on Spotify!\nhttps://open.spotify.com/playlist/05tdW3fw1NDaqVELGgYuWm?si=Z-alZcFWQGWFsJ1TX1TpSw\n\nDownload this video now! https://wayokids.com/p/ice-cream-song-from-little-baby-bum-official-release-13277\n\nSUBSCRIBE for new videos every week! ?https://goo.gl/59WdSj\nWatch More Little Baby Bum ?\nSongs About Numbers, ABC's and shapes:\nhttps://www.youtube.com/watch?v=wwdqK_XNBNM&list=PL0VE_cI7-AYRotjbI1cGFg8zscyzgFClS\n\nLBB TV: \nhttps://www.youtube.com/watch?v=fQTDpa_c-nk&list=PL0VE_cI7-AYRx9Qbz5C0oQix0AO6YdCtw\n\nLBB and friends:\nhttps://www.youtube.com/watch?v=J3htU652mBY&list=PL0VE_cI7-AYSuxGdfT5N15Aks-y_HbNg7\n\nTen little animals | Counting for kids:\nhttps://www.youtube.com/watch?v=lX2NvIQS8iM\n\nABC song:\nhttps://www.youtube.com/watch?v=ezdzxieXJvc\n#nurseryrhymes #littlebabybum",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/58eA79N0foY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/58eA79N0foY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/58eA79N0foY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/58eA79N0foY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/58eA79N0foY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "58eA79N0foY"
+        }
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 9,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "53Z82ukBIU0"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/I2KQqeeO3Dt0Iyj0VNod-mc75zQ\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS40NzZCMERDMjVEN0RFRThB",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:27:08.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Ice Cream Song for Children | Little Baby Bum | Nursery Rhymes for Babies | ABCs and 123s",
-    "description": "Download this video now! https://wayokids.com/p/ice-cream-song-from-little-baby-bum-official-release-13277\n\nSUBSCRIBE for new videos every week! ►https://goo.gl/59WdSj\nWatch More Little Baby Bum ►\nSongs About Numbers, ABC's and shapes:\nhttps://www.youtube.com/watch?v=wwdqK_XNBNM&list=PL0VE_cI7-AYRotjbI1cGFg8zscyzgFClS\n\nLBB TV: \nhttps://www.youtube.com/watch?v=fQTDpa_c-nk&list=PL0VE_cI7-AYRx9Qbz5C0oQix0AO6YdCtw\n\nLBB and friends:\nhttps://www.youtube.com/watch?v=J3htU652mBY&list=PL0VE_cI7-AYSuxGdfT5N15Aks-y_HbNg7\n\nTen little animals | Counting for kids:\nhttps://www.youtube.com/watch?v=lX2NvIQS8iM\n\nABC song:\nhttps://www.youtube.com/watch?v=ezdzxieXJvc\n#nurseryrhymes #littlebabybum",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/58eA79N0foY/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/58eA79N0foY/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/58eA79N0foY/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/58eA79N0foY/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/58eA79N0foY/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5oyHdHA2n9lk3Y8LTfydnBT4MHE",
+      "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:27:11Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Ice Cream Song | Part 2 | Learn with Little Baby Bum | Nursery Rhymes for Babies | ABCs and 123s",
+        "description": "We're available on Spotify!\nhttps://open.spotify.com/playlist/05tdW3fw1NDaqVELGgYuWm?si=Z-alZcFWQGWFsJ1TX1TpSw\n\nDownload LBB videos ?https://wayokids.com/littlebabybum\nPlush Toys: http://littlebabybum.com/shop/plush-toys/\n© El Bebe Productions Limited\n\nLyric:\nIce cream, ice cream, yummy ice cream.\nIce cream, ice cream, tastes so good.\nIce cream, ice cream, a special treat,\nShare it with a friend!\n\nIce cream, ice cream, what's your favorite?\nIce cream, ice cream, I love chocolate!\nIce cream, ice cream, Vanilla! Strawberry!\nCookies and cream!\n\nIce cream, ice cream, add strawberries,\nIce cream, ice cream, blueberries too.\nIce cream, ice cream, nuts and cherries.\nSo many toppings!\n\nIce cream, ice cream, want more flavors?\nIce cream, ice cream, how about caramel\nIce cream, ice cream, Mango! Mint chip!\nCookie dough!\n#nurseryrhymes #littlebabybum",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WEYuDbSxM50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WEYuDbSxM50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WEYuDbSxM50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WEYuDbSxM50/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WEYuDbSxM50/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WEYuDbSxM50"
+        }
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 10,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "58eA79N0foY"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/K1KHoaqksvLb22NE2EaajzkjiT0\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS5EMEEwRUY5M0RDRTU3NDJC",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:27:11.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Ice Cream Song | Part 2 | Little Baby Bum | Nursery Rhymes for Babies | ABCs and 123s",
-    "description": "Download LBB videos ►https://wayokids.com/littlebabybum\nPlush Toys: http://littlebabybum.com/shop/plush-toys/\n© El Bebe Productions Limited\n\nLyric:\nIce cream, ice cream, yummy ice cream.\nIce cream, ice cream, tastes so good.\nIce cream, ice cream, a special treat,\nShare it with a friend!\n\nIce cream, ice cream, what's your favorite?\nIce cream, ice cream, I love chocolate!\nIce cream, ice cream, Vanilla! Strawberry!\nCookies and cream!\n\nIce cream, ice cream, add strawberries,\nIce cream, ice cream, blueberries too.\nIce cream, ice cream, nuts and cherries.\nSo many toppings!\n\nIce cream, ice cream, want more flavors?\nIce cream, ice cream, how about caramel\nIce cream, ice cream, Mango! Mint chip!\nCookie dough!\n#nurseryrhymes #littlebabybum",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/WEYuDbSxM50/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/WEYuDbSxM50/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/WEYuDbSxM50/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/WEYuDbSxM50/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/WEYuDbSxM50/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lU4Iv8s1vBIPJZthIVCfez9CQhE",
+      "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:27:41Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Do You Like Spaghetti Yogurt? | Super Simple Songs",
+        "description": "Watch this video and MUCH more in the Super Simple App for iOS! ? http://apple.co/2nW5hPd\n\nIf you like the Broccoli Ice Cream song, try out the new “Do You Like Spaghetti Yogurt?” version! Sing along with the sequel to this fun and silly food song.\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n? SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n? DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n? YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n? AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n? KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n? PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n******\nLyrics\n\nDo you like spaghetti?\nYes, I do! \nDo you like yogurt? \nYes, I do! \nDo you like spaghetti yogurt?\nNo, I don't. Yucky! \n\nDo you like cookies?\nYes, I do!\nDo you like salad?\nYes, I do!\nDo you like cookie salad? \nNo, I don't. Yucky!\n\nDo you like tomatoes?\nYes, I do!\nDo you like pancakes?\nYes, I do!\nDo you like tomato pancakes? \nNo, I don't. Yucky!\n\nDo you like carrots?\nYes, I do!\nDo you like cereal?\nYes, I do!\nDo you like carrot cereal? \nNo, I don't. Yuck!\n\n*****\nSong: Do You Like Spaghetti Yogurt?\nCD: Super Simple Songs 3\nMusic: Super Simple Learning\nVocals: Matt Stamm and Ingrid DuMosch DeHaan\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Super Simple Learning, Inc.\n\n*****\nDo You Like Spaghetti Yogurt? by Super Simple Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ddDN30evKPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ddDN30evKPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ddDN30evKPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ddDN30evKPc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ddDN30evKPc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ddDN30evKPc"
+        }
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 11,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "WEYuDbSxM50"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/P3xvq1yFDWmrJeZ3ORV1G4CpidM\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS45ODRDNTg0QjA4NkFBNkQy",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:27:41.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Do You Like Spaghetti Yogurt? | Super Simple Songs",
-    "description": "Watch this video and MUCH more in the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\nIf you like the Broccoli Ice Cream song, try out the new “Do You Like Spaghetti Yogurt?” version! Sing along with the sequel to this fun and silly food song.\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n******\nLyrics\n\nDo you like spaghetti?\nYes, I do! \nDo you like yogurt? \nYes, I do! \nDo you like spaghetti yogurt?\nNo, I don't. Yucky! \n\nDo you like cookies?\nYes, I do!\nDo you like salad?\nYes, I do!\nDo you like cookie salad? \nNo, I don't. Yucky!\n\nDo you like tomatoes?\nYes, I do!\nDo you like pancakes?\nYes, I do!\nDo you like tomato pancakes? \nNo, I don't. Yucky!\n\nDo you like carrots?\nYes, I do!\nDo you like cereal?\nYes, I do!\nDo you like carrot cereal? \nNo, I don't. Yuck!\n\n*****\nSong: Do You Like Spaghetti Yogurt?\nCD: Super Simple Songs 3\nMusic: Super Simple Learning\nVocals: Matt Stamm and Ingrid DuMosch DeHaan\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Super Simple Learning, Inc.\n\n*****\nDo You Like Spaghetti Yogurt? by Super Simple Learning",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/ddDN30evKPc/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/ddDN30evKPc/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/ddDN30evKPc/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/ddDN30evKPc/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/ddDN30evKPc/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9PFsD8urYih6uMQv3brX98ucUM0",
+      "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:27:44Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Do You Like Pickle Pudding? | Super Simple Songs",
+        "description": "More great Super Simple videos in the Super Simple App for iOS ? http://apple.co/2nW5hPd\n\nPickle Pudding?! If you liked \"Do You Like Broccoli Ice Cream?\" and \"Do You Like Spaghetti Yogurt?\", you'll love this new silly kids song from Super Simple Songs. What funny food combos can you think of?\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n? SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n? DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n? YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n? AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n? KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n? PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n*****\nLyrics: \nDo you like pickles?\nYes, I do! Yes, I do!\nDo you like pudding?\nYes, I do! Yes, I do!\nDo you like pickle pudding?\nNo, I don’t! Yucky!\n\nDo you like mushrooms?\nYes, I do! Yes, I do!\nDo you like popsicles?\nYes, I do! Yes, I do!\nDo you like mushroom popsicles?\nNo, I don’t! Yucky!\n\nDo you like cauliflower?\nYes, I do! Yes, I do!\nDo you like cupcakes?\nYes, I do! Yes, I do!\nDo you like cauliflower cupcakes?\nNo, I don’t! Yucky!\n\nDo you like sushi?\nYes, I do! Yes, I do!\nDo you like smoothies?\nYes, I do! Yes, I do!\nDo you like sushi smoothies?\nNo, I don’t! Yuck!\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Super Simple Learning, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mfb--R1fhtQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mfb--R1fhtQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mfb--R1fhtQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mfb--R1fhtQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mfb--R1fhtQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Mfb--R1fhtQ"
+        }
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 12,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "ddDN30evKPc"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/sWCZjnn34LV_bKmrXwUHC4ew_2Y\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS4zMDg5MkQ5MEVDMEM1NTg2",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:27:44.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Do You Like Pickle Pudding? | Super Simple Songs",
-    "description": "More great Super Simple videos in the Super Simple App for iOS ► http://apple.co/2nW5hPd\n\nPickle Pudding?! If you liked \"Do You Like Broccoli Ice Cream?\" and \"Do You Like Spaghetti Yogurt?\", you'll love this new silly kids song from Super Simple Songs. What funny food combos can you think of?\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n*****\nLyrics: \nDo you like pickles?\nYes, I do! Yes, I do!\nDo you like pudding?\nYes, I do! Yes, I do!\nDo you like pickle pudding?\nNo, I don’t! Yucky!\n\nDo you like mushrooms?\nYes, I do! Yes, I do!\nDo you like popsicles?\nYes, I do! Yes, I do!\nDo you like mushroom popsicles?\nNo, I don’t! Yucky!\n\nDo you like cauliflower?\nYes, I do! Yes, I do!\nDo you like cupcakes?\nYes, I do! Yes, I do!\nDo you like cauliflower cupcakes?\nNo, I don’t! Yucky!\n\nDo you like sushi?\nYes, I do! Yes, I do!\nDo you like smoothies?\nYes, I do! Yes, I do!\nDo you like sushi smoothies?\nNo, I don’t! Yuck!\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Super Simple Learning, Inc.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/Mfb--R1fhtQ/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/Mfb--R1fhtQ/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/Mfb--R1fhtQ/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/Mfb--R1fhtQ/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/Mfb--R1fhtQ/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IogIUl33WrERhpLibLor01k5BMQ",
+      "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:27:48Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Do You Like Lasagna Milkshakes? | Ice Cream and Lasagna!? | Super Simple Songs",
+        "description": "Watch videos from Super Simple in the Super Simple App for iOS! ? http://apple.co/2nW5hPd\n\n??Do you like lasagna? Yes, I do! Yes, I do! Do you like milkshakes? Yes, I do! Yes, I do! Do you like lasagna milkshakes? No, I don’t! Yucky! ??\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n? SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n? DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n? YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n? AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n? KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n? PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n*****\nLyrics: \nDo you like lasagna?\nYes, I do! Yes, I do!\nDo you like milkshakes?\nYes, I do! Yes, I do!\nDo you like lasagna milkshakes?\nNo, I don’t! Yucky!\n\nDo you like avocados?\nYes, I do! Yes, I do!\nDo you like lollipops?\nYes, I do! Yes, I do!\nDo you like avocado lollipops?\nNo, I don’t! Yucky!\n\nDo you like asparagus?\nYes, I do! Yes, I do!\nDo you like cake?\nYes, I do! Yes, I do!\nDo you like asparagus cake?\nNo, I don’t! Yucky!\n\nDo you like peanut butter?\nYes, I do! Yes, I do!\nDo you like jelly?\nYes, I do! Yes, I do!\nDo you like peanut butter and jelly?\nYes, I do. Yummy!\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/13mftBvRmvM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/13mftBvRmvM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/13mftBvRmvM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/13mftBvRmvM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/13mftBvRmvM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "13mftBvRmvM"
+        }
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 13,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "Mfb--R1fhtQ"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/b78YCwu7zY5JuY5gdz2ttcsarh4\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS41Mzk2QTAxMTkzNDk4MDhF",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:27:48.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Do You Like Lasagna Milkshakes? | Ice Cream and Lasagna!? | Super Simple Songs",
-    "description": "Watch videos from Super Simple in the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\n🎶Do you like lasagna? Yes, I do! Yes, I do! Do you like milkshakes? Yes, I do! Yes, I do! Do you like lasagna milkshakes? No, I don’t! Yucky! 🎶\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n*****\nLyrics: \nDo you like lasagna?\nYes, I do! Yes, I do!\nDo you like milkshakes?\nYes, I do! Yes, I do!\nDo you like lasagna milkshakes?\nNo, I don’t! Yucky!\n\nDo you like avocados?\nYes, I do! Yes, I do!\nDo you like lollipops?\nYes, I do! Yes, I do!\nDo you like avocado lollipops?\nNo, I don’t! Yucky!\n\nDo you like asparagus?\nYes, I do! Yes, I do!\nDo you like cake?\nYes, I do! Yes, I do!\nDo you like asparagus cake?\nNo, I don’t! Yucky!\n\nDo you like peanut butter?\nYes, I do! Yes, I do!\nDo you like jelly?\nYes, I do! Yes, I do!\nDo you like peanut butter and jelly?\nYes, I do. Yummy!\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company, Inc.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/13mftBvRmvM/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/13mftBvRmvM/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/13mftBvRmvM/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/13mftBvRmvM/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/13mftBvRmvM/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "63jcMm5f9nGxHb2IcobhmxnFKeM",
+      "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:27:51Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Do You Like Broccoli Ice Cream? | Super Simple Songs",
+        "description": "Watch videos from Super Simple in the Super Simple App for iOS! ? http://apple.co/2nW5hPd\n\nStream the full new \"Do You Like Broccoli Ice Cream? & More Kids Songs\" on Amazon: http://amzn.to/2vcIRHo\n\"Do You Like Broccoli Ice Cream?\" is an original (and very silly) food song from Super Simple Learning created for teaching how to express food likes and dislikes, and asking and answering \"Do you like _______?\" questions.\niTunes: http://bit.ly/DoYouLikeBroccoliIceCre...\nAmazon: http://bit.ly/SuperSimpleSongs3_Amazon\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n? SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n? DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n? YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n? AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n? KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n? PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n******\nLyrics:\nDo you like broccoli?\nYes, I do!\nDo you like ice cream? \nYes, I do! \nDo you like broccoli ice cream?\nNo, I don't. Yucky!\n\nDo you like donuts? \nYes, I do!\nDo you like juice? \nYes, I do!\nDo you like donut juice? \nNo, I don't. Yucky!\n\nDo you like popcorn? \nYes, I do!\nDo you like pizza? \nYes, I do!\nDo you like popcorn pizza? \nNo, I don't. Yucky!\n\nDo you like bananas?\nYes, I do!\nDo you like soup?\nYes, I do!\nDo you like banana soup? \nNo, I don't. Yucky! \n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Super Simple Learning, Inc.\n\n******\nDo You Like Broccoli Ice Cream? by Super Simple Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/frN3nvhIHUk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/frN3nvhIHUk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/frN3nvhIHUk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/frN3nvhIHUk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/frN3nvhIHUk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "frN3nvhIHUk"
+        }
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 14,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "13mftBvRmvM"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/AqmtSXyb__zkVp7fhOycbOtEqXw\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS5EQUE1NTFDRjcwMDg0NEMz",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:27:51.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Do You Like Broccoli Ice Cream? | Super Simple Songs",
-    "description": "Watch videos from Super Simple in the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\nStream the full new \"Do You Like Broccoli Ice Cream? & More Kids Songs\" on Amazon: http://amzn.to/2vcIRHo\n\"Do You Like Broccoli Ice Cream?\" is an original (and very silly) food song from Super Simple Learning created for teaching how to express food likes and dislikes, and asking and answering \"Do you like _______?\" questions.\niTunes: http://bit.ly/DoYouLikeBroccoliIceCre...\nAmazon: http://bit.ly/SuperSimpleSongs3_Amazon\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n******\nLyrics:\nDo you like broccoli?\nYes, I do!\nDo you like ice cream? \nYes, I do! \nDo you like broccoli ice cream?\nNo, I don't. Yucky!\n\nDo you like donuts? \nYes, I do!\nDo you like juice? \nYes, I do!\nDo you like donut juice? \nNo, I don't. Yucky!\n\nDo you like popcorn? \nYes, I do!\nDo you like pizza? \nYes, I do!\nDo you like popcorn pizza? \nNo, I don't. Yucky!\n\nDo you like bananas?\nYes, I do!\nDo you like soup?\nYes, I do!\nDo you like banana soup? \nNo, I don't. Yucky! \n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Super Simple Learning, Inc.\n\n******\nDo You Like Broccoli Ice Cream? by Super Simple Learning",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/frN3nvhIHUk/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/frN3nvhIHUk/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/frN3nvhIHUk/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/frN3nvhIHUk/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/frN3nvhIHUk/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hnBP0mDJHLmQjBGws-R3nGiOqXY",
+      "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:27:54Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Healthy Food Vs Junk Food Song!",
+        "description": "? Download my interactive storybook for Android or iOS! https://share.graphyapp.co/adam-says\n\n7+ Hours of exclusive interactive learning videos, games, songs, stories and more with my 'Adam Says' Graphy! Just download the GRAPHY App to access my learning video-audio storybook. Perfect for babies, toddlers, and children who are learning to speak English!\n\nA food song for kids! Do you like broccoli? Do you like chocolate? Teach and learn food names, and the difference between healthy food and junk food! Great for children, babies, toddlers, ESL students, and adults, too! :) Who wins in the battle of the foods!? Learn the words: broccoli, salad, fish, eggs, nuts, yogurt, fruit, cheese, rice, beans, water, chocolate bars, apple pie, chips, cookies, fudge, soda, fries, hot dog, churros, candy, pizza, cheese, fast food.\n\n*****\n\nOther Places To Watch:\n? AMAZON VIDEO\nAre you an Amazon Prime member? Watch English Tree TV videos ad-free on Amazon Prime Video. Just search for “English Tree TV” \n? KIDOODLE.TV - https://kidoodle.tv/\n\nOther Places to Listen:\n? SPOTIFY - https://spoti.fi/3hdZuLF\n? iTUNES - https://apple.co/2XRZ7Pn\n\nFREE TEACHING RESOURCES: http://www.englishtreetv.com\n\nSOCIAL MEDIA:\nFacebook: https://www.facebook.com/englishtreetv\nInstagram: https://www.instagram.com/englishtreetv/\n\nSubscribe to English Tree TV!\nhttp://www.youtube.com/channel/UC4GaQ9fCH5IpAq1AImj7XuQ?sub_confirmation=1\n\n*****\n\nLYRICS: \n\nDo you like healthy food? Or do you like junk food?\nDo you like healthy food? Or do you like junk food?\n\nI like chocolate bars! And I like apple pie!\nI like chips and cookies! And I like salty fries!!\n\nBut healthy food makes you strong\nHealthy food makes you fast!\nJunk food it makes you weak,\nJunk food makes you big and fat\n\nI don’t care about that! I’ll have a pizza please!\nAnd ill take some soda! And some extra cheese!\n\nBut healthy food helps you grow, Healthy food is good for you\nJunk food it makes you soft, junk food it makes you slow\n\nBut I like fudge and churros! I like candy too!\nI like hot dogs! I like fast food!\n\nEating all this junk food! Makes me feel alive!\nBut as the time goes by, I feel like I could cry! \n\n…\n\nToo much junk food in you…\nAnd now you cant even, move\nYou know that it’s good for you,\nWhy did you avoid, the healthy food?\n\nWhy’d I eat the junk food!? I want fish and eggs!\nI love nuts and yogurt! I love fruit and veg! \n\nI love cheese and broccoli! I love rice and beans!\nI love ice water! And salad that is green!\n\nAnd sometimes I’ll eat junk food! But I won’t forget!\nOnly eat a little bit and get more healthy food!\n\n*****\n\nMusic and animation written, performed, and made by Adam Williams-Walters.\nCopyright 2016 Adam Williams-Walters/English Tree TV, All rights reserved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fE8lezHs19s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fE8lezHs19s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fE8lezHs19s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fE8lezHs19s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fE8lezHs19s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fE8lezHs19s"
+        }
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 15,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "frN3nvhIHUk"
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Nb51eelTYEyH_03ybULuSGiu1kI",
+      "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:28:47Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Fun Food Chant! - Elf Kids Videos",
+        "description": "In this video we introduce several sentences along with 24 food cards.  This is the first time we've mixed real video footage with animated footage.  We did this because we wanted to model the chant for viewers, both children and their parents.  What do you think? :)\n\nSentences include:\n1.  I like (apples).\n2.  I want (chicken).\n3.  (Cookies) are delicious.\n4.  (Onions) are stinky.\n5.  DESCRIPTIVE SENTENCES (Light green lettuce.)\n\nClick here to Subscribe:\nhttps://www.youtube.com/user/omigrad?sub_confirmation=1\nJoin us on\nFacebook: https://www.facebook.com/elflearning\nG+: https://plus.google.com/+ELFKidsVideos\nTwitter: https://twitter.com/ELFLearning\nWebsite: https://www.elflearning.jp\n\n\nThe idea was to provide context and pattern practice for each vocabulary item.  More examples of this can be found here.\n\nAnimals - http://www.youtube.com/watch?v=lnzQq2bLs1I\nMy Town - http://www.youtube.com/watch?v=GEfYZ40cqAw ELF Learning creates learning materials for kids all over the world.  Based in Japan, we publish books, CDs, DVDs and of course...learning videos!\n\nOur videos are designed for children ages 2~10 and cover a wide range of topics.  \n\nOur song videos are a mix of original and classic children's songs.  We try hard to add the ELF touch - clear vocals, different genres and lots of cool instruments.  \n\nOur learning videos cover vocabulary, phrases and patterns perfect for the ESL and EFL classroom. \n\nMany of our videos work well with special needs children, especially those with Autistic Disorder, Speech and Language Impairments and Speech, Reading and Learning Disabilities.  We often receive emails from parents thanking us for helping their child learn to speak or read and each time it makes our day!  \n\n(You can learn more about autism at this link: http://www.autismspeaks.org/)\n\nYou can learn more about ELF Learning here:\nAlternate YouTube Page (for teachers and material support): https://www.youtube.com/user/ELFLearning\n\nELF Learning - Everyone Loves FUN Learning!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/97RDmFzzNlY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/97RDmFzzNlY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/97RDmFzzNlY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/97RDmFzzNlY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/97RDmFzzNlY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "97RDmFzzNlY"
+        }
+      }
     }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/F6844V5j-TVolKMfZiCLmemU1bI\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS41QTY1Q0UxMTVCODczNThE",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:27:54.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Healthy Food Vs Junk Food Song!",
-    "description": "A food song for kids! Do you like broccoli? Do you like chocolate? Teach and learn food names, and the difference between healthy food and junk food! Great for children, babies, toddlers, ESL students, and adults, too! :) Who wins in the battle of the foods!? Learn the words: broccoli, salad, fish, eggs, nuts, yogurt, fruit, cheese, rice, beans, water, chocolate bars, apple pie, chips, cookies, fudge, soda, fries, hot dog, churros, candy, pizza, cheese, fast food.\n\nMusic and animation written, performed, and made by Adam Williams-Walters.\nCopyright 2016 Adam Williams-Walters/English Tree TV, All rights reserved.\n\nLYRICS: \n\nDo you like healthy food? Or do you like junk food?\nDo you like healthy food? Or do you like junk food?\n\nI like chocolate bars! And I like apple pie!\nI like chips and cookies! And I like salty fries!!\n\nBut healthy food makes you strong\nHealthy food makes you fast!\nJunk food it makes you weak,\nJunk food makes you big and fat\n\nI don’t care about that! I’ll have a pizza please!\nAnd ill take some soda! And some extra cheese!\n\nBut healthy food helps you grow, Healthy food is good for you\nJunk food it makes you soft, junk food it makes you slow\n\nBut I like fudge and churros! I like candy too!\nI like hot dogs! I like fast food!\n\nEating all this junk food! Makes me feel alive!\nBut as the time goes by, I feel like I could cry! \n\n…\n\nToo much junk food in you…\nAnd now you cant even, move\nYou know that it’s good for you,\nWhy did you avoid, the healthy food?\n\nWhy’d I eat the junk food!? I want fish and eggs!\nI love nuts and yogurt! I love fruit and veg! \n\nI love cheese and broccoli! I love rice and beans!\nI love ice water! And salad that is green!\n\nAnd sometimes I’ll eat junk food! But I won’t forget!\nOnly eat a little bit and get more healthy food!\n\n*****\n\nTeaching and learning English should be fun! \n\nEnglish Tree TV creates high quality animated music videos to help children and students around the world learn English, using the best and catchiest songs we can possibly write! \n\nPerfect for young English learners, ESL or EFL students, kids, toddlers, and babies. \n\nSubscribe to our YouTube Channel for a great new music video every month!\nhttp://www.youtube.com/channel/UC4GaQ9fCH5IpAq1AImj7XuQ?sub_confirmation=1\n\nVisit our website for more great, free teaching materials\nhttp://www.englishtreetv.com\n\nLike us on Facebook and interact with the community, too.\nhttps://www.facebook.com/englishtreetv\n\nHappy learning and singing, and see you soon!",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/fE8lezHs19s/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/fE8lezHs19s/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/fE8lezHs19s/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/fE8lezHs19s/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/fE8lezHs19s/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 16,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "fE8lezHs19s"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/fk03a6O_O4CcD9fA86fC3hukC2o\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS4yMUQyQTQzMjRDNzMyQTMy",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:27:59.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Drinks Vocabulary -  Learn english vocabulary with picture Lesson 27",
-    "description": "http://bit.ly/GetTeachersPersonalForYou Drinks Vocabulary -  Learn english vocabulary with picture Lesson 27\nSubcribe now ! http://goo.gl/aUYrCE to receive next lesson\n-----------------------------------------------------------------------------------\nDrinks, Beverages /driɳk/ /'bəvəridʤ/\nWater /'wɔ:tə/\nIce cube /ais/ /kju:b/\nCoffee /'kɔfi/\nTea /ti:/\nCoke, Soda, Soft drink /kouk/ /'soudə/ /sɔft/ /driɳk/\nMilkshake = Milk + Ice cream \nWine /wain/\nBeer /bi:n/\nAlcoholic drinks /,ælkə'hɔlik/ /driɳk/\nFruit juice /fru:t/ /dʤu:s/\nFruit Smoothie\n------------------------------------------------------------------------------------\nFull Play List Video:English vocabulary with Pictures (Learn English Pictures Dictionary)\nhttps://www.youtube.com/watch?v=s5SQfh253HU&list=PLArVNLXaWpFfIIQ8w4Mompwm-qJvXcN8q\n----------------------------------------\u00ad-----------------------------------------------------\nBest playlist to learn english everyday:\n\n1/ English vocabulary words with meaning through Picture\n     https://goo.gl/PP6Y3h\n\n2/ English Conversation\n     https://goo.gl/jRqvEF\n\n3/ Learn english vocabulary with picture\n   https://goo.gl/022V7w\n---------------------------------------------------------------------------------------\nFollow us \nYoutube: https://www.youtube.com/c/LearnEnglishbyCartoon\nFacebook: https://www.facebook.com/groups/LearnEnglishByCartoon/\nTwiter: twitter.com/ttd_start_now\nG+: https://plus.google.com/u/0/+LearnEnglishbyCartoon\n--------------------------------------------------------------------------------------\nThanks for watching !\nThis video create by TEAM3S. \nDo not reupload !",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/dlNE3GYs-CU/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/dlNE3GYs-CU/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/dlNE3GYs-CU/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/dlNE3GYs-CU/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/dlNE3GYs-CU/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 17,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "dlNE3GYs-CU"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/4PjDDxZ_6Tt5vpBdpBlGv_X7zHE\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS45RTgxNDRBMzUwRjQ0MDhC",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:28:03.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Food Words Part 1 of 6 - Listen and Repeat",
-    "description": "Learn English with the \"Easy Way to English\" textbook by Maureen Kill. \r\nMore practice at: http://homepage.mac.com/nathanjschaub/abc/index.htm",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/iMKdSGbU2Rw/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/iMKdSGbU2Rw/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/iMKdSGbU2Rw/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 18,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "iMKdSGbU2Rw"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/hrlYZxJhcsApjHindaCPTGo37vU\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS5ENDU4Q0M4RDExNzM1Mjcy",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:28:08.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Food Words Part 2 of 6 - Which one?",
-    "description": "Learn English with the \"Easy Way to English\" textbook by Maureen Kill. \r\nMore practice at: http://homepage.mac.com/nathanjschaub/abc/index.htm",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/BJEh0F6ij_c/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/BJEh0F6ij_c/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/BJEh0F6ij_c/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 19,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "BJEh0F6ij_c"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/nnLBvRvktQxhJBmfVeC2i6o63pQ\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS4yMDhBMkNBNjRDMjQxQTg1",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:28:11.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Food Words Part 3 of 6 - What is this?",
-    "description": "Learn English with the \"Easy Way to English\" textbook by Maureen Kill. \r\nMore practice at: http://homepage.mac.com/nathanjschaub/abc/index.htm",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/WV6_xSY_aSw/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/WV6_xSY_aSw/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/WV6_xSY_aSw/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 20,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "WV6_xSY_aSw"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Mifq8_uVvPIfQLfW6Wo3ppdpdkI\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS5GM0Q3M0MzMzY5NTJFNTdE",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:28:28.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Food Words Part 4 of 6 - Read the Word.",
-    "description": "Learn English with the \"Easy Way to English\" textbook by Maureen Kill. \r\nMore practice at: http://homepage.mac.com/nathanjschaub/abc/index.htm",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/vq1fq5NlsQk/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/vq1fq5NlsQk/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/vq1fq5NlsQk/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 21,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "vq1fq5NlsQk"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/loQIjq_140EJwlP0a7xxLWzkjLk\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS4zRjM0MkVCRTg0MkYyQTM0",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:28:31.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Food Words Part 5 of 6 - Which one?",
-    "description": "Learn English with the \"Easy Way to English\" textbook by Maureen Kill. \r\nMore practice at: http://homepage.mac.com/nathanjschaub/abc/index.htm",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/doqYUG6FGW8/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/doqYUG6FGW8/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/doqYUG6FGW8/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 22,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "doqYUG6FGW8"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/MGrSzO185KllbDFhhpIBrxt2kq8\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS45NzUwQkI1M0UxNThBMkU0",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:28:34.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Food Words Part 6 of 6- Write the Word.",
-    "description": "Learn English with the \"Easy Way to English\" textbook by Maureen Kill. \r\nMore practice at: http://homepage.mac.com/nathanjschaub/abc/index.htm",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/CavdutOWU7A/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/CavdutOWU7A/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/CavdutOWU7A/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 23,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "CavdutOWU7A"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/gl2h-lxi0tXOCkaCw3z6ol-pKRs\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS5DNzE1RjZEMUZCMjA0RDBB",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:28:47.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Fun Food Chant! - Elf Kids Videos",
-    "description": "In this video we introduce several sentences along with 24 food cards.  This is the first time we've mixed real video footage with animated footage.  We did this because we wanted to model the chant for viewers, both children and their parents.  What do you think? :)\n\nSentences include:\n1.  I like (apples).\n2.  I want (chicken).\n3.  (Cookies) are delicious.\n4.  (Onions) are stinky.\n5.  DESCRIPTIVE SENTENCES (Light green lettuce.)\n\nClick here to Subscribe:\nhttps://www.youtube.com/user/omigrad?sub_confirmation=1\nJoin us on\nFacebook: https://www.facebook.com/elflearning\nG+: https://plus.google.com/+ELFKidsVideos\nTwitter: https://twitter.com/ELFLearning\nWebsite: https://www.elflearning.jp\n\n\nThe idea was to provide context and pattern practice for each vocabulary item.  More examples of this can be found here.\n\nAnimals - http://www.youtube.com/watch?v=lnzQq2bLs1I\nMy Town - http://www.youtube.com/watch?v=GEfYZ40cqAw ELF Learning creates learning materials for kids all over the world.  Based in Japan, we publish books, CDs, DVDs and of course...learning videos!\n\nOur videos are designed for children ages 2~10 and cover a wide range of topics.  \n\nOur song videos are a mix of original and classic children's songs.  We try hard to add the ELF touch - clear vocals, different genres and lots of cool instruments.  \n\nOur learning videos cover vocabulary, phrases and patterns perfect for the ESL and EFL classroom. \n\nMany of our videos work well with special needs children, especially those with Autistic Disorder, Speech and Language Impairments and Speech, Reading and Learning Disabilities.  We often receive emails from parents thanking us for helping their child learn to speak or read and each time it makes our day!  \n\n(You can learn more about autism at this link: http://www.autismspeaks.org/)\n\nYou can learn more about ELF Learning here:\nAlternate YouTube Page (for teachers and material support): https://www.youtube.com/user/ELFLearning\n\nELF Learning - Everyone Loves FUN Learning!",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/97RDmFzzNlY/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/97RDmFzzNlY/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/97RDmFzzNlY/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/97RDmFzzNlY/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/97RDmFzzNlY/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 24,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "97RDmFzzNlY"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/WulR495i49i-ltJgNhLECw4uu80\"",
-   "id": "UExiXzFSUnhJWlRMSXpXRi13TEhsYzJqTHBRZmhId3VpUS43MTI1NDIwOTMwQjIxMzNG",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:28:56.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "English vocabulary food with pronunciation",
-    "description": "English vocabulary food and dirinks with pronunciation",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/Ahlt83jvXIY/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/Ahlt83jvXIY/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/Ahlt83jvXIY/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/Ahlt83jvXIY/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",
-    "position": 25,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "Ahlt83jvXIY"
-    }
-   }
+  ],
+  "pageInfo": {
+    "totalResults": 17,
+    "resultsPerPage": 50
   }
- ]
 }
