@@ -1,7 +1,7 @@
 	[	
 		{	
 			"LIST_VIDEO_NAME": "ABC SONGS",
-			"LIST_VIDEO_SIZE": "16",
+			"LIST_VIDEO_SIZE": "15",
 			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcSiJScVmrg6S9ERw0DfB7V5xGYSa7RXSOkE2JwaMXa8CPesVI-Q",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLJPbQ6z64NOu9_2iWZeHkF6",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/ABC%20SONGS",	
@@ -33,7 +33,7 @@
 		},
 		{	
 			"LIST_VIDEO_NAME": "SHAP SONGS",
-			"LIST_VIDEO_SIZE": "17",
+			"LIST_VIDEO_SIZE": "16",
 			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZP88hhvSNat5Fk2ePDSBjacGza6hrb5SCD5GjeXUDug4W5t-",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLI0tClN_0kUt2LGehA0URwy",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/SHAP%20SONGS",	
