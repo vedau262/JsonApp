@@ -129,25 +129,6 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "QAeO3gw0-KdKmpvLM_YleD8I3Aw",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC41MjE1MkI0OTQ2QzJGNzNG",
-      "snippet": {
-        "publishedAt": "2014-08-13T06:39:28Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 3,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "86kYp9hpab0"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
       "etag": "E5TdRhPEqm0BZAsU9zcM9nqFKr0",
       "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
