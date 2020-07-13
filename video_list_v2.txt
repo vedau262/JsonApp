@@ -90,7 +90,7 @@
 		{	
 			"LIST_VIDEO_NAME": "CLOTHES WORDS",
 			"LIST_VIDEO_SIZE": "3",
-			"LIST_VIDEO_ICON": "https://tshop.r10s.jp/elizabethwear/cabinet/01/16-06070-1_1.jpg?fitin=128:128",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/HRLfruJ7BBQ/maxresdefault.jpg",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLJVOaBk9bRuK3I6GlOj6nyx",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/CLOTHES%20WORDS",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/ww9eea9kwc6stbj/CLOTHES%20WORDS.txt?dl=1"				
