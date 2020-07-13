@@ -1,6 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
   "etag": "BXq0O6VJyU6AIhb0gJDYTJcn1x8",
+  "pageInfo": {
+    "totalResults": 24,
+    "resultsPerPage": 50
+  },
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -134,46 +138,6 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "YSoGPslg2Vc"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "NjYXRn7_Ddw8VHnVAQerngMO07A",
-      "id": "UEx2ajlraTZJbGNDQkJrc2hicF9sNUFidlRZc1p6RUVFYS41MjE1MkI0OTQ2QzJGNzNG",
-      "snippet": {
-        "publishedAt": "2019-12-20T19:49:01Z",
-        "channelId": "UC4G6UKxl3SNgB2rel1Pnghw",
-        "title": "Clothes for Kids | Kids Short Stories for Children from Steve and Maggie | Wow English TV",
-        "description": "Steve would like to go and play outside but first he needs to find some warm clothes for kids. Steve's search continues until he finally finds his other sock and big black boots. Let's jump into this English clip for Children with Steve and Maggie. Steve repeats words such as a woolly jumper, trousers, socks, a woolly hat, a scarf, gloves and boots. HAVE FUN with this English story and watch more kids bedtime stories!\n--------------------\nVISIT: https://SteveAndMaggie.com\n.\nINSTAGRAM: https://instagram.com/SteveAndMaggieOfficial\nFACEBOOK: https://facebook.com/SteveAndMaggie \n.\nSHOP:\nSpreadShirt: https://shop.spreadshirt.co.uk/SteveAndMaggie\nTeaspring: https://teespring.com/stores/steve-and-maggie-1\n.\nAPPS FOR KIDS:\nhttps://app.steveandmaggie.com/\n.\nENGLISH TEACHING MATERIALS for kids: https://wowenglish.com\n.\nSHOUTOUTS and personalised messages via: https://cameo.com/steveandmaggieofficial\n.\nSONGS FOR KIDS:\niTunes: https://itun.es/gb/i_oMcb\nSpotify: https://spoti.fi/2hlcWya\n.\nSupport us and receive a personalised birthday message for your child from Steve.\nPatreon: https://patreon.com/steveandmaggie\n--------------------\nProduced by © Wattsenglish Ltd. ©\nhttps://wattsenglish.com/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/T4h41CgIGwc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/T4h41CgIGwc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/T4h41CgIGwc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/T4h41CgIGwc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Angel & Atieno Figueroa",
-        "playlistId": "PLvj9ki6IlcCBBkshbp_l5AbvTYsZzEEEa",
-        "position": 3,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "T4h41CgIGwc"
         }
       }
     },
@@ -1052,9 +1016,5 @@
         }
       }
     }
-  ],
-  "pageInfo": {
-    "totalResults": 24,
-    "resultsPerPage": 50
-  }
+  ]
 }
