@@ -57,7 +57,7 @@
 		},
 		{	
 			"LIST_VIDEO_NAME": "VEGETABLE SONGS",
-			"LIST_VIDEO_SIZE": "5",
+			"LIST_VIDEO_SIZE": "23",
 			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ZBU6A1aikumcD4OEpe6YVG5HP9za0C1gyS_iOayPwdxK2CA6Xw",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLIDdXgvUD6OeAcZyvVI6Mnb",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/VEGETABLE%20SONGS",	
@@ -81,16 +81,16 @@
 		},
 		{	
 			"LIST_VIDEO_NAME": "MONTH SONGS",
-			"LIST_VIDEO_SIZE": "7",
+			"LIST_VIDEO_SIZE": "15",
 			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqNRG2AObgMf7kCXPfu_zoZD7C3COmFdUJvZ0aeLZRhxJSFUfx",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/MONTH%20SONGS",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/khqgk6zhm27r3xd/MONTH%20SONGS.txt?dl=1"		
 		},
 		{	
-			"LIST_VIDEO_NAME": "CLOTHES WORDS",
-			"LIST_VIDEO_SIZE": "3",
-			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/HRLfruJ7BBQ/maxresdefault.jpg",
+			"LIST_VIDEO_NAME": "CLOTHES SONGS FOR TODDLERS",
+			"LIST_VIDEO_SIZE": "20",
+			"LIST_VIDEO_ICON": "https://i.pinimg.com/474x/fb/12/bc/fb12bc463cb2032b3df944d6ab9067be.jpg",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLJVOaBk9bRuK3I6GlOj6nyx",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/CLOTHES%20WORDS",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/ww9eea9kwc6stbj/CLOTHES%20WORDS.txt?dl=1"				
