@@ -1,7 +1,7 @@
 	[	
 		{	
 			"LIST_VIDEO_NAME": "ABC SONGS",
-			"LIST_VIDEO_SIZE": "15",
+			"LIST_VIDEO_SIZE": "14",
 			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcSiJScVmrg6S9ERw0DfB7V5xGYSa7RXSOkE2JwaMXa8CPesVI-Q",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLJPbQ6z64NOu9_2iWZeHkF6",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/ABC%20SONGS",	
@@ -153,7 +153,7 @@
 		},
 		{	
 			"LIST_VIDEO_NAME": "ART and LEARN",
-			"LIST_VIDEO_SIZE": "50",
+			"LIST_VIDEO_SIZE": "41",
 			"LIST_VIDEO_ICON": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/34/dc/c6/34dcc63d-c56c-6012-50c0-76309fc8e1c9/source/256x256bb.jpg",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLLulT06FshY6vQPzkpj2LVh",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/ART%20and%20LEARN",	
