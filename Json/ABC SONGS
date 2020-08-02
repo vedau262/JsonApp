@@ -54,7 +54,7 @@
       "snippet": {
         "publishedAt": "2019-10-05T12:25:04Z",
         "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-        "title": "ABC Songs for Kids | A to Z (Uppercase) | Super Simple ABCs\u200b",
+        "title": "ABC Songs for Kids | A to Z (Uppercase) | Super Simple ABCs?",
         "description": "More great Super Simple videos in the Super Simple App for iOS ? http://apple.co/2nW5hPd\nIt's the ABC Song plus a whole lot more. Enjoy this collection of ABC songs for kids from Super Simple ABCs. Includes hello and goodbye songs, The Super Simple Alphabet Song, The Phonics Alphabet Song, 26 letter songs, and alphabet review songs. Set to the tunes of familiar nursery rhymes, the 26 letter songs introduce young learners to the sounds of the alphabet in a simple and fun way. \n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\n\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n? SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n? DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n? YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n? AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n? KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n? PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n*****\nSuper Simple Songs®, Super Simple Learning®, and Super Simple ABCs® are registered trademarks of Super Simple Learning, Inc.",
         "thumbnails": {
           "default": {
@@ -449,51 +449,6 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "hq3yfQnllfQ"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "afC5UsfsfwZ8BvWOMVhA7-qRW1w",
-      "id": "UExiXzFSUnhJWlRMSlBiUTZ6NjROT3U5XzJpV1plSGtGNi45ODRDNTg0QjA4NkFBNkQy",
-      "snippet": {
-        "publishedAt": "2019-10-05T12:28:30Z",
-        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-        "title": "Phonics Song with TWO Words - Cartoon Animation Nursery Rhymes & Phonics Songs for Children",
-        "description": "Here comes a NEW ABC \"Phonics\" song from ChuChuTV. \n\nThis animated phonics song will help children learn the sounds of the letters in the English alphabets. This colorful phonics song also teaches two words per alphabet letter.\n\nFacebook - https://www.facebook.com/chuchutv\nTwitter - https://twitter.com/TheChuChuTV\nGoogle+ - https://plus.google.com/u/0/112211188590597855240/posts\n\n============================================\nMusic and Lyrics: Copyright 2016 ChuChu TV™ Studios\nVideo: Copyright 2016 ChuChu TV™ Studios\n============================================",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ZVveMgtxdwY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ZVveMgtxdwY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZVveMgtxdwY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ZVveMgtxdwY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ZVveMgtxdwY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Kid Video",
-        "playlistId": "PLb_1RRxIZTLJPbQ6z64NOu9_2iWZeHkF6",
-        "position": 10,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "ZVveMgtxdwY"
         }
       }
     },
