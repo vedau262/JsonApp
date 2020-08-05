@@ -121,8 +121,8 @@
 		},
 		{	
 			"LIST_VIDEO_NAME": "Mix - Our Favorite Christmas Songs for Kids",
-			"LIST_VIDEO_SIZE": "24",
-			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpgz8ILMQ2dZamqSWoXve6CqaoFnoBu4ZGvPpGRAv_NWXap7m&s",
+			"LIST_VIDEO_SIZE": "23",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/tbbKjDjMDok/maxresdefault.jpg",
 			"LIST_VIDEO_ID": "RDgrhi8MLM1i8",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Mix%20-%20Our%20Favorite%20Christmas%20Songs%20for%20Kids",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/za4c0uv7xupkk6q/Mix%20-%20Our%20Favorite%20Christmas%20Songs%20for%20Kids.txt?dl=1"			
