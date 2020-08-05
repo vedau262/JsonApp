@@ -1,10 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/s_FmvJMbP6rUE7i3ZhJdw39EQ7k\"",
-  "pageInfo": {
-    "totalResults": 26,
-    "resultsPerPage": 50
-  },
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -548,51 +544,6 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/EHTcC22HNUVvKB0ZyErClWPWnac\"",
-      "id": "UkRncmhpOE1MTTFpOC5QSXBYd1k2RlYzaw==",
-      "snippet": {
-        "publishedAt": "2017-12-04T14:50:41.000Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Frosty The Snowman Song | Christmas Songs for Kids",
-        "description": "Get Festive With some Christmas Movies the Family will love here:\nhttps://bit.ly/2oAsQ0b\n\nFrosty the Snowman is a 1969 animated Christmas television special based on the song \"Frosty the Snowman\". ? Subscribe For More Retro Cartoons  http://bit.ly/2fwvfRH\n\nHappy holidays and enjoy Frosty the Snowman 1969 in HD 1080p\n\n? Christmas Favourites by Retro Cartoons: http://bit.ly/2AqxfGK\n\n? Halloween Videos for Kids: http://bit.ly/2AZUE2A\n\n? Opening Theme Songs for Kids: http://bit.ly/2zOIhCq\n\n? Ghostbusters Full Episodes for Kids : http://bit.ly/2zRa70V\n\n???? Frosty the Snowman Song Lyrics ????\n\nFrosty the Snowman\nWas a jolly happy soul\nWith a corncob pipe and a button nose\nAnd two eyes made out of coal\nFrosty the Snowman\nIs a fairytale they say\nHe was made of snow\nBut the children know\nHow he came to life one day\nThere must have been some magic\nIn that old silk hat they found\nFor when they placed it on his head\nHe began to dance around\nFrosty the Snowman\nWas alive as he could be\nAnd the children say\nHe could laugh and play\nJust the same as you and me\nFrosty the Snowman\nKnew the sun was hot that day\nSo he said let's run\nAnd we'll have some fun\nNow before I melt away\nDown to the village\nWith a broomstick in his hand\nRunning here and there all around the square\nSaying catch me if you can\nHe led them down the streets of town\nRight to the traffic cop\nAnd he only paused a moment when\nHe heard him holler stop\nFrosty the Snowman\nHad to hurry on his way\nBut he waved goodbye\nSaying don't you cry\nI'll be back again some day\nThumpety thump thump\nThumpety thump thump\nLook at Frosty go\nThumpety thump thump\nThumpety thump thump\nOver the hills of snow\n\nOn Christmas Eve, a terrible magician named Professor Hinkle is called to the schoolhouse to perform for the class Christmas party, but fails. After, the children go out to play in the snow where they build a snowman and name him Frosty. Suddenly, Hinkle's rabbit, Hocus Pocus, hops outside and a gust of wind blows the hat onto Frosty, bringing him to life, delighting the children, but Hinkle, after discovering this as well, takes it back after the wind blows it off Frosty's head. The other children object, but he tells them that when they grow up, they'll learn that snowmen can't come to life and leaves.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/PIpXwY6FV3k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/PIpXwY6FV3k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/PIpXwY6FV3k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/PIpXwY6FV3k/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/PIpXwY6FV3k/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "YouTube",
-        "playlistId": "RDgrhi8MLM1i8",
-        "position": 13,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "PIpXwY6FV3k"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
       "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/FWAssxEGOBqketAkef0T9JDb74s\"",
       "id": "UkRncmhpOE1MTTFpOC5fNkh6b1VjeDNlbw==",
       "snippet": {
@@ -1086,5 +1037,9 @@
         }
       }
     }
-  ]
+  ],
+  "pageInfo": {
+    "totalResults": 26,
+    "resultsPerPage": 50
+  }
 }
