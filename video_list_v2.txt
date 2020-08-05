@@ -41,7 +41,7 @@
 		},
 		{	
 			"LIST_VIDEO_NAME": "VEHICLE SONGS",
-			"LIST_VIDEO_SIZE": "27",
+			"LIST_VIDEO_SIZE": "26",
 			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_0PMnPNF8VZDOcqeY9DQ_w6gsKphkuIf1yPHqXY7Bj7Hrb0N",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLIoEerg9BgVUKMMJjjDIi0j",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/VEHICLE%20SONGS",	
