@@ -148,7 +148,7 @@
 			"LIST_VIDEO_SIZE": "17",
 			"LIST_VIDEO_ICON": "https://is5-ssl.mzstatic.com/image/thumb/Purple6/v4/fb/13/2c/fb132cd1-d891-7bb3-94b7-2909ce1110ec/source/256x256bb.jpg",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLKRVb7KQfDZShlQuEVD-FMC",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/BabyBus%20%7C%20Halloween%20Songs",	
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/BabyBusHalloweenSong",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/uyu0bgumfymqe8l/BabyBus%20_%20Halloween%20Songs.txt?dl=1"			
 		},
 		{	
