@@ -8,10 +8,14 @@
 	"interstitial_full_screen_id":"Y2EtYXBwLXB1Yi0zNzU5MDU3ODIzMTM2NTIyLzkwODg4OTcwOTY=",
 	"native_ads_id":"ca-app-pub-3759057823136522/5810194699",
 	"m_interstitial_frame_show":"20",
-	"s_had_fan_banner":"true",
-	"s_had_fan_interstitial":"true",
+	"s_had_fan_banner":"false",
+	"s_had_fan_interstitial":"false",
 	"fan_banner_ad_unit_id":"452552711767291_718640165158543",
 	"fan_interstitial_full_screen_id":"452552711767291_718641458491747",
 	"s_had_startpp_banner":"false",
-	"s_had_startpp_interstitial":"false"
+	"s_had_startpp_interstitial":"false",
+	"s_had_inmobi_banner":"true",
+	"s_had_inmobi_interstitial":"true",
+	"inmobi_banner_ad_unit_id":"1604697456085L",
+	"inmobi_interstitial_full_screen_id":"1603951571797L"
 }
