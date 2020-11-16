@@ -162,7 +162,7 @@
 		{	
 			"LIST_VIDEO_NAME": "Learn to Count the Little Ducks",
 			"LIST_VIDEO_SIZE": "20",
-			"LIST_VIDEO_ICON": "https://i.pinimg.com/originals/0e/54/55/0e545543cfdf03ecf3492945f7561f65.jpg",
+			"LIST_VIDEO_ICON": "https://image.slidesharecdn.com/176bf851-18e0-4c74-9065-18ea43c617a7-160513080256/95/finding-little-ducks-2-638.jpg?cb=1463126626",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/Learn%20to%20Count%20the%20Little%20Ducks",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/ufxetwsl4c4rl3q/Learn%20to%20Count%20the%20Little%20Ducks?dl=1"			
