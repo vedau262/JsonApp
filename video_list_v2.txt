@@ -25,7 +25,7 @@
 		},
 		{	
 			"LIST_VIDEO_NAME": "ANIMAL SONGS",
-			"LIST_VIDEO_SIZE": "28",
+			"LIST_VIDEO_SIZE": "27",
 			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDecNIOVBfjx3KlLna5Os3AKAgw_gqsiWeim03ZxbAqZ55eG2R",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLIqr0LNmKW5n3l67hx7BTCk",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/ANIMAL%20SONGS",	
