@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "QW12TmqO4AmaBouF_uh4oWRsNU4",
+  "etag": "CdxIw6g21J86kW-4rBPWiExjYtc",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "j7j_DgtSw_5-sMz3fMmyT-IIrdE",
+      "etag": "-cYqGGYoh24x6dYRU0-cR0oMWHA",
       "id": "UExiXzFSUnhJWlRMSXM2dlhiaWlkY0p2ZDVLNDdmWFRIMy41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2019-10-05T13:09:24Z",
@@ -44,18 +44,20 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "mXMofxtDPUQ"
-        }
+        },
+        "videoOwnerChannelTitle": "The Singing Walrus - English Songs For Kids",
+        "videoOwnerChannelId": "UCe1VpF4wS_kdcjyTRSXBcnQ"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "GIc8XaLf6NYZdgzv4EGW5TTLfFA",
+      "etag": "caToXCqnPe_XMoKYoiaryyudWAo",
       "id": "UExiXzFSUnhJWlRMSXM2dlhiaWlkY0p2ZDVLNDdmWFRIMy4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2019-10-05T13:09:46Z",
         "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
         "title": "Days of the Week: Sunday to Saturday with Calendar Crayons",
-        "description": "Learn days of the week, Sunday to Saturday, with Calendar Crayons. Want Monday to Sunday instead? Watch here: https://www.youtube.com/watch?v=rp6hSSaiZYM\n\nAlso learn months of the year in this calendar lesson:\nhttps://www.youtube.com/watch?v=IphpjyuAY9U",
+        "description": "Learn days of the week, Sunday to Saturday, with Calendar Crayons. \n\nAlso learn months of the year in this calendar lesson:\nhttps://www.youtube.com/watch?v=IphpjyuAY9U",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/x3ObBlainqw/default.jpg",
@@ -89,63 +91,20 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "x3ObBlainqw"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "lrIRAwFm42f5Zfu7J-ciw45YEE8",
-      "id": "UExiXzFSUnhJWlRMSXM2dlhiaWlkY0p2ZDVLNDdmWFRIMy41MjE1MkI0OTQ2QzJGNzNG",
-      "snippet": {
-        "publishedAt": "2019-10-05T13:09:53Z",
-        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-        "title": "Learn/Teach Days of the Week Song, Alphabets, Colors, Numbers Nursery Rhymes for Kids | ChuChu TV",
-        "description": "Make your children learn, Days of the Week Song, Alphabets, Colors, Numbers Nursery Rhymes for Kids | ChuChu TV\n00:07 Days of the week Song\n02:28 Bingo Dog Song\n05:07 Blue Color Song\n07:10 Three little kittens went out to eat\n09:47 Numbers Song 1-20\n14:48 Orange Colors Song\n16:55 Three Little Kittens Went to Rio\n20:27 Let's learn the colours\n23:01 One two buckle my shoe\n25:02 Yellow Color Song\n27:07 ABC Alpohabet Song\n29:34 Wheels on the bus - New York \n32:02 Purple Color Song\n34:08 Five little fingers\n37:37 Head shoulders exercise song\n39:30 Red Color Song\n41:46 ABC Phonics Song\n45:35 Five little Monkeys - Part 3\n48:25 Brush Your Teeth\n51:09 Green Color Song\n53:13 Finger Family Song\n58:39 Let's Play in the park\n1:01:10 Ten In The Bed\n\n============================================\nMusic and Lyrics: Copyright 2016 ChuChu TV™ Studios\nVideo: Copyright 2016 ChuChu TV™ Studios\n============================================",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/js7rsiq-Gfo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/js7rsiq-Gfo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/js7rsiq-Gfo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/js7rsiq-Gfo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/js7rsiq-Gfo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
         },
-        "channelTitle": "Kid Video",
-        "playlistId": "PLb_1RRxIZTLIs6vXbiidcJvd5K47fXTH3",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "js7rsiq-Gfo"
-        }
+        "videoOwnerChannelTitle": "Teeter Taught Animation | Learning for Children",
+        "videoOwnerChannelId": "UCGuiLc4BvsEpq5CsbvlHpdg"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "HDuos87yR7D5z88uhHVieYRhm20",
+      "etag": "hwoT5lY05LYKsyD1cktev2g28Wk",
       "id": "UExiXzFSUnhJWlRMSXM2dlhiaWlkY0p2ZDVLNDdmWFRIMy4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2019-10-05T13:10:00Z",
         "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-        "title": "The 7 Days of the Week Song ? 7 Days of the Week Calendar Song ? Kids Songs by The Learning Station",
-        "description": "The 7 Days of the Week Song is one of our popular songs for children by The Learning Station. It is from the CD,download, \"Preschool Learning Fun\"\nDownload \"Preschool Learning Fun\" CD: http://store.learningstationmusic.com/preschoollearningfun.aspx\n\nThe 7 Days of the Week Song\nFrom the CD, Preschool Learning Fun\nBy The Learning Station  (Also, know as Learning Station)                                                             \n?©Monopoli/The Learning Station \nLyrics:\nSunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday -- Seven days are in a week.\nI like to sing them quiet.\nSunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday -- Seven days are in week.\nI like to sing them loud.\nSunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday -- Seven days are in week. I like to clap them out. \n(Clap with each one) Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday -- Seven days are in week. I like to stomp them out.\n(Stomp sound for each one) Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday -- Seven days are in week. I sing them proud.\nSunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday -- Seven days are in week.\nI like to sing again. Seven days are in a week. \nI like it one more time.  Seven days are in a week. \n\nThe Seven Days of the Week Song animation by The Learning Station (Also, known as Learning Station)\n \nChildren will learn the seven days of the week with this play along activity song that makes learning fun. \"The 7 Days of the Week Song\" by The Learning Station enhances word recognition, vocabulary, comprehension, memory and recall. This song is ideal for toddlers, preschoolers and lower elementary age kids.\n\n? The 7 Days of the Week Song by The Learning Station,  kids songs Illustrations/animation by the renowned Corbett Vanoni: https://www.instagram.com/corbettvanoniart/\n\nVisit The Learning Station: https://www.learningstationmusic.com/\nVisit our store!  CD's, CD Downloads, DVD's, Tee shirts & more: https://www.learningstationmusic.com/shop/\n\nSTAY IN TOUCH WITH US \nFacebook: http://www.facebook.com/LearningStationMusic\nTwitter: https://twitter.com/LearningStation\nPinterest: http://pinterest.com/kidssong/\nBlog: http://www.learningstationmusic.com/blog/\nGoogle+: https://plus.google.com/+Learningstationmusic\n\n* FREE STUFF *\nSign-up for our FREE newsletter: http://learningstationmusic.com/newsletter.html\nFREE printable activities: http://learningstationmusic.com/printablehandouts.html\n\nTHE LEARNING STATION is a multi-award-winning children's group. With combined backgrounds and degrees in early childhood education, child development and music, this trio, has achieved international stature as leaders in the children's educational music industry. They presently have a collection of 29 award-winning audio and video releases and they have published over 350 children's songs that are part of educational curriculum's world-wide. They are widely recognized for their international hit song, \"Tony Chestnut\".\nTo learn more visit: https://www.learningstationmusic.com/\n\n#TheSevenDaysofTheWeek #7DaysofTheWeek #TheLearningStation #NotificationSquad #LearningStation #daysoftheweeksong,\n\nhttp://www.youtube.com/user/thelearningstation",
+        "title": "The 7 Days of the Week Song ♫ 7 Days of the Week Calendar Song ♫ Kids Songs by The Learning Station",
+        "description": "The 7 Days of the Week Song is one of our popular songs for children by The Learning Station. It is from the CD,download, \"Preschool Learning Fun\"\nDownload \"Preschool Learning Fun\" CD: http://store.learningstationmusic.com/preschoollearningfun.aspx\n\nThe 7 Days of the Week Song\nFrom the CD, Preschool Learning Fun\nBy The Learning Station  (Also, know as Learning Station)                                                             \n℗©Monopoli/The Learning Station \nLyrics:\nSunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday -- Seven days are in a week.\nI like to sing them quiet.\nSunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday -- Seven days are in week.\nI like to sing them loud.\nSunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday -- Seven days are in week. I like to clap them out. \n(Clap with each one) Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday -- Seven days are in week. I like to stomp them out.\n(Stomp sound for each one) Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday -- Seven days are in week. I sing them proud.\nSunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday -- Seven days are in week.\nI like to sing again. Seven days are in a week. \nI like it one more time.  Seven days are in a week. \n\nThe Seven Days of the Week Song animation by The Learning Station (Also, known as Learning Station)\n \nChildren will learn the seven days of the week with this play along activity song that makes learning fun. \"The 7 Days of the Week Song\" by The Learning Station enhances word recognition, vocabulary, comprehension, memory and recall. This song is ideal for toddlers, preschoolers and lower elementary age kids.\n\n❤ The 7 Days of the Week Song by The Learning Station,  kids songs Illustrations/animation by the renowned Corbett Vanoni: https://www.instagram.com/corbettvanoniart/\n\nVisit The Learning Station: https://www.learningstationmusic.com/\nVisit our store!  CD's, CD Downloads, DVD's, Tee shirts & more: https://www.learningstationmusic.com/shop/\n\nSTAY IN TOUCH WITH US \nFacebook: http://www.facebook.com/LearningStationMusic\nTwitter: https://twitter.com/LearningStation\nPinterest: http://pinterest.com/kidssong/\nBlog: http://www.learningstationmusic.com/blog/\nGoogle+: https://plus.google.com/+Learningstationmusic\n\n* FREE STUFF *\nSign-up for our FREE newsletter: http://learningstationmusic.com/newsletter.html\nFREE printable activities: http://learningstationmusic.com/printablehandouts.html\n\nTHE LEARNING STATION is a multi-award-winning children's group. With combined backgrounds and degrees in early childhood education, child development and music, this trio, has achieved international stature as leaders in the children's educational music industry. They presently have a collection of 29 award-winning audio and video releases and they have published over 350 children's songs that are part of educational curriculum's world-wide. They are widely recognized for their international hit song, \"Tony Chestnut\".\nTo learn more visit: https://www.learningstationmusic.com/\n\n#TheSevenDaysofTheWeek #7DaysofTheWeek #TheLearningStation #NotificationSquad #LearningStation #daysoftheweeksong,\n\nhttp://www.youtube.com/user/thelearningstation",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/LIQsyHoLudQ/default.jpg",
@@ -175,16 +134,18 @@
         },
         "channelTitle": "Kid Video",
         "playlistId": "PLb_1RRxIZTLIs6vXbiidcJvd5K47fXTH3",
-        "position": 3,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "LIQsyHoLudQ"
-        }
+        },
+        "videoOwnerChannelTitle": "TheLearningStation - Kids Songs and Nursery Rhymes",
+        "videoOwnerChannelId": "UC4Hdb26_xnPQsntwLazMqYw"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "bbkGLDJCC-TQXwK_EwtWQwRGvYI",
+      "etag": "a7k1BY4hQ_Tb_s2ngeZJ2yGqlFY",
       "id": "UExiXzFSUnhJWlRMSXM2dlhiaWlkY0p2ZDVLNDdmWFRIMy41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2019-10-05T13:10:09Z",
@@ -220,61 +181,18 @@
         },
         "channelTitle": "Kid Video",
         "playlistId": "PLb_1RRxIZTLIs6vXbiidcJvd5K47fXTH3",
-        "position": 4,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Nk5EUUnm7rc"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "iZXMgnCFzwge0PxrJxRrR7fpwI8",
-      "id": "UExiXzFSUnhJWlRMSXM2dlhiaWlkY0p2ZDVLNDdmWFRIMy45NDk1REZENzhEMzU5MDQz",
-      "snippet": {
-        "publishedAt": "2019-10-05T13:10:37Z",
-        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-        "title": "Thursday Song For Kids",
-        "description": "Thursday Song! Throw the ball, Thursday! A fun song for kids! DreamEnglish.com\nDownload an mp3 of this song for free: http://www.dreamenglish.com/weekdaysongs\nOriginal Song by Matt\nLyrics: Thursday, Thursday, I'm so happy it's Thursday (repeat)\nThrow, throw, throw the ball, Thursday\nT-h-u-r-s-d-a-y Thursday. Today is Thursday!\n\nSupport Dream English, please have a look at what we have to offer:\n\nBest of Kids Songs Volume 1 on iTunes (great for car rides!)\nhttp://bit.ly/yG4Tfu\nBest of Kids Songs Volume 2 on iTunes:\nhttp://goo.gl/ae9tU\n\nKids Songs in English iPhone App:\nhttp://bit.ly/rGu7lc\nKids Songs in English HD iPad App:\nhttp://bit.ly/Aqx0Sf\nKids Songs in English 2 HD iPad App:\nhttp://bit.ly/zcmU6Y\n\nMath Songs App: Search Math Songs Times Tables in your App store.\nMath Songs Times Tables iPad 1x-6x\nhttp://itunes.apple.com/us/app/math-songs-times-tables-1x/id529051478?mt=8\nMath Songs Times Tables iPad 6x-12x\nhttp://itunes.apple.com/us/app/math-songs-times-tables-7x-12x/id529052194?mt=8",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/IGENkpaPkgw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/IGENkpaPkgw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/IGENkpaPkgw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/IGENkpaPkgw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/IGENkpaPkgw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
         },
-        "channelTitle": "Kid Video",
-        "playlistId": "PLb_1RRxIZTLIs6vXbiidcJvd5K47fXTH3",
-        "position": 5,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "IGENkpaPkgw"
-        }
+        "videoOwnerChannelTitle": "Dream English Kids",
+        "videoOwnerChannelId": "UC6LKuH7RPkvRmzS9-8URtqA"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "pHyVHRdSvGDM3R3yJa33Kp6P0zM",
+      "etag": "-6JLB_la4iFmatjqSo1jd9Vpo1Q",
       "id": "UExiXzFSUnhJWlRMSXM2dlhiaWlkY0p2ZDVLNDdmWFRIMy45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2019-10-05T13:10:51Z",
@@ -310,22 +228,24 @@
         },
         "channelTitle": "Kid Video",
         "playlistId": "PLb_1RRxIZTLIs6vXbiidcJvd5K47fXTH3",
-        "position": 6,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Kn10KjT_OMo"
-        }
+        },
+        "videoOwnerChannelTitle": "Dream English Kids",
+        "videoOwnerChannelId": "UC6LKuH7RPkvRmzS9-8URtqA"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "RUtkHdoDviDnsoftwlWHWYUCWcA",
+      "etag": "V5GRoGN4cv-Y4YCNxhvE6U1kQKk",
       "id": "UExiXzFSUnhJWlRMSXM2dlhiaWlkY0p2ZDVLNDdmWFRIMy4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
         "publishedAt": "2019-10-05T13:11:10Z",
         "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
         "title": "Days Of The Week + More | Nursery Rhymes Collection | Super Simple Songs",
-        "description": "Watch videos from Super Simple in the Super Simple App for iOS! ? http://apple.co/2nW5hPd\n\n??Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday.\n?? Watch 60 minutes of our greatest hits here? https://youtu.be/wk4KHNJjpjQ?\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\n\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n? SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n? DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n? YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n? AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n? KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n? PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n******\nSong List: \nDays Of The Week - 0:00:07\nOne Little Finger - 0:01:16\nWalking Walking - 0:03:29\nSeven Steps - 0:05:03\nIf You’re Happy - 0:06:59\nFive Little Monkeys - 0:08:51\nCounting Bananas - 0:10:56\nBINGO - 0:12:21\nOpen Shut Them - 0:;15:07\nWho Took The Cookie? - 0:17:31\nRow Row Row Your Boat - 0:19:29\nDo You Like Spaghetti Yogurt? - 0:21:23\nClean Up! - 0:23:50\nMary Had A Kangaroo - 0:25:24\nThe Months Chant - 0:28:06\nRock Scissors Paper Fingerplay #1 - 0:30:22\nThe Pinocchio - 0:32:07\nTwinkle Twinkle Little Star -  0:35:16\nThe Itsy Bitsy Spider - 0:37:45\nI See Something Blue - 0:39:48\nHead Shoulders Knees And Toes (Speeding Up) - 0:42:38\nCount Down And Move - 0:44:26\nHow’s The Weather? - 0:45:36\nThe Shape Song #2 - 0:47:26\nLet’s Go To The Zoo - 0:51:31\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company.",
+        "description": "Watch videos from Super Simple in the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\n🎶Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday.\n🎬 Watch 60 minutes of our greatest hits here→ https://youtu.be/wk4KHNJjpjQ?\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\n\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n******\nSong List: \nDays Of The Week - 0:00:07\nOne Little Finger - 0:01:16\nWalking Walking - 0:03:29\nSeven Steps - 0:05:03\nIf You’re Happy - 0:06:59\nFive Little Monkeys - 0:08:51\nCounting Bananas - 0:10:56\nBINGO - 0:12:21\nOpen Shut Them - 0:;15:07\nWho Took The Cookie? - 0:17:31\nRow Row Row Your Boat - 0:19:29\nDo You Like Spaghetti Yogurt? - 0:21:23\nClean Up! - 0:23:50\nMary Had A Kangaroo - 0:25:24\nThe Months Chant - 0:28:06\nRock Scissors Paper Fingerplay #1 - 0:30:22\nThe Pinocchio - 0:32:07\nTwinkle Twinkle Little Star -  0:35:16\nThe Itsy Bitsy Spider - 0:37:45\nI See Something Blue - 0:39:48\nHead Shoulders Knees And Toes (Speeding Up) - 0:42:38\nCount Down And Move - 0:44:26\nHow’s The Weather? - 0:45:36\nThe Shape Song #2 - 0:47:26\nLet’s Go To The Zoo - 0:51:31\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company.",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/eiE7MLBe4es/default.jpg",
@@ -355,22 +275,24 @@
         },
         "channelTitle": "Kid Video",
         "playlistId": "PLb_1RRxIZTLIs6vXbiidcJvd5K47fXTH3",
-        "position": 7,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "eiE7MLBe4es"
-        }
+        },
+        "videoOwnerChannelTitle": "Super Simple Songs - Kids Songs",
+        "videoOwnerChannelId": "UCLsooMJoIpl_7ux2jvdPB-Q"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "bFJmK8Ug_O54VjuVrGopWmTcph4",
+      "etag": "6Wzd6qp6J8-TE6-jGtYMRqyVuvE",
       "id": "UExiXzFSUnhJWlRMSXM2dlhiaWlkY0p2ZDVLNDdmWFRIMy41Mzk2QTAxMTkzNDk4MDhF",
       "snippet": {
         "publishedAt": "2019-10-05T13:20:04Z",
         "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
         "title": "Days of the Week Song | Teach Days of the Week ESL | The Kiboomers",
-        "description": "The Kiboomers! Learn the Days of the Week: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday with the Days of the Week song.\n?Get this song on iTunes: https://itunes.apple.com/us/album/top-30-award-winning-preschool/id383410251\nWatch our 'Days of the Week song' video and learn the days!\n\n*******\n7 DAYS OF THE WEEK SONG LYRICS\n\nThere are 7 days in a week.\nWon't you name them all with me.\n\nSunday\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\n\nWhy don't you try the days along with me?\n\nSunday\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\n\nDo you know what day it is today?\n\nThere are 7 days in a week.\nWon't you name them all with me.\n\nSunday\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\n\nAnd, those are the days of the week.\n\n*****\nSong: Teddy Bear Songs for Kids (Circle Time Songs for Children)\nMusic: The Kiboomers\nAnimation: Quack Quack Design\nVocals: Ellie Moss and Christopher Pennington",
+        "description": "The Kiboomers! Learn the Days of the Week: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday with the Days of the Week song.\n★Get this song on iTunes: https://itunes.apple.com/us/album/top-30-award-winning-preschool/id383410251\nWatch our 'Days of the Week song' video and learn the days!\n\n*******\n7 DAYS OF THE WEEK SONG LYRICS\n\nThere are 7 days in a week.\nWon't you name them all with me.\n\nSunday\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\n\nWhy don't you try the days along with me?\n\nSunday\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\n\nDo you know what day it is today?\n\nThere are 7 days in a week.\nWon't you name them all with me.\n\nSunday\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\n\nAnd, those are the days of the week.\n\n*****\nSong: Teddy Bear Songs for Kids (Circle Time Songs for Children)\nMusic: The Kiboomers\nAnimation: Quack Quack Design\nVocals: Ellie Moss and Christopher Pennington",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/epdshFIcYKQ/default.jpg",
@@ -400,16 +322,18 @@
         },
         "channelTitle": "Kid Video",
         "playlistId": "PLb_1RRxIZTLIs6vXbiidcJvd5K47fXTH3",
-        "position": 8,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "epdshFIcYKQ"
-        }
+        },
+        "videoOwnerChannelTitle": "The Kiboomers - Kids Music Channel",
+        "videoOwnerChannelId": "UCLy6-72NzYpFztbJ7jNEMkg"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_FTabAQiRjda3Mclt_b-9cv4fqw",
+      "etag": "Q8_faICHXEfphYobQzXqepe6GQQ",
       "id": "UExiXzFSUnhJWlRMSXM2dlhiaWlkY0p2ZDVLNDdmWFRIMy5EQUE1NTFDRjcwMDg0NEMz",
       "snippet": {
         "publishedAt": "2019-10-05T13:20:16Z",
@@ -445,16 +369,18 @@
         },
         "channelTitle": "Kid Video",
         "playlistId": "PLb_1RRxIZTLIs6vXbiidcJvd5K47fXTH3",
-        "position": 9,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "V1lm3u9cFEw"
-        }
+        },
+        "videoOwnerChannelTitle": "ABCmouse.com Early Learning Academy",
+        "videoOwnerChannelId": "UCPvEbO2bI5x1MVLUuRJoZXg"
       }
     }
   ],
   "pageInfo": {
-    "totalResults": 10,
+    "totalResults": 8,
     "resultsPerPage": 50
   }
 }

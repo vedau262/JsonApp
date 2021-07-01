@@ -1,910 +1,480 @@
 {
- "kind": "youtube#playlistItemListResponse",
- "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/zylSpBA6Ufx49oJ7_2FClX_6B2o\"",
- "pageInfo": {
-  "totalResults": 20,
-  "resultsPerPage": 50
- },
- "items": [
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qi0OXKWyipaDhewMhQT0TNuNj9k\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC41NkI0NEY2RDEwNTU3Q0M2",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:47:12.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "The More We Get Together | Kids Songs | Super Simple Songs",
-    "description": "More great Super Simple videos in the Super Simple App for iOS ► http://apple.co/2nW5hPd\n\nSing along with this classic friendship song for kids; \"The More We Get Together\"! 🎶 The more we get together, together, together. The more we get together the happier we'll be. 🎶\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\n\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n\nLYRICS:\nThe more we get together, together, together.\nThe more we get together the happier we'll be.\nCause your friends are my friends.\nAnd my friends are your friends.\nThe more we get together the happier we'll be.\n\nI’m your friend.\nYou’re my friend.\nHe’s my friend.\nShe’s my friend.\n\nThe more we get together, together, together.\nThe more we get together the happier we'll be.\nCause your friends are my friends.\nAnd my friends are your friends.\nThe more we get together the happier we'll be.\n\nI’m your friend.\nYou’re my friend.\nThey’re my friends.\nWe’re all friends.\n\nThe more we get together, together, together.\nThe more we get together the happier we'll be.\nCause your friends are my friends.\nAnd my friends are your friends.\nThe more we get together the happier we'll be.\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company.\n\n#nurseryrhymes #kidssongs #childrensmusic #supersimplesongs",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/SpzLA-w1I8s/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/SpzLA-w1I8s/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/SpzLA-w1I8s/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/SpzLA-w1I8s/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/SpzLA-w1I8s/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "oyPM8hkFLgE3KrnSfzKYYAZ8ZZw",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RzCwqCZ4u2T0DVh9gUGQpIWJdHM",
+      "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:47:57Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Wheels on the Bus - Nursery Rhymes and Kids Songs",
+        "description": "It's the classic children's nursery rhyme The Wheels on the Bus. Get the whole family together and dance along with Bounce Patrol as we explore a town made out of toys! Can you do the hand actions like us? Come on ride the bus with us! The wheels on the bus go round and round..... ????\n\nWatch with no ads - Get the Bounce Patrol App!\n?? http://bit.ly/BouncePatrolApp\n*Stream videos with NO ADS\n*Download videos for offline viewing\n*Behind the scenes content\n*Exclusive downloads - preschool learning resources, piano sheet music, karaoke tracks, games, activities and more!\n\nFind our songs on:\n?? Apple Music: https://apple.co/2YC8aSz\n?? Spotify: https://spoti.fi/2A52fNF\n?? Google Play: http://bit.ly/2o2ycRl\n?? Amazon Music: https://amzn.to/2nqDCFC\n?? YouTube Music: https://bit.ly/BP-YTMusic\n\nSubscribe for new videos! \n?? http://www.youtube.com/user/BouncePatrolKids\n\nWEBSITE: http://www.BouncePatrol.com\nFACEBOOK: http://www.facebook.com/BouncePatrol\nTWITTER: http://www.twitter.com/BouncePatrol\n\nBounce Patrol make original songs and nursery rhymes for the whole family to enjoy. We love getting kids up and bouncing to our music (hence the name - Bounce Patrol!). Jump up and dance along with Jackson, Alyssa, Rachel, Will and Jacinta - let's bounce!\n\n----Lyrics:----\n\nThe wheels on the bus go round and round, round and round, round and round\nThe wheels on the bus go round and round, all through the town\n\nThe horn on the bus goes beep beep beep, beep beep beep, beep beep beep\nThe horn on the bus goes beep beep beep, all through the town\n\nCome on ride the bus HEY come on ride the bus with us\nCome on ride the bus HEY come on ride the bus with us\n\nThe doors on the bus go open and shut, open and shut, open and shut   \nThe doors on the bus go open and shut, all through the town\n\nThe people on the bus go up and down, up and down, up and down   \nThe people on the bus go up and down, all through the town\n\nCome on ride the bus HEY come on ride the bus with us\nCome on ride the bus HEY come on ride the bus with us\n\nThe wipers on the bus go swish swish swish, swish swish swish, swish swish swish  \nThe wipers on the bus go swish swish swish, all through the town\n\nThe lights on the bus go flash flash flash, flash flash flash, flash flash flash   \nThe lights on the bus go flash flash flash, all through the town\n\nCome on ride the bus HEY come on ride the bus with us\nCome on ride the bus HEY come on ride the bus with us\n\nThe driver on the bus says move on back, move on back, move on back   \nThe driver on the bus says move on back, all through the town\n\nThe petrol on the bus goes glug glug glug, glug glug glug, glug glug glug   \nThe petrol on the bus goes glug glug glug, all through the town\n\nCome on ride the bus HEY come on ride the bus with us\nCome on ride the bus HEY come on ride the bus with us\n\nThe baby on the bus says waa waa waa, waa waa waa, waa waa waa   \nThe baby on the bus says waa waa waa, all through the town\n\nThe Mummy on the bus says shh shh shh, shh shh shh, shh shh shh   \nThe Daddy on the bus says shh shh shh, all through the town\n\nCome on ride the bus HEY come on ride the bus with us\nCome on ride the bus HEY come on ride the bus with us\n\nThe wheels on the bus go round and round, round and round, round and round\nThe wheels on the bus go round and round, all through the town\n\nCome on ride the bus HEY come on ride the bus with us\nCome on ride the bus HEY come on ride the bus with us\n\nThe wheels on the bus go round!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hvzMmwRNIfQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hvzMmwRNIfQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hvzMmwRNIfQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hvzMmwRNIfQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hvzMmwRNIfQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hvzMmwRNIfQ"
+        },
+        "videoOwnerChannelTitle": "Bounce Patrol - Kids Songs",
+        "videoOwnerChannelId": "UC56cowXhoqRWHeqfSJkIQaA"
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 0,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "SpzLA-w1I8s"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/2ESJUoPxvqqPZ4Zf5NUlwMkIaAI\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC4yODlGNEE0NkRGMEEzMEQy",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:47:57.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Wheels on the Bus - Nursery Rhymes and Kids Songs",
-    "description": "It's the classic children's nursery rhyme The Wheels on the Bus. Get the whole family together and dance along with Bounce Patrol as we explore a town made out of toys! Can you do the hand actions like us? Come on ride the bus with us! The wheels on the bus go round and round..... 🎶🚌\n\nFor behind the scenes extras including how this video was made, follow us:\nFacebook: http://www.facebook.com/BouncePatrol\nTwitter: http://www.twitter.com/BouncePatrol\n\nSubscribe so you don't miss our new videos: \nhttp://www.youtube.com/user/BouncePatrolKids\n\n----Lyrics:----\n\nThe wheels on the bus go round and round, round and round, round and round\nThe wheels on the bus go round and round, all through the town\n\nThe horn on the bus goes beep beep beep, beep beep beep, beep beep beep\nThe horn on the bus goes beep beep beep, all through the town\n\nCome on ride the bus HEY come on ride the bus with us\nCome on ride the bus HEY come on ride the bus with us\n\nThe doors on the bus go open and shut, open and shut, open and shut   \nThe doors on the bus go open and shut, all through the town\n\nThe people on the bus go up and down, up and down, up and down   \nThe people on the bus go up and down, all through the town\n\nCome on ride the bus HEY come on ride the bus with us\nCome on ride the bus HEY come on ride the bus with us\n\nThe wipers on the bus go swish swish swish, swish swish swish, swish swish swish  \nThe wipers on the bus go swish swish swish, all through the town\n\nThe lights on the bus go flash flash flash, flash flash flash, flash flash flash   \nThe lights on the bus go flash flash flash, all through the town\n\nCome on ride the bus HEY come on ride the bus with us\nCome on ride the bus HEY come on ride the bus with us\n\nThe driver on the bus says move on back, move on back, move on back   \nThe driver on the bus says move on back, all through the town\n\nThe petrol on the bus goes glug glug glug, glug glug glug, glug glug glug   \nThe petrol on the bus goes glug glug glug, all through the town\n\nCome on ride the bus HEY come on ride the bus with us\nCome on ride the bus HEY come on ride the bus with us\n\nThe baby on the bus says waa waa waa, waa waa waa, waa waa waa   \nThe baby on the bus says waa waa waa, all through the town\n\nThe Mummy on the bus says shh shh shh, shh shh shh, shh shh shh   \nThe Daddy on the bus says shh shh shh, all through the town\n\nCome on ride the bus HEY come on ride the bus with us\nCome on ride the bus HEY come on ride the bus with us\n\nThe wheels on the bus go round and round, round and round, round and round\nThe wheels on the bus go round and round, all through the town\n\nCome on ride the bus HEY come on ride the bus with us\nCome on ride the bus HEY come on ride the bus with us\n\nThe wheels on the bus go round!",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/hvzMmwRNIfQ/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/hvzMmwRNIfQ/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/hvzMmwRNIfQ/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/hvzMmwRNIfQ/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/hvzMmwRNIfQ/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Csxj24zCrIwZrcUcOgbGYQe7D6I",
+      "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:48:07Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Old MacDonald Had a Farm - Kids nursery rhymes",
+        "description": "Old MacDonald had a farm - eieio! \nOne of the classic kids nursery rhymes - we hope you like Bounce Patrol's version! What animals will we see on Old MacDonald's farm?\n\nWant to watch offline, with no ads? Get the Bounce Patrol App!\n?? http://bit.ly/BouncePatrolApp\n*Stream videos with NO ADS\n*Download videos for offline viewing\n*Behind the scenes content\n*Exclusive downloads - preschool learning resources, piano sheet music, karaoke tracks, games, activities and more!\n*Support Bounce Patrol, help us make new videos!\n\nFind our songs on:\n?? Apple Music: https://apple.co/2YC8aSz\n?? Spotify: https://spoti.fi/2A52fNF\n?? Google Play: http://bit.ly/2o2ycRl\n?? Amazon Music: https://amzn.to/2nqDCFC\n?? YouTube Music: https://bit.ly/BP-YTMusic\n\nSubscribe for new videos! \n?? http://www.youtube.com/user/BouncePatrolKids\n\nWEBSITE: http://www.BouncePatrol.com\nFACEBOOK: http://www.facebook.com/BouncePatrol\nTWITTER: http://www.twitter.com/BouncePatrol\n\nBounce Patrol make original songs and nursery rhymes for the whole family to enjoy. We love getting kids up and bouncing to our music (hence the name - Bounce Patrol!). Jump up and dance along with Jackson, Alyssa, Rachel, Will and Jacinta - let's bounce!\n\n******\n\nLyrics:\n\nHey Macdonald here we go, e-i-e-i-o\nHey Macdonald here we go, e-i-e-i-o\n\nOld MacDonald had a farm, e-i-e-i-o\nAnd on his farm he had a cow, e-i-e-i-o\nWith a moo moo here and a moo moo there\nHere a moo, there a moo, everywhere a moo moo\nOld MacDonald had a farm, e-i-e-i-o\n\nOld MacDonald had a farm, e-i-e-i-o\nAnd on his farm he had a sheep, e-i-e-i-o\nWith a baa baa here and a baa baa there\nHere a baa, there a baa, everywhere a baa baa\nWith a moo moo here and a moo moo there\nHere a moo, there a moo, everywhere a moo moo\nOld MacDonald had a farm, e-i-e-i-o\n\nHey Macdonald here we go, e-i-e-i-o\nHey Macdonald here we go, e-i-e-i-o\n\nOld MacDonald had a farm, e-i-e-i-o\nAnd on his farm he had a pig, e-i-e-i-o\nWith an oink oink here and an oink oink there\nHere an oink, there an oink, everywhere an oink oink\nWith a baa baa here and a baa baa there\nHere a baa, there a baa, everywhere a baa baa\nA moo moo here and a moo moo there\nHere a moo, there a moo, everywhere a moo moo\nOld MacDonald had a farm, e-i-e-i-o\n\nOld MacDonald had a farm, e-i-e-i-o\nAnd on his farm he had a duck, e-i-e-i-o\nWith an quack quack here and an quack quack there\nHere an quack, there an quack, everywhere an quack quack\nWith an oink oink here and an oink oink there\nHere an oink, there an oink, everywhere an oink oink\nWith a baa baa here and a baa baa there\nHere a baa, there a baa, everywhere a baa baa\nA moo moo here and a moo moo there\nHere a moo, there a moo, everywhere a moo moo!!\n\nOld MacDonald had a farm, e-i-e-i-o\nOld MacDonald had a farm, e-i-e-i-o\n\nWith an quack quack here and an quack quack there\nHere an quack, there an quack, everywhere an quack quack\nAn oink oink here and an oink oink there\nHere an oink, there an oink, everywhere an oink oink\nWith a baa baa here and a baa baa there\nHere a baa, there a baa, everywhere a baa baa\nA moo moo here and a moo moo there\nHere a moo, there a moo, everywhere a moo moo!!\n\nOld MacDonald had a farm, e-i-e-i-o\nOld MacDonald had a farm, e-i-e-i-o\n\nE-i-e-i-o  (Uh-oh!)\nE-i-e-i-o   (Uh-oh!)\nE-i-e-i-o   (Uh-oh!)\nE-i-e-i-o!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EGymN-Lc87M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EGymN-Lc87M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EGymN-Lc87M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EGymN-Lc87M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EGymN-Lc87M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EGymN-Lc87M"
+        },
+        "videoOwnerChannelTitle": "Bounce Patrol - Kids Songs",
+        "videoOwnerChannelId": "UC56cowXhoqRWHeqfSJkIQaA"
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 1,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "hvzMmwRNIfQ"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/hUQjNFaKlnUcxeZbp1SC4ANO4lQ\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC4wMTcyMDhGQUE4NTIzM0Y5",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:48:03.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "The Bear Went Over The Mountain | Super Simple Songs",
-    "description": "Get the Super Simple App for iOS now 😍 ► apple.co/2nW5hPd\nWe're learning the prepositions \"over\", \"across\", \"through\", and \"up\" in this Super Simple version of the nursery rhyme, \"The Bear Went Over The Mountain\"! 🎶 The bear went over the mountain, the bear went over the mountain, the bear went over the mountain, to see what she could see. And all that she could see, and all that she could see, was the other side of the mountain, the other side of the mountain, the other side of the mountain, was all that she could see. 🎶\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\n\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\nLYRICS:\nThe bear went over the mountain,\nthe bear went over the mountain,\nthe bear went over the mountain,\nto see what she could see.\nAnd all that she could see,\nand all that she could see,\nwas the other side of the mountain,\nthe other side of the mountain,\nthe other side of the mountain,\nwas all that she could see.\n\nThe bear went across the river,\nthe bear went across the river,\nthe bear went across the river,\nto see what she could see.\nAnd all that she could see,\nand all that she could see,\nwas the other side of the river,\nthe other side of the river,\nthe other side of the river,\nwas all that she could see.\n\nThe bear went through the forest,\nthe bear went through the forest,\nthe bear went through the forest,\nto see what she could see.\nAnd all that she could see,\nand all that she could see,\nwas the other side of the forest,\nthe other side of the forest,\nthe other side of the forest,\nwas all that she could see.\n\nThe bear climbed up the big tree,\nthe bear climbed up the big tree,\nthe bear climbed up the big tree,\nto see what she could see.\nAnd all that she could see,\nand all that she could see, \nwas the forest, river, and mountain,\nthe forest, river, and mountain, \nthe forest, river, and mountain, \nwas all that she could see. \nWas all that she could see.\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company.\n\n#nurseryrhymes #kidssongs #childrensmusic #supersimplesongs",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/KCLjdL8g-8s/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/KCLjdL8g-8s/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/KCLjdL8g-8s/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/KCLjdL8g-8s/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/KCLjdL8g-8s/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-g1mIlAv88Fhk8L8L-UQDcAR4HM",
+      "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:48:14Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Baby Shark | Kids Songs and Nursery Rhymes | Animal Songs from Bounce Patrol",
+        "description": "The classic nursery rhyme Baby Shark! Dance along with Bounce Patrol to the Baby Shark song. There are lots of actions to copy, so jump up and dance! Let's explore the ocean with Baby Shark, Mommy Shark, Daddy Shark, Grandma Shark and Grandpa Shark. We might see some more sea animals too - like an octopus, jellyfish, seal and crab. Make the shark jaws with your hands and sing along\n\nWant to watch offline, with no ads? Get the Bounce Patrol App!\n?? http://bit.ly/BouncePatrolApp\n*Stream videos with NO ADS\n*Download videos for offline viewing\n*Behind the scenes content\n*Exclusive downloads - preschool learning resources, piano sheet music, karaoke tracks, games, activities and more!\n*Support Bounce Patrol, help us make new videos!\n\nFind our songs on:\n?? Apple Music: https://apple.co/2YC8aSz\n?? Spotify: https://spoti.fi/2A52fNF\n?? Amazon Music: https://amzn.to/2nqDCFC\n?? YouTube Music: https://bit.ly/BP-YTMusic\n\nSubscribe for new videos! \n?? http://www.youtube.com/user/BouncePatrolKids\n\nWEBSITE: http://www.BouncePatrol.com\nFACEBOOK: http://www.facebook.com/BouncePatrol\nTWITTER: http://www.twitter.com/BouncePatrol\n\nBounce Patrol make original songs and nursery rhymes for the whole family to enjoy. We love getting kids up and bouncing to our music (hence the name - Bounce Patrol!). Jump up and dance along with Jackson, Alyssa, Rachel, Will and Jacinta - let's bounce!\n\n\n***Lyrics***\n\nDo do do do do do do do!\n\nBaby shark doo doo, doo doo, doo doo\nBaby shark doo doo, doo doo, doo doo\nBaby shark doo doo, doo doo, doo doo\nBaby shark\n\nMummy shark doo doo, doo doo, doo doo\nMummy shark doo doo, doo doo, doo doo\nMummy shark doo doo, doo doo, doo doo\nMummy shark\n\nDaddy shark doo doo, doo doo, doo doo\nDaddy shark doo doo, doo doo, doo doo\nDaddy shark doo doo, doo doo, doo doo\nDaddy shark\n\nGrandma shark doo doo, doo doo, doo doo\nGrandma shark doo doo, doo doo, doo doo\nGrandma shark doo doo, doo doo, doo doo\nGrandma shark\n\nGrandpa shark doo doo, doo doo, doo doo\nGrandpa shark doo doo, doo doo, doo doo\nGrandpa shark doo doo, doo doo, doo doo\nGrandpa shark\n\nLet's explore doo doo, doo doo, doo doo\nLet's explore doo doo, doo doo, doo doo\nLet's explore doo doo, doo doo, doo doo\nLet's explore\n\nLook!\n\nAn octopus doo doo, doo doo, doo doo\nOctopus doo doo, doo doo, doo doo\nOctopus doo doo, doo doo, doo doo\nOctopus\n\nAnd a clapping seal doo doo, doo doo, doo doo\nClapping seal doo doo, doo doo, doo doo\nClapping seal doo doo, doo doo, doo doo\nClapping seal\n\nThere's a jellyfish doo doo, doo doo, doo doo\nJellyfish doo doo, doo doo, doo doo\nJellyfish doo doo, doo doo, doo doo\nJellyfish\n\nAnd a walking crab doo doo, doo doo, doo doo\nWalking crab doo doo, doo doo, doo doo\nWalking crab doo doo, doo doo, doo doo\nWalking crab, yay!\n\nBaby, baby, baby shark\nBaby, baby, baby shark\nBaby, baby, baby shark\nLittle, little baby shark doo doo, doo doo, doo doo\nBaby shark doo doo, doo doo, doo doo\nBaby shark doo doo, doo doo, doo doo\nBaby shark\n\nMummy shark doo doo, doo doo, doo doo\nMummy shark doo doo, doo doo, doo doo\nMummy shark doo doo, doo doo, doo doo\nMummy shark\n\nDaddy shark doo doo, doo doo, doo doo\nDaddy shark doo doo, doo doo, doo doo\nDaddy shark doo doo, doo doo, doo doo\nDaddy shark\n\nGrandma shark doo doo, doo doo, doo doo\nGrandma shark doo doo, doo doo, doo doo\nGrandma shark doo doo, doo doo, doo doo\nGrandma shark\n\nGrandpa shark doo doo, doo doo, doo doo\nGrandpa shark doo doo, doo doo, doo doo\nGrandpa shark doo doo, doo doo, doo doo\nGrandpa shark\n\n(Repeat Baby, Mummy, Daddy, Grandma, Grandpa)\n\nAll the sharks doo doo, doo doo, doo doo\nAll the sharks doo doo, doo doo, doo doo\nAll the sharks doo doo, doo doo, doo doo\nAll the sharks\n\nSee my fin doo doo, doo doo, doo doo\nSee my fin doo doo, doo doo, doo doo\nSee my fin doo doo, doo doo, doo doo\nSee my fin \n\nLet's all swim doo doo, doo doo, doo doo\nLet's all swim doo doo, doo doo, doo doo\nLet's all swim doo doo, doo doo, doo doo\nLet's all swim \n\nLet's all dance doo doo, doo doo, doo doo\nLet's all dance doo doo, doo doo, doo doo\nLet's all dance doo doo, doo doo, doo doo\nLet's all dance \n\nIt's the end doo doo, doo doo, doo doo\nIt's the end doo doo, doo doo, doo doo\nIt's the end doo doo, doo doo, doo doo\nIt's the end!\n\nDo do do do do do do do!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j8z7UjET1Is/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j8z7UjET1Is/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j8z7UjET1Is/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j8z7UjET1Is/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j8z7UjET1Is/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "j8z7UjET1Is"
+        },
+        "videoOwnerChannelTitle": "Bounce Patrol - Kids Songs",
+        "videoOwnerChannelId": "UC56cowXhoqRWHeqfSJkIQaA"
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 2,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "KCLjdL8g-8s"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/vUwkbIbkPfE4QYxrzLNtKaqZpH4\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC41MjE1MkI0OTQ2QzJGNzNG",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:48:07.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Old MacDonald Had a Farm - Kids nursery rhymes",
-    "description": "Old MacDonald had a farm - eieio! \nOne of the classic kids nursery rhymes - we hope you like Bounce Patrol's version! What animals will we see on Old MacDonald's farm?\n\nDownload this song on iTunes: http://bit.ly/1ge18Vy\n\nDownload videos to watch offline with no ads:\nhttp://bit.ly/Download-BP\n\nNew album \"Kids Songs\" out now!\niTunes: https://apple.co/2Gd4aPZ\nGoogle Play: http://bit.ly/2FrXpwj\nSpotify: http://spoti.fi/2IfMsvH\nAmazon Music: http://amzn.to/2p0aUsQ\n\nLinks to watch more Bounce Patrol videos:\nLearn Colors: http://youtu.be/9Dczg71L_vk\nChildren's Lullaby: http://youtu.be/VuvafCtuRnc\n\nSubscribe to Bounce Patrol! \nhttp://www.youtube.com/subscription_center?add_user=BouncePatrolKids\n\nTwitter: http://www.twitter.com/bouncepatrol\nFacebook: http://www.facebook.com/BouncePatrol\nWeb: http://www.bouncepatrol.com\n\nThanks for watching!\n\n******\n\nLyrics:\n\nHey Macdonald here we go, e-i-e-i-o\nHey Macdonald here we go, e-i-e-i-o\n\nOld MacDonald had a farm, e-i-e-i-o\nAnd on his farm he had a cow, e-i-e-i-o\nWith a moo moo here and a moo moo there\nHere a moo, there a moo, everywhere a moo moo\nOld MacDonald had a farm, e-i-e-i-o\n\nOld MacDonald had a farm, e-i-e-i-o\nAnd on his farm he had a sheep, e-i-e-i-o\nWith a baa baa here and a baa baa there\nHere a baa, there a baa, everywhere a baa baa\nWith a moo moo here and a moo moo there\nHere a moo, there a moo, everywhere a moo moo\nOld MacDonald had a farm, e-i-e-i-o\n\nHey Macdonald here we go, e-i-e-i-o\nHey Macdonald here we go, e-i-e-i-o\n\nOld MacDonald had a farm, e-i-e-i-o\nAnd on his farm he had a pig, e-i-e-i-o\nWith an oink oink here and an oink oink there\nHere an oink, there an oink, everywhere an oink oink\nWith a baa baa here and a baa baa there\nHere a baa, there a baa, everywhere a baa baa\nA moo moo here and a moo moo there\nHere a moo, there a moo, everywhere a moo moo\nOld MacDonald had a farm, e-i-e-i-o\n\nOld MacDonald had a farm, e-i-e-i-o\nAnd on his farm he had a duck, e-i-e-i-o\nWith an quack quack here and an quack quack there\nHere an quack, there an quack, everywhere an quack quack\nWith an oink oink here and an oink oink there\nHere an oink, there an oink, everywhere an oink oink\nWith a baa baa here and a baa baa there\nHere a baa, there a baa, everywhere a baa baa\nA moo moo here and a moo moo there\nHere a moo, there a moo, everywhere a moo moo!!\n\nOld MacDonald had a farm, e-i-e-i-o\nOld MacDonald had a farm, e-i-e-i-o\n\nWith an quack quack here and an quack quack there\nHere an quack, there an quack, everywhere an quack quack\nAn oink oink here and an oink oink there\nHere an oink, there an oink, everywhere an oink oink\nWith a baa baa here and a baa baa there\nHere a baa, there a baa, everywhere a baa baa\nA moo moo here and a moo moo there\nHere a moo, there a moo, everywhere a moo moo!!\n\nOld MacDonald had a farm, e-i-e-i-o\nOld MacDonald had a farm, e-i-e-i-o\n\nE-i-e-i-o  (Uh-oh!)\nE-i-e-i-o   (Uh-oh!)\nE-i-e-i-o   (Uh-oh!)\nE-i-e-i-o!",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/EGymN-Lc87M/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/EGymN-Lc87M/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/EGymN-Lc87M/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/EGymN-Lc87M/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/EGymN-Lc87M/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Bn6JaH_3Z6YmYF3Wg5ys0gtNPwg",
+      "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:48:46Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Ten in the Bed - Nursery Rhymes & Kids Songs",
+        "description": "Learn counting and numbers with this fun nursery rhyme for kids. There are 10 toys who keep falling out of bed! Can you count them all? Sing along if you know the words... There were ten in the bed and the little one said roll over, roll over. So they all rolled over and one fell out! \n\nGet the Bounce Patrol App!\n?? http://bit.ly/BouncePatrolApp\n*Stream videos with NO ADS\n*Download videos for offline viewing\n*Behind the scenes content\n*Exclusive downloads - preschool learning resources, piano sheet music, karaoke tracks, games, activities and more!\n\nFind our songs on:\n?? Apple Music: https://apple.co/2YC8aSz\n?? Spotify: https://spoti.fi/2A52fNF\n?? Google Play: http://bit.ly/2o2ycRl\n?? Amazon Music: https://amzn.to/2nqDCFC\n??YouTube Music: https://bit.ly/BP-YTMusic\n\nSubscribe for new videos! \n?? http://www.youtube.com/user/BouncePatrolKids\n\nWEBSITE: http://www.BouncePatrol.com\nFACEBOOK: http://www.facebook.com/BouncePatrol\nTWITTER: http://www.twitter.com/BouncePatrol\n\nBounce Patrol make original songs and nursery rhymes for the whole family to enjoy. We love getting kids up and bouncing to our music (hence the name - Bounce Patrol!). Jump up and dance along with Jackson, Alyssa, Rachel, Will and Jacinta - let's bounce!\n\nThanks for watching!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v2eSlYSUvFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v2eSlYSUvFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v2eSlYSUvFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v2eSlYSUvFY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v2eSlYSUvFY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v2eSlYSUvFY"
+        },
+        "videoOwnerChannelTitle": "Bounce Patrol - Kids Songs",
+        "videoOwnerChannelId": "UC56cowXhoqRWHeqfSJkIQaA"
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 3,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "EGymN-Lc87M"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/5xxglJIiaAEioj-urnYNf-jrGH0\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC4wOTA3OTZBNzVEMTUzOTMy",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:48:10.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "The Farmer In The Dell | Kids Songs | Super Simple Songs",
-    "description": "Check out the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\n👩\u200d🌾  🐖 🐄  🚜  Here's a Super Simple version of the classic nursery rhyme “The Farmer In The Dell”  🎶 The farmer feeds the pigs. The farmer feeds the pigs. Hi-ho, the derry-o. The farmer feeds the pigs 🎶\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\nLyrics:\n\nThe farmer in the dell.\nThe farmer in the dell.\nHi-ho, the derry-o\nThe farmer in the dell.\n\nThe farmer milks the cow.\nThe farmer milks the cow.\nHi-ho, the derry-o\nThe farmer milks the cow.\n\nThe farmer feeds the pigs.\nThe farmer feeds the pigs.\nHi-ho, the derry-o\nThe farmer feeds the pigs.\n\nThe farmer gathers eggs.\nThe farmer gathers eggs.\nHi-ho, the derry-o\nThe farmer gathers eggs.\n\nThe farmer plants the seeds.\nThe farmer plants the seeds.\nHi-ho, the derry-o\nThe farmer plants the seeds.\n\nThe farmer picks the corn.\nThe farmer picks the corn.\nHi-ho, the derry-o\nThe farmer picks the corn.\n\nThe farmer in the dell.\nThe farmer in the dell.\nHi-ho, the derry-o\nThe farmer in the dell.\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company.\n\n#nurseryrhymes #kidssongs #childrensmusic #supersimplesongs",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/E-krsNziXEw/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/E-krsNziXEw/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/E-krsNziXEw/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/E-krsNziXEw/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/E-krsNziXEw/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KALD_Aabw_P_jKyXaTPeHxuMWIk",
+      "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:48:52Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Rain Rain Go Away - Nursery Rhyme with Rainy Day Activities! Nursery Rhymes & Songs for Children",
+        "description": "\"Rain, Rain, Go Away\" Nursery Rhyme for Kids. It's raining, it's pouring... Rain rain go away, so Bounce Patrol can go out and play! We have lots of ideas for things you can do on a rainy day. Jacinta likes to draw with crayons, and Rachel wants to have a tea party. Sing along with Bounce Patrol and chase away those rainy day blues! \n\nWant to watch with no ads? Get the Bounce Patrol App!\n?? http://bit.ly/BouncePatrolApp\n*Stream videos with NO ADS\n*Download videos for offline viewing\n*Behind the scenes content\n*Exclusive downloads - preschool learning resources, piano sheet music, karaoke tracks, games, activities and more!\n\nFind our songs on:\n?? Apple Music: https://apple.co/2YC8aSz\n?? Spotify: https://spoti.fi/2A52fNF\n?? Google Play: http://bit.ly/2o2ycRl\n?? Amazon Music: https://amzn.to/2nqDCFC\n??YouTube Music: https://bit.ly/BP-YTMusic\n\nSubscribe for new videos! \n?? http://www.youtube.com/user/BouncePatrolKids\n\nWEBSITE: http://www.BouncePatrol.com\nFACEBOOK: http://www.facebook.com/BouncePatrol\nTWITTER: http://www.twitter.com/BouncePatrol\n\nBounce Patrol make original songs and nursery rhymes for the whole family to enjoy. We love getting kids up and bouncing to our music (hence the name - Bounce Patrol!). Jump up and dance along with Jackson, Alyssa, Rachel, Will and Jacinta - let's bounce!\n\nLYRICS:\n\nRain rain go away, come again another day \nJacinta wants to play, rain rain go away\nWhen it rains we grab our crayons and spread the paper out\nDraw a picture of us playing when the sun comes back out \n\nRain rain go away, come again another day \nAlyssa wants to play, rain rain go away\nWhen it rains we build a cubby house from blankets and the couch\nSit by the window and look outside at the rain pouring down\n\nRain rain go away, come again another day \nJackson wants to play, rain rain go away\nWhen it rains we pretend to be pirates out at sea\nOur ship is in a storm, but we�re all safe and warm, inside is where we be! Aaarrr\n\nRain rain go away, come again another day \nRachel wants to play, rain rain go away\nWhen it rains we have a party with all our toys as guests\nSet them up and serve them cups of tea, these little cakes are the best!\n\nRain rain go away, come again another day \nWill wants to play, rain rain go away\nWhen it rains we splash in the puddles on the ground\nWe put on gumboots and a raincoat to keep the raindrops out\n\nRain rain go away, come again another day \nWe all want to play, rain rain go away\nCome on everybody!\n\nRain rain go away, come again another day \nBounce Patrol wants to play, rain rain go away\nRain rain go away, come again another day \nBounce Patrol wants to play, rain rain go away\n\nBounce Patrol wants to play, rain rain go away\nRain... rain... rain... rain... rain... Go Away!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fyLDlFkxxAo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fyLDlFkxxAo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fyLDlFkxxAo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fyLDlFkxxAo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fyLDlFkxxAo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fyLDlFkxxAo"
+        },
+        "videoOwnerChannelTitle": "Bounce Patrol - Kids Songs",
+        "videoOwnerChannelId": "UC56cowXhoqRWHeqfSJkIQaA"
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 4,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "E-krsNziXEw"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/kScs-uvN_RWRcUb0VmIy3RSw8oM\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC4xMkVGQjNCMUM1N0RFNEUx",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:48:14.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Baby Shark | Kids Songs and Nursery Rhymes | Animal Songs from Bounce Patrol",
-    "description": "The classic nursery rhyme Baby Shark! Dance along with Bounce Patrol to the Baby Shark song. There are lots of actions to copy, so jump up and dance! Let's explore the ocean with Baby Shark, Mommy Shark, Daddy Shark, Grandma Shark and Grandpa Shark. We might see some more sea animals too - like an octopus, jellyfish, seal and crab. Make the shark jaws with your hands and sing along\n\nDownload videos to watch offline with no ads:\nhttp://bit.ly/Download-BP \n\nGet the song! Download or stream on our album \"Nursery Rhymes\":\niTunes - https://apple.co/2obHJlS\nApple Music - https://apple.co/2BQlQSO\nSpotify - https://spoti.fi/2MPNmUF\nGoogle Play - http://bit.ly/2PGjM2t\nAmazon - https://amzn.to/2oeFKNO\n\nFor behind the scenes extras, parents can find us in these places:\nFacebook: http://www.facebook.com/BouncePatrol\nTwitter: http://www.twitter.com/BouncePatrol\n\nSubscribe for new videos: \nhttp://www.youtube.com/user/BouncePatrolKids\n\nBounce Patrol make original songs and nursery rhymes for kids - from toddlers and preschool, through to kindergarten and elementary school age. \n\nThanks for watching!\n\n\n***Lyrics***\n\nDo do do do do do do do!\n\nBaby shark doo doo, doo doo, doo doo\nBaby shark doo doo, doo doo, doo doo\nBaby shark doo doo, doo doo, doo doo\nBaby shark\n\nMummy shark doo doo, doo doo, doo doo\nMummy shark doo doo, doo doo, doo doo\nMummy shark doo doo, doo doo, doo doo\nMummy shark\n\nDaddy shark doo doo, doo doo, doo doo\nDaddy shark doo doo, doo doo, doo doo\nDaddy shark doo doo, doo doo, doo doo\nDaddy shark\n\nGrandma shark doo doo, doo doo, doo doo\nGrandma shark doo doo, doo doo, doo doo\nGrandma shark doo doo, doo doo, doo doo\nGrandma shark\n\nGrandpa shark doo doo, doo doo, doo doo\nGrandpa shark doo doo, doo doo, doo doo\nGrandpa shark doo doo, doo doo, doo doo\nGrandpa shark\n\nLet's explore doo doo, doo doo, doo doo\nLet's explore doo doo, doo doo, doo doo\nLet's explore doo doo, doo doo, doo doo\nLet's explore\n\nLook!\n\nAn octopus doo doo, doo doo, doo doo\nOctopus doo doo, doo doo, doo doo\nOctopus doo doo, doo doo, doo doo\nOctopus\n\nAnd a clapping seal doo doo, doo doo, doo doo\nClapping seal doo doo, doo doo, doo doo\nClapping seal doo doo, doo doo, doo doo\nClapping seal\n\nThere's a jellyfish doo doo, doo doo, doo doo\nJellyfish doo doo, doo doo, doo doo\nJellyfish doo doo, doo doo, doo doo\nJellyfish\n\nAnd a walking crab doo doo, doo doo, doo doo\nWalking crab doo doo, doo doo, doo doo\nWalking crab doo doo, doo doo, doo doo\nWalking crab, yay!\n\nBaby, baby, baby shark\nBaby, baby, baby shark\nBaby, baby, baby shark\nLittle, little baby shark doo doo, doo doo, doo doo\nBaby shark doo doo, doo doo, doo doo\nBaby shark doo doo, doo doo, doo doo\nBaby shark\n\nMummy shark doo doo, doo doo, doo doo\nMummy shark doo doo, doo doo, doo doo\nMummy shark doo doo, doo doo, doo doo\nMummy shark\n\nDaddy shark doo doo, doo doo, doo doo\nDaddy shark doo doo, doo doo, doo doo\nDaddy shark doo doo, doo doo, doo doo\nDaddy shark\n\nGrandma shark doo doo, doo doo, doo doo\nGrandma shark doo doo, doo doo, doo doo\nGrandma shark doo doo, doo doo, doo doo\nGrandma shark\n\nGrandpa shark doo doo, doo doo, doo doo\nGrandpa shark doo doo, doo doo, doo doo\nGrandpa shark doo doo, doo doo, doo doo\nGrandpa shark\n\n(Repeat Baby, Mummy, Daddy, Grandma, Grandpa)\n\nAll the sharks doo doo, doo doo, doo doo\nAll the sharks doo doo, doo doo, doo doo\nAll the sharks doo doo, doo doo, doo doo\nAll the sharks\n\nSee my fin doo doo, doo doo, doo doo\nSee my fin doo doo, doo doo, doo doo\nSee my fin doo doo, doo doo, doo doo\nSee my fin \n\nLet's all swim doo doo, doo doo, doo doo\nLet's all swim doo doo, doo doo, doo doo\nLet's all swim doo doo, doo doo, doo doo\nLet's all swim \n\nLet's all dance doo doo, doo doo, doo doo\nLet's all dance doo doo, doo doo, doo doo\nLet's all dance doo doo, doo doo, doo doo\nLet's all dance \n\nIt's the end doo doo, doo doo, doo doo\nIt's the end doo doo, doo doo, doo doo\nIt's the end doo doo, doo doo, doo doo\nIt's the end!\n\nDo do do do do do do do!!",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/j8z7UjET1Is/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/j8z7UjET1Is/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/j8z7UjET1Is/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/j8z7UjET1Is/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/j8z7UjET1Is/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LvTMFchDCPcXlGUq23xrKDjdWRo",
+      "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:49:01Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Mary had a Little Lamb - Nursery Rhymes and Kids Songs",
+        "description": "\"Mary had a Little Lamb\" nursery rhyme for kids, with a Bounce Patrol twist. Everywhere that Mary went the lamb was sure to follow... do you recognise any of the places Mary and her lamb go on their adventures? Follow along as Mary takes her lamb to school, the beach and lots of other fun places\n\nGet the Bounce Patrol App!\n?? http://bit.ly/BouncePatrolApp\n*Stream videos with NO ADS\n*Download videos for offline viewing\n*Behind the scenes content\n*Exclusive downloads - preschool learning resources, piano sheet music, karaoke tracks, games, activities and more!\n\nFind our songs on:\n?? Apple Music: https://apple.co/2YC8aSz\n?? Spotify: https://spoti.fi/2A52fNF\n?? Google Play: http://bit.ly/2o2ycRl\n?? Amazon Music: https://amzn.to/2nqDCFC\n??YouTube Music: https://bit.ly/BP-YTMusic\n\nSubscribe for new videos! \n?? http://www.youtube.com/user/BouncePatrolKids\n\nWEBSITE: http://www.BouncePatrol.com\nFACEBOOK: http://www.facebook.com/BouncePatrol\nTWITTER: http://www.twitter.com/BouncePatrol\n\nBounce Patrol make original songs and nursery rhymes for the whole family to enjoy. We love getting kids up and bouncing to our music (hence the name - Bounce Patrol!). Jump up and dance along with Jackson, Alyssa, Rachel, Will and Jacinta - let's bounce!\n\nThanks for watching!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AqwLb00BOqc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AqwLb00BOqc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AqwLb00BOqc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AqwLb00BOqc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AqwLb00BOqc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AqwLb00BOqc"
+        },
+        "videoOwnerChannelTitle": "Bounce Patrol - Kids Songs",
+        "videoOwnerChannelId": "UC56cowXhoqRWHeqfSJkIQaA"
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 5,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "j8z7UjET1Is"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/nhOZC9Bifhi910sLPup5_WT5vus\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC41MzJCQjBCNDIyRkJDN0VD",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:48:19.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Head Shoulders Knees And Toes (2019) | Noodle & Pals | Super Simple Songs",
-    "description": "Watch videos from Super Simple in the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\nGet up and stretch your arms and legs with Noodles & Pals and this perfect music & movement song for circle time, \"Head Shoulders Knees And Toes\"! 🎶 Head, shoulders, knees, and toes, knees and toes. 🎶\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\nLYRICS:\nHead, shoulders, knees, and toes, knees and toes.\nHead, shoulders, knees, and toes, knees and toes.\nAnd eyes and ears and mouth and nose.\nHead, shoulders, knees, and toes, knees and toes.\n\nHead, shoulders, knees, and toes, knees and toes.\nHead, shoulders, knees, and toes, knees and toes.\nAnd eyes and ears and mouth and nose.\nHead, shoulders, knees, and toes, knees and toes.\n\nHead, shoulders, knees, and toes, knees and toes.\nHead, shoulders, knees, and toes, knees and toes.\nAnd eyes and ears and mouth and nose.\nHead, shoulders, knees, and toes, knees and toes.\n\nHead, shoulders, knees, and toes, knees and toes.\nHead, shoulders, knees, and toes, knees and toes.\nAnd eyes and ears and mouth and nose.\nHead, shoulders, knees, and toes, knees and toes.\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/RuqvGiZi0qg/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/RuqvGiZi0qg/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/RuqvGiZi0qg/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/RuqvGiZi0qg/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/RuqvGiZi0qg/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BmntbYR_7jCphFjiJgBJ-YUHGAA",
+      "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:49:47Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Five Little Monkeys Jumping on the Bed | Children nursery rhymes!",
+        "description": "It's the classic kids nursery rhyme \"Five Little Monkeys Jumping on the Bed\". Jump, jump, jump and sing with Bounce Patrol! Let's count up all the jumping monkeys!\n\nWant to watch with no ads? Get the Bounce Patrol App!\n?? http://bit.ly/BouncePatrolApp\n*Stream videos with NO ADS\n*Download videos for offline viewing\n*Behind the scenes content\n*Exclusive downloads - preschool learning resources, piano sheet music, karaoke tracks, games, activities and more!\n\nFind our songs on:\n?? Apple Music: https://apple.co/2YC8aSz\n?? Spotify: https://spoti.fi/2A52fNF\n?? Google Play: http://bit.ly/2o2ycRl\n?? Amazon Music: https://amzn.to/2nqDCFC\n??YouTube Music: https://bit.ly/BP-YTMusic\n\nSubscribe for new videos! \n?? http://www.youtube.com/user/BouncePatrolKids\n\nWEBSITE: http://www.BouncePatrol.com\nFACEBOOK: http://www.facebook.com/BouncePatrol\nTWITTER: http://www.twitter.com/BouncePatrol\n\nBounce Patrol make original songs and nursery rhymes for the whole family to enjoy. We love getting kids up and bouncing to our music (hence the name - Bounce Patrol!). Jump up and dance along with Jackson, Alyssa, Rachel, Will and Jacinta - let's bounce!\n\nThanks for watching!\n\n*****\nLyrics:\n\nFive little monkeys jumping on the bed\nOne fell off and bumped his head\nJackson called the doctor and the doctor said\n\"No more monkeys jumping on the bed!\"\n\nJump jump jump, little monkeys, jump jump jump, hey!\nJump jump jump, little monkeys\nNo more monkeys jumping on the bed!\n\nHey! Four!\nFour little monkeys jumping on the bed\nOne fell off and bumped his head\nRachel called the doctor and the doctor said\n\"No more monkeys jumping on the bed!\"\n\nJump jump jump, little monkeys, jump jump jump, hey!\nJump jump jump, little monkeys\nNo more monkeys jumping on the bed!\n\nHey! Three!\nThree little monkeys jumping on the bed\nOne fell off and bumped his head\nWill called the doctor and the doctor said\n\"No more monkeys jumping on the bed!\"\n\nJump jump jump, little monkeys, jump jump jump, hey!\nJump jump jump, little monkeys\nNo more monkeys jumping on the bed!\n\nHey! Two!\nTwo little monkeys jumping on the bed\nOne fell off and bumped his head\nAlyssa called the doctor and the doctor said\n\"No more monkeys jumping on the bed!\"\n\nJump jump jump, little monkeys, jump jump jump, hey!\nJump jump jump, little monkeys\nNo more monkeys jumping on the bed!\n\nHey! One!\nOne little monkey jumping on the bed\nOne fell off and bumped his head\nJacinta called the doctor and the doctor said\n\"No more monkeys jumping on the bed!\"\n\nJump jump jump, little monkeys, jump jump jump, hey!\nJump jump jump, little monkeys\nNo more monkeys jumping on the bed!\n\nHey! None!\nNo little monkeys jumping on the bed\nNone fell off and bumped their head\nWe all called the doctor and the doctor said\n\"Put those monkeys back to bed!\"\n\nJump jump jump, little monkeys, jump jump jump, hey!\nJump jump jump, little monkeys\nNo more monkeys jumping on the bed!\n\nJump jump jump, little monkeys, jump jump jump, hey!\nJump jump jump, little monkeys, JUMP JUMP JUMP!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/16Wk2piuW60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/16Wk2piuW60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/16Wk2piuW60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/16Wk2piuW60/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/16Wk2piuW60/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "16Wk2piuW60"
+        },
+        "videoOwnerChannelTitle": "Bounce Patrol - Kids Songs",
+        "videoOwnerChannelId": "UC56cowXhoqRWHeqfSJkIQaA"
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 6,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "RuqvGiZi0qg"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/PY8iE_NlQTzXfJvBhSgyEzS6RUc\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC5DQUNERDQ2NkIzRUQxNTY1",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:48:46.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Ten in the Bed - Nursery Rhymes & Kids Songs",
-    "description": "Learn counting and numbers with this fun nursery rhyme for kids. There are 10 toys who keep falling out of bed! Can you count them all? Sing along if you know the words... There were ten in the bed and the little one said roll over, roll over. So they all rolled over and one fell out! \n\nStream our songs wherever you listen to music! \niTunes: https://apple.co/2Gd4aPZ\nGoogle Play: http://bit.ly/2FrXpwj\nSpotify: http://spoti.fi/2IfMsvH\nAmazon Music: http://amzn.to/2p0aUsQ\nJust search \"Bounce Patrol\" in your favourite music app\n\nDownload videos for offline viewing with no ads:\nhttp://bit.ly/Download-BP\n\nGet kids clothing, DVDs, CDs and more from our website: \nhttp://www.bouncepatrol.com\n\nFor behind the scenes extras, parents can find us in these places:\nFacebook: http://www.facebook.com/BouncePatrol\nTwitter: http://www.twitter.com/BouncePatrol\n\nSubscribe so you don't miss our new videos: \nhttp://www.youtube.com/user/BouncePatrolKids\n\nBounce Patrol make original songs and nursery rhymes for kids - from toddlers and preschool, through to kindergarten and elementary school age. \n\nThanks for watching!",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/v2eSlYSUvFY/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/v2eSlYSUvFY/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/v2eSlYSUvFY/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/v2eSlYSUvFY/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/v2eSlYSUvFY/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "B7je4Wods0C3fWRZCjB0i1F6GIo",
+      "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:49:54Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Head Shoulders Knees and Toes with Charli's Crafty Kitchen | Kids nursery rhymes",
+        "description": "Head, Shoulders, Knees and Toes - Nursery Rhyme song for kids. Featuring our friends Charli and Ashlee, from Charli's Crafty Kitchen! How many body parts do you know? Let's learn them all! Can you point to you head, shoulders, knees and toes? \n\nWatch the cooking video we made with Charli and Ashlee: http://youtu.be/I-DphXDd1VI\nSubscribe to their channel: www.youtube.com/user/CharlisCraftyKitchen\n\nTwitter: http://www.twitter.com/bouncepatrol\nFacebook: http://www.facebook.com/BouncePatrol\nWeb: http://www.bouncepatrol.com\n\nBounce Patrol make videos for kids - from toddlers and preschool, through to kindergarten and elementary school age. \n\nSubscribe for more of Bounce Patrol's kids songs: http://www.youtube.com/user/BouncePatrolKids\n\nThanks for watching!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nouDkGtDPNk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nouDkGtDPNk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nouDkGtDPNk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nouDkGtDPNk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nouDkGtDPNk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nouDkGtDPNk"
+        },
+        "videoOwnerChannelTitle": "Bounce Patrol - Kids Songs",
+        "videoOwnerChannelId": "UC56cowXhoqRWHeqfSJkIQaA"
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 7,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "v2eSlYSUvFY"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/FJx7IkMZGRa5r6ICO7eBWekeiHA\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC45NDk1REZENzhEMzU5MDQz",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:48:49.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "If You’re Happy And You Know It | Kids Songs | Super Simple Songs",
-    "description": "Watch videos from Super Simple in the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\nClap your hands, stomp your feet and shout \"hooray' with this super fun actions song for kids; \"If You’re Happy and You Know It\"! 🎶 If you're happy and you know it, clap your hands. (Clap-clap) 🎶\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n\nLYRICS:\n\nIf you're happy and you know it, clap your hands. (Clap-clap)\nIf you're happy and you know it, clap your hands. (Clap-clap)\nIf you're happy and you know it, then your face will surely show it.\nIf you're happy and you know it, clap your hands. (Clap-clap)\n\nIf you're happy and you know it, stomp your feet. (Stomp stomp)\nIf you're happy and you know it, stomp your feet. (Stomp stomp)\nIf you're happy and you know it, then your face will surely show it. \nIf you're happy and you know it, stomp your feet. (Stomp stomp)\n\nIf you're happy and you know it, shout \"Hooray!\" (Hoo-ray!) \nIf you're happy and you know it, shout \"Hooray!\" (Hoo-ray!) \nIf you're happy and you know it, then your face will surely show it.\nIf you're happy and you know it, shout \"Hooray!\" (Hoo-ray!) \n\nIf you're happy and you know it, do all three (clap-clap, stomp-stomp, hoo-ray!)\nIf you're happy and you know it, do all three (clap-clap, stomp-stomp, hoo-ray!)\nIf you're happy and you know it, then your face will surely show it\nIf you're happy and you know it, do all three. (clap-clap, stomp-stomp, hoo-ray!)\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company.\n\n#nurseryrhymes #kidssongs #childrensmusic #supersimplesongs",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/eClGqjHz790/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/eClGqjHz790/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/eClGqjHz790/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/eClGqjHz790/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/eClGqjHz790/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o_2GUlwefGmQDlI8YuJczqDEVJ4",
+      "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:50:01Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "This Old Man Nursery Rhyme for Kids | Learn to Count from 1 to 10",
+        "description": "This Old Man, he played one! Learn to count from 1 to 10 with the popular nursery rhyme \"This Old Man\". With a knick-knack paddywhack, give a dog a bone, this old man came rolling home! Number Rhymes For Children - can you count up from 1 to 10? \n\nLike us on Facebook: http://www.facebook.com/BouncePatrol\nTweet Us: https://twitter.com/bouncepatrol\nJoin Email Club: http://bit.ly/PatrolSquad\nSubscribe: http://www.youtube.com/user/BouncePat...\n\nVisit www.BouncePatrol.com to get Bounce Patrol merch!\n\nMore Videos:\nWatch The Animal Sounds Song: https://youtu.be/uhW1-YW73Dk\nWatch Old MacDonald had a Farm: http://youtu.be/Q7iHJBTNe80\nWatch The Ice Cream Song: https://youtu.be/gcxkvh8wxbk\n\nBounce Patrol make videos for kids - from toddlers and preschool, through to kindergarten and elementary school age. \nSee more of Bounce Patrol's nursery rhymes: http://www.youtube.com/user/BouncePat...\n\n\"This Old Man\" arrangement written by Ace Baker and Clair Marlo\n\nThanks for watching!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JHBlLJTS7w8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JHBlLJTS7w8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JHBlLJTS7w8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JHBlLJTS7w8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JHBlLJTS7w8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JHBlLJTS7w8"
+        },
+        "videoOwnerChannelTitle": "Bounce Patrol - Kids Songs",
+        "videoOwnerChannelId": "UC56cowXhoqRWHeqfSJkIQaA"
+      }
     },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 8,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "eClGqjHz790"
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ti81q48enLrS-aBjhP1-lVp0Yns",
+      "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:50:08Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Five Little Ducks | Kids Songs & Nursery Rhymes | Learn to Count the Little Ducks",
+        "description": "Help Mama Duck find all her little ducks in the kids nursery rhyme \"Five Little Ducks\"! Can you count all the ducks with Rachel? Learn counting while you sing along with Bounce Patrol. Keep an eye out for a special little duck cameo too! \n\nWant to watch offline, with no ads? Get the Bounce Patrol App!\n?? http://bit.ly/BouncePatrolApp\n*Stream videos with NO ADS\n*Download videos for offline viewing\n*Behind the scenes content\n*Exclusive downloads - preschool learning resources, piano sheet music, karaoke tracks, games, activities and more!\n*Support Bounce Patrol, help us make new videos!\n\nFind our songs on:\n?? Apple Music: https://apple.co/2YC8aSz\n?? Spotify: https://spoti.fi/2A52fNF\n?? Google Play: http://bit.ly/2o2ycRl\n?? Amazon Music: https://amzn.to/2nqDCFC\n?? YouTube Music: https://bit.ly/BP-YTMusic\n\nSubscribe for new videos! \n?? http://www.youtube.com/user/BouncePatrolKids\n\nWEBSITE: http://www.BouncePatrol.com\nFACEBOOK: http://www.facebook.com/BouncePatrol\nTWITTER: http://www.twitter.com/BouncePatrol\n\nBounce Patrol make original songs and nursery rhymes for the whole family to enjoy. We love getting kids up and bouncing to our music (hence the name - Bounce Patrol!). Jump up and dance along with Jackson, Alyssa, Rachel, Will and Jacinta - let's bounce!\n\n***Lyrics***\n\nFive little ducks went out one day \nOver the hill and far away\nMother duck said, \"Quack, quack, quack, quack\"\nBut only four little ducks came back\n\nFour little ducks went out one day\nOver the hill and far away\nMother duck said, �Quack quack quack quack\"\nBut only three little ducks came back\n\nThree little ducks went out one day\nOver the hill and far away\nMother duck said, �Quack quack quack quack\"\nBut only two little ducks came back\n\nTwo little ducks went out one day\nOver the hill and far away\nMother duck said, �Quack quack quack quack\"\nBut only one little duck came back\n\nOne little duck went out one day\nOver the hill and far away\nMother duck said, �Quack quack quack quack\"\nBut none of the five little ducks came back\n\nSad mother duck went out one day\nOver the hill and far away\nMother duck said, �Quack quack quack quack\"\nAnd all of five little ducks came back\n\nFive little ducks went out one day\nOver the hill and far away\nMother duck said, �Quack quack quack quack\"\nAnd all of the five little ducks came back\n\nHow many ducks?\n1 2 3 4 5 Yay!\n\nFive little ducks went out one day\nOver the hill and far away\nMother duck said, �Quack, quack, quack, quack\"\nAnd all of the five little ducks came back",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x-KQvzuxtMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x-KQvzuxtMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x-KQvzuxtMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x-KQvzuxtMc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x-KQvzuxtMc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x-KQvzuxtMc"
+        },
+        "videoOwnerChannelTitle": "Bounce Patrol - Kids Songs",
+        "videoOwnerChannelId": "UC56cowXhoqRWHeqfSJkIQaA"
+      }
     }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/WAV3_-UONMxjxCLyh4W22Nn3nHo\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC5GNjNDRDREMDQxOThCMDQ2",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:48:52.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Rain Rain Go Away - Nursery Rhyme with Rainy Day Activities! Nursery Rhymes & Songs for Children",
-    "description": "\"Rain, Rain, Go Away\" Nursery Rhyme for Kids. It's raining, it's pouring... Rain rain go away, so Bounce Patrol can go out and play! We have lots of ideas for things you can do on a rainy day. Jacinta likes to draw with crayons, and Rachel wants to have a tea party. Sing along with Bounce Patrol and chase away those rainy day blues! \n\nDownload videos to watch offline with no ads:\nhttp://bit.ly/Download-BP\n\nLyrics:\nRain rain go away, come again another day \nJacinta wants to play, rain rain go away\nWhen it rains we grab our crayons and spread the paper out\nDraw a picture of us playing when the sun comes back out \n\nRain rain go away, come again another day \nAlyssa wants to play, rain rain go away\nWhen it rains we build a cubby house from blankets and the couch\nSit by the window and look outside at the rain pouring down\n\nRain rain go away, come again another day \nJackson wants to play, rain rain go away\nWhen it rains we pretend to be pirates out at sea\nOur ship is in a storm, but we’re all safe and warm, inside is where we be! Aaarrr\n\nRain rain go away, come again another day \nRachel wants to play, rain rain go away\nWhen it rains we have a party with all our toys as guests\nSet them up and serve them cups of tea, these little cakes are the best!\n\nRain rain go away, come again another day \nWill wants to play, rain rain go away\nWhen it rains we splash in the puddles on the ground\nWe put on gumboots and a raincoat to keep the raindrops out\n\nRain rain go away, come again another day \nWe all want to play, rain rain go away\nCome on everybody!\n\nRain rain go away, come again another day \nBounce Patrol wants to play, rain rain go away\nRain rain go away, come again another day \nBounce Patrol wants to play, rain rain go away\n\nBounce Patrol wants to play, rain rain go away\nRain... rain... rain... rain... rain... Go Away!\n\nFor behind the scenes extras, parents can find us in these places:\nFacebook: http://www.facebook.com/BouncePatrol\nTwitter: http://www.twitter.com/BouncePatrol\n\nSubscribe so you don't miss our new videos: \nhttp://www.youtube.com/user/BouncePatrolKids\n\nBounce Patrol make original songs and nursery rhymes for kids - from toddlers and preschool, through to kindergarten and elementary school age. \n\nThanks for watching!",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/fyLDlFkxxAo/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/fyLDlFkxxAo/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/fyLDlFkxxAo/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/fyLDlFkxxAo/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/fyLDlFkxxAo/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 9,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "fyLDlFkxxAo"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Hr2aP5cVBrDP3UoaXyimY8q-Yew\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC40NzZCMERDMjVEN0RFRThB",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:48:55.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "I Like To Ride My Bicycle | Nursery Rhymes From Caitie's Classroom",
-    "description": "Let's go for a bike ride and sing along to this original bicycle song for kids, \"I Like To Ride My Bicycle\"!\n\nSay \"hi\" to Caitie on the Caitie's Classroom Facebook page ► http://bit.ly/caitiesclassroomFB\n\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple on YouTube with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs. Just search for “Super Simple Play” or “Caitie’s Classroom.” \n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.” \n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app. \n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/caitiesclassroomFB\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\nLYRICS:\n\nLet’s go for a bike ride!\nGet your helmet!\nLet’s go!\n\nI like to ride my bicycle.\nI ride it every day.\nI ride it when I go to school.\nOr when I want to play.\n\nI pedal all around the town.\nI pedal round and round and round.\nI pedal uphill and don’t you know.\nI can even pedal fast. I can even pedal slow.\n\nI like to ride my bicycle.\nI ride it everywhere.\nAnywhere you need to go,\nA bike can take you there.\n\nI pedal up, I pedal down.\nI pedal round and round and round.\nAnd I always stop to say hello.\nBut if I’m late for dinner I can go go go!\nI can go go go!\n\nI like to ride my bicycle\n(whistling)\nI like to ride my bicycle\n(whistling)\n\nPedal breakdown:\nHalf-time pedals - 8x\n“Let’s go faster!”\nFast pedals 4x4\n“Woah not too fast” - 8 bars\nBig uphill half-time pedals - 8x\n“We made it! Let’s go down!”\nFast downhill pedals - 4x4\n“Woah not too fast” - 4 bars\n\nPedal, pedal, pedal, pedal, pedal, pedal, pedal, pedal.\n\nLet’s go faster.\n\nPedal, pedal, pedal, pedal, pedal, pedal, pedal.\nPedal, pedal, pedal, pedal, pedal, pedal, pedal.\nPedal, pedal, pedal, pedal, pedal, pedal, pedal.\nPedal, pedal, pedal, pedal, pedal, pedal, pedal, pedal, whoa!\n\nNot too fast! Look up ahead. It’s a big hill! \nCome on! Let’s pedal to the top together!\n\nPedal, pedal, pedal, pedal, pedal, pedal, pedal, pedal.\n\nWe made it! Let’s go down.\n\nPedal, pedal, pedal, pedal, pedal, pedal, pedal.\nPedal, pedal, pedal, pedal, pedal, pedal, pedal.\nPedal, pedal, pedal, pedal, pedal, pedal, pedal.\nPedal, pedal, pedal, pedal, pedal, pedal, pedal, pedal, whoa!\n\nNot too fast!\n\nI like to ride my bicycle.\nIt’s easy as can be.\nI like to ride my bicycle.\nAnd you can ride with me!",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/-FST-CqbqUY/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/-FST-CqbqUY/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/-FST-CqbqUY/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/-FST-CqbqUY/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/-FST-CqbqUY/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 10,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "-FST-CqbqUY"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/hdG7xtRZ3lMiugU5KO0_lehkrqg\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC5EMEEwRUY5M0RDRTU3NDJC",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:49:01.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Mary had a Little Lamb - Nursery Rhymes and Kids Songs",
-    "description": "\"Mary had a Little Lamb\" nursery rhyme for kids, with a Bounce Patrol twist. Everywhere that Mary went the lamb was sure to follow... do you recognise any of the places Mary and her lamb go on their adventures? Follow along as Mary takes her lamb to school, the beach and lots of other fun places\n\nListen to our songs in your music app:\nSpotify: http://spoti.fi/2IfMsvH\nApple Music: https://apple.co/2YC8aSz\nGoogle Play: http://bit.ly/2FrXpwj\nAmazon: http://amzn.to/2p0aUsQ\nJust search \"Bounce Patrol\" in your favourite app\n\nDownload videos for offline viewing with no ads:\nhttp://bit.ly/Download-BP\n\nBounce Patrol merch on our website: \nhttp://www.bouncepatrol.com\n\nSocial Media for Bounce Patrol updates:\nFacebook: http://www.facebook.com/BouncePatrol\nTwitter: http://www.twitter.com/BouncePatrol\n\nSubscribe to be notified of new videos: \nhttp://www.youtube.com/user/BouncePatrolKids\n\nBounce Patrol make original songs and nursery rhymes for kids - from toddlers and preschool, through to kindergarten and elementary school age. \n\nThanks for watching!",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/AqwLb00BOqc/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/AqwLb00BOqc/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/AqwLb00BOqc/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/AqwLb00BOqc/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/AqwLb00BOqc/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 11,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "AqwLb00BOqc"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/du4Olw10xlB1ucEpbX88bPo_71w\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC45ODRDNTg0QjA4NkFBNkQy",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:49:05.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "What's Your Favorite Color? | Kids Songs | Super Simple Songs",
-    "description": "Watch videos from Super Simple in the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\nFeaturing all the Super Simple Puppets, sing along with this bright and happy colors song: What's Your Favorite Color?! 🎶My favorite color’s blue, how ‘bout you, how ‘bout you? My favorite color’s blue, how ‘bout you, how ‘bout you?🎶\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n*****\nLyrics:\nMy favorite color’s blue, how ‘bout you, how ‘bout you?\nMy favorite color’s blue, how ‘bout you, how ‘bout you?\n\n“Red!”\n\nMy favorite color’s red, I like red, I like red!\nMy favorite color’s red, I like red, I like red!\n\nColors, colors,\nWhat’s your favorite color?\nColors, colors,\nWhat’s your favorite color?\n\n“Green!”\n\nMy favorite color’s green, I like green, I like green!\nMy favorite color’s green, I like green, I like green!\n\n“Yellow!”\n\nMy favorite color’s yellow, I like yellow, I like yellow!\nMy favorite color’s yellow, I like yellow, I like yellow!\n\nColors, colors,\nWhat’s your favorite color?\nColors, colors,\nWhat’s your favorite color?\n\n“Orange!”\n\nMy favorite color’s orange, I like orange, I like orange!\nMy favorite color’s orange, I like orange, I like orange!\n\n“Purple!”\n\nMy favorite color’s purple, I like purple, I like purple!\nMy favorite color’s purple, I like purple, I like purple!\n\nColors, colors,\nWhat’s your favorite color?\nColors, colors,\nWhat’s your favorite color?\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company.\n\n#nurseryrhymes #kidssongs #childrensmusic #supersimplesongs",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/zxIpA5nF_LY/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/zxIpA5nF_LY/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/zxIpA5nF_LY/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/zxIpA5nF_LY/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/zxIpA5nF_LY/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 12,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "zxIpA5nF_LY"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/70yncZOfoUD8I3lz8Wort4_YAkc\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC4zMDg5MkQ5MEVDMEM1NTg2",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:49:47.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Five Little Monkeys Jumping on the Bed | Children nursery rhymes!",
-    "description": "It's the classic kids nursery rhyme \"Five Little Monkeys Jumping on the Bed\". Jump, jump, jump and sing with Bounce Patrol! Let's count up all the jumping monkeys!\n\nMore Bounce Patrol!\nFacebook: http://www.facebook.com/BouncePatrol\nTwitter: https://twitter.com/BouncePatrol\n\nDownload videos to watch offline with no ads:\nhttp://bit.ly/Download-BP\n\nBounce Patrol make videos for kids - from toddlers and preschool, through to kindergarten and elementary school age. \n\nSubscribe for more of Bounce Patrol's kids songs: http://www.youtube.com/user/BouncePatrolKids\n\nThanks for watching!\n\n*****\nLyrics:\n\nFive little monkeys jumping on the bed\nOne fell off and bumped his head\nJackson called the doctor and the doctor said\n\"No more monkeys jumping on the bed!\"\n\nJump jump jump, little monkeys, jump jump jump, hey!\nJump jump jump, little monkeys\nNo more monkeys jumping on the bed!\n\nHey! Four!\nFour little monkeys jumping on the bed\nOne fell off and bumped his head\nRachel called the doctor and the doctor said\n\"No more monkeys jumping on the bed!\"\n\nJump jump jump, little monkeys, jump jump jump, hey!\nJump jump jump, little monkeys\nNo more monkeys jumping on the bed!\n\nHey! Three!\nThree little monkeys jumping on the bed\nOne fell off and bumped his head\nWill called the doctor and the doctor said\n\"No more monkeys jumping on the bed!\"\n\nJump jump jump, little monkeys, jump jump jump, hey!\nJump jump jump, little monkeys\nNo more monkeys jumping on the bed!\n\nHey! Two!\nTwo little monkeys jumping on the bed\nOne fell off and bumped his head\nAlyssa called the doctor and the doctor said\n\"No more monkeys jumping on the bed!\"\n\nJump jump jump, little monkeys, jump jump jump, hey!\nJump jump jump, little monkeys\nNo more monkeys jumping on the bed!\n\nHey! One!\nOne little monkey jumping on the bed\nOne fell off and bumped his head\nJacinta called the doctor and the doctor said\n\"No more monkeys jumping on the bed!\"\n\nJump jump jump, little monkeys, jump jump jump, hey!\nJump jump jump, little monkeys\nNo more monkeys jumping on the bed!\n\nHey! None!\nNo little monkeys jumping on the bed\nNone fell off and bumped their head\nWe all called the doctor and the doctor said\n\"Put those monkeys back to bed!\"\n\nJump jump jump, little monkeys, jump jump jump, hey!\nJump jump jump, little monkeys\nNo more monkeys jumping on the bed!\n\nJump jump jump, little monkeys, jump jump jump, hey!\nJump jump jump, little monkeys, JUMP JUMP JUMP!",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/16Wk2piuW60/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/16Wk2piuW60/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/16Wk2piuW60/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/16Wk2piuW60/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/16Wk2piuW60/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 13,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "16Wk2piuW60"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ef5HZaj-wy8oW9pnGNR1W9GSIII\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC41Mzk2QTAxMTkzNDk4MDhF",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:49:51.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Wind The Bobbin Up | Kids Songs | Super Simple Songs",
-    "description": "Watch videos from Super Simple in the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\nSing and clap your hands together to the latest gesture-play song for kids from Super Simple Songs. \n🎶  Wind the bobbin up. Wind the bobbin up. Pull, pull, clap, clap, clap.🎶  👏👏👏\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\n\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\nLyrics:\n\nWind the bobbin up.\nWind the bobbin up.\nPull, pull, clap, clap, clap.\n\nWind it back again.\nWind it back again.\nPull, pull, clap, clap, clap.\n\nPoint to the ceiling.\nPoint to the floor.\nPoint to the window.\nPoint to the door.\nClap your hands together, 1, 2, 3.\nPut your hands upon your knee.\n\nWind the bobbin up.\nWind the bobbin up.\nPull, pull, clap, clap, clap.\nWind it back again.\nWind it back again.\nPull, pull, clap, clap, clap.\n\nPoint to the ceiling.\nPoint to the floor.\nPoint to the window.\nPoint to the door.\nClap your hands together, 1, 2, 3.\nPut your hands upon your knee.\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company.\n\n#nurseryrhymes #kidssongs #childrensmusic #supersimplesongs",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/pDuaaEq7rk4/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/pDuaaEq7rk4/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/pDuaaEq7rk4/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/pDuaaEq7rk4/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/pDuaaEq7rk4/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 14,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "pDuaaEq7rk4"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Md-FB0fQ-Itd5UZFdCoszjrQVVU\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC5EQUE1NTFDRjcwMDg0NEMz",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:49:54.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Head Shoulders Knees and Toes with Charli's Crafty Kitchen | Kids nursery rhymes",
-    "description": "Head, Shoulders, Knees and Toes - Nursery Rhyme song for kids. Featuring our friends Charli and Ashlee, from Charli's Crafty Kitchen! How many body parts do you know? Let's learn them all! Can you point to you head, shoulders, knees and toes? \n\nWatch the cooking video we made with Charli and Ashlee: http://youtu.be/I-DphXDd1VI\nSubscribe to their channel: www.youtube.com/user/CharlisCraftyKitchen\n\nTwitter: http://www.twitter.com/bouncepatrol\nFacebook: http://www.facebook.com/BouncePatrol\nWeb: http://www.bouncepatrol.com\n\nBounce Patrol make videos for kids - from toddlers and preschool, through to kindergarten and elementary school age. \n\nSubscribe for more of Bounce Patrol's kids songs: http://www.youtube.com/user/BouncePatrolKids\n\nThanks for watching!",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/nouDkGtDPNk/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/nouDkGtDPNk/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/nouDkGtDPNk/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/nouDkGtDPNk/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/nouDkGtDPNk/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 15,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "nouDkGtDPNk"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/wB3XyWh0i-ygIT7sSWN7m5j-XPk\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC41QTY1Q0UxMTVCODczNThE",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:49:58.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "The Wheels On The Bus | Super Simple Songs",
-    "description": "Watch videos from Super Simple in the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\nIt's the classic kids song, \"The Wheels On The Bus,\" made super simple! Ride along with our friendly bus driver as the wheels go round and round!\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n******\nLyrics: \n\nThe wheels on the bus go round and round. \nRound and round. Round and round.\nThe wheels on the bus go round and round. Round and round.\n\nThe door on the bus goes open and shut. \nOpen and shut. Open and shut.\nThe door on the bus goes open and shut. Open and shut.\n\nThe wipers on the bus go swish swish swish. \nSwish swish swish. Swish swish swish.\nThe wipers on the bus go swish swish swish. Swish swish swish.\n\nThe horn on the bus goes beep beep beep. \nBeep beep beep. Beep beep beep.\nThe horn on the bus goes beep beep beep. Beep beep beep.\n\nThe people on the bus go up and down. \nUp and down. Up and down.\nThe people on the bus go up and down. Up and down.\n\nThe babies on the bus go wah wah wah.\nWah wah wah. Wah wah wah.\nThe babies on the bus go wah wah wah. Wah wah wah.\n\nThe mommies on the bus go, \"Shhh shhh shhh.\"\n\"Shhh shhh shhh. Shhh shhh shhh.\"\nThe daddies on the bus go, \"Shhh shhh shhh. Shhh shhh shhh.\"\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Super Simple Learning, Inc.\n\n*****\nThe Wheels On The Bus by Super Simple Learning",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/GzrjwOQpAl0/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/GzrjwOQpAl0/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/GzrjwOQpAl0/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/GzrjwOQpAl0/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/GzrjwOQpAl0/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 16,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "GzrjwOQpAl0"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/QVajqyIMS7t5gELB9ZwrMA8sesQ\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC4yMUQyQTQzMjRDNzMyQTMy",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:50:01.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "This Old Man Nursery Rhyme for Kids | Learn to Count from 1 to 10",
-    "description": "This Old Man, he played one! Learn to count from 1 to 10 with the popular nursery rhyme \"This Old Man\". With a knick-knack paddywhack, give a dog a bone, this old man came rolling home! Number Rhymes For Children - can you count up from 1 to 10? \n\nLike us on Facebook: http://www.facebook.com/BouncePatrol\nTweet Us: https://twitter.com/bouncepatrol\nJoin Email Club: http://bit.ly/PatrolSquad\nSubscribe: http://www.youtube.com/user/BouncePat...\n\nVisit www.BouncePatrol.com to get Bounce Patrol merch!\n\nMore Videos:\nWatch The Animal Sounds Song: https://youtu.be/uhW1-YW73Dk\nWatch Old MacDonald had a Farm: http://youtu.be/Q7iHJBTNe80\nWatch The Ice Cream Song: https://youtu.be/gcxkvh8wxbk\n\nBounce Patrol make videos for kids - from toddlers and preschool, through to kindergarten and elementary school age. \nSee more of Bounce Patrol's nursery rhymes: http://www.youtube.com/user/BouncePat...\n\n\"This Old Man\" arrangement written by Ace Baker and Clair Marlo\n\nThanks for watching!",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/JHBlLJTS7w8/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/JHBlLJTS7w8/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/JHBlLJTS7w8/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/JHBlLJTS7w8/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/JHBlLJTS7w8/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 17,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "JHBlLJTS7w8"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/u_GluzX70iq-UaSePXKWw8Rel8U\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC45RTgxNDRBMzUwRjQ0MDhC",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:50:05.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "The Eensy Weensy Spider | Kids Songs | Super Simple Songs",
-    "description": "More great Super Simple videos in the Super Simple App for iOS ► http://apple.co/2nW5hPd\n\nWe're celebrating Sesame Street's Nursery Rhyme Week with a new animated video for The Eensy Weensy Spider (aka The Itsy Bitsy Spider). \n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n******\nLyrics: \nThe eensy weensy spider went up the water spout. \nDown came the rain and washed the spider out. \nOut came the sun and dried up all the rain. \nThen the eensy weensy spider went up the spout again.\n\nOkay…put your fingers together.\nLet's do The Eensy Weensy Spider.\n\nThe eensy weensy spider went up the water spout.\nDown came the rain and washed the spider out.\nOut came the sun and dried up all the rain.\nThen the eensy weensy spider went up the spout again.\n\nA little faster now.\n\nThe eensy weensy spider went up the water spout.\nDown came the rain and washed the spider out.\nOut came the sun and dried up all the rain.\nThen the eensy weensy spider went up the spout again.\n\nNow let's try it slow, with a low voice.\nAnd a big, big spider.\n\nThe big, big spider went up the water spout.\nDown came the rain and washed the spider out.\nOut came the sun and dried up all the rain.\nThen the big, big spider went up the spout again. \n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Super Simple Learning, Inc.\n\n*****\nThe Eensy Weensy Spider by Super Simple Learning",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/bne3Ix_tJL8/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/bne3Ix_tJL8/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/bne3Ix_tJL8/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/bne3Ix_tJL8/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/bne3Ix_tJL8/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 18,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "bne3Ix_tJL8"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/AQSxNT5W0N3_8fYA4UGtLi2a7IM\"",
-   "id": "UExiXzFSUnhJWlRMSVdCOW13UU1ZZzdTc0hUTW1hRzBYaC5ENDU4Q0M4RDExNzM1Mjcy",
-   "snippet": {
-    "publishedAt": "2019-10-05T13:50:08.000Z",
-    "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-    "title": "Five Little Ducks | Kids Songs & Nursery Rhymes | Learn to Count the Little Ducks",
-    "description": "Help Mama Duck find all her little ducks in the kids nursery rhyme \"Five Little Ducks\"! Can you count all the ducks with Rachel? Learn counting while you sing along with Bounce Patrol. Keep an eye out for a special little duck cameo too! \n\nStream our songs wherever you listen to music! \niTunes: https://apple.co/2Gd4aPZ\nGoogle Play: http://bit.ly/2FrXpwj\nSpotify: http://spoti.fi/2IfMsvH\nAmazon Music: http://amzn.to/2p0aUsQ\nJust search \"Bounce Patrol\" in your favourite music app\n\nDownload videos for offline viewing:\nhttp://bit.ly/Download-BP\n\nFor behind the scenes extras, parents can find us in these places:\nFacebook: http://www.facebook.com/BouncePatrol\nTwitter: http://www.twitter.com/BouncePatrol\n\nSubscribe for new videos: \nhttp://www.youtube.com/user/BouncePatrolKids\n\nBounce Patrol make original songs and nursery rhymes for kids - from toddlers and preschool, through to kindergarten and elementary school age. \n\n***Lyrics***\n\nFive little ducks went out one day \nOver the hill and far away\nMother duck said, \"Quack, quack, quack, quack\"\nBut only four little ducks came back\n\nFour little ducks went out one day\nOver the hill and far away\nMother duck said, “Quack quack quack quack\"\nBut only three little ducks came back\n\nThree little ducks went out one day\nOver the hill and far away\nMother duck said, “Quack quack quack quack\"\nBut only two little ducks came back\n\nTwo little ducks went out one day\nOver the hill and far away\nMother duck said, “Quack quack quack quack\"\nBut only one little duck came back\n\nOne little duck went out one day\nOver the hill and far away\nMother duck said, “Quack quack quack quack\"\nBut none of the five little ducks came back\n\nSad mother duck went out one day\nOver the hill and far away\nMother duck said, “Quack quack quack quack\"\nAnd all of five little ducks came back\n\nFive little ducks went out one day\nOver the hill and far away\nMother duck said, “Quack quack quack quack\"\nAnd all of the five little ducks came back\n\nHow many ducks?\n1 2 3 4 5 Yay!\n\nFive little ducks went out one day\nOver the hill and far away\nMother duck said, “Quack, quack, quack, quack\"\nAnd all of the five little ducks came back",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/x-KQvzuxtMc/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/x-KQvzuxtMc/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/x-KQvzuxtMc/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/x-KQvzuxtMc/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/x-KQvzuxtMc/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Kid Video",
-    "playlistId": "PLb_1RRxIZTLIWB9mwQMYg7SsHTMmaG0Xh",
-    "position": 19,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "x-KQvzuxtMc"
-    }
-   }
+  ],
+  "pageInfo": {
+    "totalResults": 10,
+    "resultsPerPage": 50
   }
- ]
 }
