@@ -1,139 +1,61 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "Gb3JcrgEVP01Z902yCyLm6KUQzI",
+  "etag": "wzG5Yhzxn7ZfiyuvTQMYIHpWLKE",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "iTd1lwgjkvcHf8ydeMZoSTrK67c",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC41NkI0NEY2RDEwNTU3Q0M2",
+      "etag": "QB6zQ17eGAQ3rJQ35Qmv_z1JZI0",
+      "id": "UExiXzFSUnhJWlRMS2JhcWh1Ym9XMWV4Z0Y3ZVV4d1lteS41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
-        "publishedAt": "2014-08-13T06:36:10Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
-        "title": "Months Of The Year Song",
-        "description": "It's a months of the year song to the tune of Michael Finnegan or the Ten Little song.\nPerformed by A.J. Jenkins\nCopyright 2009 A.J.Jenkins/KidsTV123: All rights reserved.\nFor MP3s, worksheets and much more:\nhttp://www.KidsTV123.com\n\nKids songs song for children\n\nChords\n\nD A D A D",
+        "publishedAt": "2019-10-05T13:12:12Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Months of the Year Song - 12 Months of the Year - Kids Songs by The Learning Station",
+        "description": "12 Months of the Year Song for kids from our from our popular CD, Preschool Learning Fun.\nDownload Preschool Learning Fun CD: http://store.learningstationmusic.com/preschoollearningfun.aspx\nDownload 12 Months of the Year Song: http://www.cdbaby.com/cd/thelearningstation14\n\nChildren will learn the 12 months of the year with this play along activity song that makes learning fun. Our 12 Months of the Year Song enhances word recognition, vocabulary, comprehension, memory and recall. Kids will have fun and learn the 12 months of the year! This song is ideal for preschool, kindergarten and ESL programs.\n\n“Like” us on Facebook and participate in FREE giveaways galore: http://www.facebook.com/LearningStationMusic\n\nVisit The Learning Station: https://www.learningstationmusic.com/\nVisit our store!  CD’s, CD Downloads, DVD’s, Tee shirts & more: https://www.learningstationmusic.com/shop/\n\nIllustrations and animation by Corbett Vanoni: https://www.facebook.com/CorbettVanoniArt\n\nSTAY IN TOUCH WITH US \nFacebook: http://www.facebook.com/LearningStationMusic\nTwitter: https://twitter.com/LearningStation\nPinterest: http://pinterest.com/kidssong/\nBlog: http://www.learningstationmusic.com/blog/\nGoogle+: https://plus.google.com/+Learningstationmusic\n\n* FREE STUFF *\nSign-up for our FREE newsletter: http://learningstationmusic.com/newsletter.html\nFREE printable activities: http://learningstationmusic.com/printablehandouts.html\n\nTHE LEARNING STATION is a multi-award-winning children’s group. With combined backgrounds and degrees in early childhood education, child development and music, this trio, has achieved international stature as leaders in the children's educational music industry. They presently have a collection of 30 award-winning audio and video releases and they have published over 350 children's songs that are part of educational curriculums world-wide. They are widely recognized for their international hit song, Tony Chestnut.\nTo learn more visit: https://www.learningstationmusic.com/\n\n12 Months of the Year Song\nFrom the CD, Preschool Learning Fun\nby The Learning Station                                                               \n℗©Monopoli/The Learning Station \nLYRICS: These are the months of the year.  There are twelve months in a year.  These are the months.  We’ll sing it more than once and we’ll sing it loud enough for all to hear.\nSay, January (January), February (February), March (March), April (April), May (May), June (June), July (July), August (August), September (September), October (October), November (November), December (December).\nThese are the months of the year.  There are twelve months in a year.  These are the months.  We’ll sing it more than once and we’ll sing it loud enough for all to hear.\nSay, January (January), February (February), March (March), April (April), May (May), June (June), July (July), August (August), September (September), October (October), November (November), December (December).\nThese are the months of the year.  There are twelve months in a year.  These are the months.  We’ll sing it more than once and we’ll sing it loud enough for all to hear.\nSay, January (January), February (February), March (March), April (April), May (May), June (June), July (July), August (August), September (September), October (October), November (November), December (December).\nThese are the months of the year.  \n\nhttp://www.youtube.com/user/thelearningstation",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/5enDRrWyXaw/default.jpg",
+            "url": "https://i.ytimg.com/vi/lPeAo1hz8GA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/5enDRrWyXaw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lPeAo1hz8GA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/5enDRrWyXaw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lPeAo1hz8GA/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lPeAo1hz8GA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lPeAo1hz8GA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "5enDRrWyXaw"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "jbe6MTkdMO_N_f7IHbko5mEdhSY",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC4yODlGNEE0NkRGMEEzMEQy",
-      "snippet": {
-        "publishedAt": "2014-08-13T06:36:50Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
-        "title": "The Months Chant | Super Simple Songs",
-        "description": "Watch this video and MUCH more in the Super Simple App for iOS! ? http://apple.co/2nW5hPd\n\nAn easy chant for practicing the months of the year. \n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n? SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n? DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n? YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n? AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n? KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n? PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n******\nLyrics: \n? January (January!)\nFebruary (February!)\nMarch (March!)\nApril (April!)\nMay (May!)\nJune (June!)\nJuly (July!)\nAugust (August!)\nSeptember (September!)\nOctober (October!)\nNovember (November!)\nDecember (December!)\n\nNow you try!\n\nJanuary, February, March, April, May, June, July, August, September, October, November, December. ?\n\n******\nSong: The Months Chant\nAlbum: Super Simple Songs 3\nMusic: Super Simple Learning\nVocals: Matt Stamm and Ingrid DuMosch DeHaan\n\n******\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Super Simple Learning, Inc.\n\n******\n\"The Months Chant\" by Super Simple Learning",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/gtc4c1JlAEM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/gtc4c1JlAEM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/gtc4c1JlAEM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/gtc4c1JlAEM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/gtc4c1JlAEM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+          "videoId": "lPeAo1hz8GA"
         },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "gtc4c1JlAEM"
-        }
+        "videoOwnerChannelTitle": "TheLearningStation - Kids Songs and Nursery Rhymes",
+        "videoOwnerChannelId": "UC4Hdb26_xnPQsntwLazMqYw"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "qN6odiNf_MYUZdFqwdDZC1b2UKg",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC4wMTcyMDhGQUE4NTIzM0Y5",
+      "etag": "frTBMZ2rpi9513UA3ayAOBHrDbQ",
+      "id": "UExiXzFSUnhJWlRMS2JhcWh1Ym9XMWV4Z0Y3ZVV4d1lteS4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
-        "publishedAt": "2014-08-13T06:38:32Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
-        "title": "Months of the Year Song | Learn English Kids",
-        "description": "Get this song on iTunes: http://goo.gl/ae9tU  Let's learn the Months of the Year in this fun song! \n \nChords:\nC               G              F          C \nJanuary, February, March, April, \nC        E        F  G    C\nMay, June,  July,   August,\nC                   A             F           G    C\nSeptember, October, November, December!\n\nOriginal song written and performed by Matt R. \nhttp://www.dreamenglish.com\n\nSupport Dream English! Check out what we have to offer: \n\nBest of Kids Songs Volume 1 on iTunes (great for car rides!)\nhttp://bit.ly/yG4Tfu Includes Let's Count 1 to 10.\nBest of Kids Songs Volume 2 on iTunes:\nhttp://goo.gl/ae9tU Includes Months of The Year Song\n\nCheck out our Android and Mobile Apps Kids songs and Math:\nhttp://www.dreamenglish.com/mobileapps",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/v608v42dKeI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/v608v42dKeI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/v608v42dKeI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/v608v42dKeI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/v608v42dKeI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "v608v42dKeI"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "E5TdRhPEqm0BZAsU9zcM9nqFKr0",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC4wOTA3OTZBNzVEMTUzOTMy",
-      "snippet": {
-        "publishedAt": "2014-08-13T06:40:24Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
+        "publishedAt": "2019-10-05T13:12:40Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
         "title": "The Months of the Year Song",
         "description": "A fun song and video to help practice the months of the year. Download on iTunes: http://apple.co/1USYieq\n\nWatch the Seasons Song: \nhttps://www.youtube.com/watch?v=VS9qBeInJ0U&\n\nSing and Learn Orange Album Playlist: \nhttps://www.youtube.com/watch?v=gVIFEVLzP4o&list=PLPUKlTOZI_L7uBnAV60VtZ5qs0Tg6hq46\n\n--------------------------------------------------------\nDownload the Months song from Sing and Learn Orange on: \n\niTunes: http://apple.co/1USYieq\nAmazon: http://amzn.to/1Tgbz2d\nCD Baby: http://bit.ly/1Ql06Mh\n\nFind a Shop in your Country: \nhttp://mapleleaflearning.com/shop\n\n--------------------------------------------------------\nTeacher and Parent Resources: \n\nMonths song information and resources: \nhttp://www.mapleleaflearning.com/songs/sing-and-learn-orange/months\n\nDownload song flashcards, worksheets, coloring activities and more in our Resource Library: \nhttp://www.mapleleaflearning.com/library/months\n\nMonths song Teacher's Video: \nhttps://www.youtube.com/watch?v=N04aXmA62Es\n\n--------------------------------------------------------\nFollow us online: \n\nFacebook: http://www.facebook.com/maplemarty\nTwitter: http://www.twitter.com/maplemarty\nPinterest: http://www.pinterest.com/maplemarty\nGoogle: https://plus.google.com/+Mapleleaflearning\nLinkedin: https://www.linkedin.com/company/maple-leaf-learning\n\n--------------------------------------------------------\nMonths Song Lyrics: \n\nJanuary, February, March, April\nMay, June, July, August\nSeptember, October, November, December.\n\nJanuary, February, March, April\nMay, June, July, August\nSeptember, October, November, December.\n\nJanuary, February, March, April\nMay, June, July, August\nSeptember, October, November, December.\n\n\nCopyright Maple Leaf Learning",
         "thumbnails": {
@@ -163,412 +85,24 @@
             "height": 720
           }
         },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 4,
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "-4s-ut7N0jQ"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "7y_IlahTXkNmpr39Gy9RibmPbSY",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC4xMkVGQjNCMUM1N0RFNEUx",
-      "snippet": {
-        "publishedAt": "2014-08-13T06:41:39Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
-        "title": "12 MONTHS!  (song for kids about 12 months in a year)",
-        "description": "12 MONTHS!\n\n\nTo purchase this song in video format (.mp4) or audio format (.m4a), please visit www.harrykindergartenmusic.com!\n\nWWW.HARRYKINDERGARTENMUSIC.COM\nHip songs & videos for the K-2 classroom!\n\n- Most videos on my website: $2.49\n- All audio files on my website: $1.00\n- Song packs for a discounted price also available!\n\n\nCheck out the Harry Kindergarten Music FACEBOOK page!\nwww.facebook.com/groups/harrykindergarten\n\nTo contact Mr. Harry about a speaking engagement for teachers, or if you have any other questions/comments, please contact pete@harrykindergartenmusic.com.\n\n\n*Disclaimer:\nVideos produced and shared by Harry Kindergarten Music are intended to be shown on the official HARRY KINDERGARTEN MUSIC YouTube channel and are NOT to be uploaded anywhere else.  Please do NOT rip videos off of my channel and put them on yours.  If YouTube is blocked in your school district, I graciously ask you to purchase the video or audio files from my website shown above.  Happy teaching!\n\nQ: Can my class perform a \"Harry Kindergarten song\" for an audience?\nA: If you desire to have your class or group of students perform one of my “Harry Kindergarten” songs for an audience, please note that there is a $6.00 PERFORMANCE FEE.\n\nHere are some hypothetical examples of performance groups:\n* Students perform a song for an audience during a graduation ceremony.\n* Students perform a song for an audience during a school or community talent show.\n* Students perform a song for an audience during a school assembly.\nIf you are unsure if you need to purchase a performance license or not, please inquire at: pete@harrykindergartenmusic.com.  If you want more details about using a song multiple years or multiple classes, etc., e-mail me for a detailed PDF file.  \n\n$6.00 can be sent to:\n\nHarry Kindergarten Music, LLC\n\n508 Stewart Street\n\nBellwood, PA  16617",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/RBD5s-wuXyI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/RBD5s-wuXyI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/RBD5s-wuXyI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/RBD5s-wuXyI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/RBD5s-wuXyI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
         },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 5,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "RBD5s-wuXyI"
-        }
+        "videoOwnerChannelTitle": "Maple Leaf Learning",
+        "videoOwnerChannelId": "UCdHK6g8ddMEcMu9B3LgeKYg"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Tv92rx3xBvmjMZjnUyq9Yd8h7sg",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC41MzJCQjBCNDIyRkJDN0VD",
+      "etag": "K21Fb7MZ-qO4zknMQbFNWvlCf64",
+      "id": "UExiXzFSUnhJWlRMS2JhcWh1Ym9XMWV4Z0Y3ZVV4d1lteS41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
-        "publishedAt": "2014-08-13T06:42:22Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
-        "title": "Months of the Year Song - 12 Months of the Year - Kids Songs by The Learning Station",
-        "description": "12 Months of the Year Song, from the popular CD, Preschool Learning Fun - Download CD: http://store.learningstationmusic.com/preschoollearningfun.aspx\n12 Months of the Year Song Download: http://www.cdbaby.com/cd/thelearningstation14\n\n\"Like\" us on Facebook and participate in FREE giveaways and freebies galore!: http://www.facebook.com/LearningStationMusic\n\nSTAY IN TOUCH WITH US \nFacebook: http://www.facebook.com/LearningStationMusic\nTwitter: https://twitter.com/LearningStation\nPinterest: http://pinterest.com/kidssong/\nBlog: http://www.learningstationmusic.com/blog/\nGoogle+: https://plus.google.com/+Learningstationmusic\n\n* FREE STUFF *\nSign-up for our FREE newsletter: http://learningstationmusic.com/newsletter.html\nFREE printable activities: http://learningstationmusic.com/printablehandouts.html\nMeet Tony Chestnut: http://www.tonychestnut.com/\n\nPreschoolers will have fun while learning the twelve months of the year with this interactive music and movement song. Youngsters will increase vocabulary, word comprehension and listening skills with this simple and fun tune. With repetition being the key to memory and recall this is an inviting way to teach and learn the twelve months in a year! \n\n12 Months of the Year Song                                                                                                                            \nFrom the CD, \"Preschool Learning Fun\"\nBy The Learning Station\n?©Monopoli/The Learning Station\nLYRICS: \nThese are the months of the year.  There are twelve months in a year.  These are the months.  We'll sing it more than once and we'll sing it loud enough for all to hear.\nSay, January (January), February (February), March (March), April (April), May (May), June (June), July (July), August (August), September (September), October (October), November (November), December (December).\nThese are the months of the year.  There are twelve months in a year.  These are the months.  We'll sing it more than once and we'll sing it loud enough for all to hear.\nSay, January (January), February (February), March (March), April (April), May (May), June (June), July (July), August (August), September (September), October (October), November (November), December (December).\nThese are the months of the year.  There are twelve months in a year.  These are the months.  We'll sing it more than once and we'll sing it loud enough for all to hear.\nSay, January (January), February (February), March (March), April (April), May (May), June (June), July (July), August (August), September (September), October (October), November (November), December (December).\nThese are the months of the year.  \n\nhttp://www.youtube.com/user/TheLearningStation",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/b_A43_sYIiw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/b_A43_sYIiw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/b_A43_sYIiw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/b_A43_sYIiw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/b_A43_sYIiw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 6,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "b_A43_sYIiw"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "y_RVUQDCCd-4QWcuOdCZ-OKvAyg",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC5DQUNERDQ2NkIzRUQxNTY1",
-      "snippet": {
-        "publishedAt": "2014-08-13T06:43:28Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
-        "title": "Learn the Months of the Year - The Months of the Year Song! Homeschool family.",
-        "description": "DOWNLOAD an mp3 of this song for ONLY $1 (click below):\nhttp://tinygrads.com/product/song-months-of-the-year-audio/\n\nTo watch our videos with NO ADS, visit our website by clicking:  http://tinygrads.com\n\nThanks so much for watching!\n\nTinyGads.com is happy to bring you The Months of the Year Song! Come sing with us! Learn the months of the year by this fun new song to the tune of She'll be Comin' 'Round the Mountain When She Come!\n\nHere are the word for you!\n\nCome and sing the months of the year along with me!\nCome and sing the months of the year along with me!\nJanuary through December, it's so easy to remember\nIf you sing the months of the year along with me.\n\nWe have January February, March,\nApril, May, June, July, and August too!\nWith September and October, our song is almost over,\nJust November and December and we're through!\n\nColorful animation with a fun song combine to make an easy way to learn the months of the year!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/VECiSMV4GX4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/VECiSMV4GX4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/VECiSMV4GX4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/VECiSMV4GX4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/VECiSMV4GX4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 7,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "VECiSMV4GX4"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "s6PHpEoREcKs-plKnPTs_6xKtwY",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC45NDk1REZENzhEMzU5MDQz",
-      "snippet": {
-        "publishedAt": "2014-08-13T06:46:10Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
-        "title": "Months of the Year Song (Learn Months of the Year for Kids - Audio)",
-        "description": "Songs for Kids: http://havefunteaching.com/songs/songs-for-kids/\n\nThe Months of the Year Song Download is a math song that teaches months of the year. This is a song for learning the months of the year. January, February, March, April, May, June, July, August, September, October, November, December.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/FUlI9io9JeE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/FUlI9io9JeE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/FUlI9io9JeE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/FUlI9io9JeE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 8,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "FUlI9io9JeE"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "fmGAXDQPPv3sbzVx-cNK8mKtBIc",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC5GNjNDRDREMDQxOThCMDQ2",
-      "snippet": {
-        "publishedAt": "2014-08-13T06:46:38Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
-        "title": "Months of Year Song!",
-        "description": "#months #calendar #teaching\nHere's one I wrote to help my early elementary students learn the 12 months of the year!\n\nSung to the tune of She'll be Coming Around the Mountain!\nPurchase on iTunes! http://goo.gl/wxv7Hy\n\nLYRICS\n\nWe can say the 12 months of the year,\nOh yes,\nWe can say the 12 months of the year,\nOh yes\nRight up to December,\nThey’re such great fun to remember,\nOh yes, we can say the 12 months of the year!\n\nJanuary, February, March,\nApril, May, June, July, August,\nSeptember, October, November, December,\nWe can say the 12 months of the year!\n\nI say January,\nI say February,\nI say March,\nI say April,\nI say May,\nI say June,\nI say July \nI say August ,\nI say September, October, November,\nThe last month is December…\n\nOh yes,\nWe can say the 12 months of the year,\nOh yes,\n We can say the 12 months of the year,\nOh yes\nRight up to December,\nThey’re such great fun to remember,\nOh yes, we can say the 12 months of the year!\n\nJanuary, February, March,\nApril, May, June, July, August,\nSeptember, October, November, December,\nWe can say the 12 months of the year! \n\nI say January,\nI say February,\nI say March,\nI say April,\nI say May,\nI say June,\nI say July \nI say August ,\nI say September, October, November,\nThe last month is December…\n\n(SPOKEN SECTION)\n\nI say January,\nI say February,\nI say March,\nI say April,\nI say May,\nI say June,\nI say July \nI say August ,\nI say September, October, November,\nThe last month is December…\n\nOh yes,\nWe can say the 12 months of the year,\nOh yes,\n We can say the 12 months of the year,\nOh yes\nRight up to December,\nThey’re such great fun to remember,\nOh yes, we can say the 12 months of the year!\n\nJanuary, February, March,\nApril, May, June, July, August,\nSeptember, October, November, December,\nWe can say the 12 months of the year!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/lEIDz79GhKA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/lEIDz79GhKA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/lEIDz79GhKA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/lEIDz79GhKA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/lEIDz79GhKA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 9,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "lEIDz79GhKA"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "dxLSnlCBRMqpC6Ei3SQ4S3xLeFE",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC40NzZCMERDMjVEN0RFRThB",
-      "snippet": {
-        "publishedAt": "2014-08-13T06:48:28Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
-        "title": "Nursery Rhymes - Months of the Year Song",
-        "description": "Nursery Rhymes learning the Months of the year song. Songs for children are a great way to learn the months of the year. This nursery rhyme will help your child learn the months of the year in english. \nVisit http://Blippi.com for more nursery rhymes, educational video fun, and more! Also Blippi's Facebook - http://facebook.com/Blippi",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Of8_F1sBRNk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Of8_F1sBRNk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Of8_F1sBRNk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Of8_F1sBRNk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Of8_F1sBRNk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 10,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "Of8_F1sBRNk"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "z0u5VBL6KUmoXELlB55x2CJgP3Q",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC5EMEEwRUY5M0RDRTU3NDJC",
-      "snippet": {
-        "publishedAt": "2014-08-13T06:50:21Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
-        "title": "Time: \"Twelve Months of the Year\" by StoryBots | Netflix Jr",
-        "description": "Can you name all twelve months of the year? The StoryBots have made it easy by putting them all in a song! \n\nThe StoryBots are curious little creatures who live beneath our screens, offering a world of learning and fun for kids. The Emmy Award-winning “Ask the StoryBots” is now streaming on Netflix!\n\nLYRICS: \n\nJanuary,\nFebruary, March\nApril, May, June & July\nAugust, September\nOctober, November\nDecember and the year's gone by\n\nMonths remind me of birds sometimes,\nThe way they just fly by\nOne year has twelve of these little guys\nYou can name them if you try\nSo all you've got to do is lend an ear,\nAnd we'll sing those twelve months of the year, they go\n\nJanuary,\nFebruary, March\nApril, May, June & July\nAugust, September\nOctober, November\nDecember and the year's gone by\n\nJanuary,\nFebruary, March\nApril, May, June & July\nAugust, September\nOctober, November\nDecember and the year's gone by\nYou can kiss that little year goodbye!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/wkRkzn74Q9U/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/wkRkzn74Q9U/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/wkRkzn74Q9U/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/wkRkzn74Q9U/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/wkRkzn74Q9U/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 11,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "wkRkzn74Q9U"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "twKOo5afgF9pd_RTKX95GEA02Qo",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC45ODRDNTg0QjA4NkFBNkQy",
-      "snippet": {
-        "publishedAt": "2014-08-13T06:50:37Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
-        "title": "Months of the year song",
-        "description": "VISIT OUR OFFICIAL WEBSITE : https://www.uspstudios.co/\nWATCH OH MY GENIUS VIDEOS ON OUR WEBSITE TOO : https://www.uspstudios.co/creation/channel/oh-my-genius/5/\n\nCheck out our new 3D Nursery Rhyme video: http://vid.io/xqRn\n\nFollow us on\nFACEBOOK: http://vid.io/xqRt\nGOOGLE+: http://vid.io/xqRr\nTWITTER: http://vid.io/xqRp\nCheck out our new Nursery Rhymes Songs Compilation video here: http://vid.io/xqVD\nLearn the months of the year with the help of the months of the year song!\n\nFor more videos click on the link below:\nhttps://youtu.be/xna8Jvt-4Mw\n\nCopyright © 2012 USP Studios. All Rights Reserved.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ebkLEcINrro/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ebkLEcINrro/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ebkLEcINrro/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ebkLEcINrro/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ebkLEcINrro/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 12,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "ebkLEcINrro"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "-3d3acLN-FNA-lPRJ3W6TDsMUSw",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC4zMDg5MkQ5MEVDMEM1NTg2",
-      "snippet": {
-        "publishedAt": "2014-08-13T06:52:01Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
-        "title": "Months of the Year",
-        "description": "Mark D. Pencil song set to video. Buy their CD!!!. For educational use not resale. Months of the year.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/e940zV_PEcg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/e940zV_PEcg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/e940zV_PEcg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 13,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "e940zV_PEcg"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "VRNImDh-6CaUJ6GG3H2mVyuL0ys",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC41Mzk2QTAxMTkzNDk4MDhF",
-      "snippet": {
-        "publishedAt": "2014-08-13T06:52:17Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
+        "publishedAt": "2019-10-05T13:12:43Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
         "title": "Months Of The Year Song Nursery Rhyme",
         "description": "Learn the months of the year with the help of the months of the year song!",
         "thumbnails": {
@@ -598,22 +132,531 @@
             "height": 720
           }
         },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 14,
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "rMhZXxQP5fo"
-        }
+        },
+        "videoOwnerChannelTitle": "Kids Preschool Baby Nursery Rhymes And Children's Songs",
+        "videoOwnerChannelId": "UCpnDeduW4x-ww_UOaUAH6WQ"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "qAyrHBcKCLUCZMgIl4NAr8qtjaM",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC5EQUE1NTFDRjcwMDg0NEMz",
+      "etag": "j2v2p2u0UGF3Ao96VvT3occe78w",
+      "id": "UExiXzFSUnhJWlRMS2JhcWh1Ym9XMWV4Z0Y3ZVV4d1lteS4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
-        "publishedAt": "2014-08-13T06:53:04Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
+        "publishedAt": "2019-10-05T13:13:31Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "The Months Chant | Super Simple Songs",
+        "description": "Watch this video and MUCH more in the Super Simple App for iOS! ► http://apple.co/2nW5hPd\n\nAn easy chant for practicing the months of the year. \n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n► SUPER SIMPLE APP -- http://bit.ly/SuperSimpleApp\nBe the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.\n► DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n► AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”\n► KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app.\n► PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\n******\nLyrics: \n♫ January (January!)\nFebruary (February!)\nMarch (March!)\nApril (April!)\nMay (May!)\nJune (June!)\nJuly (July!)\nAugust (August!)\nSeptember (September!)\nOctober (October!)\nNovember (November!)\nDecember (December!)\n\nNow you try!\n\nJanuary, February, March, April, May, June, July, August, September, October, November, December. ♫\n\n******\nSong: The Months Chant\nAlbum: Super Simple Songs 3\nMusic: Super Simple Learning\nVocals: Matt Stamm and Ingrid DuMosch DeHaan\n\n******\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Super Simple Learning, Inc.\n\n******\n\"The Months Chant\" by Super Simple Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gtc4c1JlAEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gtc4c1JlAEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gtc4c1JlAEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gtc4c1JlAEM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gtc4c1JlAEM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gtc4c1JlAEM"
+        },
+        "videoOwnerChannelTitle": "Super Simple Songs - Kids Songs",
+        "videoOwnerChannelId": "UCLsooMJoIpl_7ux2jvdPB-Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZlhPeoK4xqB5ODfWI4L-f9FdLUY",
+      "id": "UExiXzFSUnhJWlRMS2JhcWh1Ym9XMWV4Z0Y3ZVV4d1lteS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:13:34Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Months of the Year Song | Song for Kids | The Singing Walrus",
+        "description": "Watch all of our videos ad free with our app (desktop, apple, or android):\nhttps://www.thesingingwalrus.tv/\nOnly $4.99 USD per month and $44.99 USD for a year!\n\nHere is our \"Months of the Year Song\" - a fun folk song to help kids learn all 12 months of the year. Mother Hen sings the first verse alone so the kids can become familiar with the melody. During the 2nd verse, the kids sing along with Mother Hen. During the 3rd and 4th verses, both the kids and Mother Hen sing quietly and then loudly. In the final verse, the song speeds up to give the kids a fun challenge.\n\nThis song is perfect for both English speaking children and young learners of ESL/EFL!\n\nBuy this song (mp3):\nhttps://itunes.apple.com/ca/artist/the-singing-walrus/id992755520\nhttps://play.google.com/store/music/artist/The_Singing_Walrus?id=Acadfghn7zw3q5i2c6bfr3gmcnu\n\nBuy this video (mp4):\nhttps://sellfy.com/thesingingwalrus\n\nSpecial thanks to Patreon supporter Mayu Sasaki!\n\nThe Singing Walrus creates fun teaching materials, such as kids songs, educational games, nursery rhymes, and kindergarten worksheets (e.g. handwriting worksheets) for parents and teachers. Come and join our community on Facebook, or subscribe to our Youtube Channel!\n\nFacebook: http://www.facebook.com/TheSingingWalrus\nTwitter: http://twitter.com/InfoWalrus\nWebsite: http://thesingingwalrus.com\n\n**All illustration, animation, music, and voice work produced by The Singing Walrus",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fe9bnYRzFvk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fe9bnYRzFvk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fe9bnYRzFvk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fe9bnYRzFvk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fe9bnYRzFvk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Fe9bnYRzFvk"
+        },
+        "videoOwnerChannelTitle": "The Singing Walrus - English Songs For Kids",
+        "videoOwnerChannelId": "UCe1VpF4wS_kdcjyTRSXBcnQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "s_AGkAnUo9zMB6eQU7P2yPVvN6U",
+      "id": "UExiXzFSUnhJWlRMS2JhcWh1Ym9XMWV4Z0Y3ZVV4d1lteS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2019-10-05T13:19:44Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Months of the Year Song  | 12 Months of the Year Song for Kids | The Kiboomers",
+        "description": "The Kiboomers!  Months of the Year Song for kindergarten.  Learn the 12 months of the year with this fun song for kids.\n★Get this song on iTunes: https://itunes.apple.com/us/album/best-preschool-learning-songs/id1034633786\nWatch our '12 Months of the Year Song' video and learn the months!\n\n*******\n12 MONTHS OF THE  YEAR SONG LYRICS | MONTHS OF THE YEAR SONG FOR KINDERGARTEN\n\nIn this song, I am going to teach you the 12 months of the year.\n\nAre you ready?\n\nHere we go!\n\nJanuary\nFebruary\nMarch\nApril\nMay\nJune\nJuly\nAugust\nSeptember\nOctober\nNovember\nDecember\n\nThese are the 12 months of the year.\n\nAlright, now let's try and sing them together.\n\nJanuary\nFebruary\nMarch\nand April\nMay\nJune\nJuly\nand August\nSeptember\nOctober\nNovember\nDecember\n\nThese are the 12 months of the year.\n\nThat was great!\n\n\nJanuary\nFebruary\nMarch\nand April\nMay\nJune\nJuly\nand August\nSeptember\nOctober\nNovember\nDecember\n\n\nThese are the 12 months of the year.\n*****\nSong: 12 Months of the Year for Kids (Circle Time Songs for Children)\nMusic: The Kiboomers\nAnimation: Cecy Meade\nVocals:  Christopher Pennington",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-d3jkbP1xc8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-d3jkbP1xc8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-d3jkbP1xc8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-d3jkbP1xc8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-d3jkbP1xc8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-d3jkbP1xc8"
+        },
+        "videoOwnerChannelTitle": "The Kiboomers - Kids Music Channel",
+        "videoOwnerChannelId": "UCLy6-72NzYpFztbJ7jNEMkg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "76AbTr0NuWu-Ubgqq6Ja1CmG-Pc",
+      "id": "UExiXzFSUnhJWlRMS2JhcWh1Ym9XMWV4Z0Y3ZVV4d1lteS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-07-01T14:57:07Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Months of the Year Song | Learn English Kids",
+        "description": "Get this song on iTunes: http://goo.gl/ae9tU  Let's learn the Months of the Year in this fun song! \n \nChords:\nC               G              F          C \nJanuary, February, March, April, \nC        E        F  G    C\nMay, June,  July,   August,\nC                   A             F           G    C\nSeptember, October, November, December!\n\nOriginal song written and performed by Matt R. \nhttp://www.dreamenglish.com\n\nSupport Dream English! Check out what we have to offer: \n\nBest of Kids Songs Volume 1 on iTunes (great for car rides!)\nhttp://bit.ly/yG4Tfu Includes Let's Count 1 to 10.\nBest of Kids Songs Volume 2 on iTunes:\nhttp://goo.gl/ae9tU Includes Months of The Year Song\n\nCheck out our Android and Mobile Apps Kids songs and Math:\nhttp://www.dreamenglish.com/mobileapps",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v608v42dKeI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v608v42dKeI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v608v42dKeI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v608v42dKeI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v608v42dKeI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v608v42dKeI"
+        },
+        "videoOwnerChannelTitle": "Dream English Kids",
+        "videoOwnerChannelId": "UC6LKuH7RPkvRmzS9-8URtqA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nCiJ6G9nqeRqIJlJnLUSRvB4Rmg",
+      "id": "UExiXzFSUnhJWlRMS2JhcWh1Ym9XMWV4Z0Y3ZVV4d1lteS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-07-01T14:57:26Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "12 MONTHS!  (song for kids about 12 months in a year)",
+        "description": "12 MONTHS!\n\n\nTo purchase this song in video format (.mp4) or audio format (.m4a), please visit www.harrykindergartenmusic.com!\n\nWWW.HARRYKINDERGARTENMUSIC.COM\nHip songs & videos for the K-2 classroom!\n\n- Most videos on my website: $2.49\n- All audio files on my website: $1.00\n- Song packs for a discounted price also available!\n\n\nCheck out the Harry Kindergarten Music FACEBOOK page!\nwww.facebook.com/groups/harrykindergarten\n\nTo contact Mr. Harry about a speaking engagement for teachers, or if you have any other questions/comments, please contact pete@harrykindergartenmusic.com.\n\n\n*Disclaimer:\nVideos produced and shared by Harry Kindergarten Music are intended to be shown on the official HARRY KINDERGARTEN MUSIC YouTube channel and are NOT to be uploaded anywhere else.  Please do NOT rip videos off of my channel and put them on yours.  If YouTube is blocked in your school district, I graciously ask you to purchase the video or audio files from my website shown above.  Happy teaching!\n\nQ: Can my class perform a \"Harry Kindergarten song\" for an audience?\nA: If you desire to have your class or group of students perform one of my “Harry Kindergarten” songs for an audience, please note that there is a $6.00 PERFORMANCE FEE.\n\nHere are some hypothetical examples of performance groups:\n* Students perform a song for an audience during a graduation ceremony.\n* Students perform a song for an audience during a school or community talent show.\n* Students perform a song for an audience during a school assembly.\nIf you are unsure if you need to purchase a performance license or not, please inquire at: pete@harrykindergartenmusic.com.  If you want more details about using a song multiple years or multiple classes, etc., e-mail me for a detailed PDF file.  \n\n$6.00 can be sent to:\n\nHarry Kindergarten Music, LLC\n\n508 Stewart Street\n\nBellwood, PA  16617",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RBD5s-wuXyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RBD5s-wuXyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RBD5s-wuXyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RBD5s-wuXyI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RBD5s-wuXyI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RBD5s-wuXyI"
+        },
+        "videoOwnerChannelTitle": "Harry Kindergarten Music",
+        "videoOwnerChannelId": "UCNTakNQwoAqVtPSORzswT_A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AkqH_6aVK2A7WRMWyuV7aGqXhPo",
+      "id": "UExiXzFSUnhJWlRMS2JhcWh1Ym9XMWV4Z0Y3ZVV4d1lteS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-07-01T14:57:30Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Months of the Year Song - 12 Months of the Year - Kids Songs by The Learning Station",
+        "description": "12 Months of the Year Song, from the popular CD, Preschool Learning Fun - Download CD: http://store.learningstationmusic.com/preschoollearningfun.aspx\n12 Months of the Year Song Download: http://www.cdbaby.com/cd/thelearningstation14\n\n\"Like\" us on Facebook and participate in FREE giveaways and freebies galore!: http://www.facebook.com/LearningStationMusic\n\nSTAY IN TOUCH WITH US \nFacebook: http://www.facebook.com/LearningStationMusic\nTwitter: https://twitter.com/LearningStation\nPinterest: http://pinterest.com/kidssong/\nBlog: http://www.learningstationmusic.com/blog/\nGoogle+: https://plus.google.com/+Learningstationmusic\n\n* FREE STUFF *\nSign-up for our FREE newsletter: http://learningstationmusic.com/newsletter.html\nFREE printable activities: http://learningstationmusic.com/printablehandouts.html\nMeet Tony Chestnut: http://www.tonychestnut.com/\n\nPreschoolers will have fun while learning the twelve months of the year with this interactive music and movement song. Youngsters will increase vocabulary, word comprehension and listening skills with this simple and fun tune. With repetition being the key to memory and recall this is an inviting way to teach and learn the twelve months in a year! \n\n12 Months of the Year Song                                                                                                                            \nFrom the CD, \"Preschool Learning Fun\"\nBy The Learning Station\n℗©Monopoli/The Learning Station\nLYRICS: \nThese are the months of the year.  There are twelve months in a year.  These are the months.  We'll sing it more than once and we'll sing it loud enough for all to hear.\nSay, January (January), February (February), March (March), April (April), May (May), June (June), July (July), August (August), September (September), October (October), November (November), December (December).\nThese are the months of the year.  There are twelve months in a year.  These are the months.  We'll sing it more than once and we'll sing it loud enough for all to hear.\nSay, January (January), February (February), March (March), April (April), May (May), June (June), July (July), August (August), September (September), October (October), November (November), December (December).\nThese are the months of the year.  There are twelve months in a year.  These are the months.  We'll sing it more than once and we'll sing it loud enough for all to hear.\nSay, January (January), February (February), March (March), April (April), May (May), June (June), July (July), August (August), September (September), October (October), November (November), December (December).\nThese are the months of the year.  \n\nhttp://www.youtube.com/user/TheLearningStation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b_A43_sYIiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b_A43_sYIiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b_A43_sYIiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b_A43_sYIiw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b_A43_sYIiw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b_A43_sYIiw"
+        },
+        "videoOwnerChannelTitle": "TheLearningStation - Kids Songs and Nursery Rhymes",
+        "videoOwnerChannelId": "UC4Hdb26_xnPQsntwLazMqYw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b-lfsCKc2vlDNhh42sy4i5pBsTg",
+      "id": "UExiXzFSUnhJWlRMS2JhcWh1Ym9XMWV4Z0Y3ZVV4d1lteS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-07-01T14:57:36Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Learn the Months of the Year - The Months of the Year Song! Homeschool family.",
+        "description": "DOWNLOAD an mp3 of this song for ONLY $1 (click below):\nhttp://tinygrads.com/product/song-months-of-the-year-audio/\n\nTo watch our videos with NO ADS, visit our website by clicking:  http://tinygrads.com\n\nThanks so much for watching!\n\nTinyGads.com is happy to bring you The Months of the Year Song! Come sing with us! Learn the months of the year by this fun new song to the tune of She'll be Comin' 'Round the Mountain When She Come!\n\nHere are the word for you!\n\nCome and sing the months of the year along with me!\nCome and sing the months of the year along with me!\nJanuary through December, it's so easy to remember\nIf you sing the months of the year along with me.\n\nWe have January February, March,\nApril, May, June, July, and August too!\nWith September and October, our song is almost over,\nJust November and December and we're through!\n\nColorful animation with a fun song combine to make an easy way to learn the months of the year!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VECiSMV4GX4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VECiSMV4GX4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VECiSMV4GX4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VECiSMV4GX4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VECiSMV4GX4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VECiSMV4GX4"
+        },
+        "videoOwnerChannelTitle": "TinyGrads",
+        "videoOwnerChannelId": "UCwmqM-Msj_2JMrUd2eycndQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "27_YnIsSTaJrfJaRJrXLYxbC3yM",
+      "id": "UExiXzFSUnhJWlRMS2JhcWh1Ym9XMWV4Z0Y3ZVV4d1lteS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-07-01T14:57:44Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Months of Year Song!",
+        "description": "#months #calendar #teaching\nHere's one I wrote to help my early elementary students learn the 12 months of the year!\n\nSung to the tune of She'll be Coming Around the Mountain!\nPurchase on iTunes! http://goo.gl/wxv7Hy\n\nLYRICS\n\nWe can say the 12 months of the year,\nOh yes,\nWe can say the 12 months of the year,\nOh yes\nRight up to December,\nThey’re such great fun to remember,\nOh yes, we can say the 12 months of the year!\n\nJanuary, February, March,\nApril, May, June, July, August,\nSeptember, October, November, December,\nWe can say the 12 months of the year!\n\nI say January,\nI say February,\nI say March,\nI say April,\nI say May,\nI say June,\nI say July \nI say August ,\nI say September, October, November,\nThe last month is December…\n\nOh yes,\nWe can say the 12 months of the year,\nOh yes,\n We can say the 12 months of the year,\nOh yes\nRight up to December,\nThey’re such great fun to remember,\nOh yes, we can say the 12 months of the year!\n\nJanuary, February, March,\nApril, May, June, July, August,\nSeptember, October, November, December,\nWe can say the 12 months of the year! \n\nI say January,\nI say February,\nI say March,\nI say April,\nI say May,\nI say June,\nI say July \nI say August ,\nI say September, October, November,\nThe last month is December…\n\n(SPOKEN SECTION)\n\nI say January,\nI say February,\nI say March,\nI say April,\nI say May,\nI say June,\nI say July \nI say August ,\nI say September, October, November,\nThe last month is December…\n\nOh yes,\nWe can say the 12 months of the year,\nOh yes,\n We can say the 12 months of the year,\nOh yes\nRight up to December,\nThey’re such great fun to remember,\nOh yes, we can say the 12 months of the year!\n\nJanuary, February, March,\nApril, May, June, July, August,\nSeptember, October, November, December,\nWe can say the 12 months of the year!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lEIDz79GhKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lEIDz79GhKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lEIDz79GhKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lEIDz79GhKA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lEIDz79GhKA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lEIDz79GhKA"
+        },
+        "videoOwnerChannelTitle": "Mr. R.'s Songs for Teaching",
+        "videoOwnerChannelId": "UChTHnDuqN3mTknvNaHmeo6A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "x-e3XSt0UXz_2TZMfk5-3skT9SE",
+      "id": "UExiXzFSUnhJWlRMS2JhcWh1Ym9XMWV4Z0Y3ZVV4d1lteS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-07-01T14:57:52Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Time: \"Twelve Months of the Year\" by StoryBots | Netflix Jr",
+        "description": "Can you name all twelve months of the year? The StoryBots have made it easy by putting them all in a song! \n\nThe StoryBots are curious little creatures who live beneath our screens, offering a world of learning and fun for kids. The Emmy Award-winning “Ask the StoryBots” is now streaming on Netflix!\n\nLYRICS: \n\nJanuary,\nFebruary, March\nApril, May, June & July\nAugust, September\nOctober, November\nDecember and the year's gone by\n\nMonths remind me of birds sometimes,\nThe way they just fly by\nOne year has twelve of these little guys\nYou can name them if you try\nSo all you've got to do is lend an ear,\nAnd we'll sing those twelve months of the year, they go\n\nJanuary,\nFebruary, March\nApril, May, June & July\nAugust, September\nOctober, November\nDecember and the year's gone by\n\nJanuary,\nFebruary, March\nApril, May, June & July\nAugust, September\nOctober, November\nDecember and the year's gone by\nYou can kiss that little year goodbye!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wkRkzn74Q9U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wkRkzn74Q9U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wkRkzn74Q9U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wkRkzn74Q9U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wkRkzn74Q9U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wkRkzn74Q9U"
+        },
+        "videoOwnerChannelTitle": "Netflix Jr.",
+        "videoOwnerChannelId": "UCAJnyTWJPpKXuwgWQDdNWrQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "l3pL_NOHSx5lrJR5b1xhp9Q9TEM",
+      "id": "UExiXzFSUnhJWlRMS2JhcWh1Ym9XMWV4Z0Y3ZVV4d1lteS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-07-01T14:57:56Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Months of the year song",
+        "description": "VISIT OUR OFFICIAL WEBSITE : https://www.uspstudios.co/\nWATCH OH MY GENIUS VIDEOS ON OUR WEBSITE TOO : https://www.uspstudios.co/creation/channel/oh-my-genius/5/\n\nCheck out our new 3D Nursery Rhyme video: http://vid.io/xqRn\n\nFollow us on\nFACEBOOK: http://vid.io/xqRt\nGOOGLE+: http://vid.io/xqRr\nTWITTER: http://vid.io/xqRp\nCheck out our new Nursery Rhymes Songs Compilation video here: http://vid.io/xqVD\nLearn the months of the year with the help of the months of the year song!\n\nFor more videos click on the link below:\nhttps://youtu.be/xna8Jvt-4Mw\n\nCopyright © 2012 USP Studios. All Rights Reserved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ebkLEcINrro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ebkLEcINrro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ebkLEcINrro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ebkLEcINrro/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ebkLEcINrro/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ebkLEcINrro"
+        },
+        "videoOwnerChannelTitle": "Oh My Genius - Nursery Rhymes And Kids Songs",
+        "videoOwnerChannelId": "UCQgcmn4OVaKczXEo45iT_fA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IWclMV93a9T_Qr-b8IhaIsuLj2Q",
+      "id": "UExiXzFSUnhJWlRMS2JhcWh1Ym9XMWV4Z0Y3ZVV4d1lteS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-07-01T14:58:02Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Months of the Year",
+        "description": "Mark D. Pencil song set to video. Buy their CD!!!. For educational use not resale. Months of the year.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e940zV_PEcg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e940zV_PEcg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e940zV_PEcg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e940zV_PEcg"
+        },
+        "videoOwnerChannelTitle": "semple120",
+        "videoOwnerChannelId": "UCGUivyOBUY9rOiQyQWbnVaw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OOFYup3GP4RkMwPhYMtmf-evVtw",
+      "id": "UExiXzFSUnhJWlRMS2JhcWh1Ym9XMWV4Z0Y3ZVV4d1lteS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-07-01T14:58:07Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
         "title": "Months of the Year Song",
         "description": "Learn the months of the year. Braintofu.com is a farfetch125 braintofu production.",
         "thumbnails": {
@@ -633,22 +676,24 @@
             "height": 360
           }
         },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 15,
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",
+        "position": 14,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "cZBlA6HWq64"
-        }
+        },
+        "videoOwnerChannelTitle": "braintofu",
+        "videoOwnerChannelId": "UClDN-OqMzNvdtBqpxdCgHEQ"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "1O-AVJiDBDB3OaJ8koImw6B758w",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC41QTY1Q0UxMTVCODczNThE",
+      "etag": "0xXN7A0_Ixv133sLsWdEggYO7k4",
+      "id": "UExiXzFSUnhJWlRMS2JhcWh1Ym9XMWV4Z0Y3ZVV4d1lteS4yMUQyQTQzMjRDNzMyQTMy",
       "snippet": {
-        "publishedAt": "2014-08-13T06:54:29Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
+        "publishedAt": "2021-07-01T14:58:12Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
         "title": "The Months of the Year Rock Song - The Kids' Picture Show (Fun & Educational Learning Video)",
         "description": "Learn the months with this fast-paced rock song.\n\nSing along!\n\nJanuary, February, March, April\nMay, June, July, August\nSeptember, October, November, December\n\nThose are the months of the year.\n\nJanuary, February, March, April\nMay, June, July, August\nSeptember, October, November, December\n\nThere are twelve months in a year.\n\nFollow us on Facebook: https://www.facebook.com/thekidspictureshow\n\nFollow us on Twitter: https://twitter.com/KidsPictureShow\n\nThe Kids' Picture Show playlists:\n\nShapes: http://bit.ly/NdG7mi\nFun Learning Videos: http://bit.ly/1qCXcWN\nCommunication Skills: http://bit.ly/1gqnmYi\nLearn to Read: Phonics & Rhyming: http://bit.ly/1fwF6g7\nAddition with The Number Guys: http://bit.ly/1dZIkwn\nVocabulary Flash Cards: http://bit.ly/NdGVrp\nPicture Card Phrases: http://bit.ly/1m3Pzbm\nLife Instructions: http://bit.ly/Oc2Hgd\nMy Fridge: http://bit.ly/1o11S6I\nPoem of the Day: http://bit.ly/PABFjE\n\nLooking for a kids' channel that's not too \"kiddie?\" Check out the Kids' Picture Show! Learn shapes, colors, numbers, the alphabet, communications skills and more with The Shapesters, Robot DJ, The Number Guys, My Fridge and the popular \"What Shape Is It?\" series.\n\nThe Kids' Picture Show is an educational channel for toddlers, pre-schoolers, kindergarteners and elementary school-age students to learn language and life skills. Kids can explore speaking, listening and reading through poems, songs, flash cards, and lots of humorous videos.\n\nGreat for all kids including reluctant learners, visual learners, ESL students and even children with developmental disabilities such as autism.",
         "thumbnails": {
@@ -678,22 +723,24 @@
             "height": 720
           }
         },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 16,
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",
+        "position": 15,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "zyrglR8KZaU"
-        }
+        },
+        "videoOwnerChannelTitle": "The Kids' Picture Show",
+        "videoOwnerChannelId": "UCERmUv0brIpW1JEBbEtNGdw"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "OAkGZkDG9ol9NcnYUlFC773aWmE",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC4yMUQyQTQzMjRDNzMyQTMy",
+      "etag": "FXd7y6D13bPaPp5Gmrp-zPN_dZU",
+      "id": "UExiXzFSUnhJWlRMS2JhcWh1Ym9XMWV4Z0Y3ZVV4d1lteS45RTgxNDRBMzUwRjQ0MDhC",
       "snippet": {
-        "publishedAt": "2014-08-13T06:56:10Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
+        "publishedAt": "2021-07-01T14:58:17Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
         "title": "Songs for Kids: These Are the Months of the Year",
         "description": "Full Playlist: https://www.youtube.com/playlist?list=PLLALQuK1NDrgw0RnTDsCKJsEyhPGhM-sK\n-\n-\nWatch more Educational Songs for Kids videos: http://www.howcast.com/videos/490911-Songs-for-Kids-These-Are-the-Months-of-the-Year\n\nTeach your child \"These are the Months of the Year,\" the kids song in this video.\n\nThese are the months of the year. These are the months of the year. January, February, March and April, May and June, July, August, September, October, November, December. These are the months of the year. These are the months of the year. January, February, March and April, May and June, July, August, September, October, November, December. These are the months of the year. January, February, March and April, May and June, July, August, September, October, November, December.",
         "thumbnails": {
@@ -723,102 +770,24 @@
             "height": 720
           }
         },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 17,
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",
+        "position": 16,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "CEE6PG_AYfA"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "guvkWgZqPK_Xk9iJ49PiiIDDLkU",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC45RTgxNDRBMzUwRjQ0MDhC",
-      "snippet": {
-        "publishedAt": "2014-08-13T06:56:59Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
-        "title": "Months of the Year by Peter Weatherall.wmv",
-        "description": "??????? ????? ??? ??????????? ?????????? ???????? 12 ???????",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/mc6qy9mxAvU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/mc6qy9mxAvU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/mc6qy9mxAvU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
         },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 18,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "mc6qy9mxAvU"
-        }
+        "videoOwnerChannelTitle": "Howcast",
+        "videoOwnerChannelId": "UCSpVHeDGr9UbREhRca0qwsA"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "UM5XLjBXwQljXHaq5vBa1FgekRI",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC5ENDU4Q0M4RDExNzM1Mjcy",
+      "etag": "Sc0ZGHsfjYjF6j7EZFHnqX7Zr9g",
+      "id": "UExiXzFSUnhJWlRMS2JhcWh1Ym9XMWV4Z0Y3ZVV4d1lteS5ENDU4Q0M4RDExNzM1Mjcy",
       "snippet": {
-        "publishedAt": "2014-08-13T06:57:17Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
-        "title": "Months of the Year Song",
-        "description": "The months of the year song. Sing-along song for kids.\n\nCheck out English for School courses here: http://www.britishcouncil.org.sg/EnglishForSchool",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/lcGwIb8HwME/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/lcGwIb8HwME/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/lcGwIb8HwME/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/lcGwIb8HwME/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/lcGwIb8HwME/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 19,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "lcGwIb8HwME"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "9XGS0-6pUbOWsgoA6PTeWbDit5o",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC4yMDhBMkNBNjRDMjQxQTg1",
-      "snippet": {
-        "publishedAt": "2014-08-13T07:01:36Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
+        "publishedAt": "2021-07-01T14:58:24Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
         "title": "Months of the year song - 3D Animaton Preschool Nursery rhymes for children",
         "description": "Months of the year song - 3D Animaton Preschool Nursery rhymes for children\n\n\"Months of the year song\" Lyrics :\njanuary,\nFebruary,\nMarch,\nApril,\nMay,\nJune,\nJuly,\nAugust,\nSeptember,\nOctober,\nNovember, \nDecember",
         "thumbnails": {
@@ -848,24 +817,26 @@
             "height": 720
           }
         },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 20,
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",
+        "position": 17,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "94o6KK8N2pw"
-        }
+        },
+        "videoOwnerChannelTitle": "CVS 3D Rhymes & Kids Songs",
+        "videoOwnerChannelId": "UCsPF3cApzCohxPp5oKdoWSQ"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "AjZGRnLa8AgyOOqqeaB0bbXGLJ4",
-      "id": "UExxdjR5NjBtXzNfQnNEc3NkenZyQ3VlaWhvNVRjLTFqOC5GM0Q3M0MzMzY5NTJFNTdE",
+      "etag": "YSLhaAQ81Wz3HziXJm2jBbhyBIQ",
+      "id": "UExiXzFSUnhJWlRMS2JhcWh1Ym9XMWV4Z0Y3ZVV4d1lteS4yMDhBMkNBNjRDMjQxQTg1",
       "snippet": {
-        "publishedAt": "2014-08-13T07:02:14Z",
-        "channelId": "UC2vyxBzmorMlATwNCQJH0LQ",
+        "publishedAt": "2021-07-01T14:58:28Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
         "title": "Months of the Year Song | Kids Learning Videos",
-        "description": "Months of the Year Song\n\nLearn the months of the year with this great song.  This months of the year song can teach children and toddlers all twelve months of the year.  This video includes a cute song of the months with bright pictures representing each of the months.  \n\nSpecial thanks to Jesse Booth for the \"Months of the year\" song\n\nThanks for watching\nVisit our channel for more great videos for kids and children - http://www.youtube.com/kidslearningvideo\n\n--Subscribe to Kids Learning Videos--\nhttp://www.youtube.com/subscription_center?add_user=kidslearningvideo\n\n--Educational Toys for Kids--\nhttps://www.amazon.com/shop/kidslearningvideos\n\n--Popular Videos and Songs—\nAnimal Sounds Song - https://youtu.be/V7R_M52EAkI?list=PLsujH_u89cJ-_59BMCSMdDXdwDlUJ1LO9\nThe Three Little Pigs - https://youtu.be/HtHjB6rRmQc?list=PLsujH_u89cJ9Qn3J0u_qlCPUrTZafhJSQ\nOld MacDonald Had a Farm - https://youtu.be/o2xEz9ceqpo?list=PLsujH_u89cJ-_59BMCSMdDXdwDlUJ1LO9\n\n--Check out our Website—\nhttp://www.kidslearningvideos.com\n\n--Follow Kids Learning Videos--\nFacebook: https://www.facebook.com/KidsLearningVideo\nRoku:  https://channelstore.roku.com/details/60297/kids-learning-videos",
+        "description": "Months of the Year Song\n\nLearn the months of the year with this great song.  This months of the year song can teach children and toddlers all twelve months of the year.  This video includes a cute song of the months with bright pictures representing each of the months.  \n\nSpecial thanks to Jesse Booth for the \"Months of the year\" song\n\nThanks for watching\nVisit our channel for more great videos for kids and children - http://www.youtube.com/kidslearningvideo\n\n--Subscribe to Kids Learning Videos--\nhttp://www.youtube.com/subscription_center?add_user=kidslearningvideo\n\n--Educational Toys for Kids--\nhttps://www.amazon.com/shop/kidslearningvideos\n\n--Popular Videos and Songs—\nAnimal Sounds Song - https://youtu.be/V7R_M52EAkI?list=PLsujH_u89cJ-_59BMCSMdDXdwDlUJ1LO9\nThe Three Little Pigs - https://youtu.be/HtHjB6rRmQc?list=PLsujH_u89cJ9Qn3J0u_qlCPUrTZafhJSQ\nOld MacDonald Had a Farm - https://youtu.be/o2xEz9ceqpo?list=PLsujH_u89cJ-_59BMCSMdDXdwDlUJ1LO9\n\n--Check out our Website—\nhttp://www.kidslearningvideos.com\n\n--Follow Kids Learning Videos--\nFacebook: https://www.facebook.com/KidsLearningVideo\nRoku:  https://channelstore.roku.com/details/599303/kids-learning\nSpotify: https://open.spotify.com/artist/26Emt3nquf2tasxreun94d",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/F-ez7sKbkdA/default.jpg",
@@ -883,18 +854,20 @@
             "height": 360
           }
         },
-        "channelTitle": "nimshi grace",
-        "playlistId": "PLqv4y60m_3_BsDssdzvrCueiho5Tc-1j8",
-        "position": 21,
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLKbaqhuboW1exgF7eUxwYmy",
+        "position": 18,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "F-ez7sKbkdA"
-        }
+        },
+        "videoOwnerChannelTitle": "Kids Learning Videos",
+        "videoOwnerChannelId": "UCwynFfAvCF2kiRSMWiozQHg"
       }
     }
   ],
   "pageInfo": {
-    "totalResults": 22,
+    "totalResults": 19,
     "resultsPerPage": 50
   }
 }
