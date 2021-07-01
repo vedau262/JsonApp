@@ -98,7 +98,7 @@
 		{	
 			"LIST_VIDEO_NAME": "FOOD WORDS",
 			"LIST_VIDEO_SIZE": "12",
-			"LIST_VIDEO_ICON": "https://static-s.aa-cdn.net/img/gp/20600008552637/KujgNzLS3DwTsyrGptBrnxwWj7AiJVJ0XyX5PfspodGf5Ne6nOqDG07bMaDYszO5QBs=w300?v=1",
+			"LIST_VIDEO_ICON": "https://sylvanlearning.edu.vn/wp-content/uploads/2020/11/tieng-anh-cho-tre-em-theo-chu-de-food-1.jpg",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLIzWF-wLHlc2jLpQfhHwuiQ",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/FOOD%20WORDS",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/tw36trd6fdah13d/FOOD%20WORDS?dl=1"		
