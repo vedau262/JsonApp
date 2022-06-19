@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "Tmz8yxooci9N2sW38SWdqj34epg",
+  "etag": "Mc4rZhXf6Us8t46RbTIg_SiFapM",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -610,54 +610,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "0vLj6b46fw9W81dCSYk_0GU9KhY",
-      "id": "UExiXzFSUnhJWlRMSlBiUTZ6NjROT3U5XzJpV1plSGtGNi5DQ0MyQ0Y4Mzg0M0VGOEYw",
-      "snippet": {
-        "publishedAt": "2022-06-19T14:43:25Z",
-        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-        "title": "Roma and Diana learn the alphabet / ABC song",
-        "description": "Roma and Diana learn the English Alphabet. ABC song for kids\nRoma's Instagram: https://www.instagram.com/kidsromashow/\nSubscribe to Kids Roma Show - http://bit.ly/2kj62uh\nDIANA Instagram https://www.instagram.com/kidsdianashow/\n #romaanddiana #roma #kidsromashow #kidsvideo Facebook https://www.facebook.com/KidsRomaShow",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NvdUSZyCGRs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NvdUSZyCGRs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NvdUSZyCGRs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/NvdUSZyCGRs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/NvdUSZyCGRs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Kid Video",
-        "playlistId": "PLb_1RRxIZTLJPbQ6z64NOu9_2iWZeHkF6",
-        "position": 13,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "NvdUSZyCGRs"
-        },
-        "videoOwnerChannelTitle": "? Kids Roma Show",
-        "videoOwnerChannelId": "UCx790OVgpTC1UVBQIqu3gnQ"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "6SL7eGvDb_buzUoltDv_82Idw3k",
+      "etag": "vtpUe5UfrVQwJ3hcbFKr5Sn7J_g",
       "id": "UExiXzFSUnhJWlRMSlBiUTZ6NjROT3U5XzJpV1plSGtGNi4yQUE2Q0JEMTk4NTM3RTZC",
       "snippet": {
         "publishedAt": "2022-06-19T14:49:28Z",
@@ -693,7 +646,7 @@
         },
         "channelTitle": "Kid Video",
         "playlistId": "PLb_1RRxIZTLJPbQ6z64NOu9_2iWZeHkF6",
-        "position": 14,
+        "position": 13,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Abnzql29eR8"
@@ -704,7 +657,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 15,
+    "totalResults": 14,
     "resultsPerPage": 50
   }
 }
