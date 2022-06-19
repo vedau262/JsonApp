@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "Mw1htQ68wz-AdcmIa_Rdrd2l49s",
+  "etag": "Tmz8yxooci9N2sW38SWdqj34epg",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -654,10 +654,57 @@
         "videoOwnerChannelTitle": "? Kids Roma Show",
         "videoOwnerChannelId": "UCx790OVgpTC1UVBQIqu3gnQ"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6SL7eGvDb_buzUoltDv_82Idw3k",
+      "id": "UExiXzFSUnhJWlRMSlBiUTZ6NjROT3U5XzJpV1plSGtGNi4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2022-06-19T14:49:28Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "phonics song | abc songs for children | kindergarten",
+        "description": "With Kids Tv, you can be assured that, all learning is fun learning. Take the Phonics Song, for example. Who would've thought that the ABC song could be so much fun, with all of them dancing along with their objects. Let's make this rhyme time fun, by playing a little game, shall we babies? We'll tell you the alphabet, and you tell us what object goes with it, but make sure you do it before our friends from the rhymes. Let us give you an example. A is for Apple, and B is for Ball. Well, this is easy, but the objects you come up with, should be one from out video. Now, didn't we make things a bit difficult and interesting. That's the beauty of songs, isn't it? Sit with your parents, and let us know all the objects you can come up with all the 26 letters. Let's get started!\n\nKIDS FIRST - Kids Videos & Nursery Rhymes | Free App Download: http://m.onelink.me/1e8f6c16\n\nVISIT OUR OFFICIAL WEBSITE : https://www.uspstudios.co/\nWATCH KIDS TV VIDEOS ON OUR WEBSITE :\nhttps://www.uspstudios.co/creation/ch...\n\n============================================\nMusic and Lyrics: Copyright USP Studios™\nVideo: Copyright USP Studios™\n============================================",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Abnzql29eR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Abnzql29eR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Abnzql29eR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Abnzql29eR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Abnzql29eR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLJPbQ6z64NOu9_2iWZeHkF6",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Abnzql29eR8"
+        },
+        "videoOwnerChannelTitle": "Baby Box Nursery Rhymes And Kids Songs",
+        "videoOwnerChannelId": "UCVoKi4AYauNZpI8ngEaqBhw"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 14,
+    "totalResults": 15,
     "resultsPerPage": 50
   }
 }
