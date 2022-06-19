@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "l94nuaWt6mc_dvVMy-7NiAE_qOg",
+  "etag": "05PqCUOwEqhiDkhy3FsWHP4gd2k",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -518,10 +518,151 @@
         "videoOwnerChannelTitle": "The Singing Walrus - English Songs For Kids",
         "videoOwnerChannelId": "UCe1VpF4wS_kdcjyTRSXBcnQ"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "un2pzuWQnTv59_rcOtXiFs-YRwk",
+      "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2022-06-19T14:29:29Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Let's Count To 100 | ft. Finny the Shark | Super Simple Songs",
+        "description": "Watch this video and MUCH more in the Super Simple App for iOS! ? http://apple.co/2nW5hPd\nWe are learning to count to 100 with Finny the Shark! This is a perfect numbers song for young kids and preschoolers! ?? Let’s count to 100. Counting’s so much fun. Let’s count to 100. We’ll start from number 1. ??\n\nListen to Super Simple Songs on Spotify: https://spoti.fi/2ofnaZg\nListen to Super Simple Songs on Apple Music: https://apple.co/2pBcg0j\nOr, just ask your smart speaker to play Super Simple Songs!\n\nPARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. If your young ones are watching without supervision, we recommend some of the following viewing options:\n? YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids\nDesigned to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.\n? DOWNLOAD -- http://bit.ly/SuperSimpleShop\nVideos from all Super Simple channels are available for purchase at the Super Simple online shop. You can also find some DVDs there.\n? AMAZON VIDEO\nAre you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.” \n? KHAN ACADEMY KIDS -- http://bit.ly/KhanKids-App\nSuper Simple has partnered with Khan Academy on their latest app designed for preschoolers. You’ll find Super Simple Songs worked into the curriculum throughout the app. \n? PLAYKIDS -- http://bit.ly/Play-Kids\nDo you have the PlayKids app? You can find many of our Super Simple Songs and programs in the app!\n\nFREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources\n\nSOCIAL MEDIA:\nSuper Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp\nFacebook: http://bit.ly/SuperSimpleFacebook\nInstagram: http://bit.ly/SuperSimpleInsta\nTwitter: http://bit.ly/SuperSimpleTwitter\nPinterest: http://bit.ly/SuperSimplePinterest\n\nLYRICS:\nLet’s count to 100.\nCounting’s so much fun.\nLet’s count to 100.\nWe’ll start from number 1.\n\n1, 2, 3, 4, 5, 6, 7, 8, 9, 10\n11, 12, 13, 14, 15, 16, 17, 18, 19, 20\n\nLet’s count to 100.\nCounting’s so much fun.\nLet’s count to 100. \nWe’re now at 21.\n\n21, 22, 23, 24, 25, 26, 27, 28, 29, 30\n31, 32, 33, 34, 35, 36, 37, 38, 39, 40\n\nLet’s count to 100.\nCounting’s so much fun.\nLet’s count to 100.\nWe’re now at 41.\n\n41, 42, 43, 44, 45, 46, 47, 48, 49, 50\n51, 52, 53, 54, 55, 56, 57, 58, 59, 60\n\nLet’s count to 100.\nCounting’s so much fun.\nLet’s count to 100.\nWe’re now at 61.\n\n\n61, 62, 63, 64, 65, 66, 67, 68, 69, 70\n71, 72, 73, 74, 75, 76, 77, 78, 79, 80\n\nLet’s count to 100.\nCounting’s so much fun.\nLet’s count to 100.\nWe’re now at 81.\n\n81, 82, 83, 84, 85, 86, 87, 88, 89, 90\n91, 92, 93, 94, 95, 96, 97, 98, 99, 100\n\nWe counted to 100.\nThat was so much fun.\nWe counted to 100.\nAnd now our song is done!\n\n*****\nSuper Simple Songs® and Super Simple Learning® are registered trademarks of Skyship Entertainment Company.\n\n#nurseryrhymes #kidssongs #childrensmusic #supersimplesongs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tIxk5NeiTck/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tIxk5NeiTck/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tIxk5NeiTck/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tIxk5NeiTck/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tIxk5NeiTck/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tIxk5NeiTck"
+        },
+        "videoOwnerChannelTitle": "Super Simple Songs - Kids Songs",
+        "videoOwnerChannelId": "UCLsooMJoIpl_7ux2jvdPB-Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FHx9DVr9E-9vIJxLeb_6CCf6ixY",
+      "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2022-06-19T14:29:40Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Learn Numbers with Number Ice Cream Popsicles - Colors and Numbers Collection",
+        "description": "Learn Numbers with Number Ice Cream Popsicle - Colors and Numbers Collection\n\n00:00 - Learn Numbers with Number Ice Cream Popsicles\n02:32 - Learn Colors with 3D Bowling Game \n04:08 - Learn to Count to 20 with Gumball Machine\n07:16 - Learn Colors with Color Stack Rings\n09:16 - Learn Numbers with Water Slide Numbers\n09:45 - Learn Numbers with Building Blocks\n10:26 - Learn Colors with 3D Surprise Eggs and Color Balls\n\n============================================\n  Video: Copyright 2016 Little Brain Works\n============================================",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4YpHh3e0h7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4YpHh3e0h7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4YpHh3e0h7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4YpHh3e0h7U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4YpHh3e0h7U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4YpHh3e0h7U"
+        },
+        "videoOwnerChannelTitle": "edubuzzkids",
+        "videoOwnerChannelId": "UCZBu4SD7RaHHwKJqjtE1KGw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "urGGcxKjR4iryCYMwbolkLu0Fg8",
+      "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2022-06-19T14:40:20Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Counting Numbers | Numbers 1-20 Lesson for Children",
+        "description": "\"Counting Numbers 1-20\" is a fun video for kids that teachers how to count from 1 to 20. \n\nThe first scene slowly introduces the numbers 1-20 by counting little stars on the screen, first counting from 1-20, then counting backwards from 20-1.\n\nIn the second scene, the video finishes with a fun number game where the children have to count the stars on the screen!\n\nThis video is the perfect supplement to our popular numbers song \"Counting from 1-20\". It can be used as an introductory video before showing the numbers song. \n\nDon't forget to subscribe to our Youtube channel! We have more number songs:\n\n- Numbers song: 1-10\n\nhttps://www.youtube.com/watch?v=DR-cfDsHCGA&list=UUe1VpF4wS_kdcjyTRSXBcnQ\n\n- Numbers song: 10-20\n\nhttps://www.youtube.com/watch?v=wiGEEJLLKd8&list=UUe1VpF4wS_kdcjyTRSXBcnQ&index=51\n\n- Numbers song: 10 to 100 (counting by 10s)\n\nhttps://www.youtube.com/watch?v=-gmEe0-_ex8&list=UUe1VpF4wS_kdcjyTRSXBcnQ\n\n- Numbers song: 5-50 (counting by 5s)\n\nhttps://www.youtube.com/watch?v=5FaBDqOmiyI\n\nWe also have worksheets for kids on our website:\n\nwww.thesingingwalrus.com\n\nSupport The Singing Walrus! Contribute to our Patreon campaign:\nhttps://www.patreon.com/TheSingingWalrus?ty=h\n\nThe Singing Walrus creates fun teaching materials, such as kids songs, educational games, nursery rhymes, and kindergarten worksheets (e.g. handwriting worksheets) for parents and teachers. Come and join our community on Facebook, or subscribe to our Youtube Channel!\n\nfacebook: https://www.facebook.com/TheSingingWalrus",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/By2hmo323xM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/By2hmo323xM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/By2hmo323xM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/By2hmo323xM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/By2hmo323xM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "By2hmo323xM"
+        },
+        "videoOwnerChannelTitle": "The Singing Walrus - English Songs For Kids",
+        "videoOwnerChannelId": "UCe1VpF4wS_kdcjyTRSXBcnQ"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 11,
+    "totalResults": 14,
     "resultsPerPage": 50
   }
 }
