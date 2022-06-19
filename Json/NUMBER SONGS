@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "3UlS7b0j60ClgnlZpCk3Fu7s794",
+  "etag": "SpvHQTY74tSbwq7dkXjdc4Uoy2w",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "bIExDNF0bXvMuGyhELl0tgBLDBg",
+      "etag": "Sb8P9izvlyHwCR3p57_bzQlnuRk",
       "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2019-10-05T14:20:18Z",
@@ -51,7 +51,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "FvqZSdCOyqkb61GVGodrx8nuaOQ",
+      "etag": "hQJJHHi8a86qtDk1oP91VJwEM6s",
       "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2019-10-05T14:20:22Z",
@@ -98,54 +98,26 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "TWcYq1DzIrDnh33yRLpeWoNKK3w",
+      "etag": "5T_K6adu1Nsn7pFwr0RHKEq4GN0",
       "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2019-10-05T14:20:25Z",
         "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-        "title": "Counting and Number Songs | Nursery Rhymes | Kids Songs | Educational",
-        "description": "Listen to our favorite Baby Joy Joy music!\nhttps://open.spotify.com/artist/6GAZ9fxattwUYRuTRddv5N\nhttps://music.apple.com/us/artist/baby-joy-joy/1487494374\nhttps://play.google.com/store/music/artist?id=Aq5cwfjdjqjzw3fyvp4u4crlaly\n\nWatch Our Most Popular Videos Here: https://goo.gl/W8PZ5T\nSUBSCRIBE HERE:  https://goo.gl/sNYAHg\n\nCounting and Number Songs | Nursery Rhymes | Kids Songs | Educational\n\nLearn how to count to ten with these fun counting songs!  You can count flowers, farm animals, ducks, and frogs.  You'll even learn some skip counting in Hickory Dickory Dock.  \n\nWatch Funtastic's Newest Videos Here! https://goo.gl/bRLQN3\nWatch Funtastic Nursery Rhyme & Kids Songs Here! https://goo.gl/qGbjNp\nWatch Funtastic Children's Music Here!  https://goo.gl/CSCqAb\nWatch Funtastic Baby Songs Here! https://goo.gl/wUzwhg\nWatch Funtastic Educational Kids Songs Here! https://goo.gl/PfAWhB\nWatch Funtastic's Most Popular Videos Here! https://goo.gl/W8PZ5T\nWatch Funtastic Things I Learned Today Here! https://goo.gl/rF6bFZ\n\n\nLyrics:\nFive Little Speckled Frogs \nSat on a speckled log\nEating the most delicious bugs. Yum! Yum!\nOne jumped into the pool\nWhere it was nice and cool\nNow there are Four green speckled frogs\n\nFour Little Speckled Frogs\nSat on a speckled log\nEating the most delicious bugs. Yum! Yum!\nOne jumped into the pool\nWhere it was nice and cool\nNow there are Three green speckled frogs\n\nThree little speckled frogs\nSat on a speckled log\nEating the most delicious bugs. Yum! Yum!\nOne jumped into the pool\nWhere it was nice and cool\nNow there are Two green speckled frogs\n\nTwo little speckled frogs\nSat on a speckled log\nEating the most delicious bugs. Yum! Yum!\nOne jumped into the pool\nWhere it was nice and cool\nNow there is one green speckled frog\n\nOne little speckled frog\nSat on a speckled log\nEating the most delicious bugs. Yum! Yum!\nIt jumped into the pool\nWhere it was nice and cool\nNow there are no more speckled frogs",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/0C3IJM4AnMI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/0C3IJM4AnMI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/0C3IJM4AnMI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/0C3IJM4AnMI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/0C3IJM4AnMI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
         "channelTitle": "Kid Video",
         "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
         "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0C3IJM4AnMI"
-        },
-        "videoOwnerChannelTitle": "FUNTASTIC TV - Kids Songs and Nursery Rhymes",
-        "videoOwnerChannelId": "UCwl5RE0vM0sBVQzRvM965fw"
+        }
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "fEOFwfvGxsa85e-Ot_YNhpOA4qU",
+      "etag": "FR5VwOS84sm4YlC59RPcmoawpN4",
       "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2019-10-05T14:20:38Z",
@@ -192,7 +164,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "DZU3jAykl0n3lRC2Hk1FUImROEQ",
+      "etag": "hckWvKPJSKVNtdPUgb0NvBcBLVk",
       "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2019-10-05T14:21:52Z",
@@ -239,7 +211,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "mOG-_hpYPFpiK0HrRcm0zK-gBxY",
+      "etag": "WeBVSKXXORURp8bcEddZGwTLttA",
       "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2019-10-05T14:21:56Z",
@@ -286,7 +258,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wdXLgGQtPBfSeRJPCaVghThop_w",
+      "etag": "dhouEx7BFrtzB961GjMCKw2xwnQ",
       "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2019-10-05T14:22:43Z",
@@ -333,13 +305,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "a-E6sL8_1DVSjHKyFw67omwbuBw",
+      "etag": "aniKqvwSmSr8smX04hvPxaLEYm4",
       "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC41Mzk2QTAxMTkzNDk4MDhF",
       "snippet": {
         "publishedAt": "2019-10-05T14:23:12Z",
         "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
         "title": "numbers song | surprise eggs | learn numbers | nursery rhymes | kids songs | kids tv videos",
-        "description": "Look at our nest of nursery rhymes. It's filled with surprise eggs that hatch out lovely kids songs and poems. We see 10 eggs today. That can mean only one thing. What's coming out today are the 10 little numbers from the numbers song. So come on and hit play soon, because after the numbers hatch, were going to celebrate by playing many more kids songs that you'll can sing and dance to. Hurrah! \n00:01 – Numbers Song\n01:30 – ABC Song\n02:42 – Colors Song\n06:43 – Dinosaurs Song\n09:01 – Down By The Bay\n10:57 – Shake It Song\n14:01 – Cat Song\n15:21 – Ambulance Song\n17:11 – Daddy's New Car\n20:01 – Finger Family\n21:02 – Humpty Dumpty\n21:58 – Wheels On Garbage Truck\n23:47 – Five Little Piggies\n25:56 – Finger Family\n26:59 – Ten In The Bed\n29:18 – One Two\n30:31 – Five Little Monkeys\n32:05 – Old Macdonald\n34:25 – Finger Family Song\n35:27 – Hokey Pokey\n36:41 – Three Little Kittens\n39:01 – Johny Johny\n39:51 – Wheels On The Plane\n41:20 – Skidamarink\n43:32 – Chubby Cheeks\n44:18 – Hickory Dickory Dock\n46:32 – Five Little Babies\nnumbers song by Kids TV - The nursery rhymes channel for kindergarten aged children. These kids songs are great for learning the alphabet, numbers, shapes, colors and lots more. We are a one stop shop for your children to learn the many joys of nursery rhymes. Subscribe to our channel and be the first to watch our latest fun kids learning animations!\n?? Share this video – numbers song here’s the link: https://youtu.be/DTpJEUlRAvg\n?? Subscribe for free now to get notified about new videos - https://www.youtube.com/kidstv?sub_co...\n?? Nursery Rhymes and Nursery Rhymes Karaoke Playlist - https://www.youtube.com/watch?v=QNE3PsGVzN8&list=PLDt4VQajKv8xVf8zxjuz3tA-dJbCgT2wr\n?? If you enjoyed this collection, you may also like these compilations: \n??Old Macdonald had a farm - https://www.youtube.com/watch?v=Rf8e4JF8nXs\n??The Wheels on the bus - https://www.youtube.com/watch?v=MWyordkvD0k\n??Five little monkeys - https://www.youtube.com/watch?v=VAL4w6JvDHc\n?Finger Family - https://www.youtube.com/watch?v=IiA17oFD1bs\n?Ten in the bed - https://www.youtube.com/watch?v=Rxxsvc2XXxY\n?Phonics Song - https://www.youtube.com/watch?v=pFR_8zHCLio\n?? Incy Wincy Spider - https://www.youtube.com/watch?v=_6fwkxtp4bw\n??English Wheels on the bus - https://www.youtube.com/watch?v=IEje6DRukxg\n??Five little ducks - https://www.youtube.com/watch?v=vp5rwesz8eU\n??Johny johny yes papa - https://www.youtube.com/watch?v=PyZq_Jm0aqQ\n?? Humpty Dumpty - https://www.youtube.com/watch?v=ZSoougnleU8\n?? Twinkle Twinkle Little Star - https://www.youtube.com/watch?v=yvcrrmeBwlo\n?? Ten in the bed - https://www.youtube.com/watch?v=GRyxRadTM3c \n\nNursery rhymes and kid’s songs accelerate phonetic awareness improving children's word comprehension, reading and writing skills. These rhymes for children help teach basic skills and improves their ability to comprehend and follow directions. \nWe hope you’re having a fun time with all your friends here at Kids TV. If you enjoyed watching this video then check out our channel for many more interesting and fun learning videos for kids.\nIf you’re still reading this far, we know you enjoy our animations but are always happy to hear from you on how we can improve and what you'd like to see in the pipeline! \nIf you enjoy our content, don't forget to support us and subscribe :)\n\nDownload the Bob the Train APP here:\nBob The Train: https://itunes.apple.com/us/app/bob-the-train-kids-nursery-rhymes-baby-songs/id1236462400?ls=1&mt=8\n\nKids First: https://itunes.apple.com/us/app/kids-first-kids-videos-nursery-rhymes/id1245088728?ls=1&mt=8\n\nFB: https://www.facebook.com/KidsTVNurseyRhymes\nWeb: https://www.uspstudios.co/creation/channel/kids-tv/1/\nTwitter: https://twitter.com/kidstvofficial\nG+: https://plus.google.com/u/0/+kidstv\nInstagram: https://www.instagram.com/kidstvofficial/\nPinterest: https://in.pinterest.com/kidstv06/pins/\nPlay store: Bob The Train: https://play.google.com/store/apps/details?id=com.uspstudios.bobthetrain&pageId=108868050184468649173\nKids First: https://play.google.com/store/apps/details?id=com.lookedigital.kidsfirst\nSubscribe: https://www.youtube.com/channel/UC7Pq3Ko42YpkCB_Q4E981jw?sub_confirmation=1\n© 2017 USP Studios Private Limited\n============================================\nMusic and Lyrics: Copyright USP Studios™\nVideo: Copyright USP Studios™\n============================================",
+        "description": "Kids TV is home to various popular nursery rhymes that educate & entertain toddlers. Our videos impart family values & encourage healthy habits. Parents will realise that this is the ideal destination to not only acquire knowledge & thinking skills but also develop imagination & creativity.\n\nHello toddlers, Bob The Train is here to make your learning time easy and fun with these playful toys. Click on the link to explore the toys now! - https://amzn.to/2PCeSDS\n\nSubscribe now to get notified about new videos - https://www.youtube.com/kidstv?sub_confirmation=1\n\n If you enjoyed this video, you may also like these kids songs: \n\nWHEELS ON THE BUS - https://youtu.be/CeUAFs_KyIc\nBABY SHARK - https://youtu.be/3dQtM5u5uAI\nOLD MCDONALD - https://youtu.be/RC3_0poj4DA\nALPHABET SONG - https://youtu.be/cE3LzPQgQmk\nANIMAL SOUND SONG - https://youtu.be/33UG1Uch05Y\nTHREE LITTLE KITTENS - https://youtu.be/jzvEFLRlpd8\nHUSH LITTLE BABY - https://youtu.be/aEmGmUTMz14\n FIVE LITTLE BABIES - https://youtu.be/fEneKUJitvk\nJOHNNY JOHNNY - https://youtu.be/yIlmXGn9kaY\nLITTLE RED RIDING HOOD - https://youtu.be/PXxve2PXWGs\nGOLDILOCKS AND THE THREE BEARS - https://youtu.be/ltX5tRXotkw\nWASH YOUR HANDS - https://youtu.be/kToNHhH74yo\nWHEELS ON THE FIRETRUCK - https://youtu.be/x2yx1rBmpsU\nNO NO SONG - https://youtu.be/RQ1saT70JGA\nHUMPTY DUMPTY - https://youtu.be/GyYUEUX6LOk\n\nIf you enjoy our content, don't forget to support us and subscribe :)\nDownload our apps here:\nJellyFish Adventures (Android & iOS): http://onelink.to/jelly\n\nFind Kids Tv on:\nFB: https://www.facebook.com/KidsTVNurseryRhymesOfficialWeb: https://www.uspstudios.co/creation/channel/kids-tv/1/\nSubscribe: https://www.youtube.com/channel/UC7Pq3Ko42YpkCB_Q4E981jw?sub_confirmation=1\n\n© 2017 USP Studios Private Limited\n============================================\nMusic and Lyrics: Copyright USP Studios™\nVideo: Copyright USP Studios™\n============================================\n#nurseryrhymes #cartoon #kidstv #learningvideos #preschoolsongs #kindergarten",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/DTpJEUlRAvg/default.jpg",
@@ -380,13 +352,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "u39gigtevn1h8p9dV8ZfzKr6t4M",
+      "etag": "OtQmAVmgda7Vaj_pISRRqb18pzU",
       "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC5EQUE1NTFDRjcwMDg0NEMz",
       "snippet": {
         "publishedAt": "2019-10-05T14:23:15Z",
         "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
         "title": "Numbers Song | Learn Numbers | 123 Baby Songs For Childrens | Counting Numbers For Kids | kids tv",
-        "description": "Oops, our little friend just let up some lovely colorful balloons. Can you children help them bring it down. There's s 10 of them. Count the numbers as you bring them down one by one. This is so much better than simply listening to the numbers song, isn't it? Well, we see you managed to get all 10 back for our friends. Do you want to stay back and play with them? We're sure they'll be more than happy! \n00:01 - Number Song\n01:29 - ABC Song\n02:44 - Color Song\n05:35 - Lets Build\n07:42 - Fruits Song\n09:49 - Seasons Song\n12:39 - Daddy's New Car\n14:48 - Five Little Pandas\n17:02 - Hickory Dickory Dock\n17:56 - Jack & Jill\n19:43 - Jelly Bears\n21:12 - Head Shoulders Knees\n23:22 - Five Little Piggies\n25:30 - Ten in the Bed\n26:59 - Row Row Row Your Boat\n28:35 - Incy Wincy Spider\n29:38 - Finger Family\n31:14 - Five Little Ducks\n33:26 - Skidamarink\n36:18 - Old Macdonald Had A Farm\n37:44 - I Am A Little Teapot\nNumbers Song by Kids TV - The nursery rhymes channel for kindergarten aged children. These kids songs are great for learning the alphabet, numbers, shapes, colors and lots more. We are a one stop shop for your children to learn the many joys of nursery rhymes. Subscribe to our channel and be the first to watch our latest fun kids learning animations!\n?? Share this video – Numbers Song here’s the link: https://youtu.be/u2r-lWh6-d4\n?? Subscribe for free now to get notified about new videos - https://www.youtube.com/kidstv?sub_co...\n?? Nursery Rhymes and Nursery Rhymes Karaoke Playlist - https://www.youtube.com/watch?v=QNE3PsGVzN8&list=PLDt4VQajKv8xVf8zxjuz3tA-dJbCgT2wr\n?? If you enjoyed this collection, you may also like these compilations: \n??Old Macdonald had a farm - https://www.youtube.com/watch?v=Rf8e4JF8nXs\n??The Wheels on the bus - https://www.youtube.com/watch?v=MWyordkvD0k\n??Five little monkeys - https://www.youtube.com/watch?v=VAL4w6JvDHc\n?Finger Family - https://www.youtube.com/watch?v=IiA17oFD1bs\n?Ten in the bed - https://www.youtube.com/watch?v=Rxxsvc2XXxY\n?Phonics Song - https://www.youtube.com/watch?v=pFR_8zHCLio\n?? Incy Wincy Spider - https://www.youtube.com/watch?v=_6fwkxtp4bw\n??English Wheels on the bus - https://www.youtube.com/watch?v=IEje6DRukxg\n??Five little ducks - https://www.youtube.com/watch?v=vp5rwesz8eU\n??Johny johny yes papa - https://www.youtube.com/watch?v=PyZq_Jm0aqQ\n?? Humpty Dumpty - https://www.youtube.com/watch?v=ZSoougnleU8\n?? Twinkle Twinkle Little Star - https://www.youtube.com/watch?v=yvcrrmeBwlo\n?? Ten in the bed - https://www.youtube.com/watch?v=GRyxRadTM3c \n\nNursery rhymes and kid’s songs accelerate phonetic awareness improving children's word comprehension, reading and writing skills. These rhymes for children help teach basic skills and improves their ability to comprehend and follow directions. \nWe hope you’re having a fun time with all your friends here at Kids TV. If you enjoyed watching this video then check out our channel for many more interesting and fun learning videos for kids.\nIf you’re still reading this far, we know you enjoy our animations but are always happy to hear from you on how we can improve and what you'd like to see in the pipeline! \nIf you enjoy our content, don't forget to support us and subscribe :)\nDownload the Bob the Train APP here:\nBob The Train: https://itunes.apple.com/us/app/bob-the-train-kids-nursery-rhymes-baby-songs/id1236462400?ls=1&mt=8\n\nKids First: https://itunes.apple.com/us/app/kids-first-kids-videos-nursery-rhymes/id1245088728?ls=1&mt=8\n\nFB: https://www.facebook.com/KidsTVNurseyRhymes\nWeb: https://www.uspstudios.co/creation/channel/kids-tv/1/\nTwitter: https://twitter.com/kidstvofficial\nG+: https://plus.google.com/u/0/+kidstv\nInstagram: https://www.instagram.com/kidstvofficial/\nPinterest: https://in.pinterest.com/kidstv06/pins/\nPlay store: \nBob The Train: https://play.google.com/store/apps/details?id=com.uspstudios.bobthetrain&pageId=108868050184468649173\nKids First: https://play.google.com/store/apps/details?id=com.lookedigital.kidsfirst\nSubscribe: https://www.youtube.com/channel/UC7Pq3Ko42YpkCB_Q4E981jw?sub_confirmation=1\n© 2017 USP Studios Private Limited\n============================================\nMusic and Lyrics: Copyright USP Studios™\nVideo: Copyright USP Studios™\n============================================",
+        "description": "Kids TV is home to various popular nursery rhymes that educate & entertain toddlers. Our videos impart family values & encourage healthy habits. Parents will realise that this is the ideal destination to not only acquire knowledge & thinking skills but also develop imagination & creativity.\n\nHello toddlers, Bob The Train is here to make your learning time easy and fun with these playful toys. Click on the link to explore the toys now! - https://amzn.to/2PCeSDS\n\nSubscribe now to get notified about new videos - https://www.youtube.com/kidstv?sub_confirmation=1\n\n If you enjoyed this video, you may also like these kids songs: \n\nWHEELS ON THE BUS - https://youtu.be/CeUAFs_KyIc\nBABY SHARK - https://youtu.be/3dQtM5u5uAI\nOLD MCDONALD - https://youtu.be/RC3_0poj4DA\nALPHABET SONG - https://youtu.be/cE3LzPQgQmk\nANIMAL SOUND SONG - https://youtu.be/33UG1Uch05Y\nTHREE LITTLE KITTENS - https://youtu.be/jzvEFLRlpd8\nHUSH LITTLE BABY - https://youtu.be/aEmGmUTMz14\n FIVE LITTLE BABIES - https://youtu.be/fEneKUJitvk\nJOHNNY JOHNNY - https://youtu.be/yIlmXGn9kaY\nLITTLE RED RIDING HOOD - https://youtu.be/PXxve2PXWGs\nGOLDILOCKS AND THE THREE BEARS - https://youtu.be/ltX5tRXotkw\nWASH YOUR HANDS - https://youtu.be/kToNHhH74yo\nWHEELS ON THE FIRETRUCK - https://youtu.be/x2yx1rBmpsU\nNO NO SONG - https://youtu.be/RQ1saT70JGA\nHUMPTY DUMPTY - https://youtu.be/GyYUEUX6LOk\n\nIf you enjoy our content, don't forget to support us and subscribe :)\nDownload our apps here:\nJellyFish Adventures (Android & iOS): http://onelink.to/jelly\n\nFind Kids Tv on:\nFB: https://www.facebook.com/KidsTVNurseryRhymesOfficialWeb: https://www.uspstudios.co/creation/channel/kids-tv/1/\nSubscribe: https://www.youtube.com/channel/UC7Pq3Ko42YpkCB_Q4E981jw?sub_confirmation=1\n\n© 2017 USP Studios Private Limited\n============================================\nMusic and Lyrics: Copyright USP Studios™\nVideo: Copyright USP Studios™\n============================================\n#nurseryrhymes #cartoon #kidstv #learningvideos #preschoolsongs #kindergarten",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/u2r-lWh6-d4/default.jpg",
@@ -427,13 +399,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "U5BJG-8C1NAWO1V3cxZe1f5suYY",
+      "etag": "36onGIXQ58V-HYXXbR9lwVE1wY4",
       "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC41QTY1Q0UxMTVCODczNThE",
       "snippet": {
         "publishedAt": "2019-10-05T14:23:18Z",
         "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
         "title": "Numbers Song | Educational Nursery Rhymes | Learn Number | Videos For Toddlers by Kids Tv",
-        "description": "We know some of you tiny tots have trouble learning your numbers, but not any more. Enter the 3D Numbers Songs. We thought, what's learning without some fun? So here's a fun, exciting new song that shows you children your numbers 1-10 better than before, because it has your friends from the land of rhymes. Also, as the music combined with the visuals, the rhyme looks livelier. So, we'll put a full stop to the talking here and play the rhyme for you little ones to get started with the more thrilling way of learning.\n00:01 - Numbers Song\n01:31 - ABC Song\n02:49 - Colors Song\n06:51 - Let's Build Song\n08:59 - Hello Song\n10:44 - Tow Truck Song\n12:29 - Seasons Song\n15:29 - Finger Family\n16:33 - This Little Piggy\n18:18 - Chubby Cheeks\n19:05 - Pop Goes The Weasel\n20:46 - Five Little Ducks\n22:21 - Old Macdonald Had A Farm\n24:33 - Five Little Pandas\n26:43 - Chocolate Finger Family\n28:31 - This Old Man\n30:17 - Twinkle Twinkle Little Star\n32:06 - Dinosaurs Finger Family\n33:15 - Wheels On The Bus\n34:56 - Old King Cole\n37:05 - Sisxpence Rhyme\n38:18 - Five Little Babies\n40:27 - Bingo Rhyme\nNumbers Song by Kids TV - The nursery rhymes channel for kindergarten aged children. These kids songs are great for learning the alphabet, numbers, shapes, colors and lots more. We are a one stop shop for your children to learn the many joys of nursery rhymes. Subscribe to our channel and be the first to watch our latest fun kids learning animations!\n?? Share this video – Numbers Song here’s the link: https://youtu.be/ahskxSiW9hU\n?? Subscribe for free now to get notified about new videos - https://www.youtube.com/kidstv?sub_co...\n?? Nursery Rhymes and Nursery Rhymes Karaoke Playlist - https://www.youtube.com/watch?v=QNE3PsGVzN8&list=PLDt4VQajKv8xVf8zxjuz3tA-dJbCgT2wr\n?? If you enjoyed this collection, you may also like these compilations: \n??Old Macdonald had a farm - https://www.youtube.com/watch?v=Rf8e4JF8nXs\n??The Wheels on the bus - https://www.youtube.com/watch?v=MWyordkvD0k\n??Five little monkeys - https://www.youtube.com/watch?v=VAL4w6JvDHc\n?Finger Family - https://www.youtube.com/watch?v=IiA17oFD1bs\n?Ten in the bed - https://www.youtube.com/watch?v=Rxxsvc2XXxY\n?Phonics Song - https://www.youtube.com/watch?v=pFR_8zHCLio\n?? Incy Wincy Spider - https://www.youtube.com/watch?v=_6fwkxtp4bw\n??English Wheels on the bus - https://www.youtube.com/watch?v=IEje6DRukxg\n??Five little ducks - https://www.youtube.com/watch?v=vp5rwesz8eU\n??Johny johny yes papa - https://www.youtube.com/watch?v=PyZq_Jm0aqQ\n?? Humpty Dumpty - https://www.youtube.com/watch?v=ZSoougnleU8\n?? Twinkle Twinkle Little Star - https://www.youtube.com/watch?v=yvcrrmeBwlo\n?? Ten in the bed - https://www.youtube.com/watch?v=GRyxRadTM3c \n\nNursery rhymes and kid’s songs accelerate phonetic awareness improving children's word comprehension, reading and writing skills. These rhymes for children help teach basic skills and improves their ability to comprehend and follow directions. \nWe hope you’re having a fun time with all your friends here at Kids TV. If you enjoyed watching this video then check out our channel for many more interesting and fun learning videos for kids.\nIf you’re still reading this far, we know you enjoy our animations but are always happy to hear from you on how we can improve and what you'd like to see in the pipeline! \nIf you enjoy our content, don't forget to support us and subscribe :)\n\nDownload the Bob the Train APP here:\nBob The Train: https://itunes.apple.com/us/app/bob-the-train-kids-nursery-rhymes-baby-songs/id1236462400?ls=1&mt=8\n\nKids First: https://itunes.apple.com/us/app/kids-first-kids-videos-nursery-rhymes/id1245088728?ls=1&mt=8\n\nFB: https://www.facebook.com/KidsTVNurseyRhymes\nWeb: https://www.uspstudios.co/creation/channel/kids-tv/1/\nTwitter: https://twitter.com/kidstvofficial\nG+: https://plus.google.com/u/0/+kidstv\nInstagram: https://www.instagram.com/kidstvofficial/\nPinterest: https://in.pinterest.com/kidstv06/pins/\nPlay store: Bob The Train: https://play.google.com/store/apps/details?id=com.uspstudios.bobthetrain&pageId=108868050184468649173\nKids First: https://play.google.com/store/apps/details?id=com.lookedigital.kidsfirst\nSubscribe: https://www.youtube.com/channel/UC7Pq3Ko42YpkCB_Q4E981jw?sub_confirmation=1\n© 2017 USP Studios Private Limited\n============================================\nMusic and Lyrics: Copyright USP Studios™\nVideo: Copyright USP Studios™\n============================================",
+        "description": "Kids TV is home to various popular nursery rhymes that educate & entertain toddlers. Our videos impart family values & encourage healthy habits. Parents will realise that this is the ideal destination to not only acquire knowledge & thinking skills but also develop imagination & creativity.\n\nHello toddlers, Bob The Train is here to make your learning time easy and fun with these playful toys. Click on the link to explore the toys now! - https://amzn.to/2PCeSDS\n\nSubscribe now to get notified about new videos - https://www.youtube.com/kidstv?sub_confirmation=1\n\n If you enjoyed this video, you may also like these kids songs: \n\nWHEELS ON THE BUS - https://youtu.be/CeUAFs_KyIc\nBABY SHARK - https://youtu.be/3dQtM5u5uAI\nOLD MCDONALD - https://youtu.be/RC3_0poj4DA\nALPHABET SONG - https://youtu.be/cE3LzPQgQmk\nANIMAL SOUND SONG - https://youtu.be/33UG1Uch05Y\nTHREE LITTLE KITTENS - https://youtu.be/jzvEFLRlpd8\nHUSH LITTLE BABY - https://youtu.be/aEmGmUTMz14\n FIVE LITTLE BABIES - https://youtu.be/fEneKUJitvk\nJOHNNY JOHNNY - https://youtu.be/yIlmXGn9kaY\nLITTLE RED RIDING HOOD - https://youtu.be/PXxve2PXWGs\nGOLDILOCKS AND THE THREE BEARS - https://youtu.be/ltX5tRXotkw\nWASH YOUR HANDS - https://youtu.be/kToNHhH74yo\nWHEELS ON THE FIRETRUCK - https://youtu.be/x2yx1rBmpsU\nNO NO SONG - https://youtu.be/RQ1saT70JGA\nHUMPTY DUMPTY - https://youtu.be/GyYUEUX6LOk\n\nIf you enjoy our content, don't forget to support us and subscribe :)\nDownload our apps here:\nJellyFish Adventures (Android & iOS): http://onelink.to/jelly\n\nFind Kids Tv on:\nFB: https://www.facebook.com/KidsTVNurseryRhymesOfficialWeb: https://www.uspstudios.co/creation/channel/kids-tv/1/\nSubscribe: https://www.youtube.com/channel/UC7Pq3Ko42YpkCB_Q4E981jw?sub_confirmation=1\n\n© 2017 USP Studios Private Limited\n============================================\nMusic and Lyrics: Copyright USP Studios™\nVideo: Copyright USP Studios™\n============================================\n#nurseryrhymes #cartoon #kidstv #learningvideos #preschoolsongs #kindergarten",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/ahskxSiW9hU/default.jpg",
