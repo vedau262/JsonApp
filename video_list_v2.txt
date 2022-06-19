@@ -9,7 +9,7 @@
 		},
 		{	
 			"LIST_VIDEO_NAME": "NUMBER SONGS",
-			"LIST_VIDEO_SIZE": "10",
+			"LIST_VIDEO_SIZE": "11",
 			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8AHd-wLlLOV0-qEFzwHiTfkKBW-HZ2EPfaSNoBzD3NTyBfRVp",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/NUMBER%20SONGS",	
@@ -105,7 +105,7 @@
 		},		
 		{	
 			"LIST_VIDEO_NAME": "BabyBus | Halloween Songs",
-			"LIST_VIDEO_SIZE": "37",
+			"LIST_VIDEO_SIZE": "36",
 			"LIST_VIDEO_ICON": "https://is5-ssl.mzstatic.com/image/thumb/Purple6/v4/fb/13/2c/fb132cd1-d891-7bb3-94b7-2909ce1110ec/source/256x256bb.jpg",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLKRVb7KQfDZShlQuEVD-FMC",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/BabyBusHalloweenSong",	

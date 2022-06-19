@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "SpvHQTY74tSbwq7dkXjdc4Uoy2w",
+  "etag": "l94nuaWt6mc_dvVMy-7NiAE_qOg",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -98,26 +98,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5T_K6adu1Nsn7pFwr0RHKEq4GN0",
-      "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC4wOTA3OTZBNzVEMTUzOTMy",
-      "snippet": {
-        "publishedAt": "2019-10-05T14:20:25Z",
-        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "Kid Video",
-        "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "0C3IJM4AnMI"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "FR5VwOS84sm4YlC59RPcmoawpN4",
+      "etag": "xguJ02wB-iBaQKug_6DETjXJUwg",
       "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2019-10-05T14:20:38Z",
@@ -153,7 +134,7 @@
         },
         "channelTitle": "Kid Video",
         "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
-        "position": 3,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "e0dJWfQHF8Y"
@@ -164,7 +145,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "hckWvKPJSKVNtdPUgb0NvBcBLVk",
+      "etag": "lBezJ9sDu8WoFRTwXwU4NvzkhjA",
       "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2019-10-05T14:21:52Z",
@@ -200,7 +181,7 @@
         },
         "channelTitle": "Kid Video",
         "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
-        "position": 4,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "BwU976B3QDg"
@@ -211,7 +192,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "WeBVSKXXORURp8bcEddZGwTLttA",
+      "etag": "DvOyoqawl95S2oPLTjBms2c9u3s",
       "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2019-10-05T14:21:56Z",
@@ -247,7 +228,7 @@
         },
         "channelTitle": "Kid Video",
         "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
-        "position": 5,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "BCvDBkueiy0"
@@ -258,7 +239,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "dhouEx7BFrtzB961GjMCKw2xwnQ",
+      "etag": "3TA-jFkAV7B7cpr52VLCI2CB5kU",
       "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2019-10-05T14:22:43Z",
@@ -294,7 +275,7 @@
         },
         "channelTitle": "Kid Video",
         "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
-        "position": 6,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Q-ORH9MbVto"
@@ -305,7 +286,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "aniKqvwSmSr8smX04hvPxaLEYm4",
+      "etag": "2LS3nFWtk8uB40cT1Xc0c4NGoHI",
       "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC41Mzk2QTAxMTkzNDk4MDhF",
       "snippet": {
         "publishedAt": "2019-10-05T14:23:12Z",
@@ -341,7 +322,7 @@
         },
         "channelTitle": "Kid Video",
         "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
-        "position": 7,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "DTpJEUlRAvg"
@@ -352,7 +333,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "OtQmAVmgda7Vaj_pISRRqb18pzU",
+      "etag": "DaWpCXNNKO0MKOc8TIHxPtdXB1k",
       "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC5EQUE1NTFDRjcwMDg0NEMz",
       "snippet": {
         "publishedAt": "2019-10-05T14:23:15Z",
@@ -388,7 +369,7 @@
         },
         "channelTitle": "Kid Video",
         "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
-        "position": 8,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "u2r-lWh6-d4"
@@ -399,7 +380,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "36onGIXQ58V-HYXXbR9lwVE1wY4",
+      "etag": "GP-pbdpXW26XDiMWkZW-EsoJaE4",
       "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC41QTY1Q0UxMTVCODczNThE",
       "snippet": {
         "publishedAt": "2019-10-05T14:23:18Z",
@@ -435,7 +416,7 @@
         },
         "channelTitle": "Kid Video",
         "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
-        "position": 9,
+        "position": 8,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ahskxSiW9hU"
@@ -443,10 +424,104 @@
         "videoOwnerChannelTitle": "Kids TV - Nursery Rhymes And Baby Songs",
         "videoOwnerChannelId": "UC7Pq3Ko42YpkCB_Q4E981jw"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D9H6e05c8wrAsjHOGXRKxCbtvFE",
+      "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2022-06-19T14:28:39Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Number song 1-20 for children | Counting numbers | The Singing Walrus",
+        "description": "The Singing Walrus presents \"Number song 1-20 for children\" - an upbeat chant that helps kids count the numbers 1-20. The kids all count from 1-20 together three times, each time counting faster than the previous. This is perfect for preschool aged children, and for young learners of ESL and EFL!\n\nBuy this video from Sellfy (mp4):\nhttps://sellfy.com/thesingingwalrus\n\nBuy the song from iTunes:\nhttps://itunes.apple.com/ca/album/numbers-1-20-song-single/id1087730250\n\nSpecial thanks to the following Patreon contributors:\n\nMayu Sasaki\n\nThe Singing Walrus creates fun teaching materials, such as kids songs, educational games, nursery rhymes, and kindergarten worksheets (e.g. handwriting worksheets) for parents and teachers. Come and join our community on Facebook, or subscribe to our Youtube Channel!\n\nFacebook: http://www.facebook.com/TheSingingWalrus\nTwitter: http://twitter.com/InfoWalrus\nWebsite: http://thesingingwalrus.com\n\n\n**All illustration, animation, music, and voice work produced by The Singing Walrus",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D0Ajq682yrA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D0Ajq682yrA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D0Ajq682yrA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D0Ajq682yrA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D0Ajq682yrA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D0Ajq682yrA"
+        },
+        "videoOwnerChannelTitle": "The Singing Walrus - English Songs For Kids",
+        "videoOwnerChannelId": "UCe1VpF4wS_kdcjyTRSXBcnQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "crR2jLkgQqHQqC8CtvhwCEtHrps",
+      "id": "UExiXzFSUnhJWlRMTGJ2Rjd4Y0Y3VDlyc0pPMDhPUjlKRC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2022-06-19T14:29:03Z",
+        "channelId": "UCXeTGh5yWBb059VfNCxbbkA",
+        "title": "Counting 1-10 Song | Number Songs for Children | The Singing Walrus",
+        "description": "Numbers Song - Counting From 1-10\n\nThe Singing Walrus team is excited to present \"Counting from 1 to 10\", the first numbers song of a series dedicated to toddlers and preschool / kindergarten kids, or young ESL students! \"Counting from 1-10\" makes it easy for children to learn numbers and basic counting skills - and the tune is very catchy :) \n\nWe believe that children learn better through engagement, repetition, and fun. This educational numbers song is structured in an intuitive call and response format, so that children are encouraged to repeat each line, in every chorus. The music is energetic and engaging with a bouncy rhythm. At the end of this numbers song, children are challenged to count backwards from 10 to 1.\n\nBuy & Download this Song (mp3):\n\niTunes: https://itunes.apple.com/ca/artist/th...\nGoogle Play: https://play.google.com/store/music/a...\nAmazon: https://www.amazon.com/Singing-Walrus-Song-Collection/dp/B00XKEF9V8\n\nBuy and download this video:\n\nhttps://sellfy.com/p/PrN8/\n\nCounting song with numbers 1-10 Sing along lyrics:\n\n(chorus)\nOne, two, three\nOne, two, three\n\nFour, five, six\nFour, five, six\n\nSeven\nSeven\n\nEight\nEight\n\nNine and ten\nNine and ten\n\n(verse)\nDo you know\nHow to count\n\nYes I know\nHow to count\n\nDo you know\nDo you know\n\nHow to count\nHow to count\n\nYes I know\nYes I know\n\nHow to Count\nHow to Count\n\n(chorus)\n\n(repeat)\n\n(bridge)\nOne, two, three, four, five, six, seven, eight, nine, ten,\n\n(verse)\nCan you Count from ten to one\nI can count from ten to one\n\nCan you Count\nCan you Count\n\nFrom ten to one\nFrom ten to one\n\nI can count\nI can count\n\nFrom ten to one\nFrom ten to one\n\nTen, nine, eight, seven, six, five, four, three, two, one\nTen, nine, eight, seven, six, five, four, three, two, one!\n\nClick below to see our next numbers song video, \"Let's Count From 10-20\"!\nhttps://www.youtube.com/watch?v=wiGEEJLLKd8&index=2&list=PLt7Se3SAnZY7I-H8yp7bCLOHI8HPo5F3T\n\nThe Singing Walrus creates fun teaching materials, such as kids songs, educational games, nursery rhymes, and kindergarten worksheets (e.g. handwriting worksheets) for parents and teachers. Come and join our community on Facebook, or subscribe to our Youtube Channel!\n\nJoin us on Facebook and Twitter!\nFacebook: https://www.facebook.com/TheSingingWa...\nTwitter: https://twitter.com/InfoWalrus",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DR-cfDsHCGA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DR-cfDsHCGA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DR-cfDsHCGA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DR-cfDsHCGA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DR-cfDsHCGA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kid Video",
+        "playlistId": "PLb_1RRxIZTLLbvF7xcF7T9rsJO08OR9JD",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DR-cfDsHCGA"
+        },
+        "videoOwnerChannelTitle": "The Singing Walrus - English Songs For Kids",
+        "videoOwnerChannelId": "UCe1VpF4wS_kdcjyTRSXBcnQ"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 10,
+    "totalResults": 11,
     "resultsPerPage": 50
   }
 }
